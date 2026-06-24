@@ -1,0 +1,41 @@
+name: Actualizar datos
+
+on:
+  schedule:
+    - cron: "17 * * * *"      # cada hora, minuto 17 (UTC)
+  workflow_dispatch:           # botón manual en la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bajar noticias (RSS)
+        run: python3 scripts/fetch_news.py
+
+      - name: Bajar datos (sismos, mercados, indicadores)
+        run: python3 scripts/fetch_data.py
+
+      - name: Commit de datos si hay cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "Sin cambios en data/."
+          else
+            git commit -m "chore: actualizar datos $(date -u +%FT%TZ)"
+            git push
+          fi

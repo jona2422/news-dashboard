@@ -1,0 +1,78 @@
+{
+  "beats": [
+    {
+      "id": "musica",
+      "name": "Música & Industria",
+      "feeds": [
+        "https://pitchfork.com/rss/news/",
+        "https://www.rollingstone.com/music/feed/",
+        "https://www.brooklynvegan.com/feed/",
+        "https://consequence.net/feed/",
+        "https://www.musicradar.com/rss"
+      ]
+    },
+    {
+      "id": "arte",
+      "name": "Arte · Cultura · Educación",
+      "feeds": [
+        "https://hyperallergic.com/feed/",
+        "https://news.artnet.com/feed",
+        "https://www.thisiscolossal.com/feed/",
+        "https://www.artnews.com/feed/",
+        "https://hechingerreport.org/feed/"
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tecnología & IA",
+      "feeds": [
+        "https://www.theverge.com/rss/index.xml",
+        "https://feeds.arstechnica.com/arstechnica/index",
+        "https://www.technologyreview.com/feed/",
+        "https://techcrunch.com/feed/",
+        "https://hnrss.org/frontpage"
+      ]
+    },
+    {
+      "id": "actualidad",
+      "name": "Actualidad Global",
+      "feeds": [
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://www.theguardian.com/world/rss",
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://feeds.npr.org/1001/rss.xml",
+        "https://rss.dw.com/rdf/rss-en-all"
+      ]
+    },
+    {
+      "id": "desastres",
+      "name": "Desastres Naturales",
+      "feeds": [
+        "https://www.gdacs.org/xml/rss.xml",
+        "https://reliefweb.int/disasters/rss.xml",
+        "https://www.theguardian.com/world/natural-disasters/rss",
+        "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom"
+      ]
+    },
+    {
+      "id": "medio_oriente",
+      "name": "Medio Oriente",
+      "feeds": [
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://www.theguardian.com/world/middleeast/rss",
+        "https://www.timesofisrael.com/feed/",
+        "https://www.france24.com/en/middle-east/rss"
+      ]
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "feeds": [
+        "https://www.scmp.com/rss/91/feed",
+        "https://www.caixinglobal.com/rss/all.xml",
+        "https://www.theguardian.com/world/china/rss",
+        "https://chinadigitaltimes.net/feed/"
+      ]
+    }
+  ]
+}

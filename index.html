@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NEWSDESK · Portal de Jonathan</title>
+  <meta name="description" content="Redacción privada: música, arte, tecnología, actualidad global, desastres, Medio Oriente y China en tiempo real.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">◢◣</span>
+      <span class="brand-name">NEWSDESK</span>
+      <span class="brand-sub">// redacción privada</span>
+    </div>
+    <div class="status">
+      <span class="live"><span class="dot"></span>LIVE</span>
+      <span id="updated" class="muted">cargando…</span>
+      <span id="clock" class="clock">--:--:--</span>
+    </div>
+  </header>
+
+  <nav class="beatnav" id="beatnav"></nav>
+
+  <div class="controls">
+    <div class="search">
+      <span class="search-ico">⌕</span>
+      <input id="q" type="search" placeholder="Buscar en todos los titulares…" autocomplete="off">
+      <button id="q-clear" class="q-clear" type="button" title="Limpiar" hidden>✕</button>
+    </div>
+    <div class="seg" id="timefilter" role="group" aria-label="Filtrar por tiempo">
+      <button data-t="0" class="active" type="button">Todo</button>
+      <button data-t="86400000" type="button">24 h</button>
+      <button data-t="604800000" type="button">7 días</button>
+    </div>
+    <select id="source" class="ctl-select" aria-label="Filtrar por fuente">
+      <option value="">Todas las fuentes</option>
+    </select>
+    <button id="saved-btn" class="ctl-btn" type="button">★ Guardados <span id="saved-count" class="pill">0</span></button>
+    <button id="settings-btn" class="ctl-btn" type="button" aria-haspopup="true">⚙ Secciones</button>
+    <div id="settings-pop" class="settings-pop" hidden></div>
+  </div>
+
+  <div id="hot" class="hot"></div>
+
+  <div class="ticker" aria-hidden="true">
+    <div id="ticker-track" class="ticker-track"></div>
+  </div>
+
+  <main class="layout">
+    <section class="datarow">
+      <article class="panel span2 map-panel">
+        <div class="panel-head">
+          <h2>Sismos en vivo</h2>
+          <span class="tag">USGS · 24h</span>
+          <span id="quake-meta" class="muted right"></span>
+        </div>
+        <div id="map" class="chart chart-map"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head">
+          <h2>Mercados &amp; divisas</h2>
+          <span class="tag">BCE · CoinGecko</span>
+        </div>
+        <div id="markets" class="markets-grid"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head">
+          <h2>Indicadores</h2>
+          <span class="tag">Banco Mundial</span>
+          <select id="ind-select" class="ind-select" aria-label="Elegir indicador"></select>
+        </div>
+        <div id="indicators" class="chart chart-ind"></div>
+      </article>
+    </section>
+
+    <section class="datarow datarow-2">
+      <article class="panel span-full">
+        <div class="panel-head">
+          <h2>Tendencias en el tiempo</h2>
+          <span class="tag">volumen por sección</span>
+          <span class="muted right">se acumula cada hora</span>
+        </div>
+        <div id="trends" class="chart chart-trends"></div>
+      </article>
+    </section>
+
+    <section class="beats" id="beats"></section>
+  </main>
+
+  <div id="focus" class="focus" role="dialog" aria-modal="true" aria-labelledby="focus-title" hidden>
+    <div class="focus-bar">
+      <button id="focus-back" class="focus-back" type="button">← Volver</button>
+      <h2 id="focus-title" class="focus-title"></h2>
+      <span id="focus-count" class="focus-count muted"></span>
+    </div>
+    <div class="focus-body">
+      <div id="focus-chart-wrap" class="focus-chart-wrap" hidden>
+        <div class="panel-head"><h2 id="focus-chart-title">Datos relacionados</h2></div>
+        <div id="focus-chart" class="focus-chart"></div>
+      </div>
+      <ul id="focus-list" class="focus-list"></ul>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <span>NEWSDESK — portal personal de Jonathan González</span>
+    <span class="muted">Datos vía RSS · USGS · Frankfurter · CoinGecko · Banco Mundial. Se actualiza cada hora.</span>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js" defer></script>
+  <script src="assets/js/store.js" defer></script>
+  <script src="assets/js/render.js" defer></script>
+  <script src="assets/js/charts.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
