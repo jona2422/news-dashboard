@@ -1,28 +1,28 @@
 {
- "updated": "2026-06-25T19:16:51.785217+00:00",
+ "updated": "2026-06-25T23:59:05.072215+00:00",
  "terms": [
   {
    "term": "venezuela",
-   "count": 10
+   "count": 11
   },
   {
-   "term": "iran",
-   "count": 10
-  },
-  {
-   "term": "prime",
+   "term": "hormuz",
    "count": 9
   },
   {
-   "term": "deals",
-   "count": 7
+   "term": "trump",
+   "count": 8
   },
   {
    "term": "world",
    "count": 7
   },
   {
-   "term": "year",
+   "term": "alaska",
+   "count": 7
+  },
+  {
+   "term": "iran",
    "count": 7
   },
   {
@@ -30,35 +30,43 @@
    "count": 7
   },
   {
+   "term": "year",
+   "count": 6
+  },
+  {
    "term": "2026",
-   "count": 6
-  },
-  {
-   "term": "trump",
-   "count": 6
-  },
-  {
-   "term": "hormuz",
-   "count": 6
-  },
-  {
-   "term": "green",
-   "count": 6
-  },
-  {
-   "term": "talks",
    "count": 5
   },
   {
-   "term": "israel",
+   "term": "sale",
    "count": 5
   },
   {
-   "term": "gulf",
+   "term": "earthquakes",
    "count": 5
   },
   {
-   "term": "apple",
+   "term": "ship",
+   "count": 5
+  },
+  {
+   "term": "strait",
+   "count": 5
+  },
+  {
+   "term": "song",
+   "count": 4
+  },
+  {
+   "term": "prime",
+   "count": 4
+  },
+  {
+   "term": "deals",
+   "count": 4
+  },
+  {
+   "term": "last",
    "count": 4
   },
   {
@@ -66,47 +74,35 @@
    "count": 4
   },
   {
-   "term": "band",
+   "term": "make",
    "count": 4
   },
   {
-   "term": "down",
+   "term": "openai",
    "count": 4
   },
   {
-   "term": "time",
+   "term": "through",
    "count": 4
   },
   {
-   "term": "sale",
+   "term": "king",
    "count": 4
   },
   {
-   "term": "8217",
+   "term": "pauses",
    "count": 4
   },
   {
-   "term": "power",
+   "term": "chinese",
    "count": 4
   },
   {
-   "term": "court",
+   "term": "warns",
    "count": 4
   },
   {
-   "term": "earthquakes",
-   "count": 4
-  },
-  {
-   "term": "strait",
-   "count": 4
-  },
-  {
-   "term": "france",
-   "count": 4
-  },
-  {
-   "term": "europe",
+   "term": "green",
    "count": 4
   },
   {
@@ -120,27 +116,31 @@
   {
    "term": "notification",
    "count": 4
+  },
+  {
+   "term": "phoebe",
+   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Venezuela",
-   "count": 9
-  },
-  {
-   "name": "Iran",
-   "count": 9
-  },
-  {
-   "name": "Prime Day",
-   "count": 7
+   "count": 11
   },
   {
    "name": "Hormuz",
-   "count": 6
+   "count": 9
   },
   {
-   "name": "Green",
+   "name": "Alaska",
+   "count": 7
+  },
+  {
+   "name": "Iran",
+   "count": 7
+  },
+  {
+   "name": "Trump",
    "count": 6
   },
   {
@@ -148,67 +148,67 @@
    "count": 6
   },
   {
-   "name": "Trump",
-   "count": 5
-  },
-  {
-   "name": "Israel",
-   "count": 5
-  },
-  {
-   "name": "Gulf",
-   "count": 5
-  },
-  {
-   "name": "France",
-   "count": 4
-  },
-  {
-   "name": "Europe",
-   "count": 4
-  },
-  {
-   "name": "Alaska",
-   "count": 4
-  },
-  {
-   "name": "Israeli",
-   "count": 4
-  },
-  {
-   "name": "Christie",
-   "count": 3
-  },
-  {
-   "name": "Apple",
-   "count": 3
-  },
-  {
-   "name": "Polestar",
-   "count": 3
-  },
-  {
-   "name": "Hawaii",
-   "count": 3
-  },
-  {
    "name": "World Cup",
+   "count": 5
+  },
+  {
+   "name": "Green",
+   "count": 4
+  },
+  {
+   "name": "New Song",
    "count": 3
   },
   {
-   "name": "Lebanon",
+   "name": "Lost Boys",
    "count": 3
-  },
-  {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
-   "name": "Stream",
-   "count": 2
   },
   {
    "name": "Rick Rubin",
+   "count": 3
+  },
+  {
+   "name": "OpenAI",
+   "count": 3
+  },
+  {
+   "name": "Australia",
+   "count": 3
+  },
+  {
+   "name": "King Charles",
+   "count": 3
+  },
+  {
+   "name": "Chinese",
+   "count": 3
+  },
+  {
+   "name": "Puerto Rico",
+   "count": 3
+  },
+  {
+   "name": "Israeli",
+   "count": 3
+  },
+  {
+   "name": "Gulf",
+   "count": 3
+  },
+  {
+   "name": "Listen",
+   "count": 2
+  },
+  {
+   "name": "Rolling Stones",
+   "count": 2
+  },
+  {
+   "name": "Divine Intervention",
+   "count": 2
+  },
+  {
+   "name": "Stream",
    "count": 2
   },
   {
@@ -216,7 +216,7 @@
    "count": 2
   },
   {
-   "name": "Years",
+   "name": "Christie",
    "count": 2
   }
  ]
