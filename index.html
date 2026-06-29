@@ -4,10 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>NEWSDESK · Portal de Jonathan</title>
-  <meta name="description" content="Redacción privada: música, arte, tecnología, actualidad global, desastres, Medio Oriente y China en tiempo real.">
+  <meta name="description" content="Redacción privada: música, arte, tecnología, actualidad global, Panamá/LatAm, desastres, Medio Oriente y China en tiempo real.">
+  <meta name="theme-color" content="#070a10">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
@@ -18,6 +19,7 @@
       <span class="brand-sub">// redacción privada</span>
     </div>
     <div class="status">
+      <span id="wx-mini" class="wx-mini" title="Clima en Panamá"></span>
       <span class="live"><span class="dot"></span>LIVE</span>
       <span id="updated" class="muted">cargando…</span>
       <span id="clock" class="clock">--:--:--</span>
@@ -52,35 +54,68 @@
   </div>
 
   <main class="layout">
-    <section class="datarow">
-      <article class="panel span2 map-panel">
-        <div class="panel-head">
-          <h2>Sismos en vivo</h2>
-          <span class="tag">USGS · 24h</span>
-          <span id="quake-meta" class="muted right"></span>
-        </div>
-        <div id="map" class="chart chart-map"></div>
-      </article>
+    <!-- ============ PORTADA: lo más importante ============ -->
+    <section class="section">
+      <div class="section-head">
+        <h2>Lo más importante</h2>
+        <span class="section-sub">titulares con mayor cobertura · todas las secciones</span>
+      </div>
+      <div id="portada" class="portada"></div>
+    </section>
 
-      <article class="panel">
+    <!-- ============ SECCIONES (beats) ============ -->
+    <section class="section">
+      <div class="section-head">
+        <h2>Secciones</h2>
+        <span class="section-sub">clic en el título de una sección para abrirla a pantalla completa</span>
+      </div>
+      <div class="beats" id="beats"></div>
+    </section>
+
+    <!-- ============ TABLERO DE DATOS ============ -->
+    <section class="section">
+      <div class="section-head">
+        <h2>Tablero de datos</h2>
+        <span class="section-sub">mercados, clima, sismos e indicadores</span>
+      </div>
+
+      <div class="datarow">
+        <article class="panel span2 map-panel">
+          <div class="panel-head">
+            <h2>Sismos en vivo</h2>
+            <span class="tag">USGS · 24h</span>
+            <span id="quake-meta" class="muted right"></span>
+          </div>
+          <div id="map" class="chart chart-map"></div>
+        </article>
+
+        <article class="panel wx-panel">
+          <div class="panel-head">
+            <h2>Clima</h2>
+            <span class="tag">Open-Meteo</span>
+            <span id="wx-place" class="muted right"></span>
+          </div>
+          <div id="weather" class="weather"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Indicadores</h2>
+            <span class="tag">Banco Mundial</span>
+            <select id="ind-select" class="ind-select" aria-label="Elegir indicador"></select>
+          </div>
+          <div id="indicators" class="chart chart-ind"></div>
+        </article>
+      </div>
+
+      <article class="panel span-full">
         <div class="panel-head">
           <h2>Mercados &amp; divisas</h2>
-          <span class="tag">BCE · CoinGecko</span>
+          <span class="tag">Yahoo · BCE · CoinGecko</span>
         </div>
         <div id="markets" class="markets-grid"></div>
       </article>
 
-      <article class="panel">
-        <div class="panel-head">
-          <h2>Indicadores</h2>
-          <span class="tag">Banco Mundial</span>
-          <select id="ind-select" class="ind-select" aria-label="Elegir indicador"></select>
-        </div>
-        <div id="indicators" class="chart chart-ind"></div>
-      </article>
-    </section>
-
-    <section class="datarow datarow-2">
       <article class="panel span-full">
         <div class="panel-head">
           <h2>Tendencias en el tiempo</h2>
@@ -90,8 +125,6 @@
         <div id="trends" class="chart chart-trends"></div>
       </article>
     </section>
-
-    <section class="beats" id="beats"></section>
   </main>
 
   <div id="focus" class="focus" role="dialog" aria-modal="true" aria-labelledby="focus-title" hidden>
@@ -110,8 +143,8 @@
   </div>
 
   <footer class="foot">
-    <span>NEWSDESK — portal personal de Jonathan González</span>
-    <span class="muted">Datos vía RSS · USGS · Frankfurter · CoinGecko · Banco Mundial. Se actualiza cada hora.</span>
+    <div id="health" class="health"></div>
+    <span class="muted">NEWSDESK — portal personal de Jonathan González · Datos vía RSS · USGS · Open-Meteo · Yahoo · Frankfurter · CoinGecko · Banco Mundial. Se actualiza cada hora.</span>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js" defer></script>

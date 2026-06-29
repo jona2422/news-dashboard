@@ -5,9 +5,14 @@ los temas que me interesan, con datos en tiempo real y gráficas de seguimiento 
 
 **Funciona como una pequeña redacción** con secciones (beats):
 Música & Industria · Arte/Cultura/Educación · Tecnología & IA · Actualidad Global ·
-Desastres Naturales · Medio Oriente · China.
+Panamá/LatAm · Desastres Naturales · Medio Oriente · China.
 
 Incluye además:
+- 📰 **Portada "Lo más importante"** — reúne los titulares con mayor cobertura (cuántas
+  fuentes los traen) + recencia, de todas las secciones. Filtra alertas automáticas
+  (sismos/GDACS) para que no la inunden.
+- 🌦️ **Clima de Panamá** — actual + pronóstico de 4 días (Open-Meteo, sin API key).
+- 🩺 **Salud de fuentes** — indicador en el pie con cuántos feeds responden y cuáles fallan.
 - 🖼️ **Titulares con miniatura** (imagen extraída del propio feed).
 - 🔎 **Buscador y filtros** en vivo (texto, fuente, últimas 24 h / 7 días).
 - 🔥 **Temas calientes** — análisis estadístico (sin IA) de los términos y entidades más
@@ -15,7 +20,8 @@ Incluye además:
 - ⭐ **Personal y persistente** (localStorage): marca leídos, **guarda** favoritos, badge de
   **"nuevas desde tu última visita"** y oculta secciones que no te interesan.
 - 🌍 **Mapa de sismos en vivo** (USGS, últimas 24 h).
-- 💱 **Mercados y divisas** con sparklines (BCE/Frankfurter + CoinGecko + spot regional USD/COP).
+- 💱 **Mercados y divisas** con sparklines: índices (S&P 500/Nasdaq/Dow vía Yahoo) +
+  divisas (BCE/Frankfurter) + cripto (CoinGecko) + spot regional USD/COP.
 - 📊 **Indicadores** de inflación y crecimiento (Banco Mundial).
 - 📈 **Tendencias en el tiempo** — volumen de noticias por sección (se acumula cada hora).
 - 🖥️ **Modo enfoque**: clic en una sección la abre a pantalla completa.
@@ -34,7 +40,7 @@ assets/css/styles.css       # tema oscuro terminal
 assets/js/                  # app.js · render.js · charts.js (vanilla, sin frameworks)
 scripts/sources.json        # << EDITA AQUÍ tus fuentes RSS por sección
 scripts/fetch_news.py       # baja titulares RSS  -> data/news.json + meta.json
-scripts/fetch_data.py       # sismos/mercados/indicadores -> data/*.json
+scripts/fetch_data.py       # sismos/clima/mercados/indicadores -> data/*.json
 data/*.json                 # datos generados (los actualiza el robot, no editar a mano)
 .github/workflows/update.yml# robot horario
 ```
@@ -87,5 +93,6 @@ La clave vive solo en el servidor del robot, nunca en el navegador.
 ---
 
 Fuentes de datos: RSS de cada medio · [USGS](https://earthquake.usgs.gov) ·
+[Open-Meteo](https://open-meteo.com) · [Yahoo Finance](https://finance.yahoo.com) ·
 [Frankfurter/BCE](https://frankfurter.app) · [CoinGecko](https://coingecko.com) ·
 [Banco Mundial](https://data.worldbank.org). Gráficas con [Apache ECharts](https://echarts.apache.org).

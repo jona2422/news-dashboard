@@ -2,7 +2,9 @@
 """Datos para graficas (todo gratis, sin API keys):
 
   - Sismos en vivo .......... USGS GeoJSON (ultimas 24h)
-  - Mercados & divisas ...... Stooq (CSV)
+  - Clima Panama ............ Open-Meteo (actual + pronostico 4 dias)
+  - Mercados & divisas ...... Yahoo Finance (indices) + Frankfurter (forex)
+                              + CoinGecko (cripto) + er-api (spot regional)
   - Indicadores globales .... API del Banco Mundial
 
 Cada bloque esta aislado en try/except: si una fuente falla, las demas siguen.
@@ -63,6 +65,45 @@ def quakes():
 
 
 # --------------------------------------------------------------------------- #
+def weather():
+    """Clima actual + pronostico de 4 dias para Ciudad de Panama (Open-Meteo)."""
+    url = ("https://api.open-meteo.com/v1/forecast"
+           "?latitude=8.98&longitude=-79.52"
+           "&current=temperature_2m,relative_humidity_2m,apparent_temperature,"
+           "precipitation,weather_code,wind_speed_10m,is_day"
+           "&daily=weather_code,temperature_2m_max,temperature_2m_min,"
+           "precipitation_probability_max"
+           "&timezone=America/Panama&forecast_days=4")
+    d = json.loads(get(url))
+    cur = d.get("current", {})
+    dl = d.get("daily", {})
+    days = []
+    for i, day in enumerate(dl.get("time", [])):
+        days.append({
+            "date": day,
+            "code": (dl.get("weather_code") or [None])[i],
+            "tmax": round((dl.get("temperature_2m_max") or [0])[i]),
+            "tmin": round((dl.get("temperature_2m_min") or [0])[i]),
+            "pop": (dl.get("precipitation_probability_max") or [None])[i],
+        })
+    out = {
+        "updated": now_iso(),
+        "place": "Ciudad de Panamá",
+        "current": {
+            "temp": round(cur.get("temperature_2m", 0)),
+            "feels": round(cur.get("apparent_temperature", 0)),
+            "humidity": cur.get("relative_humidity_2m"),
+            "wind": round(cur.get("wind_speed_10m", 0)),
+            "code": cur.get("weather_code"),
+            "is_day": cur.get("is_day", 1),
+        },
+        "daily": days,
+    }
+    save("weather.json", out)
+    print(f"weather: {out['current']['temp']}°C, pronostico {len(days)} dias")
+
+
+# --------------------------------------------------------------------------- #
 def _tile(out, label, vals, fmt):
     """Agrega un instrumento con precio, cambio diario y sparkline."""
     if len(vals) < 2:
@@ -84,8 +125,25 @@ def markets():
     """
     out = []
 
+    # ---- Indices bursatiles (Yahoo Finance, keyless) ----
+    for sym, label, fmt in (("%5EGSPC", "S&P 500", 2),
+                            ("%5EIXIC", "Nasdaq", 2),
+                            ("%5EDJI", "Dow Jones", 0)):
+        try:
+            url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}"
+                   f"?range=2mo&interval=1d")
+            res = json.loads(get(url))["chart"]["result"][0]
+            closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
+            before = len(out)
+            _tile(out, label, closes, fmt)
+            if len(out) > before:
+                print(f"  [ok]   {label}: {out[-1]['price']}")
+        except Exception as ex:
+            print(f"  [skip] {label}: {ex}", file=sys.stderr)
+
     # ---- Divisas con historico (Banco Central Europeo via Frankfurter) ----
     try:
+        fx_before = len(out)
         d2 = datetime.now(timezone.utc).date()
         d1 = d2 - timedelta(days=50)
         url = f"https://api.frankfurter.app/{d1}..{d2}?from=USD&to=EUR,GBP,JPY,CNY,MXN,BRL"
@@ -106,12 +164,13 @@ def markets():
         pair("CNY", label="USD/CNY", fmt=4)
         pair("MXN", label="USD/MXN", fmt=3)
         pair("BRL", label="USD/BRL", fmt=3)
-        print(f"  [ok]   divisas: {len(out)} pares")
+        print(f"  [ok]   divisas: {len(out) - fx_before} pares")
     except Exception as ex:
         print(f"  [skip] divisas: {ex}", file=sys.stderr)
 
     # ---- Cripto (CoinGecko) ----
-    for coin, label in (("bitcoin", "Bitcoin"), ("ethereum", "Ethereum")):
+    for coin, label in (("bitcoin", "Bitcoin"), ("ethereum", "Ethereum"),
+                        ("solana", "Solana")):
         try:
             url = (f"https://api.coingecko.com/api/v3/coins/{coin}/market_chart"
                    f"?vs_currency=usd&days=30&interval=daily")
@@ -207,7 +266,7 @@ def history():
 
 
 def main():
-    for fn in (quakes, markets, indicators, history):
+    for fn in (quakes, weather, markets, indicators, history):
         try:
             fn()
         except Exception as ex:

@@ -45,6 +45,18 @@
       ]
     },
     {
+      "id": "panama_latam",
+      "name": "Panamá · LatAm",
+      "feeds": [
+        "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
+        "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
+        "https://www.bbc.com/mundo/index.xml",
+        "https://www.eltiempo.com/rss/colombia.xml",
+        "https://rss.dw.com/rdf/rss-sp-all",
+        "https://www.france24.com/es/rss"
+      ]
+    },
+    {
       "id": "desastres",
       "name": "Desastres Naturales",
       "feeds": [
@@ -69,7 +81,7 @@
       "name": "China",
       "feeds": [
         "https://www.scmp.com/rss/91/feed",
-        "https://www.caixinglobal.com/rss/all.xml",
+        "https://www.globaltimes.cn/rss/outbrain.xml",
         "https://www.theguardian.com/world/china/rss",
         "https://chinadigitaltimes.net/feed/"
       ]

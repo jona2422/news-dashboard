@@ -209,6 +209,167 @@ window.Render = (function () {
     track.innerHTML = parts.length ? parts.join("") + parts.join("") : "";
   }
 
+  /* ---------- portada: lo más importante ---------- */
+  function portadaCard(it) {
+    var US = window.UserStore;
+    var a = document.createElement("a");
+    a.className = "pcard";
+    a.href = it.link; a.target = "_blank"; a.rel = "noopener";
+    if (US && US.isRead(it.link)) a.classList.add("read");
+
+    if (it.image) {
+      var th = document.createElement("div");
+      th.className = "pcard-thumb";
+      th.style.backgroundImage = "url('" + String(it.image).replace(/'/g, "%27") + "')";
+      a.appendChild(th);
+    } else {
+      a.classList.add("no-thumb");
+    }
+
+    var dup = (it.count && it.count > 1)
+      ? '<span class="hl-dup" title="' + it.count + ' fuentes cubren esto">▣ ' + it.count + "</span>" : "";
+    var dot = (US && US.isNew(it.ts)) ? '<span class="fresh-dot"></span>' : "";
+    var body = document.createElement("div");
+    body.className = "pcard-body";
+    body.innerHTML =
+      '<span class="pcard-beat">' + escapeHtml(it.beatName || "") + "</span>" +
+      '<span class="pcard-title">' + dot + escapeHtml(it.title) + "</span>" +
+      '<span class="hl-meta"><span class="src">' + escapeHtml(it.source || host(it.link)) + "</span>" +
+      '<span class="ago">' + timeAgo(it.ts) + "</span>" + dup + "</span>";
+    a.appendChild(body);
+    a.addEventListener("click", function () { if (US) US.markRead(it.link); a.classList.add("read"); });
+    return a;
+  }
+
+  function renderPortada(news) {
+    if (news) _news = news;
+    var root = document.getElementById("portada");
+    if (!root || !_news) return;
+    var US = window.UserStore;
+
+    // Reúne todos los titulares con su sección, ignorando secciones ocultas.
+    // Excluye alertas automáticas (GDACS, sismos USGS): inflan el contador, no
+    // llevan imagen y ya tienen su propio panel (mapa de sismos).
+    var ALERT = /gdacs|usgs|earthquake|sismo/i;
+    var pool = [];
+    _news.beats.forEach(function (b) {
+      if (US && US.isHidden(b.id)) return;
+      b.items.forEach(function (it) {
+        if (ALERT.test(it.source || "") || ALERT.test(it.title || "")) return;
+        pool.push({
+          link: it.link, title: it.title, source: it.source, image: it.image,
+          ts: it.ts, count: it.count || 1, beatId: b.id, beatName: b.name
+        });
+      });
+    });
+
+    // Ranking sin IA: cobertura (cuántas fuentes, con tope) + recencia.
+    var now = Date.now();
+    pool.forEach(function (it) {
+      var ageH = it.ts ? (now - it.ts) / 3600000 : 999;
+      var recency = Math.max(0, 48 - ageH) / 48;        // 0..1 en 48h
+      var coverage = Math.min(it.count, 6) - 1;          // tope: una fuente no aplasta
+      it._score = coverage * 2.2 + recency * 2.4 + (it.image ? 0.6 : 0);
+    });
+    pool.sort(function (a, b) { return b._score - a._score || b.ts - a.ts; });
+
+    // Evita repetir la misma sección demasiado: máx 2 por sección en el top.
+    var picked = [], perBeat = {};
+    for (var i = 0; i < pool.length && picked.length < 8; i++) {
+      var it = pool[i];
+      perBeat[it.beatId] = (perBeat[it.beatId] || 0);
+      if (perBeat[it.beatId] >= 2) continue;
+      perBeat[it.beatId]++;
+      picked.push(it);
+    }
+
+    // La tarjeta principal debe tener imagen: sube la primera con imagen al frente.
+    var leadIdx = picked.findIndex(function (it) { return it.image; });
+    if (leadIdx > 0) picked.unshift(picked.splice(leadIdx, 1)[0]);
+
+    root.innerHTML = "";
+    if (!picked.length) {
+      root.innerHTML = '<div class="empty">Sin titulares por ahora.</div>';
+      return;
+    }
+    picked.forEach(function (it, i) {
+      var card = portadaCard(it);
+      if (i === 0 && it.image) card.classList.add("lead");
+      root.appendChild(card);
+    });
+  }
+
+  /* ---------- clima ---------- */
+  function wmo(code) {
+    var T = {
+      0: ["☀", "Despejado"], 1: ["🌤", "Mayorm. despejado"], 2: ["⛅", "Parc. nublado"],
+      3: ["☁", "Nublado"], 45: ["🌫", "Niebla"], 48: ["🌫", "Niebla"],
+      51: ["🌦", "Llovizna"], 53: ["🌦", "Llovizna"], 55: ["🌦", "Llovizna"],
+      61: ["🌧", "Lluvia"], 63: ["🌧", "Lluvia"], 65: ["🌧", "Lluvia fuerte"],
+      66: ["🌧", "Lluvia helada"], 67: ["🌧", "Lluvia helada"],
+      71: ["🌨", "Nieve"], 73: ["🌨", "Nieve"], 75: ["🌨", "Nieve"], 77: ["🌨", "Nieve"],
+      80: ["🌦", "Chubascos"], 81: ["🌦", "Chubascos"], 82: ["⛈", "Chubascos fuertes"],
+      85: ["🌨", "Nieve"], 86: ["🌨", "Nieve"],
+      95: ["⛈", "Tormenta"], 96: ["⛈", "Tormenta granizo"], 99: ["⛈", "Tormenta granizo"]
+    };
+    return T[code] || ["🌡", "—"];
+  }
+  function dayName(dateStr) {
+    var d = new Date(dateStr + "T12:00:00");
+    return d.toLocaleDateString("es", { weekday: "short" }).replace(".", "");
+  }
+  function renderWeather(w) {
+    var root = document.getElementById("weather");
+    var place = document.getElementById("wx-place");
+    var mini = document.getElementById("wx-mini");
+    if (!w || !w.current) return;
+    var c = w.current, ic = wmo(c.code);
+    if (place) place.textContent = w.place || "";
+    if (mini) mini.innerHTML = ic[0] + " " + c.temp + "°";
+
+    if (!root) return;
+    var days = (w.daily || []).map(function (d, i) {
+      var di = wmo(d.code);
+      var label = i === 0 ? "Hoy" : dayName(d.date);
+      var pop = (d.pop != null) ? '<span class="wx-pop">💧' + d.pop + "%</span>" : "";
+      return '<div class="wx-day"><span class="wx-dn">' + label + "</span>" +
+        '<span class="wx-di" title="' + di[1] + '">' + di[0] + "</span>" +
+        '<span class="wx-dt"><b>' + d.tmax + "°</b> " + d.tmin + "°</span>" + pop + "</div>";
+    }).join("");
+
+    root.innerHTML =
+      '<div class="wx-now">' +
+        '<span class="wx-ico">' + ic[0] + "</span>" +
+        '<div class="wx-main"><span class="wx-temp">' + c.temp + "°</span>" +
+        '<span class="wx-desc">' + ic[1] + "</span></div>" +
+        '<div class="wx-stats">' +
+          '<span>Sensación <b>' + c.feels + "°</b></span>" +
+          '<span>Humedad <b>' + (c.humidity != null ? c.humidity + "%" : "—") + "</b></span>" +
+          '<span>Viento <b>' + c.wind + " km/h</b></span>" +
+        "</div>" +
+      "</div>" +
+      '<div class="wx-days">' + days + "</div>";
+  }
+
+  /* ---------- salud de fuentes ---------- */
+  function renderHealth(meta) {
+    var root = document.getElementById("health");
+    if (!root || !meta) return;
+    var feeds = meta.feeds || [];
+    var down = feeds.filter(function (f) { return !f.ok; });
+    var ok = meta.sources_ok != null ? meta.sources_ok : (feeds.length - down.length);
+    var total = meta.sources_total != null ? meta.sources_total : feeds.length;
+    var cls = down.length === 0 ? "good" : "warn";
+    var txt = '<span class="health-dot ' + cls + '"></span>' +
+      ok + "/" + total + " fuentes activas";
+    if (down.length) {
+      txt += ' · <span class="health-down">⚠ ' + down.length + " caída" +
+        (down.length > 1 ? "s" : "") + ": " +
+        down.map(function (f) { return escapeHtml(f.source); }).join(", ") + "</span>";
+    }
+    root.innerHTML = txt;
+  }
+
   /* ---------- temas calientes ---------- */
   function renderHot(trends) {
     var root = document.getElementById("hot");
@@ -296,6 +457,7 @@ window.Render = (function () {
       f.hidden = true;
       if (window.Charts) Charts.dispose("focus-chart");
       renderBeats();          // refresca estados de leído/guardado al volver
+      renderPortada();
       updateSavedCount();
     }, 180);
   }
@@ -314,6 +476,7 @@ window.Render = (function () {
       cb.addEventListener("change", function () {
         if (window.UserStore) window.UserStore.toggleBeat(b.id);
         renderBeats();
+        renderPortada();
       });
       row.appendChild(cb);
       row.appendChild(document.createTextNode(" " + b.name));
@@ -329,6 +492,7 @@ window.Render = (function () {
   return {
     renderBeats: renderBeats, renderMarkets: renderMarkets, buildTicker: buildTicker,
     renderHot: renderHot, renderSettings: renderSettings, updateSavedCount: updateSavedCount,
+    renderPortada: renderPortada, renderWeather: renderWeather, renderHealth: renderHealth,
     setFilter: setFilter, setSearch: setSearch,
     openFocus: openFocus, openSaved: openSaved, closeFocus: closeFocus, timeAgo: timeAgo
   };

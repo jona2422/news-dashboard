@@ -48,6 +48,15 @@ def localname(tag):
     return tag.rsplit("}", 1)[-1].lower()
 
 
+def host(url):
+    """Dominio legible de una URL (sin www.), para etiquetar fuentes caidas."""
+    try:
+        from urllib.parse import urlparse
+        return urlparse(url).hostname.replace("www.", "")
+    except Exception:
+        return url
+
+
 def child_text(item, names):
     for ch in item:
         if localname(ch.tag) in names:
@@ -233,6 +242,7 @@ def main():
 
     out_beats = []
     all_items = []
+    feeds_health = []
     ok = total = 0
     for beat in cfg["beats"]:
         collected = {}
@@ -242,6 +252,12 @@ def main():
                 src, items = parse_feed(fetch(url))
                 if items:
                     ok += 1
+                feeds_health.append({
+                    "beat": beat["id"], "url": url,
+                    "source": src or host(url),
+                    "ok": bool(items), "count": len(items),
+                    "error": "" if items else "sin items",
+                })
                 for it in items:
                     if it["link"] in collected:
                         continue
@@ -256,6 +272,10 @@ def main():
                     }
                 print(f"  [ok]   {beat['id']:<13} <- {url} ({len(items)})")
             except Exception as ex:
+                feeds_health.append({
+                    "beat": beat["id"], "url": url, "source": host(url),
+                    "ok": False, "count": 0, "error": str(ex)[:120],
+                })
                 print(f"  [skip] {beat['id']:<13} <- {url}: {ex}", file=sys.stderr)
 
         arr = sorted(collected.values(), key=lambda x: x["ts"], reverse=True)
@@ -274,6 +294,7 @@ def main():
             "sources_ok": ok,
             "sources_total": total,
             "beats": [{"id": b["id"], "name": b["name"], "count": len(b["items"])} for b in out_beats],
+            "feeds": sorted(feeds_health, key=lambda x: (x["ok"], x["beat"])),
         }, f, ensure_ascii=False, indent=1)
     with open(os.path.join(DATA, "trends.json"), "w", encoding="utf-8") as f:
         json.dump({"updated": now, "terms": terms, "entities": entities},
