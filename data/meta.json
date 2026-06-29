@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-29T15:54:49.968189+00:00",
- "sources_ok": 38,
+ "updated": "2026-06-29T15:55:55.155286+00:00",
+ "sources_ok": 37,
  "sources_total": 38,
  "beats": [
   {
@@ -45,6 +45,14 @@
   }
  ],
  "feeds": [
+  {
+   "beat": "desastres",
+   "url": "https://reliefweb.int/disasters/rss.xml",
+   "source": "reliefweb.int",
+   "ok": false,
+   "count": 0,
+   "error": "sin items"
+  },
   {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -163,14 +171,6 @@
    "source": "GDACS RSS information",
    "ok": true,
    "count": 215,
-   "error": ""
-  },
-  {
-   "beat": "desastres",
-   "url": "https://reliefweb.int/disasters/rss.xml",
-   "source": "ReliefWeb - Disasters",
-   "ok": true,
-   "count": 20,
    "error": ""
   },
   {

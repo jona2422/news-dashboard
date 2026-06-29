@@ -1,13 +1,17 @@
 {
- "updated": "2026-06-29T15:54:49.968189+00:00",
+ "updated": "2026-06-29T15:55:55.155286+00:00",
  "terms": [
+  {
+   "term": "iran",
+   "count": 14
+  },
   {
    "term": "trump",
    "count": 13
   },
   {
-   "term": "iran",
-   "count": 13
+   "term": "china",
+   "count": 10
   },
   {
    "term": "court",
@@ -15,10 +19,6 @@
   },
   {
    "term": "strikes",
-   "count": 9
-  },
-  {
-   "term": "china",
    "count": 9
   },
   {
@@ -54,7 +54,7 @@
    "count": 6
   },
   {
-   "term": "germany",
+   "term": "fire",
    "count": 5
   },
   {
@@ -63,6 +63,10 @@
   },
   {
    "term": "down",
+   "count": 4
+  },
+  {
+   "term": "earthquake",
    "count": 4
   },
   {
@@ -78,6 +82,10 @@
    "count": 4
   },
   {
+   "term": "germany",
+   "count": 4
+  },
+  {
    "term": "andy",
    "count": 4
   },
@@ -87,10 +95,6 @@
   },
   {
    "term": "lebanon",
-   "count": 4
-  },
-  {
-   "term": "fire",
    "count": 4
   },
   {
@@ -116,10 +120,6 @@
   {
    "term": "green",
    "count": 4
-  },
-  {
-   "term": "attacks",
-   "count": 4
   }
  ],
  "entities": [
@@ -132,15 +132,15 @@
    "count": 12
   },
   {
+   "name": "China",
+   "count": 9
+  },
+  {
    "name": "Venezuela",
    "count": 8
   },
   {
    "name": "Israel",
-   "count": 8
-  },
-  {
-   "name": "China",
    "count": 8
   },
   {
@@ -152,11 +152,11 @@
    "count": 6
   },
   {
-   "name": "Germany",
-   "count": 5
+   "name": "Supreme Court",
+   "count": 4
   },
   {
-   "name": "Supreme Court",
+   "name": "Germany",
    "count": 4
   },
   {
@@ -181,10 +181,6 @@
   },
   {
    "name": "Europe",
-   "count": 3
-  },
-  {
-   "name": "Chinese",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "Years",
+   "count": 2
+  },
+  {
+   "name": "Rocket Lab",
    "count": 2
   }
  ]
