@@ -1,10 +1,19 @@
 {
- "updated": "2026-06-28T19:59:50.436134+00:00",
+ "updated": "2026-06-29T00:19:14.247107+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "The B-52s’ French Festival Set Canceled ‘Minutes’ Before Tornado Struck Venue",
+     "link": "https://www.rollingstone.com/music/music-news/the-b-52s-show-canceled-tornado-c-trop-fest-france-1235585711/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-06-28T21:07:53+00:00",
+     "ts": 1782680873000,
+     "count": 1
+    },
     {
      "title": "Katy Perry Forced to Cancel Belgian Fest Set Over ‘Inclement Weather’: ‘Beyond My Control’",
      "link": "https://www.rollingstone.com/music/music-news/katy-perry-belgium-fest-set-canceled-inclement-weather-1235585701/",
@@ -156,15 +165,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/06/H2B_ALLDATES_PT.jpg?quality=80",
      "published": "2026-06-27T16:52:17+00:00",
      "ts": 1782579137000,
-     "count": 1
-    },
-    {
-     "title": "Vanilla Ice’s Concert at Freedom 250 Canceled Due to Weather",
-     "link": "https://www.rollingstone.com/music/music-news/vanilla-ice-concert-freedom-250-canceled-weather-1235585451/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-06-27T16:34:05+00:00",
-     "ts": 1782578045000,
      "count": 1
     },
     {
@@ -522,6 +522,96 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Knowledge Distillation of Black-Box Large Language Models",
+     "link": "https://arxiv.org/abs/2401.07013",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T22:32:04+00:00",
+     "ts": 1782685924000,
+     "count": 1
+    },
+    {
+     "title": "A QNX-inspired operating system with selectable kernels",
+     "link": "https://qsoe.net",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T22:21:51+00:00",
+     "ts": 1782685311000,
+     "count": 1
+    },
+    {
+     "title": "Xonaly – Canada's Independent Search Engine",
+     "link": "https://xonaly.com/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T22:20:56+00:00",
+     "ts": 1782685256000,
+     "count": 1
+    },
+    {
+     "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-06-28T21:42:51+00:00",
+     "ts": 1782682971000,
+     "count": 1
+    },
+    {
+     "title": "California law targeting loud streaming ads takes effect on July 1",
+     "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-06-28T21:34:14+00:00",
+     "ts": 1782682454000,
+     "count": 1
+    },
+    {
+     "title": "POSIX Is Not a Shell",
+     "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T20:39:50+00:00",
+     "ts": 1782679190000,
+     "count": 1
+    },
+    {
+     "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-06-28T20:27:36+00:00",
+     "ts": 1782678456000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+     "link": "https://github.com/kamaludu/bash4llm/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T19:43:10+00:00",
+     "ts": 1782675790000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+     "link": "https://github.com/JustVugg/nanoeuler",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T19:38:14+00:00",
+     "ts": 1782675494000,
+     "count": 1
+    },
+    {
+     "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+     "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T19:38:00+00:00",
+     "ts": 1782675480000,
+     "count": 1
+    },
+    {
      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
      "source": "TechCrunch",
@@ -540,6 +630,15 @@
      "count": 1
     },
     {
+     "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+     "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T18:56:46+00:00",
+     "ts": 1782673006000,
+     "count": 1
+    },
+    {
      "title": "Why did this journal retract two 1940s papers by Max Planck?",
      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
      "source": "Ars Technica - All content",
@@ -549,7 +648,7 @@
      "count": 1
     },
     {
-     "title": "GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem",
+     "title": "Librepods: AirPods liberated",
      "link": "https://github.com/librepods-org/librepods",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -576,7 +675,7 @@
      "count": 1
     },
     {
-     "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+     "title": "GLM 5.2 beats Claude in our benchmarks",
      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -618,6 +717,15 @@
      "image": "",
      "published": "2026-06-28T16:58:56+00:00",
      "ts": 1782665936000,
+     "count": 1
+    },
+    {
+     "title": "Professor denounces mass AI fraud on an exam at Brown",
+     "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-06-28T16:41:12+00:00",
+     "ts": 1782664872000,
      "count": 1
     },
     {
@@ -664,114 +772,6 @@
      "published": "2026-06-28T16:16:07+00:00",
      "ts": 1782663367000,
      "count": 1
-    },
-    {
-     "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-     "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-06-28T16:05:00+00:00",
-     "ts": 1782662700000,
-     "count": 1
-    },
-    {
-     "title": "Programmable Probabilistic Computer with 1M p-bits",
-     "link": "https://arxiv.org/abs/2606.25313",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T15:55:31+00:00",
-     "ts": 1782662131000,
-     "count": 1
-    },
-    {
-     "title": "Show HN: Zanagrams",
-     "link": "https://zanagrams.com/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T15:26:14+00:00",
-     "ts": 1782660374000,
-     "count": 1
-    },
-    {
-     "title": "California legislature agrees to upload driver's licenses to national database",
-     "link": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T15:22:51+00:00",
-     "ts": 1782660171000,
-     "count": 1
-    },
-    {
-     "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-     "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-06-28T15:00:00+00:00",
-     "ts": 1782658800000,
-     "count": 1
-    },
-    {
-     "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-     "link": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T14:46:03+00:00",
-     "ts": 1782657963000,
-     "count": 1
-    },
-    {
-     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-     "link": "https://pudding.cool/2026/06/menu-story/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T14:44:56+00:00",
-     "ts": 1782657896000,
-     "count": 1
-    },
-    {
-     "title": "EU to legislate about Chat Control behind closed doors",
-     "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T14:40:13+00:00",
-     "ts": 1782657613000,
-     "count": 1
-    },
-    {
-     "title": "Flock cameras track more than your license plate, and they're spreading fast",
-     "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T14:35:26+00:00",
-     "ts": 1782657326000,
-     "count": 1
-    },
-    {
-     "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-06-28T14:12:06+00:00",
-     "ts": 1782655926000,
-     "count": 1
-    },
-    {
-     "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-     "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-06-28T14:00:00+00:00",
-     "ts": 1782655200000,
-     "count": 1
-    },
-    {
-     "title": "The curious case of the disappearing Polish S (2015)",
-     "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-06-28T12:44:24+00:00",
-     "ts": 1782650664000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,195 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+     "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
+     "published": "2026-06-29T00:11:31+00:00",
+     "ts": 1782691891000,
+     "count": 1
+    },
+    {
+     "title": "Serbia: Protests continue after Vucic says he will step down",
+     "link": "https://www.dw.com/en/serbia-protests-continue-after-vucic-says-he-will-step-down/a-77746666?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-06-29T00:02:00+00:00",
+     "ts": 1782691320000,
+     "count": 1
+    },
+    {
+     "title": "Australia politics live: Taylor says Coalition ‘lost trust’ of public as poll numbers keep falling; Monique Ryan pushes bill to fix Hecs debts",
+     "link": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/dd42292cb1e2e722ce67551df2a213e7060ae41a/1898_417_6358_5087/master/6358.jpg?width=140&quality=85&auto=format&fit=max&s=9c390c0031e6d7222df7bdd717677b60",
+     "published": "2026-06-28T23:50:22+00:00",
+     "ts": 1782690622000,
+     "count": 1
+    },
+    {
+     "title": "A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend",
+     "link": "https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8312x5541+0+0/resize/8312x5541!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F7d%2F30342d574e2087264358f8c6c5db%2Fap26139693980888.jpg",
+     "published": "2026-06-28T23:37:11+00:00",
+     "ts": 1782689831000,
+     "count": 1
+    },
+    {
+     "title": "London mayor to override opposition to outdoor dining in Soho next summer",
+     "link": "https://www.theguardian.com/uk-news/2026/jun/29/london-mayor-sadiq-khan-to-override-opposition-to-outdoor-dining-soho-summer-pedestrianisation-scheme",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3bb2773360f41115b0fa88813c8eda77f4971f38/0_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=fe521ca4f258e4f2c42f4865aea6c480",
+     "published": "2026-06-28T23:01:23+00:00",
+     "ts": 1782687683000,
+     "count": 1
+    },
+    {
+     "title": "Pause HS2 reset until you are confident it can be delivered, NAO tells ministers",
+     "link": "https://www.theguardian.com/uk-news/2026/jun/29/pause-hs2-reset-until-you-are-confident-it-can-be-delivered-nao-tells-ministers",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2f64136885058964451742726ca87eb1cd7509db/219_0_3281_2625/master/3281.jpg?width=140&quality=85&auto=format&fit=max&s=9ca2fe51118b308248df83a8512fee55",
+     "published": "2026-06-28T23:01:22+00:00",
+     "ts": 1782687682000,
+     "count": 1
+    },
+    {
+     "title": "About 170,000 people in England expected to die from obesity-linked heart conditions by 2035",
+     "link": "https://www.theguardian.com/society/2026/jun/29/170000-people-england-die-heart-conditions-linked-obesity-2035",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b5aa4aed2b4e6d4115264912fd9e9c852ca79d71/347_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=4df1bca23dcf98c32fd728eecf98b9c0",
+     "published": "2026-06-28T23:01:22+00:00",
+     "ts": 1782687682000,
+     "count": 1
+    },
+    {
+     "title": "‘A privilege – and pretty terrifying’: James Norton to play Hamlet in the West End",
+     "link": "https://www.theguardian.com/stage/2026/jun/29/james-norton-to-play-hamlet-in-the-west-end-in-2027-thomas-ostermeier",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fb253a9dc4db8c20382b2871da5df1c31dfcd8f8/0_407_6270_5016/master/6270.jpg?width=140&quality=85&auto=format&fit=max&s=0a70d916b2e24a0f1632b3453f3b601d",
+     "published": "2026-06-28T23:01:22+00:00",
+     "ts": 1782687682000,
+     "count": 1
+    },
+    {
+     "title": "England facing children’s mental health ‘crisis’ as referrals hit 1m",
+     "link": "https://www.theguardian.com/society/2026/jun/29/england-children-mental-health-crisis-million-referrals",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/99514dc01ddddfc1dde0c976c98aac9e76d1a2fe/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=c2d8058f343c8ca81e5f216928b719c9",
+     "published": "2026-06-28T23:01:21+00:00",
+     "ts": 1782687681000,
+     "count": 1
+    },
+    {
+     "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T21:55:27+00:00",
+     "ts": 1782683727000,
+     "count": 1
+    },
+    {
+     "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+     "link": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/99448878dab687094829c3770d6642a14d262c4e/499_322_4162_3328/master/4162.jpg?width=140&quality=85&auto=format&fit=max&s=26d9b28d76a2c4a76d07fea50fd67f2f",
+     "published": "2026-06-28T21:52:52+00:00",
+     "ts": 1782683572000,
+     "count": 1
+    },
+    {
+     "title": "Ireland upstage world champions India to win T20 series at home",
+     "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T21:37:49+00:00",
+     "ts": 1782682669000,
+     "count": 1
+    },
+    {
+     "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
+     "link": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T21:36:53+00:00",
+     "ts": 1782682613000,
+     "count": 1
+    },
+    {
+     "title": "In Venezuela, silence has become a rescue tool",
+     "link": "https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool",
+     "source": "NPR Topics: News",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5874042",
+     "published": "2026-06-28T21:00:14+00:00",
+     "ts": 1782680414000,
+     "count": 1
+    },
+    {
+     "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
+     "link": "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8bf89a41fa27edde10ea7e892b5aa264724d66c6/1346_0_7092_5674/master/7092.jpg?width=140&quality=85&auto=format&fit=max&s=047f4db1d01179604f90db24b3999904",
+     "published": "2026-06-28T20:53:29+00:00",
+     "ts": 1782680009000,
+     "count": 1
+    },
+    {
+     "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T20:29:18+00:00",
+     "ts": 1782678558000,
+     "count": 1
+    },
+    {
+     "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T20:21:47+00:00",
+     "ts": 1782678107000,
+     "count": 1
+    },
+    {
+     "title": "A bridge to Canada may be blocked by the Trump administration",
+     "link": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2Faf%2Fb7a3969e4a41a43ea5e3f117b29f%2Fimg-0306.JPG",
+     "published": "2026-06-28T20:17:22+00:00",
+     "ts": 1782677842000,
+     "count": 1
+    },
+    {
+     "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+     "link": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T19:54:39+00:00",
+     "ts": 1782676479000,
+     "count": 1
+    },
+    {
+     "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
+     "link": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T19:54:35+00:00",
+     "ts": 1782676475000,
+     "count": 1
+    },
+    {
+     "title": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
+     "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-top-matches-to-watch-in-the-round-of-32-knockout-stage?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-06-28T19:48:40+00:00",
+     "ts": 1782676120000,
+     "count": 1
+    },
     {
      "title": "Gaza’s displaced families face worsening living conditions",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss",
@@ -825,24 +1014,6 @@
      "count": 1
     },
     {
-     "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-     "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
-     "published": "2026-06-28T19:21:07+00:00",
-     "ts": 1782674467000,
-     "count": 1
-    },
-    {
-     "title": "Risk of serious birth injuries is rising for women in England, data suggests",
-     "link": "https://www.theguardian.com/society/2026/jun/28/risk-serious-childbirth-injuries-women-england-nhs",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b4a630d4b8d4eff10dc35f6dba7dbd3a86bb3d6f/214_0_4779_3825/master/4779.jpg?width=140&quality=85&auto=format&fit=max&s=d55ceabbecac6c9bcc0cd589fa35975c",
-     "published": "2026-06-28T19:03:21+00:00",
-     "ts": 1782673401000,
-     "count": 1
-    },
-    {
      "title": "Starmer couldn’t master the media. Can Burnham?",
      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -859,177 +1030,6 @@
      "published": "2026-06-28T18:55:53+00:00",
      "ts": 1782672953000,
      "count": 1
-    },
-    {
-     "title": "Serbia’s protesters press on even after Vucic promises to step aside",
-     "link": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T18:53:49+00:00",
-     "ts": 1782672829000,
-     "count": 1
-    },
-    {
-     "title": "US homeland security secretary tells migrants to seek permanent status or leave",
-     "link": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/592db2feb7878684b57cc7a61d174f9d59d12e0a/647_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=e16e30b914ac91636cb96b4a3695a503",
-     "published": "2026-06-28T18:48:40+00:00",
-     "ts": 1782672520000,
-     "count": 1
-    },
-    {
-     "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-     "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg",
-     "published": "2026-06-28T18:34:07+00:00",
-     "ts": 1782671647000,
-     "count": 1
-    },
-    {
-     "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
-     "link": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2dc8896c42fe38c3fe6790874f7c016cc7166771/471_0_4403_3522/master/4403.jpg?width=140&quality=85&auto=format&fit=max&s=a799a78389420c8b7507b9395703abde",
-     "published": "2026-06-28T18:24:22+00:00",
-     "ts": 1782671062000,
-     "count": 1
-    },
-    {
-     "title": "Why do reports of domestic abuse increase during World Cups?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T18:23:20+00:00",
-     "ts": 1782671000000,
-     "count": 1
-    },
-    {
-     "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-     "link": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T18:05:18+00:00",
-     "ts": 1782669918000,
-     "count": 1
-    },
-    {
-     "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
-     "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5226x3484+0+0/resize/5226x3484!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F71%2F005941de460db68d532074531db8%2Fap26179328845342.jpg",
-     "published": "2026-06-28T18:01:07+00:00",
-     "ts": 1782669667000,
-     "count": 1
-    },
-    {
-     "title": "British man arrested in Ecuador after woman’s body found in suitcase in Colombia",
-     "link": "https://www.theguardian.com/world/2026/jun/28/british-man-arrested-ecuador-matthew-foster-smith",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4f3d7379c8fe84dc9ef58a52d9ec3c916d803e3a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=710f4064ffef9089cf5a6d34806ec740",
-     "published": "2026-06-28T18:00:57+00:00",
-     "ts": 1782669657000,
-     "count": 1
-    },
-    {
-     "title": "The aftermath of Venezuela’s deadly earthquake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T17:50:38+00:00",
-     "ts": 1782669038000,
-     "count": 1
-    },
-    {
-     "title": "Will Germany impose an age limit for social media?",
-     "link": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-06-28T17:33:00+00:00",
-     "ts": 1782667980000,
-     "count": 1
-    },
-    {
-     "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
-     "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce5/live/19bd1460-7317-11f1-8546-8f19e4fe30f4.jpg",
-     "published": "2026-06-28T17:32:30+00:00",
-     "ts": 1782667950000,
-     "count": 1
-    },
-    {
-     "title": "The match that changed the World Cup forever",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T17:14:07+00:00",
-     "ts": 1782666847000,
-     "count": 1
-    },
-    {
-     "title": "Germany's development aid strategy under fire",
-     "link": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-06-28T17:06:00+00:00",
-     "ts": 1782666360000,
-     "count": 1
-    },
-    {
-     "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
-     "link": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9941a23800be683f023c574fbc3e069e9909c0f5/103_0_1570_1256/master/1570.jpg?width=140&quality=85&auto=format&fit=max&s=6dbf4941ec74d68a2f793a8df4dcbf10",
-     "published": "2026-06-28T16:43:26+00:00",
-     "ts": 1782665006000,
-     "count": 3
-    },
-    {
-     "title": "Sky makes £2bn spending pledge as it prepares takeover of ITV broadcasting arm",
-     "link": "https://www.theguardian.com/business/2026/jun/28/sky-makes-spending-pledge-as-it-prepares-takeover-of-itv-broadcasting-arm",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4474d3a3d2e56f0a9984cb709f7c873c9e0608a9/497_81_2780_2225/master/2780.jpg?width=140&quality=85&auto=format&fit=max&s=32d9745a94fe30c77d37b608c390918d",
-     "published": "2026-06-28T16:41:13+00:00",
-     "ts": 1782664873000,
-     "count": 1
-    },
-    {
-     "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T16:38:04+00:00",
-     "ts": 1782664684000,
-     "count": 1
-    },
-    {
-     "title": "Pakistan's Geo News apologizes for Muharram broadcast",
-     "link": "https://www.dw.com/en/pakistan-s-geo-news-apologizes-for-muharram-broadcast/a-77744988?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-06-28T16:38:00+00:00",
-     "ts": 1782664680000,
-     "count": 1
-    },
-    {
-     "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-     "link": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T16:32:13+00:00",
-     "ts": 1782664333000,
-     "count": 1
-    },
-    {
-     "title": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
-     "link": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-06-28T16:12:13+00:00",
-     "ts": 1782663133000,
-     "count": 1
     }
    ]
   },
@@ -1038,13 +1038,76 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "M 4.6 - 63 km WNW of Catuday, Philippines",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8v2",
+     "title": "M 2.6 - 57 km S of Whites City, New Mexico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqovqy",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-06-28T19:46:11.040000+00:00",
-     "ts": 1782675971040,
-     "count": 2
+     "published": "2026-06-29T00:00:13.290000+00:00",
+     "ts": 1782691213290,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029163",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-06-28T23:16:24+00:00",
+     "ts": 1782688584000,
+     "count": 60
+    },
+    {
+     "title": "M 5.2 - 8 km WNW of Changning, China",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-06-28T23:12:07.583000+00:00",
+     "ts": 1782688327583,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Brazil",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029170",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-06-28T23:06:45+00:00",
+     "ts": 1782688005000,
+     "count": 85
+    },
+    {
+     "title": "M 4.1 - 10 km ESE of Geráki, Greece",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vp",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-06-28T22:17:10.040000+00:00",
+     "ts": 1782685030040,
+     "count": 1
+    },
+    {
+     "title": "M 5.0 - 173 km S of Lembar, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-06-28T22:01:40.040000+00:00",
+     "ts": 1782684100040,
+     "count": 1
+    },
+    {
+     "title": "M 4.2 - 296 km WNW of Houma, Tonga",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8v7",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-06-28T20:31:22.040000+00:00",
+     "ts": 1782678682040,
+     "count": 1
+    },
+    {
+     "title": "M 4.7 - 65 km WNW of Catuday, Philippines",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8v9",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-06-28T20:18:39.040000+00:00",
+     "ts": 1782677919040,
+     "count": 3
     },
     {
      "title": "M 2.7 - 36 km NW of Willow, Alaska",
@@ -1062,33 +1125,6 @@
      "image": "",
      "published": "2026-06-28T19:31:23.040000+00:00",
      "ts": 1782675083040,
-     "count": 1
-    },
-    {
-     "title": "Green forest fire notification in Australia",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029056",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-06-28T19:14:42+00:00",
-     "ts": 1782674082000,
-     "count": 87
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029163",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-06-28T19:14:11+00:00",
-     "ts": 1782674051000,
-     "count": 65
-    },
-    {
-     "title": "M 5.2 - 8 km WNW of Changning, China",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-06-28T19:08:04.506000+00:00",
-     "ts": 1782673684506,
      "count": 1
     },
     {
@@ -1161,7 +1197,7 @@
      "image": "",
      "published": "2026-06-28T16:56:12.040000+00:00",
      "ts": 1782665772040,
-     "count": 3
+     "count": 2
     },
     {
      "title": "M 2.6 - 84 km NNW of Venetie, Alaska",
@@ -1197,7 +1233,7 @@
      "image": "",
      "published": "2026-06-28T15:10:15+00:00",
      "ts": 1782659415000,
-     "count": 9
+     "count": 8
     },
     {
      "title": "Green forest fire notification in Russian Federation",
@@ -1206,7 +1242,7 @@
      "image": "",
      "published": "2026-06-28T15:03:02+00:00",
      "ts": 1782658982000,
-     "count": 23
+     "count": 22
     },
     {
      "title": "M 4.3 - 19 km WSW of Morón, Venezuela",
@@ -1252,42 +1288,6 @@
      "published": "2026-06-28T13:01:54.906000+00:00",
      "ts": 1782651714906,
      "count": 2
-    },
-    {
-     "title": "M 4.1 - Fiji region",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qt",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-06-28T12:43:03.040000+00:00",
-     "ts": 1782650583040,
-     "count": 1
-    },
-    {
-     "title": "M 4.5 - 225 km NE of Lospalos, Timor Leste",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ta",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-06-28T11:52:30.040000+00:00",
-     "ts": 1782647550040,
-     "count": 2
-    },
-    {
-     "title": "M 3.3 - 113 km NNE of San Juan, Puerto Rico",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521733",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-06-28T11:32:27.870000+00:00",
-     "ts": 1782646347870,
-     "count": 1
-    },
-    {
-     "title": "M 2.5 - 35 km W of Salamatof, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrghew",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-06-28T10:16:44.040000+00:00",
-     "ts": 1782641804040,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,51 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "US, Iran agree to halt Hormuz attacks, hold talks about strait in Qatar on Tuesday — report",
+     "link": "https://www.timesofisrael.com/us-iran-agree-to-halt-hormuz-attacks-hold-talks-about-strait-in-qatar-on-tuesday-report/",
+     "source": "The Times of Israel",
+     "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260627__B8J469E__v1__HighRes__OmanIranUsIsraelWar-1024x640.jpg",
+     "published": "2026-06-29T00:08:53+00:00",
+     "ts": 1782691733000,
+     "count": 1
+    },
+    {
+     "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
+     "link": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/ffe10272-5f07-11f1-9fd4-005056bf30b7/w:1024/p:16x9/AP26084275139298.jpg",
+     "published": "2026-06-28T22:47:20+00:00",
+     "ts": 1782686840000,
+     "count": 1
+    },
+    {
+     "title": "Annex in Israel-Lebanon deal assures IDF freedom of action in security zone — source",
+     "link": "https://www.timesofisrael.com/annex-in-israel-lebanon-deal-assures-idf-freedom-of-action-in-security-zone-source/",
+     "source": "The Times of Israel",
+     "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26179337180292-1024x640.jpg",
+     "published": "2026-06-28T22:01:12+00:00",
+     "ts": 1782684072000,
+     "count": 1
+    },
+    {
+     "title": "Reichman University welcomes Italian Ambassador and veteran journalist Maurizio Molinari - Sponsored Content",
+     "link": "https://www.timesofisrael.com/spotlight/reichman-university-welcomes-italian-ambassador-and-veteran-journalist-maurizio-molinari/",
+     "source": "The Times of Israel",
+     "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/RRIS-Italian-students-with-HE-Amb.-HE-Amb.-Luca-Ferrari-Maurizio-Molinari-and-Jonathan-Davis-1024x640.jpg",
+     "published": "2026-06-28T20:09:03+00:00",
+     "ts": 1782677343000,
+     "count": 1
+    },
+    {
+     "title": "After 18-month hiatus, Judicial Selection Committee finally appoints new judges",
+     "link": "https://www.timesofisrael.com/after-18-month-hiatus-judicial-selection-committee-finally-appoints-new-judges/",
+     "source": "The Times of Israel",
+     "image": "https://static-cdn.toi-media.com/www/uploads/2023/11/WhatsApp-Image-2023-11-16-at-14.43.18-1024x640.jpeg",
+     "published": "2026-06-28T19:55:49+00:00",
+     "ts": 1782676549000,
+     "count": 1
+    },
     {
      "title": "Turkey police detain dozens at LGBTQ+ Pride event in Istanbul",
      "link": "https://www.france24.com/en/middle-east/20260628-turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul",
@@ -1386,7 +1431,7 @@
      "count": 1
     },
     {
-     "title": "Investment in Israeli health tech startups dove 40% in 2025 – report",
+     "title": "Investment in Israeli health tech startups plunged 40% in 2025 – report",
      "link": "https://www.timesofisrael.com/investment-in-israeli-health-tech-startups-dove-40-in-2025-report/",
      "source": "The Times of Israel",
      "image": "https://static-cdn.toi-media.com/www/uploads/2018/03/digital-health-1-1024x640.jpg",
@@ -1413,30 +1458,12 @@
      "count": 1
     },
     {
-     "title": "Iran war fallout puts UAE on tightrope between Jerusalem and Tehran",
-     "link": "https://www.timesofisrael.com/iran-war-fallout-puts-uae-on-tightrope-between-jerusalem-and-tehran/",
-     "source": "The Times of Israel",
-     "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/DUAL-13-1024x640.jpeg",
-     "published": "2026-06-28T15:13:00+00:00",
-     "ts": 1782659580000,
-     "count": 1
-    },
-    {
      "title": "Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded",
      "link": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/67176d5d07091c7ecdcb4cafd653f48b9be5a19d/0_179_1496_1197/master/1496.jpg?width=140&quality=85&auto=format&fit=max&s=eee3881c4afad1fc2278373daf62cb66",
      "published": "2026-06-28T15:02:53+00:00",
      "ts": 1782658973000,
-     "count": 1
-    },
-    {
-     "title": "Want to predict how an Israeli will vote? Look at their religiosity, survey says",
-     "link": "https://www.timesofisrael.com/want-to-predict-how-an-israeli-will-vote-look-at-their-religiosity-survey-says/",
-     "source": "The Times of Israel",
-     "image": "https://static-cdn.toi-media.com/www/uploads/2022/11/000_32MK27R-1024x640.jpg",
-     "published": "2026-06-28T14:35:37+00:00",
-     "ts": 1782657337000,
      "count": 1
     },
     {
@@ -1449,30 +1476,12 @@
      "count": 1
     },
     {
-     "title": "Golan’s Democrats party unveils 51 primary candidates, touts 85,000 members",
-     "link": "https://www.timesofisrael.com/golans-democrats-party-unveils-51-primary-candidates-touts-85000-members/",
-     "source": "The Times of Israel",
-     "image": "https://static-cdn.toi-media.com/www/uploads/2026/01/WhatsApp-Image-2026-01-06-at-18.08.56-e1782652337782-1024x640.jpeg",
-     "published": "2026-06-28T14:12:19+00:00",
-     "ts": 1782655939000,
-     "count": 1
-    },
-    {
      "title": "Escalating US-Iran strikes threaten interim peace agreement",
      "link": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/9a40a6b59fce8154422728b51e1fe453763ac034/531_0_5310_4248/master/5310.jpg?width=140&quality=85&auto=format&fit=max&s=5e51a96ff466b099dcfe1cc821b1319c",
      "published": "2026-06-28T13:45:06+00:00",
      "ts": 1782654306000,
-     "count": 1
-    },
-    {
-     "title": "Iran attacks Bahrain and Kuwait following US strikes, threatens to end negotiations",
-     "link": "https://www.timesofisrael.com/iran-attacks-bahrain-and-kuwait-following-us-strikes-threatens-to-end-negotiations/",
-     "source": "The Times of Israel",
-     "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/HL4Sa-fXQAA2J-z-1024x640.jpg",
-     "published": "2026-06-28T13:43:05+00:00",
-     "ts": 1782654185000,
      "count": 1
     },
     {
@@ -1512,10 +1521,10 @@
      "count": 1
     },
     {
-     "title": "Middle East live: Iran FM warns any challenge to Hormuz strait will 'increase tensions'",
+     "title": "Middle East live: Israeli army says it destroyed Hezbollah tunnel in southern Lebanon",
      "link": "https://www.france24.com/en/middle-east/20260628-middle-east-live-iran-threatens-a-completely-halt-in-talks-with-us-following-exchange-of-fire",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/5dedd6d6-72f1-11f1-a628-005056bfb2b6/w:1024/p:16x9/AP26179362603157.jpg",
+     "image": "https://s.france24.com/media/display/f62e7e72-732e-11f1-b9df-005056a90284/w:1024/p:16x9/AP26179336998336.jpg",
      "published": "2026-06-28T05:25:25+00:00",
      "ts": 1782624325000,
      "count": 1
@@ -1537,15 +1546,6 @@
      "published": "2026-06-27T21:35:40+00:00",
      "ts": 1782596140000,
      "count": 1
-    },
-    {
-     "title": "Netanyahu hails Lebanon deal as Hezbollah rejects agreement",
-     "link": "https://www.france24.com/en/middle-east/20260627-netanyahu-hails-lebanon-deal-as-hezbollah-rejects-agreement",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/1faca946-7261-11f1-9911-005056bf30b7/w:1024/p:16x9/2026-06-27T114812Z-1691087554-RC2B2MACFEWJ-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
-     "published": "2026-06-27T20:08:27+00:00",
-     "ts": 1782590907000,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,78 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "No future at home? Inside the endless Filipino exodus",
+     "link": "https://www.scmp.com/week-asia/economics/article/3358525/no-future-home-inside-endless-filipino-exodus?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/26/ec7d2109-7498-4740-8c6a-f55ec6195d6b_0d4addd3.jpg?itok=ksgU9t94&v=1782469776",
+     "published": "2026-06-29T00:00:13+00:00",
+     "ts": 1782691213000,
+     "count": 1
+    },
+    {
+     "title": "Sovereign investors with US$29 trillion pivot to energy assets, flag dollar fears",
+     "link": "https://www.scmp.com/business/banking-finance/article/3358682/sovereign-investors-us29-trillion-pivot-energy-assets-flag-dollar-fears?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/29/20c4dc43-c67f-4038-9e75-d03879e8177e_c25d7bdc.jpg?itok=S6XA-Pwg&v=1782689281",
+     "published": "2026-06-28T23:29:07+00:00",
+     "ts": 1782689347000,
+     "count": 1
+    },
+    {
+     "title": "Chinese farmer’s forest of cameras fails to bear fruit in compensation bid",
+     "link": "https://www.scmp.com/news/china/science/article/3358657/chinese-farmers-forest-cameras-fails-bear-fruit-compensation-bid?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/4b853b13-7186-4e1b-9d4d-06a438a4fdab_fa83f5d9.jpg?itok=aU32dExc&v=1782642025",
+     "published": "2026-06-28T22:30:08+00:00",
+     "ts": 1782685808000,
+     "count": 1
+    },
+    {
+     "title": "Iran warns ships not to bypass its chosen Hormuz route",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3358681/iran-warns-ships-not-bypass-its-chosen-hormuz-route?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/29/ac4911f5-267c-459c-8e61-7d731a620d33_352432be.jpg?itok=RQ_IsylM&v=1782685567",
+     "published": "2026-06-28T22:27:08+00:00",
+     "ts": 1782685628000,
+     "count": 1
+    },
+    {
+     "title": "Trump bashes Washington’s likely next mayor as he touts Potomac golf course project",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3358679/trump-bashes-washingtons-likely-next-mayor-he-touts-potomac-golf-course-project?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/29/b271cd7c-e0eb-4f2f-aae8-6b4aa7008529_b2f1e560.jpg?itok=Hk7A_28-&v=1782683946",
+     "published": "2026-06-28T22:02:29+00:00",
+     "ts": 1782684149000,
+     "count": 1
+    },
+    {
+     "title": "UK’s likely next leader Andy Burnham to unveil plan to shift power from London",
+     "link": "https://www.scmp.com/news/world/europe/article/3358678/uks-likely-next-leader-andy-burnham-unveil-plan-shift-power-london?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/29/ec687526-d44e-4dac-bfd3-c956f0614c8c_d0769fba.jpg?itok=AkHat0Wb&v=1782682552",
+     "published": "2026-06-28T21:36:55+00:00",
+     "ts": 1782682615000,
+     "count": 1
+    },
+    {
+     "title": "To tackle elderly poverty crisis, Hong Kong needs to rethink retirement",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3358216/tackle-elderly-poverty-crisis-hong-kong-needs-rethink-retirement?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/24/14ab2b68-6463-439c-90a0-7ed599113e5f_fd8727df.jpg?itok=2PhnW1QP&v=1782295046",
+     "published": "2026-06-28T21:30:05+00:00",
+     "ts": 1782682205000,
+     "count": 1
+    },
+    {
+     "title": "Serbians keep up protests after President Vucic says he will step down",
+     "link": "https://www.scmp.com/news/world/europe/article/3358677/serbians-keep-protests-after-president-vucic-says-he-will-step-down?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/29/e136eb90-ce9e-4618-b67d-023e0159b369_15f6482f.jpg?itok=BVqWWHpD&v=1782680645",
+     "published": "2026-06-28T21:05:21+00:00",
+     "ts": 1782680721000,
+     "count": 1
+    },
     {
      "title": "Princess Kate scales Britain’s highest mountains to raise money for cancer charity",
      "link": "https://www.scmp.com/news/world/europe/article/3358676/princess-kate-scales-britains-highest-mountains-raise-money-cancer-charity?utm_source=rss_feed",
@@ -1731,78 +1803,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/e67a39a0-1aea-41d4-976c-2d8b1bdd7f1d_d222c4a6.jpg?itok=2R_5ORsL&v=1782639757",
      "published": "2026-06-28T09:45:23+00:00",
      "ts": 1782639923000,
-     "count": 1
-    },
-    {
-     "title": "France sees 1,000 excess deaths during record-breaking heatwave",
-     "link": "https://www.scmp.com/news/world/europe/article/3358652/france-sees-1000-excess-deaths-during-record-breaking-heatwave?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/1a4dcb28-fdd6-439e-8bb9-4d8099ad26b9_de87907d.jpg?itok=yov95rfa&v=1782639117",
-     "published": "2026-06-28T09:32:05+00:00",
-     "ts": 1782639125000,
-     "count": 1
-    },
-    {
-     "title": "Australian arrested after Thai teen girl found dead in suitcase",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3358651/australian-arrested-after-thai-teen-girl-found-dead-suitcase?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/72f08315-6cee-4417-9981-6c32497c0eeb_09a3811c.jpg?itok=QV59m4B2&v=1782637402",
-     "published": "2026-06-28T09:03:23+00:00",
-     "ts": 1782637403000,
-     "count": 1
-    },
-    {
-     "title": "For an Africa seeking growth, China is proving a reliable partner",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3358072/africa-seeking-growth-china-proving-reliable-partner?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/24/d1a2b063-af73-41a9-b414-71bc00f2a4fd_636ada91.jpg?itok=G1LRzfvA&v=1782293228",
-     "published": "2026-06-28T08:30:05+00:00",
-     "ts": 1782635405000,
-     "count": 1
-    },
-    {
-     "title": "Hong Kong can drive ‘China Opportunity 2.0’ push for global growth: Paul Chan",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358643/hong-kong-can-drive-china-opportunity-20-push-global-growth-paul-chan?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/f318b1b9-8154-46c1-bd4d-a8dcd2a14f65_104048dd.jpg?itok=SG7LLhwi&v=1782634512",
-     "published": "2026-06-28T08:16:50+00:00",
-     "ts": 1782634610000,
-     "count": 1
-    },
-    {
-     "title": "Outrage as China dad forgives girlfriend who killed his son by kicking him in the belly",
-     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3358624/outrage-china-dad-forgives-girlfriend-who-killed-his-son-kicking-him-belly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/1802b6b3-1df6-4da5-adce-e10719c3628d_7d559e0d.jpg?itok=aj3au31Y&v=1782610967",
-     "published": "2026-06-28T08:00:12+00:00",
-     "ts": 1782633612000,
-     "count": 1
-    },
-    {
-     "title": "Japan and South Korea scramble fighters in response to Chinese-Russian bomber patrol",
-     "link": "https://www.scmp.com/news/china/military/article/3358641/japan-and-south-korea-scramble-fighters-response-chinese-russian-bomber-patrol?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/2e324058-32a9-4b17-966f-6c63923dd9cc_d63ea9ff.jpg?itok=epZ_zQRs&v=1782629612",
-     "published": "2026-06-28T07:00:20+00:00",
-     "ts": 1782630020000,
-     "count": 1
-    },
-    {
-     "title": "Experts offer tips to secure data after Mirror star Stanley Yau loses phone",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3358640/experts-offer-tips-secure-data-after-mirror-star-stanley-yau-loses-phone?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/f73214a5-90c1-4261-8eca-217d3775cd10_9ec9484c.jpg?itok=kfwnzMEg&v=1782630148",
-     "published": "2026-06-28T06:34:10+00:00",
-     "ts": 1782628450000,
-     "count": 1
-    },
-    {
-     "title": "Liberal Islam in Indonesia is sliding into irrelevance",
-     "link": "https://www.scmp.com/week-asia/opinion/article/3358528/liberal-islam-indonesia-sliding-irrelevance?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/26/51d8b774-6169-4878-a19d-a3be87ce407a_c65ef48f.jpg?itok=43vVx1Kd&v=1782470022",
-     "published": "2026-06-28T05:00:15+00:00",
-     "ts": 1782622815000,
      "count": 1
     }
    ]
