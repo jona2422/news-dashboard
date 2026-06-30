@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-30T17:12:25.820250+00:00",
- "sources_ok": 37,
+ "updated": "2026-06-30T22:04:59.774651+00:00",
+ "sources_ok": 38,
  "sources_total": 38,
  "beats": [
   {
@@ -45,14 +45,6 @@
   }
  ],
  "feeds": [
-  {
-   "beat": "desastres",
-   "url": "https://reliefweb.int/disasters/rss.xml",
-   "source": "reliefweb.int",
-   "ok": false,
-   "count": 0,
-   "error": "sin items"
-  },
   {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -170,7 +162,15 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 227,
+   "count": 238,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
+   "url": "https://reliefweb.int/disasters/rss.xml",
+   "source": "ReliefWeb - Disasters",
+   "ok": true,
+   "count": 20,
    "error": ""
   },
   {
@@ -186,7 +186,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 25,
+   "count": 30,
    "error": ""
   },
   {
@@ -210,7 +210,7 @@
    "url": "https://www.timesofisrael.com/feed/",
    "source": "The Times of Israel",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": ""
   },
   {
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 116,
+   "count": 119,
    "error": ""
   },
   {
@@ -306,7 +306,7 @@
    "url": "https://www.france24.com/es/rss",
    "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
-   "count": 21,
+   "count": 23,
    "error": ""
   },
   {
