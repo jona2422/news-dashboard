@@ -1,13 +1,13 @@
 {
- "updated": "2026-06-30T08:48:32.552444+00:00",
+ "updated": "2026-06-30T17:12:26.679664+00:00",
  "place": "Ciudad de Panamá",
  "current": {
-  "temp": 27,
-  "feels": 32,
-  "humidity": 91,
-  "wind": 9,
-  "code": 0,
-  "is_day": 0
+  "temp": 32,
+  "feels": 39,
+  "humidity": 65,
+  "wind": 12,
+  "code": 95,
+  "is_day": 1
  },
  "daily": [
   {
@@ -15,28 +15,28 @@
    "code": 95,
    "tmax": 33,
    "tmin": 26,
-   "pop": 82
+   "pop": 88
   },
   {
    "date": "2026-07-01",
-   "code": 96,
+   "code": 95,
    "tmax": 31,
-   "tmin": 25,
-   "pop": 90
+   "tmin": 26,
+   "pop": 100
   },
   {
    "date": "2026-07-02",
    "code": 96,
    "tmax": 31,
    "tmin": 24,
-   "pop": 86
+   "pop": 85
   },
   {
    "date": "2026-07-03",
-   "code": 95,
+   "code": 96,
    "tmax": 30,
    "tmin": 24,
-   "pop": 86
+   "pop": 84
   }
  ]
 }
