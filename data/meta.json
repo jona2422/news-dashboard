@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-04T08:06:47.606205+00:00",
- "sources_ok": 36,
+ "updated": "2026-07-04T12:17:18.385677+00:00",
+ "sources_ok": 37,
  "sources_total": 38,
  "beats": [
   {
@@ -54,19 +54,11 @@
    "error": "sin items"
   },
   {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 44,
+   "count": 28,
    "error": ""
   },
   {
@@ -98,7 +90,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 139,
+   "count": 141,
    "error": ""
   },
   {
@@ -178,7 +170,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 226,
+   "count": 240,
    "error": ""
   },
   {
@@ -218,7 +210,7 @@
    "url": "https://www.timesofisrael.com/feed/",
    "source": "The Times of Israel",
    "ok": true,
-   "count": 15,
+   "count": 11,
    "error": ""
   },
   {
@@ -243,6 +235,14 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
    "error": ""
   },
   {
