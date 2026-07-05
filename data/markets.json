@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T20:33:48.672360+00:00",
+ "updated": "2026-07-05T08:28:52.675020+00:00",
  "items": [
   {
    "symbol": "S&P 500",
@@ -355,11 +355,10 @@
   {
    "symbol": "Bitcoin",
    "label": "Bitcoin",
-   "price": 63147.0,
-   "change": 609.0,
-   "changePct": 0.97,
+   "price": 62872.0,
+   "change": -222.0,
+   "changePct": -0.35,
    "spark": [
-    60922.0,
     60862.0,
     63255.0,
     63078.0,
@@ -388,17 +387,17 @@
     59980.0,
     61487.0,
     62537.0,
-    63147.0
+    63094.0,
+    62872.0
    ]
   },
   {
    "symbol": "Ethereum",
    "label": "Ethereum",
-   "price": 1785.0,
-   "change": 29.0,
-   "changePct": 1.64,
+   "price": 1766.0,
+   "change": -13.0,
+   "changePct": -0.72,
    "spark": [
-    1581.0,
     1569.0,
     1687.0,
     1690.0,
@@ -427,17 +426,17 @@
     1608.0,
     1698.0,
     1756.0,
-    1785.0
+    1779.0,
+    1766.0
    ]
   },
   {
    "symbol": "Solana",
    "label": "Solana",
-   "price": 82.0,
+   "price": 80.0,
    "change": -1.0,
-   "changePct": -0.73,
+   "changePct": -1.45,
    "spark": [
-    63.0,
     62.0,
     66.0,
     67.0,
@@ -466,13 +465,14 @@
     77.0,
     81.0,
     82.0,
-    82.0
+    82.0,
+    80.0
    ]
   },
   {
    "symbol": "USD/COP",
    "label": "USD/COP",
-   "price": 3388.85,
+   "price": 3388.75,
    "change": 0,
    "changePct": 0,
    "spark": []
