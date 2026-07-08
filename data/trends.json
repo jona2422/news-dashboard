@@ -1,9 +1,13 @@
 {
- "updated": "2026-07-07T22:46:06.772404+00:00",
+ "updated": "2026-07-08T07:58:21.533857+00:00",
  "terms": [
   {
    "term": "2026",
-   "count": 10
+   "count": 12
+  },
+  {
+   "term": "world",
+   "count": 11
   },
   {
    "term": "iran",
@@ -14,112 +18,108 @@
    "count": 8
   },
   {
-   "term": "trump",
+   "term": "strikes",
    "count": 8
   },
   {
-   "term": "argentina",
-   "count": 7
+   "term": "china",
+   "count": 8
   },
   {
-   "term": "china",
-   "count": 7
+   "term": "trump",
+   "count": 6
+  },
+  {
+   "term": "calls",
+   "count": 6
+  },
+  {
+   "term": "gaza",
+   "count": 6
+  },
+  {
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
+   "count": 6
   },
   {
    "term": "announces",
-   "count": 6
-  },
-  {
-   "term": "show",
-   "count": 6
-  },
-  {
-   "term": "world",
-   "count": 6
-  },
-  {
-   "term": "launches",
-   "count": 6
-  },
-  {
-   "term": "strikes",
-   "count": 6
-  },
-  {
-   "term": "hormuz",
-   "count": 6
-  },
-  {
-   "term": "nato",
-   "count": 6
-  },
-  {
-   "term": "contra",
-   "count": 6
-  },
-  {
-   "term": "shows",
    "count": 5
   },
   {
    "term": "john",
-   "count": 5
+   "count": 4
   },
   {
-   "term": "armstrong",
-   "count": 5
+   "term": "australia",
+   "count": 4
+  },
+  {
+   "term": "farage",
+   "count": 4
+  },
+  {
+   "term": "fans",
+   "count": 4
+  },
+  {
+   "term": "court",
+   "count": 4
+  },
+  {
+   "term": "hormuz",
+   "count": 4
+  },
+  {
+   "term": "israeli",
+   "count": 4
+  },
+  {
+   "term": "pico",
+   "count": 4
+  },
+  {
+   "term": "placa",
+   "count": 4
+  },
+  {
+   "term": "miércoles",
+   "count": 4
+  },
+  {
+   "term": "julio",
+   "count": 4
   },
   {
    "term": "green",
-   "count": 5
-  },
-  {
-   "term": "attacks",
-   "count": 5
-  },
-  {
-   "term": "summit",
-   "count": 5
-  },
-  {
-   "term": "indonesia",
-   "count": 5
-  },
-  {
-   "term": "israel",
-   "count": 5
-  },
-  {
-   "term": "syria",
-   "count": 5
-  },
-  {
-   "term": "ramones",
    "count": 4
   },
   {
-   "term": "museum",
+   "term": "fire",
    "count": 4
   },
   {
-   "term": "visit",
-   "count": 4
+   "term": "play",
+   "count": 3
   },
   {
-   "term": "other",
-   "count": 4
+   "term": "show",
+   "count": 3
   },
   {
-   "term": "calls",
-   "count": 4
+   "term": "city",
+   "count": 3
   },
   {
-   "term": "strait",
-   "count": 4
+   "term": "pleased",
+   "count": 3
   },
   {
-   "term": "hassan",
-   "count": 4
+   "term": "fall",
+   "count": 3
   }
  ],
  "entities": [
@@ -128,47 +128,35 @@
    "count": 9
   },
   {
-   "name": "Trump",
-   "count": 7
-  },
-  {
-   "name": "Argentina",
-   "count": 7
-  },
-  {
    "name": "China",
    "count": 7
   },
   {
+   "name": "Trump",
+   "count": 5
+  },
+  {
+   "name": "Gaza",
+   "count": 5
+  },
+  {
+   "name": "World Cup",
+   "count": 5
+  },
+  {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
+   "name": "Farage",
+   "count": 4
+  },
+  {
    "name": "Hormuz",
-   "count": 6
-  },
-  {
-   "name": "Indonesia",
-   "count": 5
-  },
-  {
-   "name": "Israel",
-   "count": 5
-  },
-  {
-   "name": "Syria",
-   "count": 5
-  },
-  {
-   "name": "Ramones",
    "count": 4
   },
   {
-   "name": "Marine Le Pen",
-   "count": 4
-  },
-  {
-   "name": "French",
-   "count": 4
-  },
-  {
-   "name": "Europe",
+   "name": "Israeli",
    "count": 4
   },
   {
@@ -176,23 +164,19 @@
    "count": 4
   },
   {
-   "name": "Gaza",
-   "count": 4
-  },
-  {
-   "name": "Macron",
-   "count": 4
-  },
-  {
    "name": "July",
    "count": 3
   },
   {
-   "name": "Billie Joe Armstrong",
+   "name": "Meta",
    "count": 3
   },
   {
-   "name": "Strait",
+   "name": "Australia",
+   "count": 3
+  },
+  {
+   "name": "Europe",
    "count": 3
   },
   {
@@ -200,24 +184,40 @@
    "count": 3
   },
   {
-   "name": "Nato",
+   "name": "Syria",
    "count": 3
   },
   {
-   "name": "France",
+   "name": "Argentina",
    "count": 3
   },
   {
-   "name": "Le Pen",
+   "name": "Pico",
    "count": 3
   },
   {
-   "name": "India",
+   "name": "Indonesia",
    "count": 3
   },
   {
-   "name": "Mundial",
+   "name": "Chinese",
    "count": 3
+  },
+  {
+   "name": "Wedding",
+   "count": 2
+  },
+  {
+   "name": "Mexico City",
+   "count": 2
+  },
+  {
+   "name": "Pleased",
+   "count": 2
+  },
+  {
+   "name": "Valerie Brathwaite",
+   "count": 2
   }
  ]
 }
