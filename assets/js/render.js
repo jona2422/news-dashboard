@@ -1,14 +1,31 @@
-/* render.js — noticias, mercados, ticker, filtros, temas calientes y modo enfoque */
+/* render.js — noticias, KPIs, mercados, ticker, filtros, clima, geo y modo enfoque */
+
+/* Color de identidad de cada sección (compartido con charts.js) */
+window.BeatTheme = {
+  musica: "#ff5ea8",
+  arte: "#a468ff",
+  tech: "#3aa0ff",
+  actualidad: "#2bd4a8",
+  panama_latam: "#ffd23e",
+  desastres: "#ff7a45",
+  medio_oriente: "#ff4d5e",
+  china: "#22d3ee"
+};
+
 window.Render = (function () {
   "use strict";
 
   var _news = null;
+  var _markets = null;
+  var _geo = null;
+  var _mktSel = null;                 // instrumento seleccionado en el histórico
   var filter = { q: "", time: 0, source: "" };
+  var FALLBACK = ["#3aa0ff", "#2bd4a8", "#ffb000", "#ff7a45", "#ff4d5e", "#a468ff"];
 
   var FOCUS_CHART = {
-    desastres:  { type: "map", title: "Sismos en vivo · USGS (24h)" },
+    desastres: { type: "map", title: "Sismos en vivo · USGS (24h)" },
     actualidad: { type: "ind", idx: 1, title: "Crecimiento del PIB (%) · Banco Mundial" },
-    china:      { type: "ind", idx: 1, title: "Crecimiento del PIB (%) · Banco Mundial" }
+    china: { type: "ind", idx: 1, title: "Crecimiento del PIB (%) · Banco Mundial" }
   };
 
   /* ---------- helpers ---------- */
@@ -18,6 +35,9 @@ window.Render = (function () {
     });
   }
   function host(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return ""; } }
+  function beatColor(id, i) {
+    return window.BeatTheme[id] || FALLBACK[(i || 0) % FALLBACK.length];
+  }
   function timeAgo(ts) {
     if (!ts) return "";
     var s = (Date.now() - ts) / 1000;
@@ -31,17 +51,38 @@ window.Render = (function () {
     if (n >= 100) return n.toFixed(2);
     return n.toLocaleString("en-US", { maximumFractionDigits: 4 });
   }
-  function sparkline(vals, color) {
+  function sparkline(vals, color, w, h) {
     if (!vals || vals.length < 2) return "";
-    var w = 64, h = 26, min = Math.min.apply(null, vals), max = Math.max.apply(null, vals);
+    w = w || 64; h = h || 26;
+    var min = Math.min.apply(null, vals), max = Math.max.apply(null, vals);
     var span = max - min || 1;
     var pts = vals.map(function (v, i) {
       return ((i / (vals.length - 1)) * w).toFixed(1) + "," +
         (h - ((v - min) / span) * (h - 2) - 1).toFixed(1);
     }).join(" ");
-    return '<svg class="spark" viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="none">' +
+    return '<svg class="spark" viewBox="0 0 ' + w + " " + h + '" preserveAspectRatio="none">' +
       '<polyline points="' + pts + '" fill="none" stroke="' + color + '" stroke-width="1.5" ' +
       'stroke-linejoin="round" stroke-linecap="round"/></svg>';
+  }
+  function metaLine(it) {
+    var dup = (it.count && it.count > 1)
+      ? '<span class="hl-dup" title="' + it.count + ' fuentes cubren esto">▣ ' + it.count + "</span>" : "";
+    return '<span class="hl-meta"><span class="src">' + escapeHtml(it.source || host(it.link)) +
+      '</span><span class="ago">' + timeAgo(it.ts) + "</span>" + dup + "</span>";
+  }
+
+  /* ---------- saludo personalizado ---------- */
+  function renderGreet() {
+    var el = document.getElementById("greet");
+    if (!el) return;
+    var h = parseInt(new Date().toLocaleTimeString("es-PA", {
+      hour: "2-digit", hour12: false, timeZone: "America/Panama"
+    }), 10);
+    var g = h < 12 ? "buenos días" : h < 19 ? "buenas tardes" : "buenas noches";
+    var fecha = new Date().toLocaleDateString("es-PA", {
+      weekday: "long", day: "numeric", month: "long", timeZone: "America/Panama"
+    });
+    el.textContent = "// " + g + ", Jonathan · " + fecha;
   }
 
   /* ---------- una noticia (tarjeta) reutilizable ---------- */
@@ -50,7 +91,6 @@ window.Render = (function () {
     var li = document.createElement("li");
     li.className = "hl";
     if (US && US.isRead(it.link)) li.classList.add("read");
-    if (US && US.isNew(it.ts)) li.classList.add("fresh");
 
     var a = document.createElement("a");
     a.className = "hl-link"; a.href = it.link; a.target = "_blank"; a.rel = "noopener";
@@ -62,15 +102,10 @@ window.Render = (function () {
       a.appendChild(th);
     }
 
-    var dup = (it.count && it.count > 1)
-      ? '<span class="hl-dup" title="' + it.count + ' fuentes cubren esto">▣ ' + it.count + "</span>" : "";
     var dot = (US && US.isNew(it.ts)) ? '<span class="fresh-dot" title="nueva"></span>' : "";
     var txt = document.createElement("div");
     txt.className = "hl-text";
-    txt.innerHTML =
-      '<span class="hl-title">' + dot + escapeHtml(it.title) + "</span>" +
-      '<span class="hl-meta"><span class="src">' + escapeHtml(it.source || host(it.link)) + "</span>" +
-      '<span class="ago">' + timeAgo(it.ts) + "</span>" + dup + "</span>";
+    txt.innerHTML = '<span class="hl-title">' + dot + escapeHtml(it.title) + "</span>" + metaLine(it);
     a.appendChild(txt);
     a.addEventListener("click", function () { if (US) US.markRead(it.link); li.classList.add("read"); });
     li.appendChild(a);
@@ -120,6 +155,60 @@ window.Render = (function () {
     sel.dataset.ready = "1";
   }
 
+  /* ---------- franja de KPIs ---------- */
+  function kpiTile(label, value, sub, subCls, spark) {
+    return '<div class="kpi"><span class="kpi-label">' + label + '</span>' +
+      '<span class="kpi-value">' + value + "</span>" +
+      (sub ? '<span class="kpi-sub ' + (subCls || "") + '">' + sub + "</span>" : "") +
+      (spark || "") + "</div>";
+  }
+
+  function renderKpis(state) {
+    var root = document.getElementById("kpis");
+    if (!root) return;
+    var t = [];
+    var US = window.UserStore;
+
+    if (state.weather && state.weather.current) {
+      var c = state.weather.current;
+      var ic = wmo(c.code);
+      t.push(kpiTile("Panamá ahora", ic[0] + " " + c.temp + '<span class="u">°C</span>',
+        "sensación " + c.feels + "°"));
+    }
+    if (state.news) {
+      var total = 0, fresh = 0;
+      state.news.beats.forEach(function (b) {
+        b.items.forEach(function (it) { total++; if (US && US.isNew(it.ts)) fresh++; });
+      });
+      t.push(kpiTile("Titulares", String(total),
+        fresh ? fresh + " nuevas para ti" : "al día", fresh ? "up" : ""));
+    }
+    if (state.geo) {
+      t.push(kpiTile("El mundo hoy", String((state.geo.countries || []).length) + '<span class="u">países</span>',
+        state.geo.total + " menciones"));
+    }
+    if (state.quakes) {
+      t.push(kpiTile("Sismos 24h", String(state.quakes.count),
+        "máx M" + state.quakes.max, state.quakes.max >= 6 ? "down" : ""));
+    }
+    ["S&P 500", "Bitcoin", "EUR/USD"].forEach(function (lbl) {
+      var m = state.markets && (state.markets.items || []).find(function (x) { return x.label === lbl; });
+      if (!m) return;
+      var pct = m.changePct || 0;
+      var dir = pct > 0.001 ? "up" : pct < -0.001 ? "down" : "";
+      var col = dir === "up" ? "#34e3b6" : dir === "down" ? "#ff5c6e" : "#6f819c";
+      t.push(kpiTile(lbl, fmtPrice(m.price),
+        (pct >= 0 ? "▲ +" : "▼ ") + Math.abs(pct).toFixed(2) + "%", dir,
+        sparkline(m.spark, col, 56, 22)));
+    });
+    if (state.meta) {
+      var okN = state.meta.sources_ok, totN = state.meta.sources_total;
+      t.push(kpiTile("Fuentes", okN + '<span class="u">/' + totN + "</span>",
+        okN === totN ? "todas activas" : (totN - okN) + " caídas", okN === totN ? "up" : "down"));
+    }
+    root.innerHTML = t.join("");
+  }
+
   /* ---------- dashboard de secciones ---------- */
   function renderBeats(news) {
     if (news) _news = news;
@@ -132,13 +221,15 @@ window.Render = (function () {
     if (nav) nav.innerHTML = "";
     populateSources(_news);
 
-    _news.beats.forEach(function (b) {
+    _news.beats.forEach(function (b, bi) {
       var shown = b.items.filter(matches);
       var newCount = US ? b.items.filter(function (it) { return US.isNew(it.ts); }).length : 0;
+      var col = beatColor(b.id, bi);
 
       if (nav) {
         var a = document.createElement("a");
         a.href = "#";
+        a.style.setProperty("--beat", col);
         a.innerHTML = escapeHtml(b.name) + '<span class="n">' + shown.length + "</span>" +
           (newCount ? '<span class="nav-new">' + newCount + "</span>" : "");
         a.addEventListener("click", function (e) { e.preventDefault(); openFocus(b.id); });
@@ -149,6 +240,7 @@ window.Render = (function () {
 
       var card = document.createElement("article");
       card.className = "panel beat"; card.id = "beat-" + b.id;
+      card.style.setProperty("--beat", col);
       var head = document.createElement("div");
       head.className = "panel-head"; head.title = "Abrir a pantalla completa";
       head.innerHTML = "<h2>" + escapeHtml(b.name) + "</h2>" +
@@ -170,19 +262,96 @@ window.Render = (function () {
     });
   }
 
-  /* ---------- mercados ---------- */
-  function renderMarkets(markets) {
-    var root = document.getElementById("markets");
-    if (!root) return;
+  /* ---------- portada: lo más importante (lista jerárquica) ---------- */
+  function renderPortada(news) {
+    if (news) _news = news;
+    var root = document.getElementById("portada");
+    if (!root || !_news) return;
+    var US = window.UserStore;
+
+    var ALERT = /gdacs|usgs|earthquake|sismo/i;
+    var pool = [];
+    _news.beats.forEach(function (b, bi) {
+      if (US && US.isHidden(b.id)) return;
+      b.items.forEach(function (it) {
+        if (ALERT.test(it.source || "") || ALERT.test(it.title || "")) return;
+        pool.push({
+          link: it.link, title: it.title, source: it.source, image: it.image,
+          ts: it.ts, count: it.count || 1, beatId: b.id, beatName: b.name,
+          color: beatColor(b.id, bi)
+        });
+      });
+    });
+
+    var now = Date.now();
+    pool.forEach(function (it) {
+      var ageH = it.ts ? (now - it.ts) / 3600000 : 999;
+      var recency = Math.max(0, 48 - ageH) / 48;
+      var coverage = Math.min(it.count, 6) - 1;
+      it._score = coverage * 2.2 + recency * 2.4 + (it.image ? 0.6 : 0);
+    });
+    pool.sort(function (a, b) { return b._score - a._score || b.ts - a.ts; });
+
+    var picked = [], perBeat = {};
+    for (var i = 0; i < pool.length && picked.length < 10; i++) {
+      var it = pool[i];
+      perBeat[it.beatId] = (perBeat[it.beatId] || 0);
+      if (perBeat[it.beatId] >= 3) continue;
+      perBeat[it.beatId]++;
+      picked.push(it);
+    }
+    var leadIdx = picked.findIndex(function (x) { return x.image; });
+    if (leadIdx > 0) picked.unshift(picked.splice(leadIdx, 1)[0]);
+
     root.innerHTML = "";
-    (markets.items || []).forEach(function (m) {
+    if (!picked.length) {
+      root.innerHTML = '<li class="empty">Sin titulares por ahora.</li>';
+      return;
+    }
+    picked.forEach(function (it, i) {
+      var li = document.createElement("li");
+      li.className = "lead" + (i === 0 && it.image ? " first" : "");
+      li.style.setProperty("--beat", it.color);
+      if (US && US.isRead(it.link)) li.classList.add("read");
+      var dot = (US && US.isNew(it.ts)) ? '<span class="fresh-dot"></span>' : "";
+      var thumb = (i === 0 && it.image)
+        ? '<div class="lead-thumb" style="background-image:url(\'' + String(it.image).replace(/'/g, "%27") + '\')"></div>' : "";
+      li.innerHTML = '<a href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
+        thumb +
+        '<span class="lead-kick"><span class="lead-beat">' + escapeHtml(it.beatName) + "</span></span>" +
+        '<span class="lead-title">' + dot + escapeHtml(it.title) + "</span>" +
+        metaLine(it) + "</a>";
+      li.querySelector("a").addEventListener("click", function () {
+        if (US) US.markRead(it.link); li.classList.add("read");
+      });
+      root.appendChild(li);
+    });
+  }
+
+  /* ---------- mercados: heatmap de rendimiento ---------- */
+  function heatBg(pct) {
+    if (pct == null) return "";
+    var a = Math.min(Math.abs(pct) / 3, 1) * 0.5;
+    if (Math.abs(pct) < 0.001) return "";
+    return pct > 0
+      ? "background: linear-gradient(180deg, rgba(43,212,168," + (a * 0.75).toFixed(3) + "), rgba(43,212,168," + (a * 0.25).toFixed(3) + "));"
+      : "background: linear-gradient(180deg, rgba(255,77,94," + (a * 0.75).toFixed(3) + "), rgba(255,77,94," + (a * 0.25).toFixed(3) + "));";
+  }
+
+  function renderMarkets(markets) {
+    if (markets) _markets = markets;
+    var root = document.getElementById("markets");
+    if (!root || !_markets) return;
+    root.innerHTML = "";
+    (_markets.items || []).forEach(function (m) {
       var pct = m.changePct || 0;
       var dir = pct > 0.001 ? "up" : pct < -0.001 ? "down" : "flat";
       var arrow = dir === "up" ? "▲" : dir === "down" ? "▼" : "■";
-      var color = dir === "up" ? "#2bd4a8" : dir === "down" ? "#ff4d5e" : "#6b7c93";
+      var color = dir === "up" ? "#34e3b6" : dir === "down" ? "#ff5c6e" : "#6f819c";
       var chgTxt = (m.spark && m.spark.length) ? arrow + " " + Math.abs(pct).toFixed(2) + "%" : "spot";
       var el = document.createElement("div");
       el.className = "mkt";
+      el.style.cssText = heatBg((m.spark && m.spark.length) ? pct : null);
       el.innerHTML =
         '<span class="label">' + escapeHtml(m.label) + "</span>" +
         '<span class="price">' + fmtPrice(m.price) + "</span>" +
@@ -191,7 +360,60 @@ window.Render = (function () {
     });
   }
 
-  function buildTicker(markets, quakes) {
+  /* ---------- mercados laterales (hero) + tabs del histórico ---------- */
+  function selectMarket(label) {
+    if (!_markets) return;
+    var m = (_markets.items || []).find(function (x) { return x.label === label && x.hist; });
+    if (!m) return;
+    _mktSel = label;
+    document.querySelectorAll(".mkt-tab").forEach(function (b) {
+      b.classList.toggle("active", b.dataset.m === label);
+    });
+    if (window.Charts) Charts.mountMarketBig("mktbig", m);
+  }
+
+  function renderMarketTabs() {
+    var root = document.getElementById("mkt-tabs");
+    if (!root || !_markets) return;
+    var withHist = (_markets.items || []).filter(function (m) { return m.hist && m.hist.v && m.hist.v.length > 2; });
+    if (!withHist.length) return;
+    root.innerHTML = "";
+    withHist.forEach(function (m) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "mkt-tab"; b.dataset.m = m.label;
+      b.textContent = m.label;
+      b.addEventListener("click", function () { selectMarket(m.label); });
+      root.appendChild(b);
+    });
+    selectMarket(_mktSel && withHist.some(function (m) { return m.label === _mktSel; })
+      ? _mktSel : withHist[0].label);
+  }
+
+  function renderSideMarkets() {
+    var root = document.getElementById("side-mkts");
+    if (!root || !_markets) return;
+    root.innerHTML = "";
+    (_markets.items || []).forEach(function (m) {
+      var pct = m.changePct || 0;
+      var dir = pct > 0.001 ? "up" : pct < -0.001 ? "down" : "flat";
+      var color = dir === "up" ? "#34e3b6" : dir === "down" ? "#ff5c6e" : "#6f819c";
+      var row = document.createElement("button");
+      row.type = "button"; row.className = "smk"; row.title = "Ver histórico";
+      row.innerHTML = '<span class="l">' + escapeHtml(m.label) + "</span>" +
+        sparkline(m.spark, color, 54, 20) +
+        '<span class="p">' + fmtPrice(m.price) + "</span>" +
+        '<span class="c ' + dir + '">' + (m.spark && m.spark.length
+          ? (pct >= 0 ? "+" : "") + pct.toFixed(2) + "%" : "spot") + "</span>";
+      row.addEventListener("click", function () {
+        selectMarket(m.label);
+        var big = document.getElementById("mktbig");
+        if (big) big.scrollIntoView({ behavior: "smooth", block: "center" });
+      });
+      root.appendChild(row);
+    });
+  }
+
+  function buildTicker(markets, quakes, geo) {
     var track = document.getElementById("ticker-track");
     if (!track) return;
     var parts = [];
@@ -206,96 +428,33 @@ window.Render = (function () {
       var top = quakes.items[0];
       parts.push('<span class="ticker-item quake">⚡ SISMO M' + top.mag + " · " + escapeHtml(top.place) + "</span>");
     }
+    if (geo && geo.countries && geo.countries.length) {
+      var g = geo.countries[0];
+      parts.push('<span class="ticker-item"><b>🌍 ' + escapeHtml(g.es) + "</b> domina los titulares (" + g.count + " menciones)</span>");
+    }
     track.innerHTML = parts.length ? parts.join("") + parts.join("") : "";
   }
 
-  /* ---------- portada: lo más importante ---------- */
-  function portadaCard(it) {
-    var US = window.UserStore;
-    var a = document.createElement("a");
-    a.className = "pcard";
-    a.href = it.link; a.target = "_blank"; a.rel = "noopener";
-    if (US && US.isRead(it.link)) a.classList.add("read");
-
-    if (it.image) {
-      var th = document.createElement("div");
-      th.className = "pcard-thumb";
-      th.style.backgroundImage = "url('" + String(it.image).replace(/'/g, "%27") + "')";
-      a.appendChild(th);
-    } else {
-      a.classList.add("no-thumb");
-    }
-
-    var dup = (it.count && it.count > 1)
-      ? '<span class="hl-dup" title="' + it.count + ' fuentes cubren esto">▣ ' + it.count + "</span>" : "";
-    var dot = (US && US.isNew(it.ts)) ? '<span class="fresh-dot"></span>' : "";
-    var body = document.createElement("div");
-    body.className = "pcard-body";
-    body.innerHTML =
-      '<span class="pcard-beat">' + escapeHtml(it.beatName || "") + "</span>" +
-      '<span class="pcard-title">' + dot + escapeHtml(it.title) + "</span>" +
-      '<span class="hl-meta"><span class="src">' + escapeHtml(it.source || host(it.link)) + "</span>" +
-      '<span class="ago">' + timeAgo(it.ts) + "</span>" + dup + "</span>";
-    a.appendChild(body);
-    a.addEventListener("click", function () { if (US) US.markRead(it.link); a.classList.add("read"); });
-    return a;
-  }
-
-  function renderPortada(news) {
-    if (news) _news = news;
-    var root = document.getElementById("portada");
-    if (!root || !_news) return;
-    var US = window.UserStore;
-
-    // Reúne todos los titulares con su sección, ignorando secciones ocultas.
-    // Excluye alertas automáticas (GDACS, sismos USGS): inflan el contador, no
-    // llevan imagen y ya tienen su propio panel (mapa de sismos).
-    var ALERT = /gdacs|usgs|earthquake|sismo/i;
-    var pool = [];
-    _news.beats.forEach(function (b) {
-      if (US && US.isHidden(b.id)) return;
-      b.items.forEach(function (it) {
-        if (ALERT.test(it.source || "") || ALERT.test(it.title || "")) return;
-        pool.push({
-          link: it.link, title: it.title, source: it.source, image: it.image,
-          ts: it.ts, count: it.count || 1, beatId: b.id, beatName: b.name
-        });
-      });
-    });
-
-    // Ranking sin IA: cobertura (cuántas fuentes, con tope) + recencia.
-    var now = Date.now();
-    pool.forEach(function (it) {
-      var ageH = it.ts ? (now - it.ts) / 3600000 : 999;
-      var recency = Math.max(0, 48 - ageH) / 48;        // 0..1 en 48h
-      var coverage = Math.min(it.count, 6) - 1;          // tope: una fuente no aplasta
-      it._score = coverage * 2.2 + recency * 2.4 + (it.image ? 0.6 : 0);
-    });
-    pool.sort(function (a, b) { return b._score - a._score || b.ts - a.ts; });
-
-    // Evita repetir la misma sección demasiado: máx 2 por sección en el top.
-    var picked = [], perBeat = {};
-    for (var i = 0; i < pool.length && picked.length < 8; i++) {
-      var it = pool[i];
-      perBeat[it.beatId] = (perBeat[it.beatId] || 0);
-      if (perBeat[it.beatId] >= 2) continue;
-      perBeat[it.beatId]++;
-      picked.push(it);
-    }
-
-    // La tarjeta principal debe tener imagen: sube la primera con imagen al frente.
-    var leadIdx = picked.findIndex(function (it) { return it.image; });
-    if (leadIdx > 0) picked.unshift(picked.splice(leadIdx, 1)[0]);
-
+  /* ---------- ranking de países (junto al mapa) ---------- */
+  function renderGeoRank(geo) {
+    if (geo) _geo = geo;
+    var root = document.getElementById("geo-rank");
+    var meta = document.getElementById("geo-meta");
+    if (!_geo) return;
+    var cs = _geo.countries || [];
+    if (meta) meta.textContent = cs.length + " países · " + _geo.total + " menciones";
+    if (!root) return;
     root.innerHTML = "";
-    if (!picked.length) {
-      root.innerHTML = '<div class="empty">Sin titulares por ahora.</div>';
-      return;
-    }
-    picked.forEach(function (it, i) {
-      var card = portadaCard(it);
-      if (i === 0 && it.image) card.classList.add("lead");
-      root.appendChild(card);
+    var max = Math.max.apply(null, cs.map(function (c) { return c.count; }).concat([1]));
+    cs.slice(0, 18).forEach(function (c, i) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "gr-item"; b.title = "Ver titulares de " + c.es;
+      b.innerHTML = '<span class="gr-n">' + (i + 1) + "</span>" +
+        '<span class="gr-name">' + escapeHtml(c.es) + "</span>" +
+        '<span class="gr-bar" style="width:' + Math.max(4, (c.count / max) * 46) + 'px"></span>' +
+        '<span class="gr-count">' + c.count + "</span>";
+      b.addEventListener("click", function () { openCountry(c); });
+      root.appendChild(b);
     });
   }
 
@@ -320,12 +479,10 @@ window.Render = (function () {
   }
   function renderWeather(w) {
     var root = document.getElementById("weather");
-    var place = document.getElementById("wx-place");
     var mini = document.getElementById("wx-mini");
     if (!w || !w.current) return;
     var c = w.current, ic = wmo(c.code);
-    if (place) place.textContent = w.place || "";
-    if (mini) mini.innerHTML = ic[0] + " " + c.temp + "°";
+    if (mini) mini.innerHTML = ic[0] + " " + c.temp + "° PTY";
 
     if (!root) return;
     var days = (w.daily || []).map(function (d, i) {
@@ -337,6 +494,10 @@ window.Render = (function () {
         '<span class="wx-dt"><b>' + d.tmax + "°</b> " + d.tmin + "°</span>" + pop + "</div>";
     }).join("");
 
+    var extra = "";
+    if (c.uv != null) extra += "<span>UV <b>" + c.uv + "</b></span>";
+    if (w.sunrise && w.sunset) extra += "<span>☀ <b>" + w.sunrise + "</b> → <b>" + w.sunset + "</b></span>";
+
     root.innerHTML =
       '<div class="wx-now">' +
         '<span class="wx-ico">' + ic[0] + "</span>" +
@@ -345,10 +506,13 @@ window.Render = (function () {
         '<div class="wx-stats">' +
           '<span>Sensación <b>' + c.feels + "°</b></span>" +
           '<span>Humedad <b>' + (c.humidity != null ? c.humidity + "%" : "—") + "</b></span>" +
-          '<span>Viento <b>' + c.wind + " km/h</b></span>" +
+          '<span>Viento <b>' + c.wind + " km/h</b></span>" + extra +
         "</div>" +
       "</div>" +
+      '<div id="wxhours" class="wx-hours"></div>' +
       '<div class="wx-days">' + days + "</div>";
+
+    if (window.Charts) Charts.mountWxHours("wxhours", w);
   }
 
   /* ---------- salud de fuentes ---------- */
@@ -376,8 +540,15 @@ window.Render = (function () {
     if (!root) return;
     root.innerHTML = "";
     var items = [];
-    (trends.entities || []).slice(0, 12).forEach(function (e) { items.push({ label: e.name, count: e.count, cls: "ent" }); });
-    (trends.terms || []).slice(0, 12).forEach(function (t) { items.push({ label: t.term, count: t.count, cls: "term" }); });
+    var seen = {};
+    (trends.entities || []).slice(0, 12).forEach(function (e) {
+      items.push({ label: e.name, count: e.count, cls: "ent" });
+      e.name.toLowerCase().split(/\s+/).forEach(function (w) { seen[w] = 1; });
+    });
+    (trends.terms || []).slice(0, 12).forEach(function (t) {
+      if (seen[t.term.toLowerCase()]) return;   // ya está como entidad
+      items.push({ label: t.term, count: t.count, cls: "term" });
+    });
     if (!items.length) return;
     var max = Math.max.apply(null, items.map(function (i) { return i.count; }));
     var lab = document.createElement("span"); lab.className = "hot-label"; lab.textContent = "🔥 Temas calientes";
@@ -392,7 +563,37 @@ window.Render = (function () {
     });
   }
 
-  /* ---------- overlay (enfoque / guardados) ---------- */
+  /* ---------- analítica: tu lectura por sección ---------- */
+  function renderAnalytics(trends) {
+    if (!window.Charts) return;
+    var US = window.UserStore;
+
+    if (_news) {
+      var rows = [];
+      _news.beats.forEach(function (b, bi) {
+        var n = 0;
+        b.items.forEach(function (it) { if (US && US.isRead(it.link)) n++; });
+        if (n) rows.push({ name: b.name, value: n, color: beatColor(b.id, bi) });
+      });
+      if (!rows.length) {
+        // sin lecturas aún: muestra el peso de cobertura de cada sección
+        _news.beats.forEach(function (b, bi) {
+          var n = 0;
+          b.items.forEach(function (it) { n += (it.count || 1); });
+          rows.push({ name: b.name, value: n, color: beatColor(b.id, bi) });
+        });
+        rows._label = "titulares";
+      } else {
+        rows._label = "leídas";
+      }
+      Charts.mountReadDonut("readdonut", rows);
+    }
+    if (trends && trends.entities) {
+      Charts.mountEntities("entbar", trends.entities, setSearch);
+    }
+  }
+
+  /* ---------- overlay (enfoque / guardados / país) ---------- */
   function showOverlay() {
     var f = document.getElementById("focus");
     var body = document.querySelector(".focus-body");
@@ -429,6 +630,18 @@ window.Render = (function () {
     }
   }
 
+  function openCountry(c) {
+    document.getElementById("focus-title").textContent = "🌍 " + c.es;
+    document.getElementById("focus-count").textContent =
+      c.count + (c.count === 1 ? " mención hoy" : " menciones hoy");
+    var list = document.getElementById("focus-list");
+    list.innerHTML = "";
+    (c.items || []).forEach(function (it) { list.appendChild(headlineLi(it)); });
+    document.getElementById("focus-chart-wrap").hidden = true;
+    if (window.Charts) Charts.dispose("focus-chart");
+    showOverlay();
+  }
+
   function openSaved() {
     var US = window.UserStore;
     var saved = US ? US.savedList() : [];
@@ -456,8 +669,9 @@ window.Render = (function () {
     setTimeout(function () {
       f.hidden = true;
       if (window.Charts) Charts.dispose("focus-chart");
-      renderBeats();          // refresca estados de leído/guardado al volver
+      renderBeats();
       renderPortada();
+      renderAnalytics();
       updateSavedCount();
     }, 180);
   }
@@ -490,10 +704,14 @@ window.Render = (function () {
   }
 
   return {
+    renderGreet: renderGreet, renderKpis: renderKpis,
     renderBeats: renderBeats, renderMarkets: renderMarkets, buildTicker: buildTicker,
+    renderMarketTabs: renderMarketTabs, renderSideMarkets: renderSideMarkets,
+    renderGeoRank: renderGeoRank, renderAnalytics: renderAnalytics,
     renderHot: renderHot, renderSettings: renderSettings, updateSavedCount: updateSavedCount,
     renderPortada: renderPortada, renderWeather: renderWeather, renderHealth: renderHealth,
     setFilter: setFilter, setSearch: setSearch,
-    openFocus: openFocus, openSaved: openSaved, closeFocus: closeFocus, timeAgo: timeAgo
+    openFocus: openFocus, openSaved: openSaved, openCountry: openCountry, closeFocus: closeFocus,
+    timeAgo: timeAgo
   };
 })();

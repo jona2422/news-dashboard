@@ -1,31 +1,37 @@
-# NEWSDESK — Portal de noticias de Jonathan
+# NEWSDESK 2.0 — La redacción de Jonathan
 
 Dashboard personal tipo *terminal* (Bloomberg-style) que reúne, en un solo lugar,
-los temas que me interesan, con datos en tiempo real y gráficas de seguimiento global.
+los temas que me interesan, con mapas interactivos, datos en tiempo real y gráficas.
 
-**Funciona como una pequeña redacción** con secciones (beats):
+**Funciona como una pequeña redacción** con secciones (beats), cada una con su color:
 Música & Industria · Arte/Cultura/Educación · Tecnología & IA · Actualidad Global ·
 Panamá/LatAm · Desastres Naturales · Medio Oriente · China.
 
-Incluye además:
-- 📰 **Portada "Lo más importante"** — reúne los titulares con mayor cobertura (cuántas
-  fuentes los traen) + recencia, de todas las secciones. Filtra alertas automáticas
-  (sismos/GDACS) para que no la inunden.
-- 🌦️ **Clima de Panamá** — actual + pronóstico de 4 días (Open-Meteo, sin API key).
-- 🩺 **Salud de fuentes** — indicador en el pie con cuántos feeds responden y cuáles fallan.
-- 🖼️ **Titulares con miniatura** (imagen extraída del propio feed).
+Incluye:
+- 🌍 **El mundo en titulares** — mapa mundial de calor: qué países aparecen más en los
+  titulares de hoy (detección sin IA, por nombres/capitales en ES+EN). Clic en un país
+  o en el ranking lateral abre sus noticias a pantalla completa.
+- 📡 **Radar Panamá/LatAm** — mapa regional con sismos USGS (24 h), menciones de
+  noticias por país y pin de Ciudad de Panamá.
+- 📰 **Portada "Lo más importante"** — titulares con mayor cobertura + recencia,
+  de todas las secciones; filtra alertas automáticas (sismos/GDACS).
+- 📟 **Franja de KPIs** — clima, titulares, países, sismos, S&P, BTC, EUR/USD y
+  salud de fuentes de un vistazo, con sparklines.
+- 🌦️ **Clima de Panamá** — actual + próximas 24 h (gráfica temp/lluvia) + 7 días,
+  con UV y salida/puesta de sol (Open-Meteo, sin API key).
+- 📈 **Histórico de mercados** — 6 meses por instrumento (índices, divisas, cripto)
+  con zoom, máximos/mínimos y pestañas; ademas **heatmap de rendimiento** del día.
+- 🧠 **Analítica** — dona de *tu lectura por sección* (local, privada), barras de
+  protagonistas del día (clic = buscar) y tendencias de volumen por sección.
+- 🩺 **Salud de fuentes** — cuántos feeds responden y cuáles fallan.
 - 🔎 **Buscador y filtros** en vivo (texto, fuente, últimas 24 h / 7 días).
-- 🔥 **Temas calientes** — análisis estadístico (sin IA) de los términos y entidades más
-  mencionados; además **deduplica** la misma noticia repetida entre fuentes (badge ▣ N).
-- ⭐ **Personal y persistente** (localStorage): marca leídos, **guarda** favoritos, badge de
-  **"nuevas desde tu última visita"** y oculta secciones que no te interesan.
-- 🌍 **Mapa de sismos en vivo** (USGS, últimas 24 h).
-- 💱 **Mercados y divisas** con sparklines: índices (S&P 500/Nasdaq/Dow vía Yahoo) +
-  divisas (BCE/Frankfurter) + cripto (CoinGecko) + spot regional USD/COP.
-- 📊 **Indicadores** de inflación y crecimiento (Banco Mundial).
-- 📈 **Tendencias en el tiempo** — volumen de noticias por sección (se acumula cada hora).
-- 🖥️ **Modo enfoque**: clic en una sección la abre a pantalla completa.
-- ⏱️ **Ticker** en vivo y reloj UTC / Panamá.
+- 🔥 **Temas calientes** — términos y entidades más mencionados (sin IA); además
+  **deduplica** la misma noticia repetida entre fuentes (badge ▣ N).
+- ⭐ **Personal y persistente** (localStorage): marca leídos, **guarda** favoritos,
+  badge de **"nuevas desde tu última visita"** y oculta secciones; saludo por hora
+  del día en Panamá.
+- 🖥️ **Modo enfoque**: clic en una sección (o país) la abre a pantalla completa.
+- ⏱️ **Ticker** en vivo, reloj UTC/Panamá e Indicadores del Banco Mundial.
 
 Todo es **estático + gratis**: un robot de GitHub Actions baja los datos cada hora,
 los guarda como JSON y GitHub Pages sirve el sitio. **Sin servidor y sin claves de API.**
@@ -36,10 +42,11 @@ los guarda como JSON y GitHub Pages sirve el sitio. **Sin servidor y sin claves 
 
 ```
 index.html                 # la página
-assets/css/styles.css       # tema oscuro terminal
+assets/css/styles.css       # tema oscuro terminal 2.0 (tokens + acentos por sección)
 assets/js/                  # app.js · render.js · charts.js (vanilla, sin frameworks)
+assets/geo/world.json       # geometría del mapa mundial (servida desde el repo)
 scripts/sources.json        # << EDITA AQUÍ tus fuentes RSS por sección
-scripts/fetch_news.py       # baja titulares RSS  -> data/news.json + meta.json
+scripts/fetch_news.py       # titulares RSS + países -> data/news.json, geo.json, meta.json
 scripts/fetch_data.py       # sismos/clima/mercados/indicadores -> data/*.json
 data/*.json                 # datos generados (los actualiza el robot, no editar a mano)
 .github/workflows/update.yml# robot horario

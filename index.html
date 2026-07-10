@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEWSDESK · Portal de Jonathan</title>
-  <meta name="description" content="Redacción privada: música, arte, tecnología, actualidad global, Panamá/LatAm, desastres, Medio Oriente y China en tiempo real.">
-  <meta name="theme-color" content="#070a10">
+  <title>NEWSDESK · La redacción de Jonathan</title>
+  <meta name="description" content="Redacción privada de Jonathan González: música, arte, tecnología, actualidad global, Panamá/LatAm, desastres, Medio Oriente y China — con mapas y datos en tiempo real.">
+  <meta name="theme-color" content="#04070d">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -16,7 +16,7 @@
     <div class="brand">
       <span class="logo">◢◣</span>
       <span class="brand-name">NEWSDESK</span>
-      <span class="brand-sub">// redacción privada</span>
+      <span id="greet" class="brand-sub">// la redacción de Jonathan</span>
     </div>
     <div class="status">
       <span id="wx-mini" class="wx-mini" title="Clima en Panamá"></span>
@@ -25,6 +25,12 @@
       <span id="clock" class="clock">--:--:--</span>
     </div>
   </header>
+
+  <div id="kpis" class="kpis" aria-label="Indicadores rápidos"></div>
+
+  <div class="ticker" aria-hidden="true">
+    <div id="ticker-track" class="ticker-track"></div>
+  </div>
 
   <nav class="beatnav" id="beatnav"></nav>
 
@@ -49,19 +55,37 @@
 
   <div id="hot" class="hot"></div>
 
-  <div class="ticker" aria-hidden="true">
-    <div id="ticker-track" class="ticker-track"></div>
-  </div>
-
   <main class="layout">
-    <!-- ============ PORTADA: lo más importante ============ -->
-    <section class="section">
-      <div class="section-head">
-        <h2>Lo más importante</h2>
-        <span class="section-sub">titulares con mayor cobertura · todas las secciones</span>
-      </div>
-      <div id="portada" class="portada"></div>
-    </section>
+    <!-- ============ HERO: portada · mapa mundial · mercados ============ -->
+    <div class="hero">
+      <article class="panel lead-panel">
+        <div class="panel-head">
+          <h2>Lo más importante</h2>
+          <span class="tag">cobertura + recencia</span>
+        </div>
+        <ul id="portada" class="lead-list"></ul>
+      </article>
+
+      <article class="panel map-panel">
+        <div class="panel-head">
+          <h2>El mundo en titulares</h2>
+          <span class="tag">menciones por país · hoy</span>
+          <span id="geo-meta" class="muted right"></span>
+        </div>
+        <div class="geo-body">
+          <div id="worldmap" class="chart chart-world"></div>
+          <div id="geo-rank" class="geo-rank"></div>
+        </div>
+      </article>
+
+      <article class="panel mkts-panel">
+        <div class="panel-head">
+          <h2>Mercados</h2>
+          <span class="tag">en vivo</span>
+        </div>
+        <div id="side-mkts" class="side-mkts"></div>
+      </article>
+    </div>
 
     <!-- ============ SECCIONES (beats) ============ -->
     <section class="section">
@@ -72,30 +96,48 @@
       <div class="beats" id="beats"></div>
     </section>
 
-    <!-- ============ TABLERO DE DATOS ============ -->
+    <!-- ============ PANAMÁ · LATAM ============ -->
     <section class="section">
       <div class="section-head">
-        <h2>Tablero de datos</h2>
-        <span class="section-sub">mercados, clima, sismos e indicadores</span>
+        <h2>Panamá · LatAm</h2>
+        <span class="section-sub">sismos de la región, clima extendido y actividad local</span>
       </div>
-
-      <div class="datarow">
-        <article class="panel span2 map-panel">
+      <div class="latam-row">
+        <article class="panel">
           <div class="panel-head">
-            <h2>Sismos en vivo</h2>
-            <span class="tag">USGS · 24h</span>
-            <span id="quake-meta" class="muted right"></span>
+            <h2>Radar regional</h2>
+            <span class="tag">USGS 24h · noticias por país</span>
+            <span id="latam-meta" class="muted right"></span>
           </div>
-          <div id="map" class="chart chart-map"></div>
+          <div id="latammap" class="chart chart-latam"></div>
         </article>
 
         <article class="panel wx-panel">
           <div class="panel-head">
-            <h2>Clima</h2>
+            <h2>Clima · Ciudad de Panamá</h2>
             <span class="tag">Open-Meteo</span>
-            <span id="wx-place" class="muted right"></span>
           </div>
           <div id="weather" class="weather"></div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ============ TABLERO DE DATOS ============ -->
+    <section class="section">
+      <div class="section-head">
+        <h2>Tablero de datos</h2>
+        <span class="section-sub">mercados históricos, indicadores y rendimiento del día</span>
+      </div>
+
+      <div class="datarow">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Histórico de mercados</h2>
+            <span class="tag">6 meses</span>
+            <span id="mkt-meta" class="muted right"></span>
+          </div>
+          <div id="mkt-tabs" class="mkt-tabs"></div>
+          <div id="mktbig" class="chart chart-big"></div>
         </article>
 
         <article class="panel">
@@ -110,11 +152,37 @@
 
       <article class="panel span-full">
         <div class="panel-head">
-          <h2>Mercados &amp; divisas</h2>
+          <h2>Rendimiento del día</h2>
           <span class="tag">Yahoo · BCE · CoinGecko</span>
         </div>
         <div id="markets" class="markets-grid"></div>
       </article>
+    </section>
+
+    <!-- ============ ANALÍTICA ============ -->
+    <section class="section">
+      <div class="section-head">
+        <h2>Analítica</h2>
+        <span class="section-sub">tu lectura, los protagonistas y el pulso de cada sección</span>
+      </div>
+
+      <div class="ana-row">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Tu lectura por sección</h2>
+            <span class="tag">local · privado</span>
+          </div>
+          <div id="readdonut" class="chart chart-donut"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Protagonistas de hoy</h2>
+            <span class="tag">menciones en titulares</span>
+          </div>
+          <div id="entbar" class="chart chart-ents"></div>
+        </article>
+      </div>
 
       <article class="panel span-full">
         <div class="panel-head">
@@ -144,7 +212,7 @@
 
   <footer class="foot">
     <div id="health" class="health"></div>
-    <span class="muted">NEWSDESK — portal personal de Jonathan González · Datos vía RSS · USGS · Open-Meteo · Yahoo · Frankfurter · CoinGecko · Banco Mundial. Se actualiza cada hora.</span>
+    <span class="muted">NEWSDESK — la redacción de Jonathan González · RSS · USGS · Open-Meteo · Yahoo · Frankfurter · CoinGecko · Banco Mundial · Se actualiza cada hora.</span>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js" defer></script>

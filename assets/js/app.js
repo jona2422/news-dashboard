@@ -4,6 +4,7 @@
 
   var FILES = {
     news: "data/news.json",
+    geo: "data/geo.json",
     quakes: "data/quakes.json",
     weather: "data/weather.json",
     markets: "data/markets.json",
@@ -38,36 +39,44 @@
   }
 
   function refresh() {
-    Promise.allSettled([
-      load("news"), load("quakes"), load("weather"), load("markets"),
-      load("indicators"), load("trends"), load("history"), load("meta")
-    ]).then(function (res) {
-      var news = res[0], quakes = res[1], weather = res[2], markets = res[3],
-        indicators = res[4], trends = res[5], history = res[6], meta = res[7];
+    var keys = ["news", "geo", "quakes", "weather", "markets",
+                "indicators", "trends", "history", "meta"];
+    Promise.allSettled(keys.map(load)).then(function (res) {
+      keys.forEach(function (k, i) {
+        if (res[i].status === "fulfilled") state[k] = res[i].value;
+      });
 
-      if (news.status === "fulfilled") {
-        state.news = news.value;
+      if (state.news) {
         Render.renderBeats(state.news);
         Render.renderPortada(state.news);
       }
-      if (weather.status === "fulfilled") { state.weather = weather.value; Render.renderWeather(state.weather); }
-      if (markets.status === "fulfilled") { state.markets = markets.value; Render.renderMarkets(state.markets); }
-      if (quakes.status === "fulfilled") {
-        state.quakes = quakes.value;
-        Charts.initMap(state.quakes);
-        var qm = document.getElementById("quake-meta");
-        if (qm) qm.textContent = state.quakes.count + " eventos · máx M" + state.quakes.max;
+      if (state.weather) Render.renderWeather(state.weather);
+      if (state.markets) {
+        Render.renderMarkets(state.markets);
+        Render.renderSideMarkets();
+        Render.renderMarketTabs();
       }
-      if (indicators.status === "fulfilled") { state.indicators = indicators.value; Charts.initIndicators(state.indicators); }
-      if (trends.status === "fulfilled") { state.trends = trends.value; Render.renderHot(state.trends); }
-      if (history.status === "fulfilled") { state.history = history.value; Charts.mountTrends("trends", state.history); }
-      if (meta.status === "fulfilled") { state.meta = meta.value; Render.renderHealth(state.meta); }
-      Render.buildTicker(state.markets, state.quakes);
+      if (state.geo) {
+        Render.renderGeoRank(state.geo);
+        if (window.Charts) Charts.mountWorldNews("worldmap", state.geo, Render.openCountry);
+      }
+      if (state.quakes || state.geo) {
+        if (window.Charts) Charts.mountLatam("latammap", state.quakes, state.geo);
+        var lm = document.getElementById("latam-meta");
+        if (lm && state.quakes) lm.textContent = state.quakes.count + " sismos · máx M" + state.quakes.max;
+      }
+      if (state.indicators && window.Charts) Charts.mountIndicators("indicators", state.indicators, null, true);
+      if (state.trends) Render.renderHot(state.trends);
+      if (state.history && window.Charts) Charts.mountTrends("trends", state.history);
+      if (state.meta) Render.renderHealth(state.meta);
+
+      Render.renderKpis(state);
+      Render.renderAnalytics(state.trends);
+      Render.buildTicker(state.markets, state.quakes, state.geo);
       Render.renderSettings();
       Render.updateSavedCount();
 
-      var iso = (meta.status === "fulfilled" && meta.value.updated) ||
-        (state.news && state.news.updated);
+      var iso = (state.meta && state.meta.updated) || (state.news && state.news.updated);
       setUpdated(iso);
     });
   }
@@ -110,6 +119,7 @@
   }
 
   function start() {
+    Render.renderGreet();
     clock();
     setInterval(clock, 1000);
     wireControls();

@@ -14,6 +14,7 @@ import json
 import os
 import ssl
 import sys
+import time
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
@@ -66,17 +67,20 @@ def quakes():
 
 # --------------------------------------------------------------------------- #
 def weather():
-    """Clima actual + pronostico de 4 dias para Ciudad de Panama (Open-Meteo)."""
+    """Clima actual + 7 dias + proximas 24h para Ciudad de Panama (Open-Meteo)."""
     url = ("https://api.open-meteo.com/v1/forecast"
            "?latitude=8.98&longitude=-79.52"
            "&current=temperature_2m,relative_humidity_2m,apparent_temperature,"
-           "precipitation,weather_code,wind_speed_10m,is_day"
+           "precipitation,weather_code,wind_speed_10m,is_day,uv_index"
            "&daily=weather_code,temperature_2m_max,temperature_2m_min,"
-           "precipitation_probability_max"
-           "&timezone=America/Panama&forecast_days=4")
+           "precipitation_probability_max,precipitation_sum,sunrise,sunset"
+           "&hourly=temperature_2m,precipitation_probability,weather_code"
+           "&forecast_hours=24"
+           "&timezone=America/Panama&forecast_days=7")
     d = json.loads(get(url))
     cur = d.get("current", {})
     dl = d.get("daily", {})
+    hr = d.get("hourly", {})
     days = []
     for i, day in enumerate(dl.get("time", [])):
         days.append({
@@ -85,7 +89,18 @@ def weather():
             "tmax": round((dl.get("temperature_2m_max") or [0])[i]),
             "tmin": round((dl.get("temperature_2m_min") or [0])[i]),
             "pop": (dl.get("precipitation_probability_max") or [None])[i],
+            "rain": round((dl.get("precipitation_sum") or [0])[i] or 0, 1),
         })
+    hours = []
+    for i, t in enumerate(hr.get("time", [])):
+        hours.append({
+            "t": t[-5:],  # "HH:MM"
+            "temp": round((hr.get("temperature_2m") or [0])[i], 1),
+            "pop": (hr.get("precipitation_probability") or [None])[i],
+            "code": (hr.get("weather_code") or [None])[i],
+        })
+    sr = (dl.get("sunrise") or [""])[0]
+    ss = (dl.get("sunset") or [""])[0]
     out = {
         "updated": now_iso(),
         "place": "Ciudad de Panamá",
@@ -96,26 +111,33 @@ def weather():
             "wind": round(cur.get("wind_speed_10m", 0)),
             "code": cur.get("weather_code"),
             "is_day": cur.get("is_day", 1),
+            "uv": round(cur.get("uv_index") or 0, 1),
         },
+        "sunrise": sr[-5:] if sr else None,
+        "sunset": ss[-5:] if ss else None,
         "daily": days,
+        "hourly": hours,
     }
     save("weather.json", out)
-    print(f"weather: {out['current']['temp']}°C, pronostico {len(days)} dias")
+    print(f"weather: {out['current']['temp']}°C, pronostico {len(days)} dias, {len(hours)} horas")
 
 
 # --------------------------------------------------------------------------- #
-def _tile(out, label, vals, fmt):
-    """Agrega un instrumento con precio, cambio diario y sparkline."""
+def _tile(out, label, vals, fmt, dates=None, group=""):
+    """Agrega un instrumento con precio, cambio diario, sparkline e historico."""
     if len(vals) < 2:
         return
     price, prev = vals[-1], vals[-2]
-    out.append({
-        "symbol": label, "label": label,
+    item = {
+        "symbol": label, "label": label, "group": group,
         "price": round(price, fmt),
         "change": round(price - prev, fmt),
         "changePct": round((price - prev) / prev * 100, 2) if prev else 0,
         "spark": [round(x, fmt) for x in vals[-30:]],
-    })
+    }
+    if dates and len(dates) == len(vals):
+        item["hist"] = {"d": dates[-180:], "v": [round(x, fmt) for x in vals[-180:]]}
+    out.append(item)
 
 
 def markets():
@@ -131,11 +153,22 @@ def markets():
                             ("%5EDJI", "Dow Jones", 0)):
         try:
             url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}"
-                   f"?range=2mo&interval=1d")
+                   f"?range=6mo&interval=1d")
             res = json.loads(get(url))["chart"]["result"][0]
-            closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
+            raw = res["indicators"]["quote"][0]["close"]
+            stamps = res.get("timestamp", [])
+            closes, dates = [], []
+            for i, c in enumerate(raw):
+                if c is None:
+                    continue
+                closes.append(c)
+                if i < len(stamps):
+                    dates.append(datetime.fromtimestamp(
+                        stamps[i], tz=timezone.utc).strftime("%Y-%m-%d"))
+            if len(dates) != len(closes):
+                dates = None
             before = len(out)
-            _tile(out, label, closes, fmt)
+            _tile(out, label, closes, fmt, dates, group="indices")
             if len(out) > before:
                 print(f"  [ok]   {label}: {out[-1]['price']}")
         except Exception as ex:
@@ -145,18 +178,19 @@ def markets():
     try:
         fx_before = len(out)
         d2 = datetime.now(timezone.utc).date()
-        d1 = d2 - timedelta(days=50)
+        d1 = d2 - timedelta(days=185)
         url = f"https://api.frankfurter.app/{d1}..{d2}?from=USD&to=EUR,GBP,JPY,CNY,MXN,BRL"
         rates = json.loads(get(url))["rates"]
         dates = sorted(rates.keys())
 
         def pair(cur, invert=False, label="", fmt=4):
-            vals = []
+            vals, ds = [], []
             for d in dates:
                 v = rates[d].get(cur)
                 if v:
                     vals.append(1.0 / v if invert else v)
-            _tile(out, label, vals, fmt)
+                    ds.append(d)
+            _tile(out, label, vals, fmt, ds, group="divisas")
 
         pair("EUR", invert=True, label="EUR/USD", fmt=4)
         pair("GBP", invert=True, label="GBP/USD", fmt=4)
@@ -169,14 +203,19 @@ def markets():
         print(f"  [skip] divisas: {ex}", file=sys.stderr)
 
     # ---- Cripto (CoinGecko) ----
-    for coin, label in (("bitcoin", "Bitcoin"), ("ethereum", "Ethereum"),
-                        ("solana", "Solana")):
+    for n, (coin, label) in enumerate((("bitcoin", "Bitcoin"), ("ethereum", "Ethereum"),
+                                       ("solana", "Solana"))):
         try:
+            if n:
+                time.sleep(3)   # CoinGecko limita rafagas: pausa entre monedas
             url = (f"https://api.coingecko.com/api/v3/coins/{coin}/market_chart"
-                   f"?vs_currency=usd&days=30&interval=daily")
-            prices = [p[1] for p in json.loads(get(url)).get("prices", [])]
+                   f"?vs_currency=usd&days=180&interval=daily")
+            rows = json.loads(get(url)).get("prices", [])
+            prices = [p[1] for p in rows]
+            dates = [datetime.fromtimestamp(p[0] / 1000, tz=timezone.utc)
+                     .strftime("%Y-%m-%d") for p in rows]
             before = len(out)
-            _tile(out, label, prices, 0)
+            _tile(out, label, prices, 0, dates, group="cripto")
             if len(out) > before:
                 print(f"  [ok]   {label}: {out[-1]['price']}")
         except Exception as ex:
@@ -186,7 +225,7 @@ def markets():
     try:
         r = json.loads(get("https://open.er-api.com/v6/latest/USD")).get("rates", {})
         if r.get("COP"):
-            out.append({"symbol": "USD/COP", "label": "USD/COP",
+            out.append({"symbol": "USD/COP", "label": "USD/COP", "group": "divisas",
                         "price": round(r["COP"], 2), "change": 0, "changePct": 0, "spark": []})
             print(f"  [ok]   USD/COP: {round(r['COP'], 2)}")
     except Exception as ex:
