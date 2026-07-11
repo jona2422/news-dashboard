@@ -1,10 +1,19 @@
 {
- "updated": "2026-07-11T18:12:51.945029+00:00",
+ "updated": "2026-07-11T21:10:23.851812+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Record Industry Proposes Adding Labels to AI-Generated Music",
+     "link": "https://www.rollingstone.com/music/music-news/record-industry-proposal-labels-ai-generated-music-1235592406/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-07-11T18:15:43+00:00",
+     "ts": 1783793743000,
+     "count": 1
+    },
     {
      "title": "Jack White Pushes Back on Religious Criticism Amid Satanic Band Support Controversy",
      "link": "https://consequence.net/2026/07/jack-white-religious-criticism/",
@@ -246,15 +255,6 @@
      "image": "https://media.pitchfork.com/photos/6a4d0c651c6650b0fc3d183d/master/pass/unnamed%20(25).png",
      "published": "2026-07-10T17:36:42+00:00",
      "ts": 1783705002000,
-     "count": 1
-    },
-    {
-     "title": "Jack White, Future, Kelela, and All the Songs You Need to Know This Week",
-     "link": "https://www.rollingstone.com/music/music-features/future-jack-white-kelela-and-songs-you-need-to-know-1235591962/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-07-10T17:23:01+00:00",
-     "ts": 1783704181000,
      "count": 1
     }
    ]
@@ -522,12 +522,84 @@
    "name": "Tecnología & IA",
    "items": [
     {
-     "title": "Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
-     "link": "https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c",
+     "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+     "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-07-11T20:57:42+00:00",
+     "ts": 1783803462000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+     "link": "https://antjs.org",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-07-11T17:37:30+00:00",
-     "ts": 1783791450000,
+     "published": "2026-07-11T20:07:18+00:00",
+     "ts": 1783800438000,
+     "count": 1
+    },
+    {
+     "title": "The Chinese Voice Actor Forced to Prove He's Human",
+     "link": "https://www.sixthtone.com/news/1018753",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T19:46:00+00:00",
+     "ts": 1783799160000,
+     "count": 1
+    },
+    {
+     "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+     "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-07-11T18:44:12+00:00",
+     "ts": 1783795452000,
+     "count": 1
+    },
+    {
+     "title": "How to hide from killer drones",
+     "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T18:22:02+00:00",
+     "ts": 1783794122000,
+     "count": 1
+    },
+    {
+     "title": "ZeroFS vs. Amazon S3 Files",
+     "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T18:15:35+00:00",
+     "ts": 1783793735000,
+     "count": 1
+    },
+    {
+     "title": "AI 2040 and the cult of intelligence",
+     "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T18:04:01+00:00",
+     "ts": 1783793041000,
+     "count": 1
+    },
+    {
+     "title": "Who manages the agents?",
+     "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T18:02:33+00:00",
+     "ts": 1783792953000,
+     "count": 1
+    },
+    {
+     "title": "Prefer strict tables in SQLite",
+     "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T17:33:55+00:00",
+     "ts": 1783791235000,
      "count": 1
     },
     {
@@ -549,7 +621,7 @@
      "count": 1
     },
     {
-     "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
+     "title": "Leaded gas was a known poison the day it was invented (2016)",
      "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -558,12 +630,21 @@
      "count": 1
     },
     {
-     "title": "Earendel (Astronomical Object)",
-     "link": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
+     "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+     "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-07-11T17:24:15+00:00",
-     "ts": 1783790655000,
+     "published": "2026-07-11T17:23:52+00:00",
+     "ts": 1783790632000,
+     "count": 1
+    },
+    {
+     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+     "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T17:21:49+00:00",
+     "ts": 1783790509000,
      "count": 1
     },
     {
@@ -585,7 +666,34 @@
      "count": 1
     },
     {
-     "title": "Modern Decor May Be Straining People's Brains",
+     "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+     "link": "https://nagylukas.github.io/orbit.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T16:39:02+00:00",
+     "ts": 1783787942000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+     "link": "https://github.com/skorotkiewicz/earth-game",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T16:37:02+00:00",
+     "ts": 1783787822000,
+     "count": 1
+    },
+    {
+     "title": "UPI: Anatomy of a Payment Transaction",
+     "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-11T16:33:42+00:00",
+     "ts": 1783787622000,
+     "count": 1
+    },
+    {
+     "title": "Modern decor may be straining people's brains",
      "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -594,12 +702,12 @@
      "count": 1
     },
     {
-     "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
-     "link": "https://www.pnas.org/doi/10.1073/pnas.2528622123",
+     "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+     "link": "https://github.com/swellweb/reame",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-07-11T15:38:46+00:00",
-     "ts": 1783784326000,
+     "published": "2026-07-11T16:27:44+00:00",
+     "ts": 1783787264000,
      "count": 1
     },
     {
@@ -639,39 +747,12 @@
      "count": 1
     },
     {
-     "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-     "link": "https://shipthatcode.com",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-11T13:40:27+00:00",
-     "ts": 1783777227000,
-     "count": 1
-    },
-    {
-     "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
-     "link": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-11T13:33:17+00:00",
-     "ts": 1783776797000,
-     "count": 1
-    },
-    {
      "title": "A tasty RPG that will make you very hungry",
      "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
      "source": "The Verge",
      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dosa_Divas_Screenshot_cooking02_4k.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
      "published": "2026-07-11T12:37:53+00:00",
      "ts": 1783773473000,
-     "count": 1
-    },
-    {
-     "title": "FCC approves test of space mirror to light night sky",
-     "link": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-11T12:12:34+00:00",
-     "ts": 1783771954000,
      "count": 1
     },
     {
@@ -691,87 +772,6 @@
      "published": "2026-07-11T11:11:26+00:00",
      "ts": 1783768286000,
      "count": 1
-    },
-    {
-     "title": "Ghost Font: A font that humans can read but AI cannot",
-     "link": "https://www.mixfont.com/ghost-font",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-11T09:36:53+00:00",
-     "ts": 1783762613000,
-     "count": 1
-    },
-    {
-     "title": "Why it's so difficult to produce American-made medical gloves",
-     "link": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-11T09:16:10+00:00",
-     "ts": 1783761370000,
-     "count": 1
-    },
-    {
-     "title": "ICE are heavily armed killers. They’re also huge losers",
-     "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-11T06:57:35+00:00",
-     "ts": 1783753055000,
-     "count": 1
-    },
-    {
-     "title": "Are you filthy enough for a $700 portable shower?",
-     "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-11T06:47:04+00:00",
-     "ts": 1783752424000,
-     "count": 1
-    },
-    {
-     "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-     "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-07-11T01:01:28+00:00",
-     "ts": 1783731688000,
-     "count": 1
-    },
-    {
-     "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-     "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-07-11T00:29:25+00:00",
-     "ts": 1783729765000,
-     "count": 1
-    },
-    {
-     "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
-     "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-11T00:10:38+00:00",
-     "ts": 1783728638000,
-     "count": 1
-    },
-    {
-     "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-     "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-10T23:56:48+00:00",
-     "ts": 1783727808000,
-     "count": 1
-    },
-    {
-     "title": "Meta removes controversial AI feature on Instagram after backlash",
-     "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-07-10T23:55:07+00:00",
-     "ts": 1783727707000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,150 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "UK police investigate murder of politician Ann Widdecombe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T20:29:40+00:00",
+     "ts": 1783801780000,
+     "count": 1
+    },
+    {
+     "title": "Man dies after falling from Eleventh Night bonfire in east Belfast",
+     "link": "https://www.theguardian.com/uk-news/2026/jul/11/man-dies-after-falling-from-eleventh-night-bonfire-in-east-belfast",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6f04ab0c4afe32e0190c1dd6a73721908bf48d28/402_0_5002_4000/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=dfeab5cea8d5fb2b4bdb7c29839f9350",
+     "published": "2026-07-11T20:16:27+00:00",
+     "ts": 1783800987000,
+     "count": 1
+    },
+    {
+     "title": "What’s behind Pakistan’s mass deportation of Afghans?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T20:11:55+00:00",
+     "ts": 1783800715000,
+     "count": 1
+    },
+    {
+     "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
+     "link": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/22ada131c2cb310491b0adad1a133e8a5cada2c6/255_557_4171_3337/master/4171.jpg?width=140&quality=85&auto=format&fit=max&s=188278bfb0d5e1c9aed5bfbe0199f7aa",
+     "published": "2026-07-11T20:00:59+00:00",
+     "ts": 1783800059000,
+     "count": 1
+    },
+    {
+     "title": "One Nation is capitalising on Australians’ economic pessimism like never before. Is a ‘stagflation impulse’ to blame?",
+     "link": "https://www.theguardian.com/business/2026/jul/12/one-nation-australia-economy-stagflation-impulse-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f3e8aba656383bc135a5716a54f2a47f8f38afc3/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fc9c1a7bd9ca8f1430e3713e30262587",
+     "published": "2026-07-11T20:00:58+00:00",
+     "ts": 1783800058000,
+     "count": 1
+    },
+    {
+     "title": "Heatwave conditions in England and Wales to continue into next week, says Met Office",
+     "link": "https://www.theguardian.com/uk-news/2026/jul/11/heatwave-conditions-england-wales-next-week-met-office",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/21da476cd35c9ba405ff46e24a2bceacbe25406f/1256_0_6278_5025/master/6278.jpg?width=140&quality=85&auto=format&fit=max&s=35152c5926caea3bf900d537c5142d09",
+     "published": "2026-07-11T19:55:35+00:00",
+     "ts": 1783799735000,
+     "count": 1
+    },
+    {
+     "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+     "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg",
+     "published": "2026-07-11T19:32:07+00:00",
+     "ts": 1783798327000,
+     "count": 1
+    },
+    {
+     "title": "Iran supreme leader calls for revenge for father's killing",
+     "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
+     "published": "2026-07-11T19:30:36+00:00",
+     "ts": 1783798236000,
+     "count": 1
+    },
+    {
+     "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
+     "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T19:25:59+00:00",
+     "ts": 1783797959000,
+     "count": 1
+    },
+    {
+     "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
+     "link": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T19:15:10+00:00",
+     "ts": 1783797310000,
+     "count": 1
+    },
+    {
+     "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T18:59:01+00:00",
+     "ts": 1783796341000,
+     "count": 1
+    },
+    {
+     "title": "Trump administration subpoenas New York Times reporters over coverage",
+     "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T18:46:11+00:00",
+     "ts": 1783795571000,
+     "count": 1
+    },
+    {
+     "title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T18:38:50+00:00",
+     "ts": 1783795130000,
+     "count": 1
+    },
+    {
+     "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
+     "link": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T18:20:24+00:00",
+     "ts": 1783794024000,
+     "count": 1
+    },
+    {
+     "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T18:16:02+00:00",
+     "ts": 1783793762000,
+     "count": 1
+    },
+    {
+     "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+     "link": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-11T18:10:10+00:00",
+     "ts": 1783793410000,
+     "count": 1
+    },
     {
      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
@@ -807,7 +951,7 @@
      "count": 1
     },
     {
-     "title": "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
+     "title": "England vs Norway LIVE: FIFA World Cup 2026 quarterfinal",
      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -831,15 +975,6 @@
      "image": "https://i.guim.co.uk/img/media/45bfd090b2fc996f49cae89b6964db6583c5179e/876_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a0200f32904d618c7b42e114e12a816f",
      "published": "2026-07-11T17:23:19+00:00",
      "ts": 1783790599000,
-     "count": 1
-    },
-    {
-     "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-11T17:22:39+00:00",
-     "ts": 1783790559000,
      "count": 1
     },
     {
@@ -879,15 +1014,6 @@
      "count": 1
     },
     {
-     "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-     "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg",
-     "published": "2026-07-11T16:55:57+00:00",
-     "ts": 1783788957000,
-     "count": 1
-    },
-    {
      "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
      "link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
      "source": "NPR Topics: News",
@@ -904,132 +1030,6 @@
      "published": "2026-07-11T16:33:26+00:00",
      "ts": 1783787606000,
      "count": 1
-    },
-    {
-     "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-     "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
-     "published": "2026-07-11T16:11:33+00:00",
-     "ts": 1783786293000,
-     "count": 2
-    },
-    {
-     "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-     "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-11T16:05:18+00:00",
-     "ts": 1783785918000,
-     "count": 1
-    },
-    {
-     "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
-     "link": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ef6abfd47080fa8584406d13476bcd5d6cf70456/907_666_6047_4838/master/6047.jpg?width=140&quality=85&auto=format&fit=max&s=c640d33edbbacf60949e0179618166ad",
-     "published": "2026-07-11T16:04:53+00:00",
-     "ts": 1783785893000,
-     "count": 1
-    },
-    {
-     "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
-     "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-11T15:54:25+00:00",
-     "ts": 1783785265000,
-     "count": 1
-    },
-    {
-     "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
-     "link": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-11T15:50:31+00:00",
-     "ts": 1783785031000,
-     "count": 1
-    },
-    {
-     "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
-     "link": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-11T15:29:32+00:00",
-     "ts": 1783783772000,
-     "count": 1
-    },
-    {
-     "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
-     "link": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Ffc%2F7f29a95b484f94741f433ddc2d1f%2Fphillytrain-041.jpg",
-     "published": "2026-07-11T15:14:42+00:00",
-     "ts": 1783782882000,
-     "count": 1
-    },
-    {
-     "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-     "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg",
-     "published": "2026-07-11T15:03:45+00:00",
-     "ts": 1783782225000,
-     "count": 1
-    },
-    {
-     "title": "Fastest spider in the world? This huge, hairy-legged Australian arachnid may be the quickest on the planet",
-     "link": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/66d3c30ff4576f91bb49ab4c31b14a0b7e979cdc/285_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=bff5e87fd196e08bd521a30c1c90aef5",
-     "published": "2026-07-11T15:02:21+00:00",
-     "ts": 1783782141000,
-     "count": 1
-    },
-    {
-     "title": "Hunter Biden wins $1.7m in suit over Iran bribery claim by ex-CEO of Overstock.com",
-     "link": "https://www.theguardian.com/us-news/2026/jul/11/hunter-biden-defamation-suit",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/810cc2e6ffdff3499a548650441f06aef6a75183/29_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=acc43e2e27e85c6bfbd95ee4d3ad39cc",
-     "published": "2026-07-11T15:01:11+00:00",
-     "ts": 1783782071000,
-     "count": 1
-    },
-    {
-     "title": "Ann Widdecombe: police believe former MP was attacked almost 24 hours before being found dead – as it happened",
-     "link": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/77d0774277e1990ff2c89876612555c02f5140ad/573_0_4580_3664/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=74a6d16edf3ff52af008e07ba3401899",
-     "published": "2026-07-11T14:56:24+00:00",
-     "ts": 1783781784000,
-     "count": 1
-    },
-    {
-     "title": "South Africa World Cup midfielder Adams dies aged 25",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
-     "published": "2026-07-11T14:47:47+00:00",
-     "ts": 1783781267000,
-     "count": 1
-    },
-    {
-     "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
-     "link": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-11T14:25:14+00:00",
-     "ts": 1783779914000,
-     "count": 1
-    },
-    {
-     "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-     "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94a/live/062ee420-7d2e-11f1-9bb6-f90d2cb001e2.jpg",
-     "published": "2026-07-11T14:19:34+00:00",
-     "ts": 1783779574000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,222 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Noruega - Inglaterra, el partido de cuartos de final del Mundial 2026 en directo | Saka se cae del once y entra Madueke",
+     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-11/noruega-inglaterra-en-directo-el-partido-de-cuartos-de-final-del-mundial-en-vivo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/MSLOMFROBNLHXDHVWUJSOB54BY.jpg?auth=3b63e85e67e94c5ed123fc20d330d912b8e43dcf13577f676676887f62bf58bf",
+     "published": "2026-07-11T21:08:03+00:00",
+     "ts": 1783804083000,
+     "count": 1
+    },
+    {
+     "title": "A 17 días de los terremotos en Venezuela, el Gobierno asegura que hay 315 cuerpos sin identificar",
+     "link": "https://elpais.com/america/2026-07-11/a-17-dias-de-los-terremotos-en-venezuela-el-gobierno-asegura-que-hay-315-cuerpos-sin-identificar.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/EEPDIAT2RFETDNE4TEKMVKOAYA.jpg?auth=bf1c33f395781a9722f1270c2452b61d600d0ff0feed0815bc5f1383fddb202b",
+     "published": "2026-07-11T21:00:05+00:00",
+     "ts": 1783803605000,
+     "count": 1
+    },
+    {
+     "title": "Inició el partido: Noruega e Inglaterra chocan por un boleto a semifinales",
+     "link": "https://www.prensa.com/deportes/noruega-e-inglaterra-chocan-por-un-boleto-a-semifinales/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/YMPLIYZIORGABMQW62Z2GYOHSU.jpg?auth=b7103fca3f1aa091bf043701f0fa9c2b668fa5a844d8f758500eb6fe05bc40bf&smart=true&width=6516&height=4344",
+     "published": "2026-07-11T20:36:30+00:00",
+     "ts": 1783802190000,
+     "count": 1
+    },
+    {
+     "title": "Campesino de Casanare narra cómo el agua arrasó su finca durante inundaciones: 'No sabemos qué pasó con al menos 40 reses y perdimos todo el cultivo'",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/campesino-de-casanare-narra-como-el-agua-arraso-su-finca-durante-inundaciones-no-sabemos-que-paso-con-al-menos-40-reses-y-perdimos-todo-el-cultivo-3570707",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/11/6a527745cd737.r_d.238-450-0.jpeg",
+     "published": "2026-07-11T20:25:00+00:00",
+     "ts": 1783801500000,
+     "count": 1
+    },
+    {
+     "title": "Con Haaland a la cabeza, así es cómo Noruega alcanzó el estrellato en el Mundial 2026",
+     "link": "https://www.france24.com/es/deportes/20260711-con-haaland-a-la-cabeza-as%C3%AD-es-c%C3%B3mo-noruega-alcanz%C3%B3-el-estrellato-en-el-mundial-2026",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/fd5501c2-7d5f-11f1-bd00-005056a90284/w:1024/p:16x9/2026-07-05T223545Z-978672979-UP1EM751QRKYL-RTRMADP-3-SOCCER-WORLDCUP-BRA-NOR.jpg",
+     "published": "2026-07-11T20:09:41+00:00",
+     "ts": 1783800581000,
+     "count": 1
+    },
+    {
+     "title": "Invías anuncia $42.800 millones para el mantenimiento de una zona crítica en la vía Medellín-Bogotá tras reiteradas denuncias ¿es suficiente?",
+     "link": "https://www.eltiempo.com/colombia/medellin/invias-anuncia-42-800-millones-para-el-mantenimiento-de-una-zona-critica-en-la-via-medellin-bogota-tras-reiteradas-denuncias-es-suficiente-3570703",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a52a034f3f79.jpeg",
+     "published": "2026-07-11T20:07:20+00:00",
+     "ts": 1783800440000,
+     "count": 1
+    },
+    {
+     "title": "Obras del Gran Malecón del Mar llega al 58,2 % de ejecución y Cartagena prevé inaugurar el primer kilómetro en septiembre con De la Espriella",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/obras-del-gran-malecon-del-mar-llega-al-58-2-de-ejecucion-y-cartagena-preve-inaugurar-el-primer-kilometro-en-septiembre-con-de-la-espriella-3570702",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a529e2199284.jpeg",
+     "published": "2026-07-11T19:58:39+00:00",
+     "ts": 1783799919000,
+     "count": 1
+    },
+    {
+     "title": "En directo: Inglaterra y Noruega, choque de goleadores del Mundial 2026 entre Kane y Haaland",
+     "link": "https://www.france24.com/es/deportes/20260711-en-directo-inglaterra-y-noruega-choque-de-goleadores-del-mundial-2026-entre-kane-y-haaland",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a583c036-7cb6-11f1-852e-005056a97e36/w:1024/p:16x9/NOR-ENG-H.png",
+     "published": "2026-07-11T19:55:09+00:00",
+     "ts": 1783799709000,
+     "count": 1
+    },
+    {
+     "title": "La cúpula blanca que mira a Panamá desde la montaña: el Templo Bahá’í",
+     "link": "https://www.prensa.com/vivir/la-cupula-blanca-que-mira-a-panama-desde-la-montana-el-templo-bahai/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/UHSU7UR54NCGVNS33MRHSIEWG4.JPG?auth=e57e2ce49136df59c112e5a67154f5d827455f37aef6d7e11d842dd0734e7999&smart=true&width=4000&height=2250",
+     "published": "2026-07-11T19:52:09+00:00",
+     "ts": 1783799529000,
+     "count": 1
+    },
+    {
+     "title": "Milei es acusado de generar con inteligencia artificial un artículo académico",
+     "link": "https://elpais.com/argentina/2026-07-11/milei-es-acusado-de-generar-con-inteligencia-artificial-un-articulo-academico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/Y4PLUN32ZZEFND3O6L55ZNCFXE.JPG?auth=e2540794c2f1ff62fd5c22c273101e8bb9bfc4d680c79899ae08cdb3412d4d3e",
+     "published": "2026-07-11T19:51:12+00:00",
+     "ts": 1783799472000,
+     "count": 1
+    },
+    {
+     "title": "Murillo, Vergara y Jaén arrancan nuevos retos en Europa",
+     "link": "https://www.prensa.com/deportes/murillo-vergara-y-jaen-arrancan-nuevos-retos-en-europa/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/2XPUU2TBCZDMDN6TNNTWRHOPJY.JPG?auth=c79fec39377c90359f41e450401692c7f84c4eb6193226782947f3e1984f1065&smart=true&width=4379&height=3114",
+     "published": "2026-07-11T19:44:34+00:00",
+     "ts": 1783799074000,
+     "count": 1
+    },
+    {
+     "title": "La dramática situación que vive un corregimiento en Nariño que lleva una semana sin energía y sin agua: hay crisis humanitaria por el conflicto armado",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/la-dramatica-situacion-que-vive-un-corregimiento-en-narino-que-lleva-una-semana-sin-energia-y-sin-agua-hay-crisis-humanitaria-por-el-conflicto-armado-3570697",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a52972e35ecb.jpeg",
+     "published": "2026-07-11T19:32:28+00:00",
+     "ts": 1783798348000,
+     "count": 1
+    },
+    {
+     "title": "La diplomacia se reactiva para intentar mitigar la escalada del conflicto en Oriente Medio",
+     "link": "https://www.prensa.com/mundo/la-diplomacia-se-reactiva-para-intentar-mitigar-la-escalada-del-conflicto-en-oriente-medio/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/MLCO4GID6REWNCYHTNF6FIHWO4.jpg?auth=76bf6ad2db18a92155727c469a575cf10dc26652c72595a0bae90191dda6e0c9&smart=true&width=1920&height=1280",
+     "published": "2026-07-11T19:32:19+00:00",
+     "ts": 1783798339000,
+     "count": 1
+    },
+    {
+     "title": "Ataques rusos con misiles y drones dejan al menos siete muertos y decenas de heridos en Ucrania",
+     "link": "https://www.france24.com/es/europa/20260711-ataques-rusos-con-misiles-y-drones-dejan-al-menos-siete-muertos-y-decenas-de-heridos-en-ucrania",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/21e52df8-7d4e-11f1-b322-005056bfb2b6/w:1024/p:16x9/2026-07-11T153717Z-862589024-RC2RBMA7R6WH-RTRMADP-3-UKRAINE-CRISIS-ATTACK-SUMY.jpg",
+     "published": "2026-07-11T19:13:17+00:00",
+     "ts": 1783797197000,
+     "count": 1
+    },
+    {
+     "title": "Construcción del nuevo Centro de Salud de Pacora costará unos  $23.3 millones",
+     "link": "https://www.prensa.com/sociedad/construccion-del-nuevo-centro-de-salud-de-pacora-costara-unos-233-millones/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/J7OUM6WT35HMPKNHPXJZ7LKEWQ.jpeg?auth=42264136296c7ab408afb28f6c2bc3efd042dae61941c0e8eb1ebf74c634f129&smart=true&width=1600&height=1200",
+     "published": "2026-07-11T19:07:47+00:00",
+     "ts": 1783796867000,
+     "count": 1
+    },
+    {
+     "title": "El Gobierno de EE UU llama a declarar a periodistas de ‘The New York Times’",
+     "link": "https://elpais.com/internacional/2026-07-11/el-gobierno-de-ee-uu-llama-a-declarar-a-periodistas-de-the-new-york-times.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/2HZ65AHDQ5P3LEDDN7BI4EKCKY.jpg?auth=27028df0318b2466ee4b3f0ef3dd286815049e4774459393761ac179a2b487c7",
+     "published": "2026-07-11T19:01:43+00:00",
+     "ts": 1783796503000,
+     "count": 1
+    },
+    {
+     "title": "Atlántico refuerza seguridad con comandos élite y 40 policías para perseguir al cartel de los más buscados y golpear estructuras criminales",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/atlantico-refuerza-seguridad-con-comandos-elite-y-40-policias-para-perseguir-al-cartel-de-los-mas-buscados-y-golpear-estructuras-criminales-3570682",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a527a93af5de.jpeg",
+     "published": "2026-07-11T19:01:00+00:00",
+     "ts": 1783796460000,
+     "count": 1
+    },
+    {
+     "title": "A cinco años de las protestas antigubernamentales, EE. UU. mantiene la presión sobre una Cuba a oscuras",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260711-a-cinco-a%C3%B1os-de-las-protestas-antigubernamentales-ee-uu-mantiene-la-presi%C3%B3n-sobre-una-cuba-a-oscuras",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/c095ae96-7a0b-11f1-8b69-005056bfb2b6/w:1024/p:16x9/94dc6a1b4a515f7125911e2c9b2c6b89fcf0d0e1.jpg",
+     "published": "2026-07-11T18:50:03+00:00",
+     "ts": 1783795803000,
+     "count": 1
+    },
+    {
+     "title": "Incendio provocado en Subcentro de Salud de Don Bosco causa daños a la infraestructura",
+     "link": "https://www.prensa.com/sociedad/incendio-provocado-en-subcentro-de-salud-de-don-bosco-causa-danos-a-la-infraestructura/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/DWWNP5GFKVEJLGPVADJ3TGFNDI.jpeg?auth=75f81395d81354fa961f8f42bce593e4fd7234b1294c12fe51d83468cfcc93a6&smart=true&width=1057&height=877",
+     "published": "2026-07-11T18:48:35+00:00",
+     "ts": 1783795715000,
+     "count": 1
+    },
+    {
+     "title": "La emotiva reacción de Iván Herrera tras ser llamado al Juego de Estrellas",
+     "link": "https://www.prensa.com/deportes/ivan-herrera-rompe-en-emocion-tras-su-llamado-al-juego-de-las-estrellas/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/OSI7UM6YCJCVVELNMDRBJPRTVE.jpg?auth=83fd80f5a481db385bdb0ac6b1d124ce4b9f2b89622f0113de77cefb1cb19e91&smart=true&width=1170&height=759",
+     "published": "2026-07-11T18:40:50+00:00",
+     "ts": 1783795250000,
+     "count": 1
+    },
+    {
+     "title": "La historia de Ruth Ellis, la última mujer en ser ejecutada en la horca en Reino Unido y a la que ahora el rey indultó",
+     "link": "https://www.prensa.com/mundo/la-historia-de-ruth-ellis-la-ultima-mujer-en-ser-ejecutada-en-la-horca-en-reino-unido-y-a-la-que-ahora-el-rey-indulto/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/JN5ONYHW3NC2ZGZDGRAYEAAKWE.jpg?auth=a23b6c55ff4a7fdb9aaf05069bda4e5d0a0c26e2eb1c0e7c64e2dd55b6a4787d&smart=true&width=2050&height=1154",
+     "published": "2026-07-11T18:35:19+00:00",
+     "ts": 1783794919000,
+     "count": 2
+    },
+    {
+     "title": "La checa Noskova gana Wimbledon en reñida final ante su compatriota Muchova",
+     "link": "https://www.france24.com/es/deportes/20260711-la-checa-noskova-gana-wimbledon-en-re%C3%B1ida-final-ante-su-compatriota-muchova",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/60330828-7d58-11f1-adae-005056bfb2b6/w:1024/p:16x9/2026-07-11T183403Z-826207107-UP1EM7B18YRF3-RTRMADP-3-TENNIS-WIMBLEDON.jpg",
+     "published": "2026-07-11T18:35:12+00:00",
+     "ts": 1783794912000,
+     "count": 1
+    },
+    {
+     "title": "Los muertos por los terremotos en Venezuela suben 215 hasta los 4,333",
+     "link": "https://www.prensa.com/mundo/los-muertos-por-los-terremotos-en-venezuela-suben-215-hasta-los-4333/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/HSB3TOVX7VB2VL6OCB33STQPEI.jpg?auth=f7d63001a9615b5244f173ce8e3c86f2a4448facf51b2d9f77d3443330b6fb8c&smart=true&width=2976&height=1984",
+     "published": "2026-07-11T18:29:27+00:00",
+     "ts": 1783794567000,
+     "count": 1
+    },
+    {
+     "title": "José Damián Ruiz: 'La sequía convirtió la vegetación de Almería en combustible para los incendios'",
+     "link": "https://www.france24.com/es/video/20260711-jos%C3%A9-dami%C3%A1n-ruiz-la-sequ%C3%ADa-convirti%C3%B3-la-vegetaci%C3%B3n-de-almer%C3%ADa-en-combustible-para-los-incendios",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/fd96c554-7d54-11f1-80a1-005056bfb2b6/w:1024/p:16x9/ES-20260711-130406-130945-CS.jpg",
+     "published": "2026-07-11T18:23:33+00:00",
+     "ts": 1783794213000,
+     "count": 1
+    },
     {
      "title": "Mundial 2026: Noruega e Inglaterra se enfrentan por primera vez en una Copa del Mundo",
      "link": "https://www.france24.com/es/video/20260711-mundial-2026-noruega-e-inglaterra-se-enfrentan-por-primera-vez-en-una-copa-del-mundo",
@@ -1065,228 +1281,12 @@
      "count": 1
     },
     {
-     "title": "Informe desde Lima: defensa de Pedro Castillo solicita su libertad mediante un hábeas corpus",
+     "title": "Desde Lima: defensa de Pedro Castillo solicita su libertad mediante un hábeas corpus",
      "link": "https://www.france24.com/es/video/20260711-informe-desde-lima-defensa-de-pedro-castillo-solicita-su-libertad-mediante-un-h%C3%A1beas-corpus",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
      "image": "https://s.france24.com/media/display/86f1f106-7d51-11f1-9949-005056a97e36/w:1024/p:16x9/ES-20260711-120755-120908-CS.jpg",
      "published": "2026-07-11T18:00:26+00:00",
      "ts": 1783792826000,
-     "count": 1
-    },
-    {
-     "title": "¿Por qué el Mundial 2026 ha tenido tantos goleadores?",
-     "link": "https://www.france24.com/es/video/20260711-por-qu%C3%A9-el-mundial-2026-ha-tenido-tantos-goleadores",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/159fe770-7d4b-11f1-bd71-005056bf30b7/w:1024/p:16x9/ES-20260711-100957-101513-CS.jpg",
-     "published": "2026-07-11T17:59:56+00:00",
-     "ts": 1783792796000,
-     "count": 1
-    },
-    {
-     "title": "'Ninguna familia va a poder dormir tranquila esta noche': el angustioso llamado del alcalde del pueblo de Casanare que quedó en un 90 % bajo el agua",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/ninguna-familia-va-a-poder-dormir-tranquila-esta-noche-el-angustioso-llamado-del-alcalde-del-pueblo-de-casanare-que-quedo-en-un-90-bajo-el-agua-3570684",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/11/6a5280286a48a.r_d.220-186-0.jpeg",
-     "published": "2026-07-11T17:45:00+00:00",
-     "ts": 1783791900000,
-     "count": 1
-    },
-    {
-     "title": "Siete muertos en Ucrania por ataques rusos contra Sumi y Odesa",
-     "link": "https://www.dw.com/es/siete-muertos-en-ucrania-por-ataques-rusos-contra-sumi-y-odesa/a-77918297?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-07-11T17:30:00+00:00",
-     "ts": 1783791000000,
-     "count": 1
-    },
-    {
-     "title": "Federación Colombiana de Fútbol pide a Fiscalía investigar las amenazas contra Campaz",
-     "link": "https://www.prensa.com/deportes/federacion-colombiana-de-futbol-pide-a-fiscalia-investigar-las-amenazas-contra-campaz/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Z7PEJLUB2FFYFK7DE4G2Q5OYVU.jpg?auth=7b98bd20ab0a9efdd2751cc99e3487e2c12fd401d0c2f3391a5e79f2bcc25b89&smart=true&width=3348&height=2232",
-     "published": "2026-07-11T17:28:44+00:00",
-     "ts": 1783790924000,
-     "count": 1
-    },
-    {
-     "title": "Sinner, en toda su dimensión: castigo a Djokovic y otra vez, finalista en Wimbledon",
-     "link": "https://elpais.com/deportes/tenis/2026-07-10/sinner-en-toda-su-dimension-castigo-a-djokovic-y-otra-vez-finalista-en-wimbledon.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/J767QPWB6VLULKPTZNE2WMWXUY.jpg?auth=f66b6f03f5ce554ccebc366a98d6d2746703fa730a182bfe99c8c57863af85e2",
-     "published": "2026-07-11T17:15:04+00:00",
-     "ts": 1783790104000,
-     "count": 1
-    },
-    {
-     "title": "Campesinos afectados por inundaciones en Casanare no quieren evacuar | Esto alerta el gobernador: 'Primero la vida, después resolvemos lo material'",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/campesinos-afectados-por-inundaciones-en-casanare-no-quieren-evacuar-esto-alerta-el-gobernador-primero-la-vida-despues-resolvemos-lo-material-3570679",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a5276d1062ea.jpeg",
-     "published": "2026-07-11T17:05:00+00:00",
-     "ts": 1783789500000,
-     "count": 1
-    },
-    {
-     "title": "Polvo del Sahara elevará las temperaturas en el Caribe durante el puente festivo: sensación térmica podría superar los 40 grados",
-     "link": "https://www.eltiempo.com/colombia/barranquilla/polvo-del-sahara-elevara-las-temperaturas-en-el-caribe-durante-el-puente-festivo-sensacion-termica-podria-superar-los-40-grados-3570674",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/08/6a4e9eb821abd.r_d.986-463-0.png",
-     "published": "2026-07-11T17:01:00+00:00",
-     "ts": 1783789260000,
-     "count": 1
-    },
-    {
-     "title": "Sábado Picante: El club MAGA y los hermanos Martinelli Linares",
-     "link": "https://www.prensa.com/opinion/el-club-maga-y-los-hermanos-martinelli-linares/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LH5RBJJJEZAVLAXSNUEUTQWZIM.png?auth=5536ac096998841a2e7d65a43d0b0730333a28817d9bcd5ae6980df84a67f120&smart=true&width=1347&height=1167",
-     "published": "2026-07-11T17:00:11+00:00",
-     "ts": 1783789211000,
-     "count": 1
-    },
-    {
-     "title": "Des-informando: ¿Messi tiene prohibida la entrada a Egipto?",
-     "link": "https://www.france24.com/es/video/20260711-des-informando-messi-tiene-prohibida-la-entrada-a-egipto",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/6fd04286-7d40-11f1-9a63-005056a97e36/w:1024/p:16x9/Messi-tiene-prohibida-la-entrada-a-Egipto.png",
-     "published": "2026-07-11T16:57:33+00:00",
-     "ts": 1783789053000,
-     "count": 1
-    },
-    {
-     "title": "Siete cuencas, una sola misión: La alianza entre The Ocean Cleanup y Marea Verde para limpiar los ríos de Panamá",
-     "link": "https://www.prensa.com/sociedad/siete-cuencas-una-sola-mision-la-alianza-entre-the-ocean-cleanup-y-marea-verde-para-limpiar-los-rios-de-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/UOTWV5CHSBE6BBWALICY4SQSKQ.jpeg?auth=3d79d10d20ff30de5e5f01536dcfce24b9aabed3111990f0697fa06c1d7d28a5&smart=true&width=2048&height=1365",
-     "published": "2026-07-11T16:57:30+00:00",
-     "ts": 1783789050000,
-     "count": 1
-    },
-    {
-     "title": "Así está la conectividad aérea en Venezuela a más de dos semanas de los terremotos",
-     "link": "https://www.prensa.com/economia/asi-esta-la-conectividad-aerea-en-venezuela-a-mas-de-dos-semanas-de-los-terremotos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/SFM2JQ333FEMLAQGSKZYFKARXQ.jpg?auth=36c853cc69cdb290bc21484f584bae63de4d9f016015ca6fcde070428106d931&smart=true&width=1080&height=600",
-     "published": "2026-07-11T16:54:12+00:00",
-     "ts": 1783788852000,
-     "count": 1
-    },
-    {
-     "title": "Supermercados enfrentarán multas de hasta $15 mil por no separar productos de imitación",
-     "link": "https://www.prensa.com/economia/supermercados-enfrentaran-multas-de-hasta-15-mil-por-no-separar-productos-de-imitacion/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/MIGRGOF6B5HIPLBVVYSX6772PU.jpg?auth=2aae2e44474a3aeb99add02d7eff82dda4021de1dfa7a919b1902aa39bc23641&smart=true&width=5184&height=3456",
-     "published": "2026-07-11T16:45:00+00:00",
-     "ts": 1783788300000,
-     "count": 1
-    },
-    {
-     "title": "DFB y Jürgen Klopp logran preacuerdo para dirigir a la selección de fútbol de Alemania",
-     "link": "https://www.dw.com/es/dfb-y-jürgen-klopp-logran-preacuerdo-para-dirigir-a-la-selección-de-fútbol-de-alemania/a-77918256?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-07-11T16:39:00+00:00",
-     "ts": 1783787940000,
-     "count": 1
-    },
-    {
-     "title": "Fin de semana abrasador en Francia: las autoridades llaman a extremar la vigilancia ante los incendios",
-     "link": "https://www.france24.com/es/francia/20260711-fin-de-semana-abrasador-en-francia-las-autoridades-llaman-a-extremar-la-vigilancia-ante-los-incendios",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/77720bd6-7cb0-11f1-8c68-005056bfb2b6/w:1024/p:16x9/0390d6e0ce931f070d8ca3fa8a22f340b5927cf1.jpg",
-     "published": "2026-07-11T16:34:26+00:00",
-     "ts": 1783787666000,
-     "count": 1
-    },
-    {
-     "title": "Urge auditar edificaciones construidas antes de 1984 ante riesgo sísmico en Panamá, exigen expertos",
-     "link": "https://www.prensa.com/economia/urge-auditar-edificaciones-construidas-antes-de-1984-ante-riesgo-sismico-en-panama-exigen-expertos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/UUQGLSKRUNFT5IHY3NRPWXHOHY.JPG?auth=60fb6a3f5aa7635d3720a19ae5a1c0fa6d34e4a1b8258790ab24303b1b93d1fc&smart=true&width=3645&height=2024",
-     "published": "2026-07-11T16:30:00+00:00",
-     "ts": 1783787400000,
-     "count": 1
-    },
-    {
-     "title": "Chiquita retoma exportaciones de banano desde Panamá",
-     "link": "https://www.prensa.com/economia/chiquita-retoma-exportaciones-de-banano-desde-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/5V3ABPTIBVGXHJMQBFMXITTX2U.jpeg?auth=2a8fba14b6dcac0f2d5fca147059141dd33cabf41092b27e576eb52fc36f80cf&smart=true&width=1280&height=854",
-     "published": "2026-07-11T16:27:32+00:00",
-     "ts": 1783787252000,
-     "count": 1
-    },
-    {
-     "title": "Dimar autoriza intervención de El Laguito y destraba proyecto de más de $30.000 millones para recuperar este sector turístico de Cartagena",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/dimar-autoriza-intervencion-de-el-laguito-y-destraba-proyecto-de-mas-de-30-000-millones-para-recuperar-este-sector-turistico-de-cartagena-3570669",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/12/04/6931c89b51f00.r_d.644-519-0.jpeg",
-     "published": "2026-07-11T16:12:02+00:00",
-     "ts": 1783786322000,
-     "count": 1
-    },
-    {
-     "title": "Muere a los 25 años el futbolista sudafricano Jayden Adams después de jugar el Mundial",
-     "link": "https://www.prensa.com/deportes/muere-a-los-25-anos-el-futbolista-sudafricano-jayden-adams-despues-de-jugar-el-mundial/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/JUGHBPWS2RAO7JC4XYEVDMRFAA.jpg?auth=25e8126145e411d8a3675135913e4891d8138898ee5c64d31b298bed24e904e0&smart=true&width=1924&height=1282",
-     "published": "2026-07-11T16:11:16+00:00",
-     "ts": 1783786276000,
-     "count": 2
-    },
-    {
-     "title": "Muere a los 25 años Jayden Adams, futbolista de Sudáfrica que disputó el Mundial 2026",
-     "link": "https://www.france24.com/es/deportes/20260711-muere-a-los-25-a%C3%B1os-jayden-adams-futbolista-de-sud%C3%A1frica-que-disput%C3%B3-el-mundial-2026",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/c4a5d678-7d35-11f1-be8d-005056a90284/w:1024/p:16x9/AP26170519899759.jpg",
-     "published": "2026-07-11T16:04:03+00:00",
-     "ts": 1783785843000,
-     "count": 2
-    },
-    {
-     "title": "Subastada por 1 millón de dólares la camiseta de Brunson en debut de las Finales de la NBA",
-     "link": "https://www.prensa.com/deportes/subastada-por-1-millon-de-dolares-la-camiseta-de-brunson-en-debut-de-las-finales-de-la-nba/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/KR5E2JICERCFRAPFFVRRTTDW54.jpg?auth=d46123da3ab0016489b06ff6deb4bfdf027eaf00c9f17e7d1852a0873b3be878&smart=true&width=5151&height=3436",
-     "published": "2026-07-11T15:58:03+00:00",
-     "ts": 1783785483000,
-     "count": 1
-    },
-    {
-     "title": "Colisión múltiple en avenida Domingo Díaz deja un fallecido y se suma a otros siniestros registrados en el país",
-     "link": "https://www.prensa.com/sociedad/colision-multiple-en-avenida-domingo-diaz-deja-un-fallecido-y-se-suma-a-otros-siniestros-registrados-en-el-pais/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/HL7D3XRZAFACJMYXMCWLDP3AVM.jpeg?auth=7a5e879f67958e75cbb9a8185cae2153008c06d25fbd80f3e73361cd6dceb0c7&smart=true&width=1080&height=1137",
-     "published": "2026-07-11T15:57:06+00:00",
-     "ts": 1783785426000,
-     "count": 1
-    },
-    {
-     "title": "Barranquilla avanza en su aspiración de recibir una válida de IndyCar y define el diseño del circuito urbano para la competencia",
-     "link": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-avanza-en-su-aspiracion-de-recibir-una-valida-de-indycar-y-define-el-diseno-del-circuito-urbano-para-la-competencia-3570666",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a5264c7f0e72.png",
-     "published": "2026-07-11T15:48:16+00:00",
-     "ts": 1783784896000,
-     "count": 1
-    },
-    {
-     "title": "Asohosval pide intervención urgente en hospitales del Valle del Cauca por crisis financiera de las EPS",
-     "link": "https://www.eltiempo.com/colombia/cali/asohosval-pide-intervencion-urgente-en-hospitales-del-valle-del-cauca-por-crisis-financiera-de-las-eps-3570665",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/02/27/67c0d31e13c0d.jpeg",
-     "published": "2026-07-11T15:42:25+00:00",
-     "ts": 1783784545000,
-     "count": 1
-    },
-    {
-     "title": "Ucrania rechaza reincorporación de Rusia en los Juegos Olímpicos",
-     "link": "https://www.dw.com/es/ucrania-rechaza-reincorporación-de-rusia-en-los-juegos-olímpicos/a-77916230?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-07-11T15:42:00+00:00",
-     "ts": 1783784520000,
      "count": 1
     }
    ]
@@ -1296,21 +1296,30 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "M 5.2 - 56 km SSW of Sarangani, Philippines",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
+     "title": "M 2.7 - 16 km SSW of Honaunau-Napoopoo, Hawaii",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000976",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-07-11T18:07:48.040000+00:00",
-     "ts": 1783793268040,
-     "count": 2
+     "published": "2026-07-11T21:04:06.379000+00:00",
+     "ts": 1783803846379,
+     "count": 1
     },
     {
-     "title": "M 3.0 - 54 km ESE of Goldfield, Nevada",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921481",
+     "title": "M 2.5 - 8 km E of Sutton-Alpine, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqilsh",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-07-11T18:03:53.338000+00:00",
-     "ts": 1783793033338,
+     "published": "2026-07-11T20:32:33.573000+00:00",
+     "ts": 1783801953573,
+     "count": 1
+    },
+    {
+     "title": "M 4.2 - 281 km ENE of Lospalos, Timor Leste",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szru",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-11T20:16:13.040000+00:00",
+     "ts": 1783800973040,
      "count": 1
     },
     {
@@ -1318,17 +1327,8 @@
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-07-11T17:41:29.854000+00:00",
-     "ts": 1783791689854,
-     "count": 1
-    },
-    {
-     "title": "M 2.6 - 3 km SE of Rose Lodge, Oregon",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046442",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-11T17:32:23.406000+00:00",
-     "ts": 1783791143406,
+     "published": "2026-07-11T19:28:28.738000+00:00",
+     "ts": 1783798108738,
      "count": 1
     },
     {
@@ -1336,9 +1336,45 @@
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393566",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-07-11T17:28:30.061000+00:00",
-     "ts": 1783790910061,
+     "published": "2026-07-11T19:24:44.306000+00:00",
+     "ts": 1783797884306,
      "count": 4
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029455",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-07-11T19:19:10+00:00",
+     "ts": 1783797550000,
+     "count": 46
+    },
+    {
+     "title": "Green forest fire notification in Angola",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029402",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-07-11T19:18:00+00:00",
+     "ts": 1783797480000,
+     "count": 139
+    },
+    {
+     "title": "M 3.0 - 54 km ESE of Goldfield, Nevada",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921481",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-11T18:14:43.040000+00:00",
+     "ts": 1783793683040,
+     "count": 1
+    },
+    {
+     "title": "M 5.2 - 56 km SSW of Sarangani, Philippines",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-11T18:07:48.040000+00:00",
+     "ts": 1783793268040,
+     "count": 2
     },
     {
      "title": "M 5.1 - 89 km NE of Hihifo, Tonga",
@@ -1366,24 +1402,6 @@
      "published": "2026-07-11T16:04:18.618000+00:00",
      "ts": 1783785858618,
      "count": 1
-    },
-    {
-     "title": "Green forest fire notification in Angola",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029438",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-11T15:21:56+00:00",
-     "ts": 1783783316000,
-     "count": 138
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029455",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-11T15:16:19+00:00",
-     "ts": 1783782979000,
-     "count": 44
     },
     {
      "title": "M 3.3 - 84 km ENE of Punta Cana, Dominican Republic",
@@ -1485,15 +1503,6 @@
      "count": 1
     },
     {
-     "title": "M 3.1 - 8 km S of Honaunau-Napoopoo, Hawaii",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000251",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-11T08:02:20.474000+00:00",
-     "ts": 1783756940474,
-     "count": 1
-    },
-    {
      "title": "M 4.5 - Fiji region",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn6",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1537,15 +1546,6 @@
      "published": "2026-07-11T05:08:41.040000+00:00",
      "ts": 1783746521040,
      "count": 1
-    },
-    {
-     "title": "M 5.0 - 299 km W of Neiafu, Tonga",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szmb",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-11T03:30:40.040000+00:00",
-     "ts": 1783740640040,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,33 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "Coalition hopes to pass raft of contentious bills in final week before Knesset dissolution",
+     "link": "https://www.timesofisrael.com/coalition-hopes-to-pass-raft-of-contentious-bills-in-final-week-before-knesset-dissolution/",
+     "source": "The Times of Israel",
+     "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260708YS71-1024x640.jpg",
+     "published": "2026-07-11T20:43:58+00:00",
+     "ts": 1783802638000,
+     "count": 1
+    },
+    {
+     "title": "Ex-minister Chili Tropper says he will ‘absolutely not’ help Netanyahu form a government",
+     "link": "https://www.timesofisrael.com/ex-minister-chili-tropper-says-he-will-absolutely-not-help-netanyahu-form-a-government/",
+     "source": "The Times of Israel",
+     "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260119YS111-1024x640.jpg",
+     "published": "2026-07-11T19:50:05+00:00",
+     "ts": 1783799405000,
+     "count": 1
+    },
+    {
+     "title": "Iran supreme leader calls for revenge for father's killing",
+     "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
+     "published": "2026-07-11T19:30:36+00:00",
+     "ts": 1783798236000,
+     "count": 1
+    },
     {
      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
@@ -1578,15 +1605,6 @@
      "image": "https://i.guim.co.uk/img/media/8714504135d810afb951eac88fb8caf073e721a9/1002_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a33122f1d864c40aa36243e7ae3362cc",
      "published": "2026-07-11T17:21:14+00:00",
      "ts": 1783790474000,
-     "count": 1
-    },
-    {
-     "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-     "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg",
-     "published": "2026-07-11T16:55:57+00:00",
-     "ts": 1783788957000,
      "count": 1
     },
     {
@@ -1671,6 +1689,15 @@
      "count": 1
     },
     {
+     "title": "Trump and Iran's supreme leader trade threats as mediators try to save deal",
+     "link": "https://www.france24.com/en/middle-east/20260711-trump-and-iran-s-supreme-leader-trade-threats-as-mediators-try-to-save-deal",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/e2ec44ec-74f6-11f1-b842-005056bf30b7/w:1024/p:16x9/e7c23327786f81add837233b161f4dbce07d6ccb.jpg",
+     "published": "2026-07-11T10:05:13+00:00",
+     "ts": 1783764313000,
+     "count": 1
+    },
+    {
      "title": "Mojtaba Khamenei’s absence signals shifting role for Iranian leader",
      "link": "https://www.timesofisrael.com/mojtaba-khameneis-absence-signals-shifting-role-for-iranian-leader/",
      "source": "The Times of Israel",
@@ -1689,25 +1716,7 @@
      "count": 1
     },
     {
-     "title": "Trump says US will ‘completely decimate and destroy’ Iran if it attempts to kill him",
-     "link": "https://www.timesofisrael.com/trump-says-us-will-completely-decimate-and-destroy-iran-if-it-attempts-to-kill-him/",
-     "source": "The Times of Israel",
-     "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26190188642591-1024x640.jpg",
-     "published": "2026-07-11T07:52:09+00:00",
-     "ts": 1783756329000,
-     "count": 1
-    },
-    {
-     "title": "US demanding Iran publicly vow to stop attacks in Hormuz and forswear tolls on ships",
-     "link": "https://www.timesofisrael.com/us-demanding-iran-publicly-vow-to-stop-attacks-in-hormuz-and-forswear-tolls-on-ships/",
-     "source": "The Times of Israel",
-     "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260627__B8J44ZQ__v1__HighRes__OmanIranUsIsraelWar-e1783726466655-1024x640.jpg",
-     "published": "2026-07-11T07:33:49+00:00",
-     "ts": 1783755229000,
-     "count": 1
-    },
-    {
-     "title": "Live: Mojtaba Khamenei vows to avenge slain father as Trump threatens to 'decimate' Iran",
+     "title": "Mojtaba Khamenei vows to avenge slain father as Trump threatens to 'decimate' Iran",
      "link": "https://www.france24.com/en/middle-east/20260711-live-trump-threatens-iran-after-khamenei-s-funeral-saw-open-calls-for-his-killing",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/019d1592-7d1c-11f1-ad40-005056a97e36/w:1024/p:16x9/2026-07-09T165725Z-50198548-RC2CAMADN8XH-RTRMADP-3-IRAN-CRISIS-KHAMENEI.jpg",
@@ -1795,15 +1804,6 @@
      "published": "2026-07-10T11:00:18+00:00",
      "ts": 1783681218000,
      "count": 1
-    },
-    {
-     "title": "Iran: Anti-US anger dominates Khamenei funeral ceremonies",
-     "link": "https://www.france24.com/en/iran-anti-us-anger-dominates-khamenei-funeral-ceremonies",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/d1598960-7c49-11f1-9492-005056a97e36/w:1024/p:16x9/EN-20260710-100656-100816-CS.jpg",
-     "published": "2026-07-10T10:40:50+00:00",
-     "ts": 1783680050000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,24 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "Taylor Swift foot US$160,000 police bill for her wedding, New York mayor says",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3360252/taylor-swift-foot-us160000-police-bill-her-wedding-new-york-mayor-says?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/5e04f11c-0972-48cf-a19a-1aa972acc0eb_9bc47ea6.jpg?itok=54shz2z7&v=1783800234",
+     "published": "2026-07-11T20:04:00+00:00",
+     "ts": 1783800240000,
+     "count": 1
+    },
+    {
+     "title": "Assassinations unleashed under Trump haunt Iran war endgame",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3360251/assassinations-unleashed-under-trump-haunt-iran-war-endgame?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/736142ee-3dfc-4b10-85ca-10759d3b8154_634335db.jpg?itok=6aSg5q5V&v=1783798686",
+     "published": "2026-07-11T19:38:14+00:00",
+     "ts": 1783798694000,
+     "count": 1
+    },
     {
      "title": "Runner gored in the face at Spain’s San Fermin bull run festival",
      "link": "https://www.scmp.com/news/world/europe/article/3360249/runner-gored-face-spains-san-fermin-bull-run-festival?utm_source=rss_feed",
@@ -2043,24 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/10/49dd8dbf-47d5-4c2d-b88e-67e17e701e30_d79fd2d1.jpg?itok=ZSrQ7FUV&v=1783676462",
      "published": "2026-07-11T06:00:07+00:00",
      "ts": 1783749607000,
-     "count": 1
-    },
-    {
-     "title": "Cambodian villagers fear US$43 million tiger reintroduction plan",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3359794/cambodian-villagers-fear-us43-million-tiger-reintroduction-plan?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/98252240-74b4-4d6e-985d-ba37d2991e98_68bfb80d.jpg?itok=iby_97Qg&v=1783480574",
-     "published": "2026-07-11T05:30:06+00:00",
-     "ts": 1783747806000,
-     "count": 1
-    },
-    {
-     "title": "No public subsidies needed for Pak Shek Kok MTR station: Hong Kong minister",
-     "link": "https://www.scmp.com/news/hong-kong/transport/article/3360207/no-public-subsidies-needed-pak-shek-kok-mtr-station-hong-kong-minister?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/a07ecae9-bb42-4657-b0de-8df19acaf0c0_6dc902cb.jpg?itok=Ac7BmGRM&v=1783746997",
-     "published": "2026-07-11T05:16:46+00:00",
-     "ts": 1783747006000,
      "count": 1
     }
    ]
