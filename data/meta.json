@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-12T20:09:15.547458+00:00",
- "sources_ok": 36,
+ "updated": "2026-07-12T23:12:59.137296+00:00",
+ "sources_ok": 37,
  "sources_total": 38,
  "beats": [
   {
@@ -54,14 +54,6 @@
    "error": "sin items"
   },
   {
-   "beat": "tech",
-   "url": "https://hnrss.org/frontpage",
-   "source": "hnrss.org",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
@@ -98,7 +90,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 139,
+   "count": 140,
    "error": ""
   },
   {
@@ -178,7 +170,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 220,
+   "count": 185,
    "error": ""
   },
   {
@@ -218,7 +210,7 @@
    "url": "https://www.timesofisrael.com/feed/",
    "source": "The Times of Israel",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": ""
   },
   {
@@ -282,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 109,
+   "count": 107,
    "error": ""
   },
   {
@@ -306,7 +298,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": ""
   },
   {
@@ -345,6 +337,14 @@
    "beat": "tech",
    "url": "https://techcrunch.com/feed/",
    "source": "TechCrunch",
+   "ok": true,
+   "count": 20,
+   "error": ""
+  },
+  {
+   "beat": "tech",
+   "url": "https://hnrss.org/frontpage",
+   "source": "Hacker News: Front Page",
    "ok": true,
    "count": 20,
    "error": ""
