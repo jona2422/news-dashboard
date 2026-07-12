@@ -1,80 +1,76 @@
 {
- "updated": "2026-07-12T00:15:43.402852+00:00",
+ "updated": "2026-07-12T07:52:07.027306+00:00",
  "terms": [
   {
-   "term": "world",
-   "count": 12
-  },
-  {
-   "term": "trump",
-   "count": 12
-  },
-  {
    "term": "iran",
+   "count": 15
+  },
+  {
+   "term": "world",
    "count": 11
   },
   {
-   "term": "israeli",
-   "count": 9
-  },
-  {
-   "term": "settlers",
-   "count": 7
-  },
-  {
-   "term": "year",
-   "count": 6
-  },
-  {
-   "term": "show",
-   "count": 6
-  },
-  {
-   "term": "2026",
-   "count": 6
-  },
-  {
-   "term": "west",
-   "count": 6
-  },
-  {
-   "term": "bank",
-   "count": 6
-  },
-  {
-   "term": "china",
-   "count": 6
-  },
-  {
-   "term": "record",
-   "count": 5
-  },
-  {
-   "term": "killed",
-   "count": 5
-  },
-  {
-   "term": "strait",
-   "count": 5
+   "term": "trump",
+   "count": 11
   },
   {
    "term": "hormuz",
-   "count": 5
+   "count": 10
   },
   {
-   "term": "noruega",
-   "count": 5
+   "term": "strikes",
+   "count": 9
   },
   {
-   "term": "inglaterra",
-   "count": 5
+   "term": "dies",
+   "count": 8
+  },
+  {
+   "term": "strait",
+   "count": 8
+  },
+  {
+   "term": "china",
+   "count": 7
+  },
+  {
+   "term": "lindsey",
+   "count": 6
+  },
+  {
+   "term": "graham",
+   "count": 6
+  },
+  {
+   "term": "israeli",
+   "count": 6
   },
   {
    "term": "alaska",
+   "count": 6
+  },
+  {
+   "term": "year",
    "count": 5
   },
   {
-   "term": "detained",
+   "term": "attacks",
+   "count": 5
+  },
+  {
+   "term": "trade",
+   "count": 5
+  },
+  {
+   "term": "argentina",
+   "count": 5
+  },
+  {
+   "term": "west",
+   "count": 5
+  },
+  {
+   "term": "settlers",
    "count": 5
   },
   {
@@ -86,11 +82,15 @@
    "count": 5
   },
   {
-   "term": "album",
+   "term": "record",
    "count": 4
   },
   {
-   "term": "week",
+   "term": "music",
+   "count": 4
+  },
+  {
+   "term": "album",
    "count": 4
   },
   {
@@ -98,65 +98,57 @@
    "count": 4
   },
   {
-   "term": "tour",
+   "term": "illness",
    "count": 4
   },
   {
-   "term": "armed",
+   "term": "launches",
    "count": 4
   },
   {
-   "term": "closed",
+   "term": "closes",
    "count": 4
   },
   {
-   "term": "final",
+   "term": "qatar",
    "count": 4
   },
   {
-   "term": "khanna",
+   "term": "tehran",
    "count": 4
   },
   {
-   "term": "mundial",
+   "term": "again",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Trump",
-   "count": 12
-  },
-  {
    "name": "Iran",
-   "count": 11
+   "count": 15
   },
   {
-   "name": "Israeli",
-   "count": 9
-  },
-  {
-   "name": "West Bank",
-   "count": 6
-  },
-  {
-   "name": "Show HN",
-   "count": 5
+   "name": "Trump",
+   "count": 10
   },
   {
    "name": "Hormuz",
-   "count": 5
+   "count": 10
   },
   {
-   "name": "Noruega",
-   "count": 5
-  },
-  {
-   "name": "Inglaterra",
-   "count": 5
+   "name": "Israeli",
+   "count": 6
   },
   {
    "name": "Alaska",
+   "count": 6
+  },
+  {
+   "name": "China",
+   "count": 5
+  },
+  {
+   "name": "Argentina",
    "count": 5
   },
   {
@@ -164,39 +156,59 @@
    "count": 5
   },
   {
+   "name": "Lindsey Graham",
+   "count": 4
+  },
+  {
    "name": "Strait",
    "count": 4
   },
   {
-   "name": "Mundial",
+   "name": "Tehran",
    "count": 4
+  },
+  {
+   "name": "Gulf",
+   "count": 4
+  },
+  {
+   "name": "West Bank",
+   "count": 4
+  },
+  {
+   "name": "Show HN",
+   "count": 3
+  },
+  {
+   "name": "Israel",
+   "count": 3
+  },
+  {
+   "name": "Khalifa Al Thani",
+   "count": 3
+  },
+  {
+   "name": "Qatar",
+   "count": 3
+  },
+  {
+   "name": "Panamá",
+   "count": 3
+  },
+  {
+   "name": "Suiza",
+   "count": 3
   },
   {
    "name": "Green",
-   "count": 4
-  },
-  {
-   "name": "World Cup",
    "count": 3
   },
   {
-   "name": "Indian",
+   "name": "Japan",
    "count": 3
   },
   {
-   "name": "Spain",
-   "count": 3
-  },
-  {
-   "name": "Bellingham",
-   "count": 3
-  },
-  {
-   "name": "US Democrat Ro Khanna",
-   "count": 3
-  },
-  {
-   "name": "China",
+   "name": "Netanyahu",
    "count": 3
   },
   {
@@ -205,18 +217,6 @@
   },
   {
    "name": "Reasonable Doubt",
-   "count": 2
-  },
-  {
-   "name": "Yankee Stadium",
-   "count": 2
-  },
-  {
-   "name": "Write About",
-   "count": 2
-  },
-  {
-   "name": "Endless Barrage",
    "count": 2
   }
  ]
