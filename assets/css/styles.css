@@ -369,7 +369,7 @@ a { color: inherit; text-decoration: none; }
   .beat { max-height: 460px; }
   .geo-rank { display: none; }
   .chart-world { height: 300px; }
-  .chart-latam { height: 300px; }
+  .chart-latam { height: 340px; }
   .chart-big { height: 280px; }
   .chart-ind { height: 300px; }
   .wx-days { grid-template-columns: repeat(4, 1fr); }
@@ -379,3 +379,90 @@ a { color: inherit; text-decoration: none; }
   .focus-chart { height: 300px; }
   .focus-body { padding: .9rem; }
 }
+
+/* ============================================================
+   TECH PASS — HUD, radar, glow y movimiento ambiental
+   (todo apagable con prefers-reduced-motion)
+   ============================================================ */
+
+/* barrido de luz vertical ambiental sobre todo el sitio */
+body::before {
+  content: ""; position: fixed; left: 0; right: 0; top: -160px; height: 160px;
+  pointer-events: none; z-index: 1;
+  background: linear-gradient(180deg, transparent, rgba(43, 212, 168, .05), transparent);
+  animation: hud-sweep 11s linear infinite;
+}
+@keyframes hud-sweep { to { transform: translateY(calc(100vh + 320px)); } }
+
+/* micro-scanlines tipo CRT, muy tenues, sin tapar la lectura */
+body::after {
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 60;
+  background: repeating-linear-gradient(0deg, transparent 0 2.5px, rgba(120, 160, 220, .028) 2.5px 3px);
+  opacity: .55;
+}
+
+/* ---------- Paneles con esquinas HUD + glow al pasar ---------- */
+.panel { position: relative; transition: border-color .18s ease, box-shadow .22s ease; }
+.panel::before, .panel::after {
+  content: ""; position: absolute; width: 12px; height: 12px;
+  pointer-events: none; z-index: 3; border: 1px solid transparent; transition: border-color .22s ease;
+}
+.panel::before { top: 5px; left: 5px; border-top-color: var(--line-2); border-left-color: var(--line-2); }
+.panel::after { bottom: 5px; right: 5px; border-bottom-color: var(--line-2); border-right-color: var(--line-2); }
+.panel:hover {
+  border-color: var(--line-2);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .03) inset, 0 16px 42px rgba(0, 0, 0, .42),
+              0 0 0 1px rgba(43, 212, 168, .07), 0 0 30px -6px rgba(43, 212, 168, .18);
+}
+.panel:hover::before, .panel:hover::after { border-color: var(--accent); }
+
+/* las secciones (beats) glow con su color de identidad */
+.beat:hover {
+  border-top-color: var(--beat, var(--accent));
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .03) inset, 0 16px 42px rgba(0, 0, 0, .42),
+              0 -2px 26px -8px var(--beat, var(--accent));
+}
+.beat:hover::before, .beat:hover::after { border-color: var(--beat, var(--accent)); }
+
+/* ---------- Encabezados de sección con línea de datos ---------- */
+.section-head::after {
+  content: ""; align-self: center; flex: 1 1 40px; min-width: 30px; height: 1px;
+  background: linear-gradient(90deg, var(--line-2), transparent);
+}
+.section-head h2::before { animation: hud-blink 3.2s ease-in-out infinite; }
+@keyframes hud-blink { 0%, 100% { opacity: 1; } 48% { opacity: 1; } 50% { opacity: .35; } 52% { opacity: 1; } }
+
+/* ---------- Mapas con retícula de radar ---------- */
+.chart-world, .chart-latam {
+  background:
+    repeating-radial-gradient(circle at 50% 50%, transparent 0 37px, rgba(43, 212, 168, .05) 37px 38px),
+    radial-gradient(circle at 50% 50%, rgba(43, 212, 168, .05), transparent 62%);
+}
+.map-panel .panel-head h2::before { color: var(--accent); text-shadow: var(--glow); }
+.chart-latam { height: 500px; }
+
+/* ---------- KPIs con acento superior animado ---------- */
+.kpi::before {
+  content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent-2), transparent);
+  opacity: 0; transition: opacity .2s ease;
+}
+.kpi:hover::before { opacity: .8; }
+
+/* ---------- Ticker con bordes difuminados ---------- */
+.ticker {
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 3%, #000 97%, transparent);
+          mask-image: linear-gradient(90deg, transparent, #000 3%, #000 97%, transparent);
+}
+
+/* ---------- Chips y foco con más presencia ---------- */
+.live .dot { box-shadow: 0 0 .5rem rgba(43, 212, 168, .8); }
+.beatnav a:hover { box-shadow: 0 0 18px -8px var(--beat, var(--accent)); }
+
+@media (prefers-reduced-motion: reduce) {
+  body::before { display: none; }
+  .section-head h2::before { animation: none; }
+}
+
+@media (max-width: 1100px) { .chart-latam { height: 400px; } }
+@media (max-width: 720px)  { .chart-latam { height: 340px; } }

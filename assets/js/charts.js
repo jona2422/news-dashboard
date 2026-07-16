@@ -138,23 +138,17 @@ window.Charts = (function () {
     chart.resize();
   }
 
-  /* ============ Radar regional: LatAm (sismos + Panamá) ============ */
+  /* ============ Radar sísmico global (USGS 24h, todo el mundo) ============ */
   async function mountLatam(elId, quakes, geo) {
     if (!ready() || !(await ensureWorld())) return;
     var chart = inst(elId || "latammap");
     if (!chart) return;
 
-    var qs = ((quakes && quakes.items) || []).filter(function (q) {
-      return q.lon >= -120 && q.lon <= -28 && q.lat >= -58 && q.lat <= 34;
-    });
-    var qdata = qs.map(function (q) {
-      return { name: q.place, value: [q.lon, q.lat, q.mag], itemStyle: { color: magColor(q.mag) } };
-    });
-
-    var news = ((geo && geo.countries) || []).filter(function (c) {
-      return c.lon >= -120 && c.lon <= -28 && c.lat >= -58 && c.lat <= 34;
-    }).map(function (c) {
-      return { name: c.es, value: [c.lon, c.lat, c.count] };
+    // Todos los sismos del mundo. Los fuertes (M≥4.5) pulsan; el resto son puntos.
+    var big = [], small = [];
+    ((quakes && quakes.items) || []).forEach(function (q) {
+      var pt = { name: q.place, value: [q.lon, q.lat, q.mag] };
+      (q.mag >= 4.5 ? big : small).push(pt);
     });
 
     chart.setOption({
@@ -162,41 +156,48 @@ window.Charts = (function () {
       tooltip: tip({
         trigger: "item",
         formatter: function (p) {
-          if (p.seriesName === "Sismos") return "M" + p.value[2] + " · " + (p.name || "—");
-          if (p.seriesName === "Noticias") return p.name + " · " + p.value[2] + " menciones";
-          return p.name;
+          if (p.seriesName === "PTY") return "Ciudad de Panamá";
+          return "<b>M" + p.value[2] + "</b> · " + (p.name || "—");
         }
       }),
+      visualMap: {
+        type: "piecewise", dimension: 2, seriesIndex: [0, 1],
+        pieces: [
+          { min: 6, label: "M6+", color: "#ff5c6e" },
+          { min: 5, max: 6, label: "M5–6", color: "#ff7a45" },
+          { min: 4, max: 5, label: "M4–5", color: "#ffb000" },
+          { min: 3, max: 4, label: "M3–4", color: "#2bd4a8" },
+          { max: 3, label: "<M3", color: "#3aa0ff" }
+        ],
+        right: 8, bottom: 8, itemWidth: 9, itemHeight: 9, itemGap: 3,
+        textStyle: { color: "#8aa0bd", fontFamily: MONO, fontSize: 9 }
+      },
       geo: {
-        map: "world", roam: true,
-        center: [-74, -4], zoom: 3.4, scaleLimit: { min: 2, max: 12 },
-        itemStyle: { areaColor: "#122036", borderColor: "#31456b", borderWidth: 0.7 },
-        emphasis: { label: { show: false }, itemStyle: { areaColor: "#13233c" } },
-        regions: [{ name: "Panama", itemStyle: { areaColor: "#144a3c", borderColor: "#2bd4a8", borderWidth: 1.2 } }]
+        map: "world", roam: true, zoom: 1.15, scaleLimit: { min: 1, max: 10 },
+        itemStyle: { areaColor: "#0a1626", borderColor: "#1c3350", borderWidth: 0.6 },
+        emphasis: { label: { show: false }, itemStyle: { areaColor: "#12233c" } },
+        regions: [{ name: "Panama", itemStyle: { areaColor: "#144a3c", borderColor: "#2bd4a8", borderWidth: 1.1 } }]
       },
       series: [
         {
           name: "Sismos", type: "effectScatter", coordinateSystem: "geo", zlevel: 3,
-          symbolSize: function (v) { return Math.max(5, (v[2] - 1) * 3.6); },
-          rippleEffect: { brushType: "stroke", scale: 2.8 },
-          itemStyle: { shadowBlur: 6, shadowColor: "rgba(0,0,0,.4)" },
-          data: qdata
+          symbolSize: function (v) { return Math.max(6, (v[2] - 1) * 3.4); },
+          rippleEffect: { brushType: "stroke", scale: 3 }, showEffectOn: "render",
+          itemStyle: { shadowBlur: 8, shadowColor: "rgba(0,0,0,.45)" },
+          data: big
         },
         {
-          name: "Noticias", type: "scatter", coordinateSystem: "geo", zlevel: 2,
-          symbol: "diamond",
-          symbolSize: function (v) { return Math.min(6 + v[2] * 1.6, 18); },
-          itemStyle: { color: "#3aa0ff", opacity: .85, shadowBlur: 6, shadowColor: "rgba(58,160,255,.5)" },
-          label: { show: false },
-          data: news
+          name: "Sismos menores", type: "scatter", coordinateSystem: "geo", zlevel: 2,
+          symbolSize: function (v) { return Math.max(3, (v[2] - 1) * 2.4); },
+          itemStyle: { opacity: .82 },
+          data: small
         },
         {
           name: "PTY", type: "scatter", coordinateSystem: "geo", zlevel: 4,
-          symbol: "pin", symbolSize: 26,
+          symbol: "pin", symbolSize: 24,
           itemStyle: { color: "#2bd4a8" },
           label: { show: true, formatter: "PTY", position: "top", color: "#2bd4a8", fontFamily: MONO, fontSize: 9, fontWeight: 700 },
-          tooltip: { formatter: "Ciudad de Panamá" },
-          data: [{ name: "Ciudad de Panamá", value: [-79.52, 8.98, 0] }]
+          data: [{ name: "Ciudad de Panamá", value: [-79.52, 8.98, 3] }]
         }
       ]
     });

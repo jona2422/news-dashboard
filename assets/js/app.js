@@ -67,7 +67,6 @@
       }
       if (state.indicators && window.Charts) Charts.mountIndicators("indicators", state.indicators, null, true);
       if (state.trends) Render.renderHot(state.trends);
-      if (state.history && window.Charts) Charts.mountTrends("trends", state.history);
       if (state.meta) Render.renderHealth(state.meta);
 
       Render.renderKpis(state);
