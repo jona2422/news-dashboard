@@ -1,0 +1,20 @@
+{
+  "name": "NEWSDESK — la redacción de Jonathan",
+  "short_name": "NEWSDESK",
+  "description": "Redacción privada de Jonathan González: música, arte, tecnología, actualidad global, Panamá/LatAm, radar sísmico mundial, mercados y datos en tiempo real.",
+  "lang": "es",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#04070d",
+  "theme_color": "#04070d",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

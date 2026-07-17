@@ -55,6 +55,22 @@ window.Charts = (function () {
     return "#3aa0ff";
   }
 
+  // cortes de magnitud reutilizados por radar y perfil sísmico
+  var MAG_PIECES = [
+    { min: 6, label: "M6+", color: "#ff5c6e" },
+    { min: 5, max: 6, label: "M5–6", color: "#ff7a45" },
+    { min: 4, max: 5, label: "M4–5", color: "#ffb000" },
+    { min: 3, max: 4, label: "M3–4", color: "#2bd4a8" },
+    { max: 3, label: "<M3", color: "#3aa0ff" }
+  ];
+
+  // color de acento vigente (respeta la personalización del usuario)
+  function accentColor() {
+    try {
+      return getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#2bd4a8";
+    } catch (e) { return "#2bd4a8"; }
+  }
+
   async function ensureWorld() {
     if (mapRegistered) return true;
     try {
@@ -532,6 +548,135 @@ window.Charts = (function () {
     chart.resize();
   }
 
+  /* ============ Ritmo de la jornada: titulares por hora (48h) ============ */
+  function mountPulse(elId, news) {
+    elId = elId || "pulse";
+    if (!ready() || !news) return;
+    var chart = inst(elId);
+    if (!chart) return;
+
+    var HOURS = 48;
+    var base = new Date(); base.setMinutes(0, 0, 0);
+    var baseTs = base.getTime();                 // inicio de la hora actual
+    var buckets = new Array(HOURS).fill(0);
+    (news.beats || []).forEach(function (b) {
+      (b.items || []).forEach(function (it) {
+        if (!it.ts) return;
+        var diffH = Math.floor((baseTs - it.ts) / 3600000);
+        if (diffH >= 0 && diffH < HOURS) buckets[HOURS - 1 - diffH]++;
+      });
+    });
+    var labels = [];
+    for (var i = 0; i < HOURS; i++) {
+      var d = new Date(baseTs - (HOURS - 1 - i) * 3600000);
+      labels.push(("0" + d.getHours()).slice(-2) + "h");
+    }
+    var ac = accentColor();
+
+    chart.setOption({
+      backgroundColor: "transparent",
+      grid: { left: 32, right: 14, top: 16, bottom: 22 },
+      tooltip: tip({
+        trigger: "axis",
+        formatter: function (ps) {
+          var p = ps[0];
+          return p.axisValue + "<br><b>" + p.value + "</b> titular" + (p.value === 1 ? "" : "es");
+        }
+      }),
+      xAxis: Object.assign(axis(), {
+        type: "category", data: labels, boundaryGap: true, splitLine: { show: false },
+        axisLabel: { color: "#6f819c", fontFamily: MONO, fontSize: 9, interval: 5 }
+      }),
+      yAxis: Object.assign(axis(), { type: "value", minInterval: 1 }),
+      series: [{
+        name: "Titulares", type: "bar", barWidth: "62%",
+        itemStyle: {
+          borderRadius: [2, 2, 0, 0],
+          color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+            { offset: 0, color: ac }, { offset: 1, color: "rgba(43,212,168,.08)" }
+          ])
+        },
+        emphasis: { itemStyle: { color: ac } },
+        data: buckets
+      }]
+    });
+    chart.resize();
+  }
+
+  /* ============ Perfil sísmico: profundidad × magnitud ============ */
+  function mountQuakeProfile(elId, quakes) {
+    elId = elId || "quakeprofile";
+    if (!ready() || !quakes) return;
+    var chart = inst(elId);
+    if (!chart) return;
+
+    var data = (quakes.items || [])
+      .filter(function (q) { return q.depth != null; })
+      .map(function (q) { return { name: q.place, value: [q.depth, q.mag] }; });
+
+    chart.setOption({
+      backgroundColor: "transparent",
+      grid: { left: 42, right: 16, top: 18, bottom: 42 },
+      tooltip: tip({
+        trigger: "item",
+        formatter: function (p) {
+          return "<b>M" + p.value[1] + "</b> · " + (p.name || "—") +
+            "<br>profundidad " + Math.round(p.value[0]) + " km";
+        }
+      }),
+      visualMap: { type: "piecewise", dimension: 1, pieces: MAG_PIECES, show: false },
+      xAxis: Object.assign(axis(), {
+        type: "value", name: "Profundidad (km)", nameLocation: "middle", nameGap: 26,
+        nameTextStyle: { color: "#6f819c", fontFamily: MONO, fontSize: 9 },
+        splitLine: { lineStyle: { color: "#111b2e" } }
+      }),
+      yAxis: Object.assign(axis(), {
+        type: "value", name: "Magnitud", scale: true,
+        nameTextStyle: { color: "#6f819c", fontFamily: MONO, fontSize: 9 }
+      }),
+      series: [{
+        type: "scatter",
+        symbolSize: function (v) { return Math.max(5, (v[1] - 1) * 3.2); },
+        itemStyle: { opacity: .82, shadowBlur: 6, shadowColor: "rgba(0,0,0,.4)" },
+        data: data
+      }]
+    });
+    chart.resize();
+  }
+
+  /* ============ Treemap: cobertura por sección ============ */
+  function mountBeatTree(elId, news, onClick) {
+    elId = elId || "beattree";
+    if (!ready() || !news) return;
+    var chart = inst(elId);
+    if (!chart) return;
+
+    var data = (news.beats || []).map(function (b, i) {
+      var val = 0;
+      (b.items || []).forEach(function (it) { val += (it.count || 1); });
+      return { name: b.name, value: val, id: b.id, itemStyle: { color: beatColor(b.id, i) } };
+    }).filter(function (d) { return d.value > 0; });
+
+    chart.setOption({
+      backgroundColor: "transparent",
+      tooltip: tip({ formatter: function (p) { return "<b>" + p.name + "</b><br>" + p.value + " en cobertura · clic para abrir"; } }),
+      series: [{
+        type: "treemap", roam: false, nodeClick: false, breadcrumb: { show: false },
+        top: 2, left: 2, right: 2, bottom: 2,
+        itemStyle: { borderColor: "#0a111f", borderWidth: 2, gapWidth: 2 },
+        label: {
+          show: true, color: "#ffffff", fontFamily: MONO, fontWeight: 700, fontSize: 11,
+          textShadowColor: "rgba(0,0,0,.6)", textShadowBlur: 3
+        },
+        emphasis: { itemStyle: { shadowBlur: 14, shadowColor: "rgba(0,0,0,.5)" } },
+        data: data
+      }]
+    });
+    chart.off("click");
+    if (onClick) chart.on("click", function (p) { if (p.data && p.data.id) onClick(p.data.id); });
+    chart.resize();
+  }
+
   function resize() {
     Object.keys(instances).forEach(function (k) {
       if (instances[k] && !instances[k].isDisposed()) instances[k].resize();
@@ -543,6 +688,7 @@ window.Charts = (function () {
     mountMarketBig: mountMarketBig, mountWxHours: mountWxHours,
     mountReadDonut: mountReadDonut, mountEntities: mountEntities,
     mountMap: mountMap, mountIndicators: mountIndicators, mountTrends: mountTrends,
+    mountPulse: mountPulse, mountQuakeProfile: mountQuakeProfile, mountBeatTree: mountBeatTree,
     dispose: dispose, resize: resize
   };
 })();

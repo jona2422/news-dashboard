@@ -12,6 +12,9 @@ window.UserStore = (function () {
   var read = new Set(get("nd_read", []));
   var saved = get("nd_saved", []);          // [{link,title,source,image,ts,beat}]
   var hidden = new Set(get("nd_hidden", [])); // beats ocultos
+  var pinned = get("nd_pinned", []);          // beats fijados (van primero), en orden
+  var accent = get("nd_accent", "");          // acento personalizado ("" = por defecto)
+  var compact = get("nd_compact", false);     // modo compacto
   var prevVisit = get("nd_lastvisit", 0);     // última visita previa (para "nuevas")
   set("nd_lastvisit", Date.now());
 
@@ -35,6 +38,22 @@ window.UserStore = (function () {
       if (hidden.has(b)) hidden.delete(b); else hidden.add(b);
       set("nd_hidden", Array.from(hidden));
     },
+
+    /* ---- secciones fijadas (suben al inicio) ---- */
+    isPinned: function (b) { return pinned.indexOf(b) >= 0; },
+    pinnedList: function () { return pinned.slice(); },
+    togglePin: function (b) {
+      var i = pinned.indexOf(b);
+      if (i >= 0) pinned.splice(i, 1); else pinned.push(b);
+      set("nd_pinned", pinned);
+      return i < 0; // true si quedó fijado
+    },
+
+    /* ---- personalización visual ---- */
+    getAccent: function () { return accent; },
+    setAccent: function (v) { accent = v || ""; set("nd_accent", accent); },
+    getCompact: function () { return !!compact; },
+    setCompact: function (v) { compact = !!v; set("nd_compact", compact); },
 
     isNew: function (ts) { return prevVisit > 0 && ts > prevVisit; }
   };

@@ -49,6 +49,11 @@
       if (state.news) {
         Render.renderBeats(state.news);
         Render.renderPortada(state.news);
+        Render.renderDeveloping();
+        if (window.Charts) {
+          Charts.mountPulse("pulse", state.news);
+          Charts.mountBeatTree("beattree", state.news, Render.openFocus);
+        }
       }
       if (state.weather) Render.renderWeather(state.weather);
       if (state.markets) {
@@ -65,6 +70,7 @@
         var lm = document.getElementById("latam-meta");
         if (lm && state.quakes) lm.textContent = state.quakes.count + " sismos · máx M" + state.quakes.max;
       }
+      if (state.quakes && window.Charts) Charts.mountQuakeProfile("quakeprofile", state.quakes);
       if (state.indicators && window.Charts) Charts.mountIndicators("indicators", state.indicators, null, true);
       if (state.trends) Render.renderHot(state.trends);
       if (state.meta) Render.renderHealth(state.meta);
@@ -77,7 +83,24 @@
 
       var iso = (state.meta && state.meta.updated) || (state.news && state.news.updated);
       setUpdated(iso);
+      scheduleHideBoot();
     });
+  }
+
+  /* ---------- secuencia de arranque (boot log) ---------- */
+  var _booted = false, _bootStart = Date.now();
+  function hideBoot() {
+    if (_booted) return;
+    _booted = true;
+    var b = document.getElementById("boot");
+    if (!b) return;
+    b.classList.add("done");
+    setTimeout(function () { b.hidden = true; }, 700);
+  }
+  function scheduleHideBoot() {
+    if (_booted) return;
+    var wait = Math.max(0, 1100 - (Date.now() - _bootStart));
+    setTimeout(hideBoot, wait);
   }
 
   function wireControls() {
@@ -118,6 +141,7 @@
   }
 
   function start() {
+    Render.applyPrefs();               // acento + modo compacto guardados
     Render.renderGreet();
     clock();
     setInterval(clock, 1000);
@@ -126,11 +150,29 @@
     setInterval(refresh, REFRESH_MS);
     window.addEventListener("resize", function () { Charts.resize(); });
 
+    // por si la carga falla o tarda demasiado, el boot no se queda pegado
+    setTimeout(hideBoot, 6000);
+
     var back = document.getElementById("focus-back");
     if (back) back.addEventListener("click", Render.closeFocus);
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") Render.closeFocus();
     });
+
+    // PWA: registra el service worker para uso offline (falla en silencio).
+    // Al activarse una versión nueva, recarga una sola vez para tomar los
+    // archivos frescos — así una actualización nunca se queda pegada.
+    if ("serviceWorker" in navigator) {
+      var swReloaded = false;
+      navigator.serviceWorker.addEventListener("controllerchange", function () {
+        if (swReloaded) return;
+        swReloaded = true;
+        location.reload();
+      });
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("sw.js").catch(function () {});
+      });
+    }
   }
 
   if (document.readyState === "loading") {

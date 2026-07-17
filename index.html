@@ -6,12 +6,35 @@
   <title>NEWSDESK · La redacción de Jonathan</title>
   <meta name="description" content="Redacción privada de Jonathan González: música, arte, tecnología, actualidad global, Panamá/LatAm, desastres, Medio Oriente y China — con mapas y datos en tiempo real.">
   <meta name="theme-color" content="#04070d">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
+  <div id="boot" class="boot" aria-hidden="true">
+    <div class="boot-inner">
+      <div class="boot-logo">◢◣ NEWSDESK</div>
+      <pre class="boot-log"><span>&gt; init redacción · Jonathan González</span><span>&gt; montando feeds RSS ······ ok</span><span>&gt; USGS · radar sísmico global ··· ok</span><span>&gt; Open-Meteo · mercados · Banco Mundial ··· ok</span><span>&gt; render dashboard ▍</span></pre>
+    </div>
+  </div>
+  <script>
+    /* red de seguridad: el boot nunca debe atrapar la página aunque falle un script */
+    (function () {
+      function kill() {
+        var b = document.getElementById("boot");
+        if (b) { b.classList.add("done"); setTimeout(function () { b.hidden = true; }, 700); }
+      }
+      setTimeout(kill, 4500);
+      window.addEventListener("error", kill);
+    })();
+  </script>
+
   <header class="topbar">
     <div class="brand">
       <span class="logo">◢◣</span>
@@ -26,7 +49,11 @@
     </div>
   </header>
 
-  <div id="kpis" class="kpis" aria-label="Indicadores rápidos"></div>
+  <div id="kpis" class="kpis" aria-label="Indicadores rápidos">
+    <div class="kpi skel-kpi"></div><div class="kpi skel-kpi"></div>
+    <div class="kpi skel-kpi"></div><div class="kpi skel-kpi"></div>
+    <div class="kpi skel-kpi"></div><div class="kpi skel-kpi"></div>
+  </div>
 
   <div class="ticker" aria-hidden="true">
     <div id="ticker-track" class="ticker-track"></div>
@@ -55,6 +82,8 @@
 
   <div id="hot" class="hot"></div>
 
+  <div id="developing" class="developing"></div>
+
   <main class="layout">
     <!-- ============ HERO: portada · mapa mundial · mercados ============ -->
     <div class="hero">
@@ -63,7 +92,10 @@
           <h2>Lo más importante</h2>
           <span class="tag">cobertura + recencia</span>
         </div>
-        <ul id="portada" class="lead-list"></ul>
+        <ul id="portada" class="lead-list">
+          <li class="skel-lead"></li><li class="skel-lead"></li>
+          <li class="skel-lead"></li><li class="skel-lead"></li>
+        </ul>
       </article>
 
       <article class="panel map-panel">
@@ -93,7 +125,11 @@
         <h2>Secciones</h2>
         <span class="section-sub">clic en el título de una sección para abrirla a pantalla completa</span>
       </div>
-      <div class="beats" id="beats"></div>
+      <div class="beats" id="beats">
+        <div class="panel skel-card"></div>
+        <div class="panel skel-card"></div>
+        <div class="panel skel-card"></div>
+      </div>
     </section>
 
     <!-- ============ RADAR SÍSMICO GLOBAL · CLIMA ============ -->
@@ -120,6 +156,15 @@
           <div id="weather" class="weather"></div>
         </article>
       </div>
+
+      <article class="panel span-full">
+        <div class="panel-head">
+          <h2>Perfil sísmico</h2>
+          <span class="tag">profundidad × magnitud · 24h</span>
+          <span class="muted right">cada punto es un sismo</span>
+        </div>
+        <div id="quakeprofile" class="chart chart-qprofile"></div>
+      </article>
     </section>
 
     <!-- ============ TABLERO DE DATOS ============ -->
@@ -177,12 +222,29 @@
 
         <article class="panel">
           <div class="panel-head">
+            <h2>Cobertura por sección</h2>
+            <span class="tag">clic para abrir</span>
+          </div>
+          <div id="beattree" class="chart chart-tree"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
             <h2>Protagonistas de hoy</h2>
             <span class="tag">menciones en titulares</span>
           </div>
           <div id="entbar" class="chart chart-ents"></div>
         </article>
       </div>
+
+      <article class="panel span-full">
+        <div class="panel-head">
+          <h2>Ritmo de la jornada</h2>
+          <span class="tag">titulares por hora · 48h</span>
+          <span class="muted right">calculado en tu navegador</span>
+        </div>
+        <div id="pulse" class="chart chart-pulse"></div>
+      </article>
     </section>
   </main>
 
@@ -201,6 +263,10 @@
     </div>
   </div>
 
+  <div id="palette" class="palette" hidden></div>
+
+  <button id="palette-fab" class="palette-fab" type="button" title="Comandos (⌘K)" aria-label="Abrir paleta de comandos">⌘K</button>
+
   <footer class="foot">
     <div id="health" class="health"></div>
     <span class="muted">NEWSDESK — la redacción de Jonathan González · RSS · USGS · Open-Meteo · Yahoo · Frankfurter · CoinGecko · Banco Mundial · Se actualiza cada hora.</span>
@@ -210,6 +276,7 @@
   <script src="assets/js/store.js" defer></script>
   <script src="assets/js/render.js" defer></script>
   <script src="assets/js/charts.js" defer></script>
+  <script src="assets/js/palette.js" defer></script>
   <script src="assets/js/app.js" defer></script>
 </body>
 </html>

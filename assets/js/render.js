@@ -71,6 +71,83 @@ window.Render = (function () {
       '</span><span class="ago">' + timeAgo(it.ts) + "</span>" + dup + "</span>";
   }
 
+  /* ---------- personalización + micro-animaciones ---------- */
+  var ACCENTS = [
+    { name: "Verde", v: "" },        // por defecto (--accent original)
+    { name: "Azul", v: "#3aa0ff" },
+    { name: "Ámbar", v: "#ffb000" },
+    { name: "Rosa", v: "#ff5ea8" },
+    { name: "Violeta", v: "#a468ff" }
+  ];
+  var _kpiPrev = {};   // último valor numérico por KPI (para el count-up)
+
+  function reduceMotion() {
+    return window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  }
+  function hexA(hex, a) {
+    var h = (hex || "").replace("#", "");
+    if (h.length === 3) h = h.split("").map(function (c) { return c + c; }).join("");
+    var n = parseInt(h, 16);
+    return "rgba(" + ((n >> 16) & 255) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + a + ")";
+  }
+  function tween(from, to, ms, step) {
+    var t0 = performance.now();
+    function frame(now) {
+      var p = Math.min(1, (now - t0) / ms);
+      var e = 1 - Math.pow(1 - p, 3);            // easeOutCubic
+      step(from + (to - from) * e);
+      if (p < 1) requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+  }
+  function numSpan(key, val) {
+    return '<span class="kv-num" data-anim="' + key + '" data-to="' + val + '">' +
+      Number(val).toLocaleString("en-US") + "</span>";
+  }
+  function runCounts(root) {
+    root.querySelectorAll(".kv-num").forEach(function (el) {
+      var key = el.dataset.anim, to = parseFloat(el.dataset.to) || 0;
+      var from = _kpiPrev[key] == null ? 0 : _kpiPrev[key];
+      _kpiPrev[key] = to;
+      if (reduceMotion() || from === to) { el.textContent = Math.round(to).toLocaleString("en-US"); return; }
+      tween(from, to, 650, function (v) { el.textContent = Math.round(v).toLocaleString("en-US"); });
+    });
+  }
+  // valor de un campo de history.json ~24h atrás (o null si no hay dato fiable)
+  function past24(state, field) {
+    var recs = state.history && state.history.records;
+    if (!recs || !recs.length) return null;
+    var target = Date.now() - 24 * 3600000, best = null, bd = Infinity;
+    recs.forEach(function (r) { var d = Math.abs(r.t - target); if (d < bd) { bd = d; best = r; } });
+    if (!best || (Date.now() - best.t) < 12 * 3600000) return null;  // exige >=12h de historia
+    return best[field] == null ? null : best[field];
+  }
+  function deltaTxt(cur, past) {
+    if (past == null || past === 0) return null;
+    var pct = (cur - past) / past * 100;
+    if (!isFinite(pct)) return null;
+    return {
+      txt: (pct >= 0 ? "▲ +" : "▼ ") + Math.abs(pct).toFixed(0) + "% vs 24h",
+      cls: pct > 0.5 ? "up" : pct < -0.5 ? "down" : ""
+    };
+  }
+
+  function applyPrefs() {
+    var US = window.UserStore;
+    var root = document.documentElement;
+    if (!US) return;
+    var ac = US.getAccent();
+    if (ac) {
+      root.style.setProperty("--accent", ac);
+      root.style.setProperty("--glow", "0 0 .6rem " + hexA(ac, .5));
+    } else {
+      root.style.removeProperty("--accent");
+      root.style.removeProperty("--glow");
+    }
+    document.body.classList.toggle("compact", US.getCompact());
+    if (window.Charts) Charts.resize();
+  }
+
   /* ---------- saludo personalizado ---------- */
   function renderGreet() {
     var el = document.getElementById("greet");
@@ -180,16 +257,20 @@ window.Render = (function () {
       state.news.beats.forEach(function (b) {
         b.items.forEach(function (it) { total++; if (US && US.isNew(it.ts)) fresh++; });
       });
-      t.push(kpiTile("Titulares", String(total),
-        fresh ? fresh + " nuevas para ti" : "al día", fresh ? "up" : ""));
+      var nd = deltaTxt(total, past24(state, "news_total"));
+      var nSub = fresh ? fresh + " nuevas para ti" : (nd ? nd.txt : "al día");
+      var nCls = fresh ? "up" : (nd ? nd.cls : "");
+      t.push(kpiTile("Titulares", numSpan("news", total), nSub, nCls));
     }
     if (state.geo) {
-      t.push(kpiTile("El mundo hoy", String((state.geo.countries || []).length) + '<span class="u">países</span>',
+      t.push(kpiTile("El mundo hoy", numSpan("countries", (state.geo.countries || []).length) + '<span class="u">países</span>',
         state.geo.total + " menciones"));
     }
     if (state.quakes) {
-      t.push(kpiTile("Sismos 24h", String(state.quakes.count),
-        "máx M" + state.quakes.max, state.quakes.max >= 6 ? "down" : ""));
+      var qd = deltaTxt(state.quakes.count, past24(state, "quake_count"));
+      var qSub = "máx M" + state.quakes.max + (qd ? " · " + qd.txt.replace(" vs 24h", "") : "");
+      t.push(kpiTile("Sismos 24h", numSpan("quakes", state.quakes.count),
+        qSub, state.quakes.max >= 6 ? "down" : ""));
     }
     ["S&P 500", "Bitcoin", "EUR/USD"].forEach(function (lbl) {
       var m = state.markets && (state.markets.items || []).find(function (x) { return x.label === lbl; });
@@ -203,10 +284,11 @@ window.Render = (function () {
     });
     if (state.meta) {
       var okN = state.meta.sources_ok, totN = state.meta.sources_total;
-      t.push(kpiTile("Fuentes", okN + '<span class="u">/' + totN + "</span>",
+      t.push(kpiTile("Fuentes", numSpan("sources", okN) + '<span class="u">/' + totN + "</span>",
         okN === totN ? "todas activas" : (totN - okN) + " caídas", okN === totN ? "up" : "down"));
     }
     root.innerHTML = t.join("");
+    runCounts(root);
   }
 
   /* ---------- dashboard de secciones ---------- */
@@ -221,7 +303,19 @@ window.Render = (function () {
     if (nav) nav.innerHTML = "";
     populateSources(_news);
 
-    _news.beats.forEach(function (b, bi) {
+    // las secciones fijadas van primero (en el orden en que se fijaron)
+    var ordered = _news.beats.slice();
+    if (US) {
+      var pins = US.pinnedList();
+      ordered.sort(function (a, b) {
+        var ra = pins.indexOf(a.id), rb = pins.indexOf(b.id);
+        ra = ra < 0 ? 999 : ra; rb = rb < 0 ? 999 : rb;
+        if (ra !== rb) return ra - rb;
+        return _news.beats.indexOf(a) - _news.beats.indexOf(b);
+      });
+    }
+
+    ordered.forEach(function (b, bi) {
       var shown = b.items.filter(matches);
       var newCount = US ? b.items.filter(function (it) { return US.isNew(it.ts); }).length : 0;
       var col = beatColor(b.id, bi);
@@ -240,10 +334,12 @@ window.Render = (function () {
 
       var card = document.createElement("article");
       card.className = "panel beat"; card.id = "beat-" + b.id;
+      if (US && US.isPinned(b.id)) card.classList.add("pinned");
       card.style.setProperty("--beat", col);
       var head = document.createElement("div");
       head.className = "panel-head"; head.title = "Abrir a pantalla completa";
       head.innerHTML = "<h2>" + escapeHtml(b.name) + "</h2>" +
+        (US && US.isPinned(b.id) ? '<span class="pin-badge" title="fijada">📌</span>' : "") +
         (newCount ? '<span class="head-new">' + newCount + " nuevas</span>" : "") +
         '<span class="expand">⤢</span>';
       head.addEventListener("click", function () { openFocus(b.id); });
@@ -534,6 +630,50 @@ window.Render = (function () {
     root.innerHTML = txt;
   }
 
+  /* ---------- carril "en desarrollo" (cobertura amplia = proxy de breaking) ---------- */
+  function renderDeveloping() {
+    var root = document.getElementById("developing");
+    if (!root || !_news) return;
+    var US = window.UserStore;
+    var ALERT = /gdacs|usgs|earthquake|sismo|reliefweb/i;   // alertas automáticas, no "breaking"
+    var pool = [];
+    _news.beats.forEach(function (b, bi) {
+      if (US && US.isHidden(b.id)) return;
+      b.items.forEach(function (it) {
+        if (ALERT.test(it.source || "") || ALERT.test(it.title || "")) return;
+        if ((it.count || 1) >= 2) {
+          pool.push({
+            link: it.link, title: it.title, source: it.source, ts: it.ts,
+            count: it.count, beatName: b.name, color: beatColor(b.id, bi)
+          });
+        }
+      });
+    });
+    var now = Date.now();
+    pool.forEach(function (it) {
+      var ageH = it.ts ? (now - it.ts) / 3600000 : 999;
+      var recency = Math.max(0, 36 - ageH) / 36;
+      it._score = (it.count - 1) * 2 + recency * 1.5;
+    });
+    pool.sort(function (a, b) { return b._score - a._score || b.ts - a.ts; });
+    var picked = pool.slice(0, 8);
+    if (!picked.length) { root.innerHTML = ""; return; }
+
+    var html = '<span class="dev-label">⚡ En desarrollo</span>';
+    picked.forEach(function (it) {
+      html += '<a class="dev-card" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener" style="--beat:' + it.color + '">' +
+        '<span class="dev-kick">' + escapeHtml(it.beatName) + '</span>' +
+        '<span class="dev-title">' + escapeHtml(it.title) + '</span>' +
+        '<span class="dev-meta"><span class="dev-n" title="fuentes que lo cubren">▣ ' + it.count + '</span>' +
+        '<span class="dev-src">' + escapeHtml(it.source || "") + '</span>' +
+        '<span class="dev-ago">' + timeAgo(it.ts) + '</span></span></a>';
+    });
+    root.innerHTML = html;
+    if (US) Array.prototype.forEach.call(root.querySelectorAll(".dev-card"), function (a, i) {
+      a.addEventListener("click", function () { US.markRead(picked[i].link); });
+    });
+  }
+
   /* ---------- temas calientes ---------- */
   function renderHot(trends) {
     var root = document.getElementById("hot");
@@ -680,20 +820,77 @@ window.Render = (function () {
   function renderSettings() {
     var pop = document.getElementById("settings-pop");
     if (!pop || !_news) return;
-    pop.innerHTML = '<div class="sp-title">Mostrar secciones</div>';
+    var US = window.UserStore;
+    pop.innerHTML = "";
+
+    // ---- apariencia: acento + modo compacto ----
+    var appTitle = document.createElement("div");
+    appTitle.className = "sp-title"; appTitle.textContent = "Apariencia";
+    pop.appendChild(appTitle);
+
+    var sw = document.createElement("div"); sw.className = "sp-swatches";
+    ACCENTS.forEach(function (a) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "sw" + (US && US.getAccent() === a.v ? " on" : "");
+      b.title = a.name;
+      b.style.background = a.v || "#2bd4a8";
+      b.addEventListener("click", function () {
+        if (US) US.setAccent(a.v);
+        applyPrefs(); renderSettings();
+      });
+      sw.appendChild(b);
+    });
+    pop.appendChild(sw);
+
+    var cRow = document.createElement("label"); cRow.className = "sp-row";
+    var cCb = document.createElement("input"); cCb.type = "checkbox";
+    cCb.checked = !!(US && US.getCompact());
+    cCb.addEventListener("change", function () {
+      if (US) US.setCompact(cCb.checked);
+      applyPrefs();
+    });
+    cRow.appendChild(cCb);
+    cRow.appendChild(document.createTextNode(" Modo compacto"));
+    pop.appendChild(cRow);
+
+    // ---- secciones: mostrar/ocultar + fijar ----
+    var secTitle = document.createElement("div");
+    secTitle.className = "sp-title"; secTitle.textContent = "Mostrar secciones";
+    pop.appendChild(secTitle);
+
     _news.beats.forEach(function (b) {
-      var row = document.createElement("label");
-      row.className = "sp-row";
+      var row = document.createElement("div");
+      row.className = "sp-row sp-beat";
+
+      var lab = document.createElement("label");
+      lab.className = "sp-beatlabel";
       var cb = document.createElement("input");
       cb.type = "checkbox";
-      cb.checked = !(window.UserStore && window.UserStore.isHidden(b.id));
+      cb.checked = !(US && US.isHidden(b.id));
       cb.addEventListener("change", function () {
-        if (window.UserStore) window.UserStore.toggleBeat(b.id);
-        renderBeats();
-        renderPortada();
+        if (US) US.toggleBeat(b.id);
+        renderBeats(); renderPortada();
       });
-      row.appendChild(cb);
-      row.appendChild(document.createTextNode(" " + b.name));
+      lab.appendChild(cb);
+      lab.appendChild(document.createTextNode(" " + b.name));
+
+      var pin = document.createElement("button");
+      pin.type = "button";
+      pin.className = "sp-pin" + (US && US.isPinned(b.id) ? " on" : "");
+      pin.title = "Fijar arriba";
+      pin.textContent = (US && US.isPinned(b.id)) ? "★" : "☆";
+      pin.addEventListener("click", function (e) {
+        e.preventDefault();
+        if (US) US.togglePin(b.id);
+        var on = US && US.isPinned(b.id);
+        pin.classList.toggle("on", on);
+        pin.textContent = on ? "★" : "☆";
+        renderBeats();
+      });
+
+      row.appendChild(lab);
+      row.appendChild(pin);
       pop.appendChild(row);
     });
   }
@@ -708,6 +905,7 @@ window.Render = (function () {
     renderBeats: renderBeats, renderMarkets: renderMarkets, buildTicker: buildTicker,
     renderMarketTabs: renderMarketTabs, renderSideMarkets: renderSideMarkets,
     renderGeoRank: renderGeoRank, renderAnalytics: renderAnalytics,
+    renderDeveloping: renderDeveloping, applyPrefs: applyPrefs,
     renderHot: renderHot, renderSettings: renderSettings, updateSavedCount: updateSavedCount,
     renderPortada: renderPortada, renderWeather: renderWeather, renderHealth: renderHealth,
     setFilter: setFilter, setSearch: setSearch,
