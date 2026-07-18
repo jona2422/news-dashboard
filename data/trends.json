@@ -1,61 +1,89 @@
 {
- "updated": "2026-07-18T15:36:30.713229+00:00",
+ "updated": "2026-07-18T20:07:12.386320+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 21
+   "count": 23
   },
   {
-   "term": "strikes",
-   "count": 10
+   "term": "attacks",
+   "count": 11
   },
   {
    "term": "world",
-   "count": 8
+   "count": 9
   },
   {
-   "term": "trump",
+   "term": "final",
+   "count": 9
+  },
+  {
+   "term": "show",
    "count": 7
   },
   {
-   "term": "week",
+   "term": "east",
+   "count": 6
+  },
+  {
+   "term": "mexico",
+   "count": 6
+  },
+  {
+   "term": "killed",
+   "count": 6
+  },
+  {
+   "term": "gaza",
+   "count": 6
+  },
+  {
+   "term": "israeli",
+   "count": 6
+  },
+  {
+   "term": "trump",
+   "count": 6
+  },
+  {
+   "term": "strikes",
    "count": 6
   },
   {
    "term": "hong",
-   "count": 6
+   "count": 5
   },
   {
    "term": "kong",
-   "count": 6
+   "count": 5
   },
   {
-   "term": "germany",
-   "count": 6
+   "term": "jordan",
+   "count": 5
+  },
+  {
+   "term": "south",
+   "count": 5
+  },
+  {
+   "term": "strike",
+   "count": 5
+  },
+  {
+   "term": "2026",
+   "count": 5
+  },
+  {
+   "term": "mundial",
+   "count": 5
+  },
+  {
+   "term": "puerto",
+   "count": 5
   },
   {
    "term": "china",
-   "count": 6
-  },
-  {
-   "term": "east",
    "count": 5
-  },
-  {
-   "term": "surrogacy",
-   "count": 5
-  },
-  {
-   "term": "alaska",
-   "count": 5
-  },
-  {
-   "term": "attacks",
-   "count": 5
-  },
-  {
-   "term": "years",
-   "count": 4
   },
   {
    "term": "music",
@@ -66,125 +94,97 @@
    "count": 4
   },
   {
-   "term": "final",
+   "term": "week",
    "count": 4
   },
   {
-   "term": "russian",
+   "term": "israel",
    "count": 4
   },
   {
-   "term": "mexico",
+   "term": "wildfire",
    "count": 4
   },
   {
-   "term": "argentina",
+   "term": "smoke",
    "count": 4
   },
   {
-   "term": "infrastructure",
+   "term": "troops",
    "count": 4
   },
   {
-   "term": "puerto",
+   "term": "missing",
    "count": 4
   },
   {
-   "term": "chinese",
+   "term": "iranian",
    "count": 4
-  },
-  {
-   "term": "spark",
-   "count": 3
-  },
-  {
-   "term": "song",
-   "count": 3
-  },
-  {
-   "term": "show",
-   "count": 3
-  },
-  {
-   "term": "record",
-   "count": 3
-  },
-  {
-   "term": "tour",
-   "count": 3
-  },
-  {
-   "term": "favorite",
-   "count": 3
-  },
-  {
-   "term": "year",
-   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 21
-  },
-  {
-   "name": "Trump",
-   "count": 7
-  },
-  {
-   "name": "Hong Kong",
-   "count": 6
-  },
-  {
-   "name": "Germany",
-   "count": 6
-  },
-  {
-   "name": "China",
-   "count": 5
-  },
-  {
-   "name": "Alaska",
-   "count": 5
+   "count": 23
   },
   {
    "name": "Mexico",
-   "count": 4
-  },
-  {
-   "name": "Argentina",
-   "count": 4
-  },
-  {
-   "name": "Chinese",
-   "count": 4
-  },
-  {
-   "name": "Jens Spahn",
-   "count": 3
-  },
-  {
-   "name": "Russian",
-   "count": 3
-  },
-  {
-   "name": "España",
-   "count": 3
-  },
-  {
-   "name": "Irán",
-   "count": 3
-  },
-  {
-   "name": "Puerto Rico",
-   "count": 3
-  },
-  {
-   "name": "Israeli",
-   "count": 3
+   "count": 6
   },
   {
    "name": "Gaza",
+   "count": 6
+  },
+  {
+   "name": "Israeli",
+   "count": 6
+  },
+  {
+   "name": "Trump",
+   "count": 6
+  },
+  {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
+   "name": "Jordan",
+   "count": 5
+  },
+  {
+   "name": "Mundial",
+   "count": 5
+  },
+  {
+   "name": "Israel",
+   "count": 4
+  },
+  {
+   "name": "Iranian",
+   "count": 4
+  },
+  {
+   "name": "Puerto Rico",
+   "count": 4
+  },
+  {
+   "name": "China",
+   "count": 4
+  },
+  {
+   "name": "Two US",
+   "count": 3
+  },
+  {
+   "name": "Canada",
+   "count": 3
+  },
+  {
+   "name": "Jordania",
+   "count": 3
+  },
+  {
+   "name": "Alaska",
    "count": 3
   },
   {
@@ -193,6 +193,10 @@
   },
   {
    "name": "Tai Po",
+   "count": 3
+  },
+  {
+   "name": "Chinese",
    "count": 3
   },
   {
@@ -208,15 +212,11 @@
    "count": 2
   },
   {
-   "name": "Death",
+   "name": "Google",
    "count": 2
   },
   {
-   "name": "Ukraine",
-   "count": 2
-  },
-  {
-   "name": "Ukrainian",
+   "name": "Show HN",
    "count": 2
   }
  ]
