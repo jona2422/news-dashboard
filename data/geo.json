@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-19T22:11:39.559793+00:00",
- "total": 118,
+ "updated": "2026-07-19T23:14:28.599846+00:00",
+ "total": 113,
  "countries": [
   {
    "name": "United States",
@@ -9,6 +9,15 @@
    "lon": -98.6,
    "count": 23,
    "items": [
+    {
+     "title": "Middle East live: US launches strikes to 'punish' Iran after troops killed",
+     "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/15fbb27a-83c3-11f1-aa48-005056a97e36/w:1024/p:16x9/AP26194774981470.jpg",
+     "ts": 1784501228000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
     {
      "title": "US military reports another soldier killed in northern Iraq",
      "link": "https://www.scmp.com/news/world/middle-east/article/3361130/us-military-reports-another-soldier-killed-northern-iraq?utm_source=rss_feed",
@@ -87,114 +96,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
      "ts": 1784490312000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "The Guardian view on perceptions of superpowers: the world isn’t Chinamaxxing, it’s America-avoidant | Editorial",
-     "link": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-perceptions-of-superpowers-the-world-isnt-chinamaxxing-its-america-avoidant",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a702af2ca63a2ae668a7a9411a21fe2365a4ee0a/1093_0_4760_3808/master/4760.jpg?width=140&quality=85&auto=format&fit=max&s=6046c49b4a19e7df68773d45773a1785",
-     "ts": 1784478631000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Iran",
-   "es": "Irán",
-   "lat": 32.4,
-   "lon": 53.7,
-   "count": 16,
-   "items": [
-    {
-     "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
-     "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=2b99d9fca9f0d55ce8ed48418142fd9d",
-     "ts": 1784492204000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
-     "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=2b99d9fca9f0d55ce8ed48418142fd9d",
-     "ts": 1784492204000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Estados Unidos vuelve a bombardear Irán y recrudece la tensión en Medio Oriente",
-     "link": "https://www.france24.com/es/video/20260719-estados-unidos-vuelve-a-bombardear-ir%C3%A1n-y-recrudece-la-tensi%C3%B3n-en-medio-oriente",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/eb571d7a-83a9-11f1-9258-005056a97e36/w:1024/p:16x9/ES-20260719-120615-120756-CS.jpg",
-     "ts": 1784490810000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "EE UU redobla los ataques contra Irán tras la muerte de tres soldados",
-     "link": "https://elpais.com/internacional/2026-07-19/ee-uu-redobla-los-ataques-contra-iran-en-represalia-por-la-muerte-de-dos-soldados.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/BON2RPSGPJIMHHKXCPQULGTU4A.jpg?auth=8817c43921f489c226af02b531e79f5eab5ff924ef80d5740b98aa5942cdf83a",
-     "ts": 1784490088000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
-     "link": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c59b6eb48ac8f54cabd1c3ab85301a9a6dd4b57c/437_0_4366_3493/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=3adac15bf5eed03d3b78f827ebd6c26e",
-     "ts": 1784486892000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
-     "link": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784485787000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel says Iran missile towards Jordan's Aqaba intercepted",
-     "link": "https://www.france24.com/en/israel-says-iran-missile-towards-jordan-s-aqaba-intercepted",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/ec52b78a-8394-11f1-8a3c-005056a97e36/w:1024/p:16x9/EN-20260719-183146-183409-CS.jpg",
-     "ts": 1784484267000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel threatens ‘full force’ response if Iran fires missiles towards it",
-     "link": "https://www.theguardian.com/world/2026/jul/19/israel-threatens-full-force-response-iran-fires-missiles",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4e971de1490821161f877d80accdfbd8d8dce5bd/797_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6358bb054cb51b16859271ac83fea5bc",
-     "ts": 1784482232000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US launches new airstrikes on Iran after confirming troop deaths",
-     "link": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/2a9c29d0-8341-11f1-ba0d-005056bf30b7/w:1024/p:16x9/EN-20260719-060730-061016-CS.jpg",
-     "ts": 1784445346000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US strikes hit Iran for seventh consecutive night",
-     "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg",
-     "ts": 1784396696000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -300,6 +201,285 @@
    ]
   },
   {
+   "name": "Iran",
+   "es": "Irán",
+   "lat": 32.4,
+   "lon": 53.7,
+   "count": 14,
+   "items": [
+    {
+     "title": "Middle East live: US launches strikes to 'punish' Iran after troops killed",
+     "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/15fbb27a-83c3-11f1-aa48-005056a97e36/w:1024/p:16x9/AP26194774981470.jpg",
+     "ts": 1784501228000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+     "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=2b99d9fca9f0d55ce8ed48418142fd9d",
+     "ts": 1784492204000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+     "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=2b99d9fca9f0d55ce8ed48418142fd9d",
+     "ts": 1784492204000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Estados Unidos vuelve a bombardear Irán y recrudece la tensión en Medio Oriente",
+     "link": "https://www.france24.com/es/video/20260719-estados-unidos-vuelve-a-bombardear-ir%C3%A1n-y-recrudece-la-tensi%C3%B3n-en-medio-oriente",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/eb571d7a-83a9-11f1-9258-005056a97e36/w:1024/p:16x9/ES-20260719-120615-120756-CS.jpg",
+     "ts": 1784490810000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
+     "link": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c59b6eb48ac8f54cabd1c3ab85301a9a6dd4b57c/437_0_4366_3493/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=3adac15bf5eed03d3b78f827ebd6c26e",
+     "ts": 1784486892000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel says Iran missile towards Jordan's Aqaba intercepted",
+     "link": "https://www.france24.com/en/israel-says-iran-missile-towards-jordan-s-aqaba-intercepted",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/ec52b78a-8394-11f1-8a3c-005056a97e36/w:1024/p:16x9/EN-20260719-183146-183409-CS.jpg",
+     "ts": 1784484267000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel threatens ‘full force’ response if Iran fires missiles towards it",
+     "link": "https://www.theguardian.com/world/2026/jul/19/israel-threatens-full-force-response-iran-fires-missiles",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4e971de1490821161f877d80accdfbd8d8dce5bd/797_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6358bb054cb51b16859271ac83fea5bc",
+     "ts": 1784482232000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US launches new airstrikes on Iran after confirming troop deaths",
+     "link": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/2a9c29d0-8341-11f1-ba0d-005056bf30b7/w:1024/p:16x9/EN-20260719-060730-061016-CS.jpg",
+     "ts": 1784445346000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US strikes hit Iran for seventh consecutive night",
+     "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg",
+     "ts": 1784396696000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Gulf council blasts \"war crimes\" by Iran",
+     "link": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/59ee2fb6-82c0-11f1-839e-005056bfb2b6/w:1024/p:16x9/EN-20260718-170200-170613-CS.jpg",
+     "ts": 1784391789000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 12,
+   "items": [
+    {
+     "title": "España – Argentina, la final del Mundial 2026 en directo | Ferran Torres, tras marcar el tanto que da a España el Mundial: “El destino estaba escrito, es el gol de 47 millones de españoles”",
+     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-en-directo-la-final-del-mundial-en-vivo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/RPECUAEXCZBOBPLQCP5NF4PCNY.jpg?auth=442cbb4a702fb5318a0e4314099e68fd553435c809ac1ed0a931662088b54899",
+     "ts": 1784502748000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784502340000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "⚽🏆España recibe su medalla de campeón del Mundial 2026",
+     "link": "https://www.france24.com/es/deportes/20260719-mundial-2026-espa%C3%B1a-es-campe%C3%B3n-mundial-por-segunda-vez-en-su-historia-con-victoria-1-0-sobre-argentina",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "ts": 1784501251000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "España habita la eternidad",
+     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-habita-la-eternidad.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/NMCAHNGUWZG77M6CCIPMSN2G6U.JPG?auth=da45c2f1df8f1016c8df3fe8f2bd55aa3ce2c7ebdb1dc5c5e6d21b93e379764a",
+     "ts": 1784500994000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Victoria de España, victoria del mundo",
+     "link": "https://elpais.com/opinion/2026-07-19/victoria-de-espana-victoria-del-mundo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/P4X526KXAZEWXKZSZA44PUVQLY.jpg?auth=b8fec43e0b5ec943e64327ec3adc45e6d0d3f04ef08fbe3639c3771524235ccd",
+     "ts": 1784500470000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Spain battle past 10-man Argentina 1-0 in extra-time to win 2026 World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784500350000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "When, where, and how Spain won the World Cup final against Argentina",
+     "link": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784499847000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "España gana la Copa del Mundo 2026 de fútbol",
+     "link": "https://www.dw.com/es/españa-gana-la-copa-del-mundo-2026-de-fútbol/a-78029839?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1784499540000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "⚽🏆Mundial 2026: España es campeón mundial por segunda vez en su historia, con victoria 1-0 sobre Argentina",
+     "link": "https://www.france24.com/es/deportes/20260719-en-directo-la-hora-de-la-verdad-la-argentina-de-messi-y-la-espa%C3%B1a-de-lamine-chocan-en-el-mundial-2026",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "ts": 1784498934000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Spain win World Cup for second time after beating Argentina 1-0",
+     "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1784498520000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
+   "count": 8,
+   "items": [
+    {
+     "title": "España – Argentina, la final del Mundial 2026 en directo | Ferran Torres, tras marcar el tanto que da a España el Mundial: “El destino estaba escrito, es el gol de 47 millones de españoles”",
+     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-en-directo-la-final-del-mundial-en-vivo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/RPECUAEXCZBOBPLQCP5NF4PCNY.jpg?auth=442cbb4a702fb5318a0e4314099e68fd553435c809ac1ed0a931662088b54899",
+     "ts": 1784502748000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784502340000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Spain battle past 10-man Argentina 1-0 in extra-time to win 2026 World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784500350000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "When, where, and how Spain won the World Cup final against Argentina",
+     "link": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784499847000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "⚽🏆Mundial 2026: España es campeón mundial por segunda vez en su historia, con victoria 1-0 sobre Argentina",
+     "link": "https://www.france24.com/es/deportes/20260719-en-directo-la-hora-de-la-verdad-la-argentina-de-messi-y-la-espa%C3%B1a-de-lamine-chocan-en-el-mundial-2026",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "ts": 1784498934000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Spain win World Cup for second time after beating Argentina 1-0",
+     "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1784498520000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "España y Argentina, a la prórroga con Enzo Fernández expulsado",
+     "link": "https://www.prensa.com/deportes/espana-y-argentina-a-la-prorroga-con-enzo-fernandez-expulsado/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/OONMI3PQR5CWRGFBT27QN5GS7I.jpg?auth=bc800f0ee1b5133dfbacb8fa9c38284b1f1f90908fb38437b375623b349e0aa3&smart=true&width=1920&height=1260",
+     "ts": 1784496350000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784488739000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Israel",
    "es": "Israel",
    "lat": 31.0,
@@ -388,6 +568,15 @@
    "count": 7,
    "items": [
     {
+     "title": "Pay gap widens as UK bosses get 130 times average worker’s salary",
+     "link": "https://www.theguardian.com/business/2026/jul/20/uk-bosses-130-times-high-pay-worker-gap-widens",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/21c7ed45ddbd5847bace769832b5f43f60fdc2ea/523_156_2123_1698/master/2123.jpg?width=140&quality=85&auto=format&fit=max&s=f9df0a5fa9dbe5be466d3ad9710cab76",
+     "ts": 1784502099000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
      "link": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -424,15 +613,6 @@
      "beatName": "China"
     },
     {
-     "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-     "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1784467769000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
      "title": "‘We hear your voices’: inside the Church of England’s debate over Palestine",
      "link": "https://www.theguardian.com/world/2026/jul/19/inside-church-of-england-debate-over-palestine-gaza",
      "source": "Middle East and north Africa | The Guardian",
@@ -449,150 +629,6 @@
      "ts": 1784383200000,
      "beat": "musica",
      "beatName": "Música & Industria"
-    }
-   ]
-  },
-  {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
-   "count": 7,
-   "items": [
-    {
-     "title": "España – Argentina, la final del Mundial 2026 en directo | España, campeona del mundo: gana ante Argentina con un gol de Ferran Torres en la prórroga en una final de infarto",
-     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-en-directo-la-final-del-mundial-en-vivo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/UELZWR4RQVHGZJJ357ZRT5YTKQ.jpg?auth=3a37738182de4fbed796258dd0fa0109f6db56e224079c10fe324e43d85f0ed3",
-     "ts": 1784498833000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Spain win World Cup for second time after beating Argentina 1-0",
-     "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1784498520000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "⚽🏆Ferrán Torres aprovecha un rechace incompleto para convertir el primer gol; España se pone en ventaja",
-     "link": "https://www.france24.com/es/deportes/20260719-en-directo-la-hora-de-la-verdad-la-argentina-de-messi-y-la-espa%C3%B1a-de-lamine-chocan-en-el-mundial-2026",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "",
-     "ts": 1784497540000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "España y Argentina, a la prórroga con Enzo Fernández expulsado",
-     "link": "https://www.prensa.com/deportes/espana-y-argentina-a-la-prorroga-con-enzo-fernandez-expulsado/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/OONMI3PQR5CWRGFBT27QN5GS7I.jpg?auth=bc800f0ee1b5133dfbacb8fa9c38284b1f1f90908fb38437b375623b349e0aa3&smart=true&width=1920&height=1260",
-     "ts": 1784496350000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
-     "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784492366000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784488739000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "La Familia Real apoya a España en la final del Mundial ante Argentina: “Solo queda ganar”",
-     "link": "https://elpais.com/gente/2026-07-19/la-familia-real-apoya-a-espana-en-la-final-del-mundial-ante-argentina-solo-queda-ganar.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/YPVZB7CNBFLNLBHZUTQDUFRVAU.jpg?auth=8339d9ed0338ccd19ea3a824d11b394399f4fac88e42ce6a4c7e950dbacda8e0",
-     "ts": 1784487737000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 7,
-   "items": [
-    {
-     "title": "España – Argentina, la final del Mundial 2026 en directo | España, campeona del mundo: gana ante Argentina con un gol de Ferran Torres en la prórroga en una final de infarto",
-     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-en-directo-la-final-del-mundial-en-vivo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/UELZWR4RQVHGZJJ357ZRT5YTKQ.jpg?auth=3a37738182de4fbed796258dd0fa0109f6db56e224079c10fe324e43d85f0ed3",
-     "ts": 1784498833000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Spain win World Cup for second time after beating Argentina 1-0",
-     "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1784498520000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "España y Argentina, a la prórroga con Enzo Fernández expulsado",
-     "link": "https://www.prensa.com/deportes/espana-y-argentina-a-la-prorroga-con-enzo-fernandez-expulsado/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/OONMI3PQR5CWRGFBT27QN5GS7I.jpg?auth=bc800f0ee1b5133dfbacb8fa9c38284b1f1f90908fb38437b375623b349e0aa3&smart=true&width=1920&height=1260",
-     "ts": 1784496350000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
-     "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784492366000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784488739000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "La Familia Real apoya a España en la final del Mundial ante Argentina: “Solo queda ganar”",
-     "link": "https://elpais.com/gente/2026-07-19/la-familia-real-apoya-a-espana-en-la-final-del-mundial-ante-argentina-solo-queda-ganar.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/YPVZB7CNBFLNLBHZUTQDUFRVAU.jpg?auth=8339d9ed0338ccd19ea3a824d11b394399f4fac88e42ce6a4c7e950dbacda8e0",
-     "ts": 1784487737000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "La Furia Roja derrota a Argentina y levanta su segunda Copa del Mundo",
-     "link": "https://www.prensa.com/deportes/minuto-a-minuto-argentina-y-espana-disputan-la-gran-final-del-mundial/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ERYVKG2AGFEH5C425KFNL56JQQ.jpg?auth=a5222f81e1d2a5d8f7674b8738689d90bdc2e3df661f775c4525921f399e06d5&smart=true&width=3893&height=2595",
-     "ts": 1784483762000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -694,130 +730,13 @@
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Middle East live: US service member killed in Iraq during ‘detonation’ of Iranian drone",
+     "title": "US service member killed in Iraq during ‘detonation’ of Iranian drone",
      "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/3c452f92-83aa-11f1-9b69-005056a97e36/w:1024/p:16x9/000-A6XV79L.jpg",
      "ts": 1784437781000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 4,
-   "items": [
-    {
-     "title": "Rusia vuelve a atacar Kiev tras ofensiva ucraniana con drones",
-     "link": "https://www.france24.com/es/video/20260719-rusia-vuelve-a-atacar-kiev-tras-ofensiva-ucraniana-con-drones",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1fb0b6f8-83aa-11f1-a16e-005056a97e36/w:1024/p:16x9/ES-20260719-120928-121109-CS.jpg",
-     "ts": 1784490739000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Putin agradece a Corea del Norte su apoyo a la invasión rusa de Ucrania",
-     "link": "https://www.dw.com/es/putin-agradece-a-corea-del-norte-su-apoyo-a-la-invasión-rusa-de-ucrania/a-78027585?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784488740000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-     "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
-     "ts": 1784485540000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Can Russia and China ever have a truly equal relationship?",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3360649/can-russia-and-china-ever-have-truly-equal-relationship?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/17/d30c9ff7-bb62-4d22-9c7e-4d2d90122951_d0397038.jpg?itok=Uyqg4Ydw&v=1784261857",
-     "ts": 1784464204000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Peru",
-   "es": "Perú",
-   "lat": -9.2,
-   "lon": -75.0,
-   "count": 3,
-   "items": [
-    {
-     "title": "Twin earthquakes strike Peru killing at least five",
-     "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784491911000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Perú: terremoto de magnitud 5,7 deja al menos 6 muertos, 30 heridos y cientos de desplazados",
-     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260719-per%C3%BA-terremoto-de-magnitud-5-7-deja-al-menos-6-muertos-30-heridos-y-cientos-de-desplazados",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/343ef74a-8398-11f1-98c7-005056bfb2b6/w:1024/p:16x9/AP26200582193077.jpg",
-     "ts": 1784486884000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "At least 6 dead, 21 injured after 2 earthquakes hit Peru",
-     "link": "https://www.scmp.com/news/world/americas/article/3361124/least-6-dead-21-injured-after-2-earthquakes-hit-peru?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/8d71f4db-7927-46f7-b146-4c2e40834b64_e19d07f3.jpg?itok=p81vovGr&v=1784481413",
-     "ts": 1784481498000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 3,
-   "items": [
-    {
-     "title": "Rusia vuelve a atacar Kiev tras ofensiva ucraniana con drones",
-     "link": "https://www.france24.com/es/video/20260719-rusia-vuelve-a-atacar-kiev-tras-ofensiva-ucraniana-con-drones",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1fb0b6f8-83aa-11f1-a16e-005056a97e36/w:1024/p:16x9/ES-20260719-120928-121109-CS.jpg",
-     "ts": 1784490739000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Putin agradece a Corea del Norte su apoyo a la invasión rusa de Ucrania",
-     "link": "https://www.dw.com/es/putin-agradece-a-corea-del-norte-su-apoyo-a-la-invasión-rusa-de-ucrania/a-78027585?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784488740000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Kyiv pounded in Russian missile barrage as air defences run low",
-     "link": "https://www.scmp.com/news/world/europe/article/3361115/kyiv-pounded-russian-missile-barrage-air-defences-run-low?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/8d2199ca-6cdd-40da-ae5a-3cbbc5c9d2c3_770d643c.jpg?itok=XvA444Yg&v=1784465368",
-     "ts": 1784465376000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -849,81 +768,81 @@
    ]
   },
   {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
+   "name": "Peru",
+   "es": "Perú",
+   "lat": -9.2,
+   "lon": -75.0,
    "count": 2,
    "items": [
     {
-     "title": "Five passengers found drifting days after boat sinks in Indonesia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss",
+     "title": "Twin earthquakes strike Peru killing at least five",
+     "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1784490583000,
+     "ts": 1784491911000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Por qué genera dudas la economía de Indonesia",
-     "link": "https://www.dw.com/es/por-qué-genera-dudas-la-economía-de-indonesia/a-78024318?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784486220000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Guyana",
-   "es": "Guyana",
-   "lat": 4.9,
-   "lon": -58.9,
-   "count": 2,
-   "items": [
-    {
-     "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
-     "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc1cf8802bb8a428bae7dd2c2ca5dc1a17ab6030/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=d1113ffbf37c8307c41ccfae538185d1",
-     "ts": 1784489998000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-     "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg",
-     "ts": 1784485085000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "Remco Evenepoel gana la etapa y ocupa en el Tour de Francia el lugar de un Vingegaard caído",
-     "link": "https://elpais.com/deportes/ciclismo/2026-07-19/remco-evenepoel-gana-la-etapa-y-ocupa-en-el-tour-de-francia-el-lugar-de-un-vingegaard-caido.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/7LSCWP5VOJO5RCQ6S7K4JQSWRY.jpg?auth=5cd6be13b50cd92d751942698ae0bee1b42c1bc8fb927107088b54980cc0bea9",
-     "ts": 1784484640000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "France and Germany reach nuclear deal as Europe builds up defences",
-     "link": "https://www.scmp.com/news/world/europe/article/3361107/france-and-germany-reach-nuclear-deal-europe-builds-defences?utm_source=rss_feed",
+     "title": "At least 6 dead, 21 injured after 2 earthquakes hit Peru",
+     "link": "https://www.scmp.com/news/world/americas/article/3361124/least-6-dead-21-injured-after-2-earthquakes-hit-peru?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/70a46cbc-a669-45d4-bfb4-6ec0a3abe3dd_4a28036a.jpg?itok=0-V_JQva&v=1784457156",
-     "ts": 1784457161000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/8d71f4db-7927-46f7-b146-4c2e40834b64_e19d07f3.jpg?itok=p81vovGr&v=1784481413",
+     "ts": 1784481498000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Rusia vuelve a atacar Kiev tras ofensiva ucraniana con drones",
+     "link": "https://www.france24.com/es/video/20260719-rusia-vuelve-a-atacar-kiev-tras-ofensiva-ucraniana-con-drones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/1fb0b6f8-83aa-11f1-a16e-005056a97e36/w:1024/p:16x9/ES-20260719-120928-121109-CS.jpg",
+     "ts": 1784490739000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Can Russia and China ever have a truly equal relationship?",
+     "link": "https://www.scmp.com/opinion/china-opinion/article/3360649/can-russia-and-china-ever-have-truly-equal-relationship?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/17/d30c9ff7-bb62-4d22-9c7e-4d2d90122951_d0397038.jpg?itok=Uyqg4Ydw&v=1784261857",
+     "ts": 1784464204000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "Rusia vuelve a atacar Kiev tras ofensiva ucraniana con drones",
+     "link": "https://www.france24.com/es/video/20260719-rusia-vuelve-a-atacar-kiev-tras-ofensiva-ucraniana-con-drones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/1fb0b6f8-83aa-11f1-a16e-005056a97e36/w:1024/p:16x9/ES-20260719-120928-121109-CS.jpg",
+     "ts": 1784490739000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Kyiv pounded in Russian missile barrage as air defences run low",
+     "link": "https://www.scmp.com/news/world/europe/article/3361115/kyiv-pounded-russian-missile-barrage-air-defences-run-low?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/8d2199ca-6cdd-40da-ae5a-3cbbc5c9d2c3_770d643c.jpg?itok=XvA444Yg&v=1784465368",
+     "ts": 1784465376000,
      "beat": "china",
      "beatName": "China"
     }
@@ -948,6 +867,24 @@
    ]
   },
   {
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+     "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-1152x648.jpg",
+     "ts": 1784499081000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    }
+   ]
+  },
+  {
    "name": "Australia",
    "es": "Australia",
    "lat": -25.3,
@@ -955,29 +892,47 @@
    "count": 1,
    "items": [
     {
-     "title": "News live: PM says Hanson should not ‘talk Australia down’ overseas; private schools cry poor in new ad campaign",
+     "title": "News live: Lee Hanson says her mother’s comments about the White Australia policy were ‘misinterpreted’",
      "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d473deb9bfff1a2c93cdfc31f6a2acdb17893396/420_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=16cac9f9d517aad6ca232a0dbb624919",
-     "ts": 1784497780000,
+     "image": "https://i.guim.co.uk/img/media/a2c161e68d59dbe07f8ef08f4f4828f1c5cce558/190_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=632167a15214558932070c58dcbec2f6",
+     "ts": 1784502370000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Lebanon",
-   "es": "Líbano",
-   "lat": 33.9,
-   "lon": 35.9,
+   "name": "Indonesia",
+   "es": "Indonesia",
+   "lat": -0.8,
+   "lon": 113.9,
    "count": 1,
    "items": [
     {
-     "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-     "link": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss",
+     "title": "Five passengers found drifting days after boat sinks in Indonesia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1784485473000,
+     "ts": 1784490583000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Guyana",
+   "es": "Guyana",
+   "lat": 4.9,
+   "lon": -58.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
+     "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fc1cf8802bb8a428bae7dd2c2ca5dc1a17ab6030/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=d1113ffbf37c8307c41ccfae538185d1",
+     "ts": 1784489998000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -1002,42 +957,6 @@
    ]
   },
   {
-   "name": "Dem. Rep. Korea",
-   "es": "Corea del Norte",
-   "lat": 40.3,
-   "lon": 127.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Putin agradece a Corea del Norte su apoyo a la invasión rusa de Ucrania",
-     "link": "https://www.dw.com/es/putin-agradece-a-corea-del-norte-su-apoyo-a-la-invasión-rusa-de-ucrania/a-78027585?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784488740000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "'Sin democracia no hay empresas': Cámara de Comercio de Medellín homenajeó al registrador nacional Hernán Penagos",
-     "link": "https://www.eltiempo.com/colombia/medellin/sin-democracia-no-hay-empresas-camara-de-comercio-de-medellin-homenajeo-al-registrador-nacional-hernan-penagos-3572340",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/19/6a5d0ee511518.jpeg",
-     "ts": 1784484327000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Yemen",
    "es": "Yemen",
    "lat": 15.6,
@@ -1052,6 +971,24 @@
      "ts": 1784307676000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "France and Germany reach nuclear deal as Europe builds up defences",
+     "link": "https://www.scmp.com/news/world/europe/article/3361107/france-and-germany-reach-nuclear-deal-europe-builds-defences?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/70a46cbc-a669-45d4-bfb4-6ec0a3abe3dd_4a28036a.jpg?itok=0-V_JQva&v=1784457156",
+     "ts": 1784457161000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
