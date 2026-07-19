@@ -1,9 +1,13 @@
 {
- "updated": "2026-07-19T06:44:48.613133+00:00",
+ "updated": "2026-07-19T09:19:50.557016+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 24
+   "count": 23
+  },
+  {
+   "term": "killed",
+   "count": 12
   },
   {
    "term": "world",
@@ -11,7 +15,7 @@
   },
   {
    "term": "final",
-   "count": 8
+   "count": 9
   },
   {
    "term": "hong",
@@ -22,11 +26,7 @@
    "count": 7
   },
   {
-   "term": "killed",
-   "count": 7
-  },
-  {
-   "term": "strikes",
+   "term": "troops",
    "count": 7
   },
   {
@@ -34,15 +34,23 @@
    "count": 7
   },
   {
-   "term": "attack",
-   "count": 6
+   "term": "argentina",
+   "count": 7
+  },
+  {
+   "term": "strikes",
+   "count": 7
   },
   {
    "term": "jordan",
    "count": 6
   },
   {
-   "term": "troops",
+   "term": "trump",
+   "count": 6
+  },
+  {
+   "term": "china",
    "count": 6
   },
   {
@@ -50,15 +58,19 @@
    "count": 5
   },
   {
-   "term": "tate",
+   "term": "east",
    "count": 5
   },
   {
-   "term": "time",
+   "term": "launches",
    "count": 5
   },
   {
-   "term": "trump",
+   "term": "israeli",
+   "count": 5
+  },
+  {
+   "term": "spain",
    "count": 5
   },
   {
@@ -66,15 +78,11 @@
    "count": 5
   },
   {
-   "term": "argentina",
-   "count": 5
-  },
-  {
    "term": "islands",
    "count": 5
   },
   {
-   "term": "breaks",
+   "term": "years",
    "count": 4
   },
   {
@@ -86,15 +94,7 @@
    "count": 4
   },
   {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "east",
-   "count": 4
-  },
-  {
-   "term": "russian",
+   "term": "artist",
    "count": 4
   },
   {
@@ -102,19 +102,19 @@
    "count": 4
   },
   {
-   "term": "missiles",
+   "term": "attack",
    "count": 4
   },
   {
-   "term": "night",
+   "term": "middle",
    "count": 4
   },
   {
-   "term": "fire",
+   "term": "gaza",
    "count": 4
   },
   {
-   "term": "arrested",
+   "term": "russia",
    "count": 4
   },
   {
@@ -125,11 +125,15 @@
  "entities": [
   {
    "name": "Iran",
-   "count": 24
+   "count": 23
   },
   {
    "name": "Hong Kong",
    "count": 7
+  },
+  {
+   "name": "Argentina",
+   "count": 6
   },
   {
    "name": "Jordan",
@@ -137,38 +141,46 @@
   },
   {
    "name": "Trump",
+   "count": 6
+  },
+  {
+   "name": "China",
+   "count": 6
+  },
+  {
+   "name": "Israeli",
    "count": 5
   },
   {
-   "name": "Argentina",
+   "name": "Spain",
    "count": 5
+  },
+  {
+   "name": "Middle East",
+   "count": 4
+  },
+  {
+   "name": "Gaza",
+   "count": 4
   },
   {
    "name": "World Cup",
-   "count": 5
+   "count": 4
+  },
+  {
+   "name": "Russia",
+   "count": 4
   },
   {
    "name": "Iranian",
    "count": 4
   },
   {
-   "name": "Israeli",
+   "name": "Indonesia",
    "count": 4
   },
   {
-   "name": "Mexico",
-   "count": 4
-  },
-  {
-   "name": "China",
-   "count": 4
-  },
-  {
-   "name": "Israel",
-   "count": 3
-  },
-  {
-   "name": "Russian",
+   "name": "American",
    "count": 3
   },
   {
@@ -176,23 +188,23 @@
    "count": 3
   },
   {
-   "name": "Gulf",
+   "name": "Messi",
    "count": 3
   },
   {
-   "name": "Miami",
+   "name": "Cuban",
    "count": 3
   },
   {
-   "name": "Middle East",
+   "name": "Israel",
    "count": 3
   },
   {
-   "name": "Gaza",
+   "name": "Kuwait",
    "count": 3
   },
   {
-   "name": "Tai Po",
+   "name": "Mexico",
    "count": 3
   },
   {
@@ -205,18 +217,6 @@
   },
   {
    "name": "England",
-   "count": 2
-  },
-  {
-   "name": "Google",
-   "count": 2
-  },
-  {
-   "name": "Two US",
-   "count": 2
-  },
-  {
-   "name": "Messi",
    "count": 2
   }
  ]
