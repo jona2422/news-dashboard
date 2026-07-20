@@ -1,202 +1,103 @@
 {
- "updated": "2026-07-20T16:03:01.549182+00:00",
- "total": 116,
+ "updated": "2026-07-20T18:23:11.975219+00:00",
+ "total": 118,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 27,
+   "count": 29,
    "items": [
     {
-     "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-     "link": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/164cd7fe7703c54a814109816c716d1951c67d9f/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ce3386d25025897b57b9707fb9fff30a",
-     "ts": 1784562778000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Informe desde Nueva York: 'El Mayo' Zambada es condenado a cadena perpetua en Estados Unidos",
+     "link": "https://www.france24.com/es/video/20260720-informe-desde-nueva-york-el-mayo-zambada-es-condenado-a-cadena-perpetua-en-estados-unidos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/d965b032-8466-11f1-a65c-005056bfb2b6/w:1024/p:16x9/ES-20260720-120408-120608-CS.jpg",
+     "ts": 1784571747000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Maine Democrats rally around Troy Jackson to replace Graham Platner in crucial Senate race – US politics live",
      "link": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/ab64aa06b87fb1cf81f29d376b3db3f2f8371a06/220_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b9c4b17e437df4bb578473e6cea7bb8b",
-     "ts": 1784562753000,
+     "ts": 1784569604000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Washington acusa a Cuba de “respaldar una ola sin precedentes de terrorismo de izquierda en Estados Unidos”",
-     "link": "https://elpais.com/us/2026-07-20/el-departamento-de-estado-publica-un-informe-que-acusa-a-cuba-de-ser-la-capital-del-terrorismo-del-siglo-xxi.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MHF7UJFHGVN57EGOAHMRADEXNU.jpg?auth=0998bc19ab9b9742493e12f266d8809f78511576113f92d8df03a4e46cf0b11a",
-     "ts": 1784562720000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "US jails Mexican drug kingpin ‘El Mayo’ for life",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3361256/us-jails-mexican-drug-kingpin-el-mayo-life?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/a4d40dfa-465f-4ce7-ae74-c2eb5564d7d5_3a59228d.jpg?itok=RxttlFsd&v=1784562028",
-     "ts": 1784562037000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
-     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=e270ee531ce9c97a50f8ca62b68ca33c",
-     "ts": 1784560471000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
-     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=e270ee531ce9c97a50f8ca62b68ca33c",
-     "ts": 1784560471000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-     "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-     "source": "TechCrunch",
-     "image": "",
-     "ts": 1784559680000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-     "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
+     "title": "Petrol prices climb as US–Iran tensions disrupt markets",
+     "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1784558236000,
+     "ts": 1784569229000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-     "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784558082000,
+     "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+     "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef33/live/b2f8cbb0-8447-11f1-b976-0b9c15b0ccfc.jpg",
+     "ts": 1784568087000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Estados Unidos intensifica los bombardeos sobre infraestructura civil en Irán",
-     "link": "https://elpais.com/internacional/2026-07-20/estados-unidos-e-iran-expanden-los-bombardeos-sobre-infraestructura-civil.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/3LKKKOS5O5D7XNVBSSRHUHDN34.jpg?auth=bb000efe1fdbb4ee0b7bc234601b736fcbae41294ebbd4f623573ee577920cc5",
-     "ts": 1784557175000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Iran",
-   "es": "Irán",
-   "lat": 32.4,
-   "lon": 53.7,
-   "count": 20,
-   "items": [
-    {
-     "title": "Hamas names new leader as Kuwait says it is under fire from Iran – Middle East crisis live",
-     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/edae6869b99135c7be9395a0fd30814f58f00ca7/221_0_4450_3561/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=f825b140ab1b86227f2f3041156b0bd1",
-     "ts": 1784562029000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Hamas names new leader as Kuwait says it is under fire from Iran – Middle East crisis live",
-     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/edae6869b99135c7be9395a0fd30814f58f00ca7/221_0_4450_3561/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=f825b140ab1b86227f2f3041156b0bd1",
-     "ts": 1784562029000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
-     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=e270ee531ce9c97a50f8ca62b68ca33c",
-     "ts": 1784560471000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
-     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=e270ee531ce9c97a50f8ca62b68ca33c",
-     "ts": 1784560471000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-     "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784558236000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-     "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784558082000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Muere otro militar estadounidense en Irak mientras escala el conflicto con Irán",
-     "link": "https://www.france24.com/es/video/20260720-muere-otro-militar-estadounidense-en-irak-mientras-escala-el-conflicto-con-ir%C3%A1n",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/fb10ec9a-8445-11f1-a975-005056bf30b7/w:1024/p:16x9/ES-20260720-070751-071010-CS.jpg",
-     "ts": 1784557681000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Estados Unidos intensifica los bombardeos sobre infraestructura civil en Irán",
-     "link": "https://elpais.com/internacional/2026-07-20/estados-unidos-e-iran-expanden-los-bombardeos-sobre-infraestructura-civil.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/3LKKKOS5O5D7XNVBSSRHUHDN34.jpg?auth=bb000efe1fdbb4ee0b7bc234601b736fcbae41294ebbd4f623573ee577920cc5",
-     "ts": 1784557175000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "En directo: Irán declara una “guerra total” con EE. UU.; hutíes de Yemen anuncian bloqueo naval a Arabia Saudita",
-     "link": "https://www.france24.com/es/medio-oriente/20260720-en-directo-ir%C3%A1n-declara-una-guerra-total-con-ee-uu-hut%C3%ADes-de-yemen-anuncian-bloqueo-naval-a-arabia-saudita",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/c5281868-8442-11f1-8bb8-005056bf30b7/w:1024/p:16x9/2026-07-20T030108Z-169369403-RC2EHMANHSI6-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-     "ts": 1784556426000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg",
-     "ts": 1784546320000,
+     "ts": 1784568037000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+     "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg",
+     "ts": 1784568037000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "“La violencia debe terminar”: narcotraficante mexicano 'El Mayo' Zambada al ser condenado a cadena perpetua en EE. UU.",
+     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260720-la-violencia-debe-terminar-narcotraficante-mexicano-el-mayo-zambada-al-ser-condenado-a-cadena-perpetua-en-ee-uu",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/25632452-7260-11f0-967c-005056a97e36/w:1024/p:16x9/AP25052585327432.jpg",
+     "ts": 1784567530000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Beastie Boys’ Mike D Adds Tour Dates in North America and Europe",
+     "link": "https://pitchfork.com/story/beastie-boys-mike-d-adds-tour-dates-in-north-america-and-europe/",
+     "source": "RSS: News",
+     "image": "https://media.pitchfork.com/photos/6a5e555d642b4bf4efec2bda/master/pass/mike-d-2026-tour.jpg",
+     "ts": 1784567376000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    },
+    {
+     "title": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
+     "link": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784567149000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Weather warnings as tropical depression develops along US Gulf coast",
+     "link": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/9d58db7ff462e2fb3cb98cc2ffeb3e4ac3f2affc/255_0_920_736/master/920.jpg?width=140&quality=85&auto=format&fit=max&s=11a9d1649f717ada3cbba35da4f7af48",
+     "ts": 1784566504000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -207,6 +108,33 @@
    "lon": 104.2,
    "count": 17,
    "items": [
+    {
+     "title": "China’s AI models have Trump’s AI world at war with itself",
+     "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+     "source": "MIT Technology Review",
+     "image": "",
+     "ts": 1784570400000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Hungary investigates deal with China’s BYD after ex-foreign minister takes job there",
+     "link": "https://www.scmp.com/business/china-evs/article/3361258/hungary-investigates-deal-chinas-byd-after-ex-foreign-minister-takes-job-there?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/e0d8fa87-92f3-4027-9c3f-0e688aa1d0a5_d9f1b62b.jpg?itok=mTbDqIn6&v=1784566091",
+     "ts": 1784566311000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Amid Hong Kong Book Fair, Police Raid Two More Independent Bookstores, Arrest Five Booksellers",
+     "link": "https://chinadigitaltimes.net/2026/07/amid-hong-kong-book-fair-police-raid-two-more-independent-bookstores-arrest-five-booksellers/",
+     "source": "China Digital Times (CDT)",
+     "image": "",
+     "ts": 1784560905000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Can Europe win a trade war with China? It may depend on how victory is defined",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3361174/can-europe-win-trade-war-china-it-may-depend-how-victory-defined?utm_source=rss_feed",
@@ -269,33 +197,105 @@
      "ts": 1784544218000,
      "beat": "china",
      "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Iran",
+   "es": "Irán",
+   "lat": 32.4,
+   "lon": 53.7,
+   "count": 15,
+   "items": [
+    {
+     "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live",
+     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2744295b846430734be9b965f7fcd1c7ecd639fb/464_0_4989_3991/master/4989.jpg?width=140&quality=85&auto=format&fit=max&s=07cde55935160650957fd3fb640f4d63",
+     "ts": 1784571695000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Hong Kong Palace Museum partners with Uzbek cultural centre for future projects",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3361228/hong-kong-palace-museum-partners-uzbek-cultural-centre-future-projects?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/15984d3d-e1b1-4c76-8bcc-7c5236500569_3d84eac8.jpg?itok=oV_Umeyc&v=1784543608",
-     "ts": 1784543610000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Petrol prices climb as US–Iran tensions disrupt markets",
+     "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784569229000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Hong Kong court tells jury to acquit 14 in alleged triad gangster murder case",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361223/hong-kong-court-tells-jury-acquit-14-alleged-triad-gangster-murder-case?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/1aa24d65-7432-4717-a71b-ee8e934ed918_2284022b.jpg?itok=FYiAYjyH&v=1784542199",
-     "ts": 1784542335000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live",
+     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2744295b846430734be9b965f7fcd1c7ecd639fb/464_0_4989_3991/master/4989.jpg?width=140&quality=85&auto=format&fit=max&s=07cde55935160650957fd3fb640f4d63",
+     "ts": 1784568202000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "China’s military mouthpiece issues full-page warning on Japan’s growing drone power",
-     "link": "https://www.scmp.com/news/china/military/article/3361224/chinas-military-mouthpiece-issues-full-page-warning-japans-growing-drone-power?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/4c19915f-4928-47cc-9fd4-a90cd4795f9a_ef28ba15.jpg?itok=9oKQiuYk&v=1784542205",
-     "ts": 1784542206000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+     "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg",
+     "ts": 1784568037000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+     "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg",
+     "ts": 1784568037000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
+     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=e270ee531ce9c97a50f8ca62b68ca33c",
+     "ts": 1784564240000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
+     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=e270ee531ce9c97a50f8ca62b68ca33c",
+     "ts": 1784564240000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US strikes Iran for ninth consecutive day as more ships targeted in Strait of Hormuz",
+     "link": "https://www.france24.com/en/middle-east/20260720-us-strikes-iran-ninth-consecutive-day-more-ships-targeted-strait-of-hormuz-kuwait-bahrain",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/f9af264a-8423-11f1-a1a8-005056a97e36/w:1024/p:16x9/2026-07-19T055021Z-1233646359-RC2OFMA7FFBT-RTRMADP-3-IRAN-CRISIS-GULF-OIL.jpg",
+     "ts": 1784543179000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Live: Iran fighting 'full-scale war' with US, Yemen's Houthis announce Saudi naval blockade",
+     "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/b1b9d426-8436-11f1-9437-005056a90284/w:1024/p:16x9/2026-07-15T122836Z-97536865-RC20HKAGF0XM-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA.jpg",
+     "ts": 1784501228000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "New US military death as Israel warns Tehran’s attacks coming close",
+     "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=2b99d9fca9f0d55ce8ed48418142fd9d",
+     "ts": 1784492204000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -304,23 +304,41 @@
    "es": "Reino Unido",
    "lat": 55.4,
    "lon": -3.4,
-   "count": 8,
+   "count": 7,
    "items": [
     {
-     "title": "Reeves and Lammy exit cabinet as Andy Burnham reshuffles top team – UK politics live",
+     "title": "Los retos que enfrenta Andy Burnham como nuevo primer ministro del Reino Unido",
+     "link": "https://www.france24.com/es/video/20260720-los-retos-que-enfrenta-andy-burnham-como-nuevo-primer-ministro-del-reino-unido",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/ef16c34a-8465-11f1-bd0e-005056a90284/w:1024/p:16x9/ES-20260720-120149-120332-CS.jpg",
+     "ts": 1784571695000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Healey made chancellor, Miliband named foreign secretary and Mahmood remains home secretary as Burnham picks cabinet – UK politics live",
      "link": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/8bd505f4a0bbd8d83f4c891deccad5f33479a8eb/1410_1253_4523_3619/master/4523.jpg?width=140&quality=85&auto=format&fit=max&s=83713b93be4446f96b357acfca28d03a",
-     "ts": 1784562855000,
+     "image": "https://i.guim.co.uk/img/media/0e350ca531bb345608e3980c774464defbed9cc5/1985_569_4923_3938/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=b197f7d7781bff3f2d4d569d4d5aac79",
+     "ts": 1784570855000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Burnham promises ‘circuit breaker’ moment for UK as he becomes PM",
-     "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d92552f31108a60b5b814c89286fb2d2662e7d58/778_129_6584_5267/master/6584.jpg?width=140&quality=85&auto=format&fit=max&s=054eca6ba2c9bf056cfa015346adbe50",
-     "ts": 1784562080000,
+     "title": "London’s New House of Secrets Museum Reveals Lost Stories of Wartime Spies",
+     "link": "https://news.artnet.com/art-world/house-of-secrets-london-museum-opens-2789130",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1784569802000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "England and Liverpool foortball legend Kevin Keegan dies aged 75",
+     "link": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1784564340000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -334,38 +352,83 @@
      "beatName": "Música & Industria"
     },
     {
-     "title": "Andy Burnham pledges end to political instability as he becomes UK PM",
-     "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784559182000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Newcastle, Liverpool and England legend Keegan dies",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd4/live/f1b400d0-844d-11f1-b5be-7f357768d4ba.jpg",
-     "ts": 1784558308000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Burnham asume como primer ministro: los anuncios clave de su primer discurso en Reino Unido",
-     "link": "https://www.france24.com/es/video/20260720-burnham-asume-como-primer-ministro-los-anuncios-clave-de-su-primer-discurso-en-reino-unido",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/e2ebc5e4-8441-11f1-a6a1-005056bfb2b6/w:1024/p:16x9/ES-20260720-080306-080717-CS.jpg",
-     "ts": 1784557488000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
      "title": "UK’s new PM Andy Burnham vows to end years of instability",
      "link": "https://www.scmp.com/news/world/europe/article/3361245/uks-new-pm-andy-burnham-vows-end-years-instability?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/f91dcd34-0be8-4f58-ba29-d68337a9f7ae_123965b7.jpg?itok=mpJc9XTT&v=1784551866",
      "ts": 1784551871000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "‘We hear your voices’: inside the Church of England’s debate over Palestine",
+     "link": "https://www.theguardian.com/world/2026/jul/19/inside-church-of-england-debate-over-palestine-gaza",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4b531a8631d2656ea7a9fa799ddf9d68fce5fbaa/1252_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=459f5164d047c3e4b85401e654e8fe11",
+     "ts": 1784458356000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Palestine",
+   "es": "Palestina",
+   "lat": 31.9,
+   "lon": 35.2,
+   "count": 7,
+   "items": [
+    {
+     "title": "‘Israeli settlers are in partnership with the army,’ say Palestinians after two shot dead in West Bank",
+     "link": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cd95ddd8a76d0e9517dd1021c7c7c2f394789079/81_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=12d510ba3ebd95bf0cd6b2261a8beb37",
+     "ts": 1784570008000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "‘Israeli settlers are in partnership with the army,’ say Palestinians after two shot dead in West Bank",
+     "link": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cd95ddd8a76d0e9517dd1021c7c7c2f394789079/81_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=12d510ba3ebd95bf0cd6b2261a8beb37",
+     "ts": 1784570008000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Grupo terrorista Hamás elige a Jalil al Haya como su nuevo líder",
+     "link": "https://www.dw.com/es/grupo-terrorista-hamás-elige-a-jalil-al-haya-como-su-nuevo-líder/a-78041701?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1784568060000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Israeli air strike injures 14 in Gaza City",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784565923000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Who is Khalil al-Hayya, Hamas’s new leader?",
+     "link": "https://www.france24.com/en/middle-east/20260720-who-is-khalil-al-hayya-hamas-s-new-leader",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/34b4e08e-a547-11f0-9061-005056a97e36/w:1024/p:16x9/AP25015795253955.jpg",
+     "ts": 1784556317000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Hamas’ lead negotiator in ceasefire talks elected as group’s new chief",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3361240/hamas-lead-negotiator-ceasefire-talks-elected-groups-new-chief?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/9a936867-c136-4851-94dd-6a288a379c4d_a8c5b299.jpg?itok=cOlkNAgs&v=1784549508",
+     "ts": 1784549509000,
      "beat": "china",
      "beatName": "China"
     },
@@ -453,65 +516,56 @@
    ]
   },
   {
-   "name": "Palestine",
-   "es": "Palestina",
-   "lat": 31.9,
-   "lon": 35.2,
-   "count": 6,
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 5,
    "items": [
     {
-     "title": "Hamas names new leader as Kuwait says it is under fire from Iran – Middle East crisis live",
-     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/edae6869b99135c7be9395a0fd30814f58f00ca7/221_0_4450_3561/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=f825b140ab1b86227f2f3041156b0bd1",
-     "ts": 1784562029000,
+     "title": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
+     "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784571003000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Hamas names new leader as Kuwait says it is under fire from Iran – Middle East crisis live",
-     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/edae6869b99135c7be9395a0fd30814f58f00ca7/221_0_4450_3561/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=f825b140ab1b86227f2f3041156b0bd1",
-     "ts": 1784562029000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Informe desde Nueva Delhi: Policía lanza gases lacrimógenos contra seguidores las \"cucarachas\"",
+     "link": "https://www.france24.com/es/video/20260720-informe-desde-nueva-delhi-polic%C3%ADa-lanza-gases-lacrim%C3%B3genos-contra-seguidores-las-cucarachas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/43336940-8459-11f1-9338-005056a97e36/w:1024/p:16x9/ES-20260720-110526-110642-CS.jpg",
+     "ts": 1784565992000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Who is Khalil al-Hayya, Hamas’s new leader?",
-     "link": "https://www.france24.com/en/middle-east/20260720-who-is-khalil-al-hayya-hamas-s-new-leader",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/34b4e08e-a547-11f0-9061-005056a97e36/w:1024/p:16x9/AP25015795253955.jpg",
-     "ts": 1784556317000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
+     "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4024+0+0/resize/6048x4024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F0c%2F38c9af504e95b57983ae9d1d0fd5%2Fap26201449245142.jpg",
+     "ts": 1784565364000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Hamas names Khalil al-Hayya as new overall leader",
-     "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+     "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+     "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/ce9d2310-842f-11f1-8db9-6b4471749e2a.jpg",
-     "ts": 1784556151000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8d/live/e2c0bd70-8448-11f1-b976-0b9c15b0ccfc.jpg",
+     "ts": 1784564800000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Hamas’ lead negotiator in ceasefire talks elected as group’s new chief",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3361240/hamas-lead-negotiator-ceasefire-talks-elected-groups-new-chief?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/9a936867-c136-4851-94dd-6a288a379c4d_a8c5b299.jpg?itok=cOlkNAgs&v=1784549508",
-     "ts": 1784549509000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "‘We hear your voices’: inside the Church of England’s debate over Palestine",
-     "link": "https://www.theguardian.com/world/2026/jul/19/inside-church-of-england-debate-over-palestine-gaza",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4b531a8631d2656ea7a9fa799ddf9d68fce5fbaa/1252_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=459f5164d047c3e4b85401e654e8fe11",
-     "ts": 1784458356000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "At least 25 killed as floods and landslides hit northern India",
+     "link": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784564232000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -520,43 +574,34 @@
    "es": "España",
    "lat": 40.5,
    "lon": -3.7,
-   "count": 5,
+   "count": 4,
    "items": [
     {
-     "title": "Las celebraciones de los campeones del mundo, en directo | La FIFA anuncia que investigará a la selección argentina por los incidentes tras la victoria de España en la final",
+     "title": "Las celebraciones de los campeones del mundo, en directo | Miles de aficionados arropan a los campeones del mundo en su recorrido por Madrid",
      "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/las-celebraciones-de-los-campeones-del-mundo-en-directo.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/23VIUENUWFCNRJR4FGDLEQF2DE.jpg?auth=a7cd884aeb3a70e69659dc7dbc452a4d1d49541adf8169bbe2bf011a3bcdb996",
-     "ts": 1784563185000,
+     "image": "https://imagenes.elpais.com/resizer/v2/TZMOBC5EABGQ3PIVKVBMLTUO5E.jpg?auth=3c2987bd1f26b6b1594b4d2b8b230cda56ca824a802b1cf56c7eb8387b9c8e5f",
+     "ts": 1784571437000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "La selección española llega a Madrid tras conquistar el Mundial 2026",
-     "link": "https://www.france24.com/es/video/20260720-la-selecci%C3%B3n-espa%C3%B1ola-llega-a-madrid-tras-conquistar-el-mundial-2026",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/b5a31d62-8446-11f1-80f6-005056a97e36/w:1024/p:16x9/ES-20260720-081348-081456-CS.jpg",
-     "ts": 1784557753000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
+     "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784568703000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "La selección española llega a Madrid con la Copa para vivir una fiesta inolvidable",
-     "link": "https://www.prensa.com/deportes/la-seleccion-espanola-llega-a-madrid-con-la-copa-para-vivir-una-fiesta-inolvidable/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/JPNNQVF27NEMNBZXO45L6EUFPA.jpg?auth=3dc26f05b0fff7da4753eab0088215acf221999489037967f9da19aec489b102&smart=true&width=3936&height=2624",
-     "ts": 1784557127000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Madrid festeja casi toda la madrugada el triunfo de España en el Mundial",
-     "link": "https://www.prensa.com/deportes/madrid-festeja-casi-toda-la-madrugada-el-triunfo-de-espana-en-el-mundial/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/X54GTJWBWZCFTGH3G5AKHKSU2U.jpg?auth=20cf914ddd451489ab7167bdfa520557227737ad6981db773a1a761f46a9d867&smart=true&width=5990&height=3994",
-     "ts": 1784556713000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Spain team arrives home after winning the World Cup",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784566057000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Teen dies during Spain World Cup celebrations",
@@ -570,21 +615,138 @@
    ]
   },
   {
+   "name": "Mexico",
+   "es": "México",
+   "lat": 23.6,
+   "lon": -102.6,
+   "count": 3,
+   "items": [
+    {
+     "title": "Cadena perpetua para \"El Mayo\" Zambada: por qué esta condena cierra todo un capítulo en la historia del narco en México",
+     "link": "https://www.bbc.com/mundo/articles/czrj753dx13o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c90/live/ade95da0-8448-11f1-bee8-53ce494e1abc.png",
+     "ts": 1784569320000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Activists Sue to Stop Frida Kahlo Works From Leaving Mexico",
+     "link": "https://hyperallergic.com/activists-sue-to-stop-frida-kahlo-works-from-leaving-mexico/",
+     "source": "Hyperallergic",
+     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/GettyImages-1236084309.jpg",
+     "ts": 1784565191000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Felipe VI, Sánchez, Trump y Carney elogian a México por la organización del Mundial",
+     "link": "https://elpais.com/mexico/2026-07-20/felipe-vi-sanchez-trump-y-carney-elogian-a-mexico-por-la-organizacion-del-mundial.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/IJXU64VWMRHG7EEJICH5Q7JPP4.jpg?auth=bae7f74de5243fdc99019ae7a0a8bda826315c52456b03890686496f2579ae0a",
+     "ts": 1784564926000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Yemen",
+   "es": "Yemen",
+   "lat": 15.6,
+   "lon": 48.0,
+   "count": 3,
+   "items": [
+    {
+     "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+     "ts": 1784568782000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+     "ts": 1784568782000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Live: Iran fighting 'full-scale war' with US, Yemen's Houthis announce Saudi naval blockade",
+     "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/b1b9d426-8436-11f1-9437-005056a90284/w:1024/p:16x9/2026-07-15T122836Z-97536865-RC20HKAGF0XM-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA.jpg",
+     "ts": 1784501228000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Saudi Arabia",
+   "es": "Arabia Saudita",
+   "lat": 23.9,
+   "lon": 45.1,
+   "count": 2,
+   "items": [
+    {
+     "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+     "ts": 1784568782000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+     "ts": 1784568782000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
+   "count": 2,
+   "items": [
+    {
+     "title": "Sin Messi, Argentina recibe a la selección con un festejo acotado y protocolar",
+     "link": "https://elpais.com/argentina/2026-07-20/sin-messi-argentina-recibe-a-la-seleccion-con-un-festejo-acotado-y-protocolar.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/O4RRKVKJF5OGNEKDODCUVJB6KE.jpg?auth=29481866961f8dc43fcb396983a7d23e0b43dc72d4495608d89ce7eda03e9c57",
+     "ts": 1784571030000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "La FIFA ya tiene los informes para investigar el comportamiento de Argentina en la final del Mundial y valorar posibles sanciones",
+     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/la-fifa-ya-tiene-los-informes-para-investigar-el-comportamiento-de-argentina-en-la-final-del-mundial-y-valorar-posibles-sanciones.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/23VIUENUWFCNRJR4FGDLEQF2DE.jpg?auth=a7cd884aeb3a70e69659dc7dbc452a4d1d49541adf8169bbe2bf011a3bcdb996",
+     "ts": 1784567924000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
    "name": "Iraq",
    "es": "Irak",
    "lat": 33.2,
    "lon": 43.7,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "Muere otro militar estadounidense en Irak mientras escala el conflicto con Irán",
-     "link": "https://www.france24.com/es/video/20260720-muere-otro-militar-estadounidense-en-irak-mientras-escala-el-conflicto-con-ir%C3%A1n",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/fb10ec9a-8445-11f1-a975-005056bf30b7/w:1024/p:16x9/ES-20260720-070751-071010-CS.jpg",
-     "ts": 1784557681000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
     {
      "title": "US soldier killed and one injured after Iranian attack in Iraq",
      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
@@ -606,29 +768,38 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 2,
+   "name": "Chile",
+   "es": "Chile",
+   "lat": -35.7,
+   "lon": -71.5,
+   "count": 1,
    "items": [
     {
-     "title": "Russia says bus strike kills 5 in border region with Ukraine",
-     "link": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
+     "title": "Monumental Mural Erased by Pinochet Reemerges in Chile After 50 Years",
+     "link": "https://news.artnet.com/art-world/julio-escamez-mural-pinochet-restoration-2789137",
+     "source": "Artnet News",
      "image": "",
-     "ts": 1784560140000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
+     "ts": 1784564338000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Belgium",
+   "es": "Bélgica",
+   "lat": 50.5,
+   "lon": 4.5,
+   "count": 1,
+   "items": [
     {
-     "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0263e9820e0f84f7e0b48cb72f2e3b73368c83c5/179_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=ff9c74bb1af9525e5a67912f85c360b0",
-     "ts": 1784560125000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+     "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-1152x648.jpg",
+     "ts": 1784563158000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
     }
    ]
   },
@@ -637,149 +808,86 @@
    "es": "Ucrania",
    "lat": 48.4,
    "lon": 31.2,
-   "count": 2,
+   "count": 1,
    "items": [
     {
-     "title": "Russia says bus strike kills 5 in border region with Ukraine",
-     "link": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1784560140000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
+     "title": "Ukraine’s army chief expected to lose job after week of protests",
+     "link": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0263e9820e0f84f7e0b48cb72f2e3b73368c83c5/179_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=ff9c74bb1af9525e5a67912f85c360b0",
-     "ts": 1784560125000,
+     "image": "https://i.guim.co.uk/img/media/79d93780dac9f6ff7b43451f43c58500deedf1a6/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f210bff68cd19105f8c0bc83a8bdf778",
+     "ts": 1784570461000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 2,
+   "name": "Afghanistan",
+   "es": "Afganistán",
+   "lat": 33.9,
+   "lon": 67.7,
+   "count": 1,
    "items": [
     {
-     "title": "Las celebraciones de los campeones del mundo, en directo | La FIFA anuncia que investigará a la selección argentina por los incidentes tras la victoria de España en la final",
-     "link": "https://elpais.com/deportes/mundial-futbol/2026-07-20/las-celebraciones-de-los-campeones-del-mundo-en-directo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/23VIUENUWFCNRJR4FGDLEQF2DE.jpg?auth=a7cd884aeb3a70e69659dc7dbc452a4d1d49541adf8169bbe2bf011a3bcdb996",
-     "ts": 1784563185000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
+     "title": "Afghanistan floods kill at least 20 people, with more than 100 missing",
+     "link": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/77505e4cc01e416639c5698433307b30ee739215/290_0_4333_3466/master/4333.jpg?width=140&quality=85&auto=format&fit=max&s=57707f3a12e2b930673dd907a50fe899",
+     "ts": 1784568666000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "es": "Nigeria",
+   "lat": 9.1,
+   "lon": 8.7,
+   "count": 1,
+   "items": [
     {
-     "title": "Al menos dos muertos y 12 detenidos en Argentina durante los festejos por la final",
-     "link": "https://elpais.com/argentina/2026-07-20/al-menos-dos-muertos-y-12-detenidos-en-argentina-durante-los-festejos-por-la-final.html",
+     "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+     "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b589/live/adb386d0-80f6-11f1-b983-cbe246fcd5da.jpg",
+     "ts": 1784567780000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "es": "Nicaragua",
+   "lat": 12.9,
+   "lon": -85.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "Daniel Ortega liquida la vía electoral en Nicaragua: “Aquí no volverá a haber elecciones”",
+     "link": "https://elpais.com/america/2026-07-20/daniel-ortega-liquida-la-via-electoral-en-nicaragua-aqui-no-volvera-a-haber-elecciones.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/72XGCHOGB5INVJOE3YESE6QWKE.jpg?auth=6015330eb961a71992099455e8ee18ca0d067f8eb4bdaf6a1e30cb434fb18b4e",
-     "ts": 1784562002000,
+     "image": "https://imagenes.elpais.com/resizer/v2/JPDZDHYVZ5CFRIGAHJPIMKTUEE.jpg?auth=ed9acc9faa607f05080b64d76fc60fa750511131dfb16943934bb8763c81d764",
+     "ts": 1784569693000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Yemen",
-   "es": "Yemen",
-   "lat": 15.6,
-   "lon": 48.0,
-   "count": 2,
+   "name": "Brazil",
+   "es": "Brasil",
+   "lat": -14.2,
+   "lon": -51.9,
+   "count": 1,
    "items": [
     {
-     "title": "En directo: Irán declara una “guerra total” con EE. UU.; hutíes de Yemen anuncian bloqueo naval a Arabia Saudita",
-     "link": "https://www.france24.com/es/medio-oriente/20260720-en-directo-ir%C3%A1n-declara-una-guerra-total-con-ee-uu-hut%C3%ADes-de-yemen-anuncian-bloqueo-naval-a-arabia-saudita",
+     "title": "La IA que vigila São Paulo: ¿discrimina por el color de la piel?",
+     "link": "https://www.france24.com/es/programas/en-foco/20260720-la-ia-que-vigila-s%C3%A3o-paulo-discrimina-por-el-color-de-la-piel",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/c5281868-8442-11f1-8bb8-005056bf30b7/w:1024/p:16x9/2026-07-20T030108Z-169369403-RC2EHMANHSI6-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-     "ts": 1784556426000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Live: Iran fighting 'full-scale war' with US, Yemen's Houthis announce Saudi naval blockade",
-     "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/b1b9d426-8436-11f1-9437-005056a90284/w:1024/p:16x9/2026-07-15T122836Z-97536865-RC20HKAGF0XM-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA.jpg",
-     "ts": 1784501228000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-     "link": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/164cd7fe7703c54a814109816c716d1951c67d9f/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ce3386d25025897b57b9707fb9fff30a",
-     "ts": 1784562778000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Australia",
-   "es": "Australia",
-   "lat": -25.3,
-   "lon": 133.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
-     "link": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ae1eec6fb4b23613875dae7108666fb1dfec10fb/2459_868_1745_1396/master/1745.jpg?width=140&quality=85&auto=format&fit=max&s=17b2eab47dda773b660564d38267b161",
-     "ts": 1784559644000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Qatar",
-   "es": "Catar",
-   "lat": 25.3,
-   "lon": 51.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Trump acknowledges that jet from Qatar lacks defensive systems of Air Force One",
-     "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c017d7001c0321651dd3672c6e9aeb6910989644/236_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=011d5bf12b9757933423c70ae8328f78",
-     "ts": 1784557865000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Cuba",
-   "es": "Cuba",
-   "lat": 21.5,
-   "lon": -77.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Washington acusa a Cuba de “respaldar una ola sin precedentes de terrorismo de izquierda en Estados Unidos”",
-     "link": "https://elpais.com/us/2026-07-20/el-departamento-de-estado-publica-un-informe-que-acusa-a-cuba-de-ser-la-capital-del-terrorismo-del-siglo-xxi.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MHF7UJFHGVN57EGOAHMRADEXNU.jpg?auth=0998bc19ab9b9742493e12f266d8809f78511576113f92d8df03a4e46cf0b11a",
-     "ts": 1784562720000,
+     "image": "https://s.france24.com/media/display/76f4b0e8-7baf-11f1-b24a-005056a90284/w:1024/p:16x9/FR-NW-OOV-ECRAN-FREEZE-BRESIL-BIG-BROTHER-BAIN-Lauren.jpg",
+     "ts": 1784566187000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -793,67 +901,49 @@
    "count": 1,
    "items": [
     {
-     "title": "Asegure su palco: así puede inscribirse para ganar pases dobles a los desfiles de la Feria de las Flores en Medellín",
-     "link": "https://www.eltiempo.com/colombia/medellin/asegure-su-palco-asi-puede-inscribirse-para-ganar-pases-dobles-a-los-desfiles-de-la-feria-de-las-flores-en-medellin-3572444",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2019/08/12/5d517fdc79af4.jpeg",
-     "ts": 1784562176000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "\"Las Cucarachas” intensifican las protestas contra el Gobierno de India",
-     "link": "https://www.france24.com/es/video/20260720-las-cucarachas-intensifican-las-protestas-contra-el-gobierno-de-india",
+     "title": "Petro encabeza su último desfile del Día de la Independencia de Colombia como presidente",
+     "link": "https://www.france24.com/es/video/20260720-petro-encabeza-su-%C3%BAltimo-desfile-del-d%C3%ADa-de-la-independencia-de-colombia-como-presidente",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1a71da1e-8445-11f1-9bdb-005056bfb2b6/w:1024/p:16x9/ES-20260720-070533-070721-CS.jpg",
-     "ts": 1784557675000,
+     "image": "https://s.france24.com/media/display/9c390f12-845a-11f1-8d5b-005056bfb2b6/w:1024/p:16x9/ES-20260720-110919-111117-CS.jpg",
+     "ts": 1784566139000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Saudi Arabia",
-   "es": "Arabia Saudita",
-   "lat": 23.9,
-   "lon": 45.1,
+   "name": "Peru",
+   "es": "Perú",
+   "lat": -9.2,
+   "lon": -75.0,
    "count": 1,
    "items": [
     {
-     "title": "En directo: Irán declara una “guerra total” con EE. UU.; hutíes de Yemen anuncian bloqueo naval a Arabia Saudita",
-     "link": "https://www.france24.com/es/medio-oriente/20260720-en-directo-ir%C3%A1n-declara-una-guerra-total-con-ee-uu-hut%C3%ADes-de-yemen-anuncian-bloqueo-naval-a-arabia-saudita",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/c5281868-8442-11f1-8bb8-005056bf30b7/w:1024/p:16x9/2026-07-20T030108Z-169369403-RC2EHMANHSI6-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-     "ts": 1784556426000,
+     "title": "Vuelo de United Airlines es desviado a Tocumen tras reportar una incidencia en ruta a Lima",
+     "link": "https://www.prensa.com/economia/vuelo-de-united-airlines-es-desviado-a-tocumen-tras-reportar-una-incidencia-en-ruta-a-lima/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/7R3VXUXB4NDRHI2JPUM6PKAEWQ.jpg?auth=3404d843b2be87a86ef1325f757c6f27470e7f45d89e15e760419ea265970a5b&smart=true&width=3595&height=2131",
+     "ts": 1784565693000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Senegal",
-   "es": "Senegal",
-   "lat": 14.5,
-   "lon": -14.5,
+   "name": "Hungary",
+   "es": "Hungría",
+   "lat": 47.2,
+   "lon": 19.5,
    "count": 1,
    "items": [
     {
-     "title": "Las soldadoras, electricistas y fontaneras de Dakar: la juventud femenina senegalesa derriba las barreras de género de los oficios",
-     "link": "https://elpais.com/planeta-futuro/2026-07-20/las-soldadoras-electricistas-y-fontaneras-de-dakar-la-juventud-femenina-senegalesa-derriba-las-barreras-de-genero-de-los-oficios.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/HQHYCEHXAZCL5P5A2MPHMULIVY.jpg?auth=9df48524dbfdae87ff952c92da3610a8d3157f5de25d0a5c8146a92d0f60d79e",
-     "ts": 1784556000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Hungary investigates deal with China’s BYD after ex-foreign minister takes job there",
+     "link": "https://www.scmp.com/business/china-evs/article/3361258/hungary-investigates-deal-chinas-byd-after-ex-foreign-minister-takes-job-there?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/e0d8fa87-92f3-4027-9c3f-0e688aa1d0a5_d9f1b62b.jpg?itok=mTbDqIn6&v=1784566091",
+     "ts": 1784566311000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -942,42 +1032,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/4c19915f-4928-47cc-9fd4-a90cd4795f9a_ef28ba15.jpg?itok=9oKQiuYk&v=1784542205",
      "ts": 1784542206000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Philippines",
-   "es": "Filipinas",
-   "lat": 12.9,
-   "lon": 121.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Malaysia upgrades South China Sea defences amid Sabah row with Philippines",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361200/malaysia-upgrades-south-china-sea-defences-amid-sabah-row-philippines?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/c60255d9-7b18-464d-adee-ae5633818313_4182aa3b.jpg?itok=pJlTPxQo&v=1784537951",
-     "ts": 1784537953000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Malaysia upgrades South China Sea defences amid Sabah row with Philippines",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361200/malaysia-upgrades-south-china-sea-defences-amid-sabah-row-philippines?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/c60255d9-7b18-464d-adee-ae5633818313_4182aa3b.jpg?itok=pJlTPxQo&v=1784537951",
-     "ts": 1784537953000,
      "beat": "china",
      "beatName": "China"
     }
