@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-20T07:33:36.137498+00:00",
- "sources_ok": 35,
+ "updated": "2026-07-20T11:15:52.184038+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -62,19 +62,11 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 33,
+   "count": 29,
    "error": ""
   },
   {
@@ -226,7 +218,7 @@
    "url": "https://www.france24.com/en/middle-east/rss",
    "source": "Latest news from the Middle East, daily international news reports - France 24",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": ""
   },
   {
@@ -243,6 +235,14 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
    "error": ""
   },
   {
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 108,
+   "count": 106,
    "error": ""
   },
   {
@@ -282,7 +282,7 @@
    "url": "https://www.bbc.com/mundo/index.xml",
    "source": "BBC Mundo",
    "ok": true,
-   "count": 36,
+   "count": 35,
    "error": ""
   },
   {
@@ -298,7 +298,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 15,
+   "count": 17,
    "error": ""
   },
   {
