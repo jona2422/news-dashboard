@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-21T12:02:20.231151+00:00",
- "sources_ok": 36,
+ "updated": "2026-07-21T14:26:39.051982+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -62,11 +62,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 415: Unsupported Media Type"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 30,
+   "count": 34,
    "error": ""
   },
   {
@@ -178,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": ""
   },
   {
@@ -239,14 +247,6 @@
   },
   {
    "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
-   "error": ""
-  },
-  {
-   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 101,
+   "count": 109,
    "error": ""
   },
   {
