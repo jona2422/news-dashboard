@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-22T14:27:18.567483+00:00",
- "sources_ok": 35,
+ "updated": "2026-07-22T16:51:02.603680+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -60,14 +60,6 @@
    "ok": false,
    "count": 0,
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
   },
   {
    "beat": "actualidad",
@@ -210,7 +202,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "error": ""
   },
   {
@@ -247,6 +239,14 @@
   },
   {
    "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
+   "error": ""
+  },
+  {
+   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 112,
+   "count": 113,
    "error": ""
   },
   {
@@ -282,7 +282,7 @@
    "url": "https://www.bbc.com/mundo/index.xml",
    "source": "BBC Mundo",
    "ok": true,
-   "count": 35,
+   "count": 34,
    "error": ""
   },
   {
@@ -298,7 +298,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": ""
   },
   {
