@@ -1,8 +1,17 @@
 {
- "updated": "2026-07-23T06:41:52.729787+00:00",
- "count": 218,
+ "updated": "2026-07-23T09:39:52.420080+00:00",
+ "count": 258,
  "max": 5.1,
  "items": [
+  {
+   "mag": 5.1,
+   "place": "central Mid-Atlantic Ridge",
+   "time": 1784788197530,
+   "lon": -39.3528,
+   "lat": 8.5099,
+   "depth": 10,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
+  },
   {
    "mag": 5.1,
    "place": "61 km SSW of San Pedro de Atacama, Chile",
@@ -11,15 +20,6 @@
    "lat": -23.3767,
    "depth": 108.731,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
-  },
-  {
-   "mag": 5.1,
-   "place": "121 km NW of Vallenar, Chile",
-   "time": 1784712862317,
-   "lon": -71.7009,
-   "lat": -27.8666,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
   },
   {
    "mag": 5,
@@ -94,15 +94,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj"
   },
   {
-   "mag": 4.9,
-   "place": "208 km W of Abepura, Indonesia",
-   "time": 1784702800106,
-   "lon": 138.7604,
-   "lat": -2.6349,
-   "depth": 21.587,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ei"
-  },
-  {
    "mag": 4.8,
    "place": "33 km NNW of El Cardo, Peru",
    "time": 1784774305218,
@@ -146,6 +137,15 @@
    "lat": -5.912,
    "depth": 106.527,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fu"
+  },
+  {
+   "mag": 4.6,
+   "place": "95 km SE of Atka, Alaska",
+   "time": 1784789468005,
+   "lon": -173.1921,
+   "lat": 51.6051,
+   "depth": 40.716,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mc"
   },
   {
    "mag": 4.6,
@@ -203,6 +203,15 @@
   },
   {
    "mag": 4.2,
+   "place": "148 km SSW of La Esperanza (El Zapotal), Mexico",
+   "time": 1784789240177,
+   "lon": -93.7183,
+   "lat": 14.2229,
+   "depth": 10,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ma"
+  },
+  {
+   "mag": 4.2,
    "place": "69 km SSW of Puerto Madero, Mexico",
    "time": 1784713985939,
    "lon": -92.7778,
@@ -229,6 +238,15 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2iy"
   },
   {
+   "mag": 3.6,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784791908570,
+   "lon": -115.537330627441,
+   "lat": 32.9143333435059,
+   "depth": 10.9899997711182,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659802"
+  },
+  {
    "mag": 3.5,
    "place": "16 km NE of Yerington, Nevada",
    "time": 1784740852315,
@@ -236,6 +254,15 @@
    "lat": 39.0966,
    "depth": 14,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922179"
+  },
+  {
+   "mag": 3.4,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784796551930,
+   "lon": -115.538497924805,
+   "lat": 32.9148330688477,
+   "depth": 16,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659914"
   },
   {
    "mag": 3.3,
@@ -274,6 +301,15 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okoeco"
   },
   {
+   "mag": 3.1,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784790860460,
+   "lon": -115.532669067383,
+   "lat": 32.9145011901855,
+   "depth": 10.5100002288818,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659722"
+  },
+  {
    "mag": 3.0,
    "place": "40 km S of Pole Ojea, Puerto Rico",
    "time": 1784717522410,
@@ -290,6 +326,24 @@
    "lat": 19.1823333333333,
    "depth": 31.62,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006537"
+  },
+  {
+   "mag": 2.8,
+   "place": "6 km S of Brawley, CA",
+   "time": 1784797432380,
+   "lon": -115.530666666667,
+   "lat": 32.9203333333333,
+   "depth": 11.59,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659962"
+  },
+  {
+   "mag": 2.8,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784796907250,
+   "lon": -115.525166666667,
+   "lat": 32.914,
+   "depth": 14.28,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659938"
   },
   {
    "mag": 2.8,
@@ -347,12 +401,12 @@
   },
   {
    "mag": 2.5,
-   "place": "54 km NW of Toyah, Texas",
-   "time": 1784776067760,
-   "lon": -104.226,
-   "lat": 31.637,
-   "depth": 3.6181,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiwqkd"
+   "place": "8 km S of Brawley, CA",
+   "time": 1784798674380,
+   "lon": -115.530166666667,
+   "lat": 32.911,
+   "depth": 11.3,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660010"
   },
   {
    "mag": 2.5,
@@ -373,13 +427,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2jt"
   },
   {
-   "mag": 2.5,
-   "place": "24 km SW of Garden City, Texas",
-   "time": 1784711242562,
-   "lon": -101.686,
-   "lat": 31.724,
-   "depth": 7.3975,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ohmvlr"
+   "mag": 2.4,
+   "place": "11 km NNE of Ocotillo Wells, CA",
+   "time": 1784790941550,
+   "lon": -116.105333333333,
+   "lat": 33.2411666666667,
+   "depth": 10.82,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659730"
+  },
+  {
+   "mag": 2.4,
+   "place": "54 km NW of Toyah, Texas",
+   "time": 1784776067669,
+   "lon": -104.212,
+   "lat": 31.651,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiwqkd"
   },
   {
    "mag": 2.4,
@@ -389,6 +452,15 @@
    "lat": 17.9711666666667,
    "depth": 12.33,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525308"
+  },
+  {
+   "mag": 2.3,
+   "place": "6 km S of Brawley, CA",
+   "time": 1784796293450,
+   "lon": -115.526666666667,
+   "lat": 32.9206666666667,
+   "depth": 9.04,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659906"
   },
   {
    "mag": 2.3,
@@ -409,31 +481,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ohozdu"
   },
   {
-   "mag": 2.3,
-   "place": "11 km SE of Willits, CA",
-   "time": 1784702591210,
-   "lon": -123.259002685547,
-   "lat": 39.3508338928223,
-   "depth": 4.5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403592"
+   "mag": 2.2,
+   "place": "8 km S of Brawley, CA",
+   "time": 1784795257520,
+   "lon": -115.5285,
+   "lat": 32.9111666666667,
+   "depth": 10.07,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659882"
   },
   {
    "mag": 2.2,
-   "place": "53 km NW of Toyah, Texas",
-   "time": 1784785786473,
-   "lon": -104.221,
-   "lat": 31.631,
-   "depth": 4.0271,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojbydz"
-  },
-  {
-   "mag": 2.2,
-   "place": "61 km S of Whites City, New Mexico",
-   "time": 1784773412040,
-   "lon": -104.387,
-   "lat": 31.618,
-   "depth": 3.8273,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivejb"
+   "place": "7 km S of Brawley, CA",
+   "time": 1784791902080,
+   "lon": -115.539166666667,
+   "lat": 32.9171666666667,
+   "depth": 13.67,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659794"
   },
   {
    "mag": 2.2,
@@ -463,58 +526,31 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiktrk"
   },
   {
-   "mag": 2.2,
-   "place": "16 km ESE of Anza, CA",
-   "time": 1784712856540,
-   "lon": -116.511833333333,
-   "lat": 33.5055,
-   "depth": 13.87,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659210"
-  },
-  {
-   "mag": 2.2,
-   "place": "6 km NE of La Parguera, Puerto Rico",
-   "time": 1784710918630,
-   "lon": -66.9968333333333,
-   "lat": 18.007,
-   "depth": 7,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525288"
-  },
-  {
-   "mag": 2.2,
-   "place": "3 km SSW of Pāhala, Hawaii",
-   "time": 1784710356320,
-   "lon": -155.4855,
-   "lat": 19.1713333333333,
-   "depth": 31.44,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006277"
+   "mag": 2.1,
+   "place": "16 km ESE of Pearsall, Texas",
+   "time": 1784793105244,
+   "lon": -98.95,
+   "lat": 28.824,
+   "depth": 11.1095,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojgbev"
   },
   {
    "mag": 2.1,
-   "place": "53 km NW of Toyah, Texas",
-   "time": 1784785768929,
-   "lon": -104.224,
-   "lat": 31.632,
-   "depth": 4.0734,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojbzvf"
+   "place": "2 km SSE of Brawley, CA",
+   "time": 1784790987530,
+   "lon": -115.521833333333,
+   "lat": 32.9596666666667,
+   "depth": 1.03,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659738"
   },
   {
    "mag": 2.1,
-   "place": "54 km NW of Toyah, Texas",
-   "time": 1784772993469,
-   "lon": -104.219,
-   "lat": 31.642,
-   "depth": 4.2173,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiuyiu"
-  },
-  {
-   "mag": 2.1,
-   "place": "55 km NW of Toyah, Texas",
-   "time": 1784772914165,
-   "lon": -104.229,
-   "lat": 31.643,
-   "depth": 4.1017,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiuxdy"
+   "place": "58 km S of Whites City, New Mexico",
+   "time": 1784773412121,
+   "lon": -104.374,
+   "lat": 31.651,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivejb"
   },
   {
    "mag": 2.1,
@@ -524,6 +560,15 @@
    "lat": 18.0991666666667,
    "depth": 19.34,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525363"
+  },
+  {
+   "mag": 2.1,
+   "place": "34 km SSE of Malaga, New Mexico",
+   "time": 1784764253896,
+   "lon": -103.883,
+   "lat": 31.96,
+   "depth": 7.6508,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oipzxt"
   },
   {
    "mag": 2.1,
@@ -562,22 +607,67 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ohoilm"
   },
   {
-   "mag": 2.1,
-   "place": "3 km E of Oak Harbor, Washington",
-   "time": 1784711632650,
-   "lon": -122.5995,
-   "lat": 48.2921666666667,
-   "depth": 25.58,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056992"
+   "mag": 2.0,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784797756070,
+   "lon": -115.5175,
+   "lat": 32.9203333333333,
+   "depth": 9.45,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659978"
+  },
+  {
+   "mag": 2.0,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784797066800,
+   "lon": -115.52,
+   "lat": 32.9165,
+   "depth": 8.93,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659946"
+  },
+  {
+   "mag": 2.0,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784796755340,
+   "lon": -115.523833333333,
+   "lat": 32.9151666666667,
+   "depth": 9.26,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659922"
+  },
+  {
+   "mag": 2.0,
+   "place": "8 km SSE of Amber, Oklahoma",
+   "time": 1784792788596,
+   "lon": -97.82907867,
+   "lat": 35.09137726,
+   "depth": 8.238180161,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ohmn"
   },
   {
    "mag": 2,
-   "place": "34 km SSE of Malaga, New Mexico",
-   "time": 1784764254055,
-   "lon": -103.891,
-   "lat": 31.958,
-   "depth": 4.7732,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oipzxt"
+   "place": "54 km NW of Toyah, Texas",
+   "time": 1784785786461,
+   "lon": -104.211,
+   "lat": 31.651,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojbydz"
+  },
+  {
+   "mag": 2,
+   "place": "2 km SE of Madison, Ohio",
+   "time": 1784783522678,
+   "lon": -81.0252,
+   "lat": 41.7581,
+   "depth": 10.739,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2m1"
+  },
+  {
+   "mag": 2,
+   "place": "54 km NW of Toyah, Texas",
+   "time": 1784772914229,
+   "lon": -104.21,
+   "lat": 31.657,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiuxdy"
   },
   {
    "mag": 2.0,
@@ -617,6 +707,42 @@
   },
   {
    "mag": 1.9,
+   "place": "16 km NE of Pāhala, Hawaii",
+   "time": 1784797742000,
+   "lon": -155.376831054688,
+   "lat": 19.3129997253418,
+   "depth": 28.9300003051758,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006902"
+  },
+  {
+   "mag": 1.9,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784797187350,
+   "lon": -115.519,
+   "lat": 32.9155,
+   "depth": 8.11,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659954"
+  },
+  {
+   "mag": 1.9,
+   "place": "8 km NE of Imperial, CA",
+   "time": 1784790313890,
+   "lon": -115.523,
+   "lat": 32.9041666666667,
+   "depth": 10.69,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659706"
+  },
+  {
+   "mag": 1.9,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784790249880,
+   "lon": -115.5285,
+   "lat": 32.9145,
+   "depth": 9.11,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659698"
+  },
+  {
+   "mag": 1.9,
    "place": "22 km ESE of Naalehu, Hawaii",
    "time": 1784784449620,
    "lon": -155.3681640625,
@@ -626,12 +752,12 @@
   },
   {
    "mag": 1.9,
-   "place": "61 km S of Whites City, New Mexico",
-   "time": 1784774905081,
-   "lon": -104.388,
-   "lat": 31.617,
-   "depth": 3.7569,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivzki"
+   "place": "54 km NW of Toyah, Texas",
+   "time": 1784772993432,
+   "lon": -104.207,
+   "lat": 31.656,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiuyiu"
   },
   {
    "mag": 1.9,
@@ -715,22 +841,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922171"
   },
   {
-   "mag": 1.9,
-   "place": "15 km WNW of Kalaoa, Hawaii",
-   "time": 1784704847440,
-   "lon": -156.11833190918,
-   "lat": 19.7923336029053,
-   "depth": 8.78999996185303,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006242"
-  },
-  {
-   "mag": 1.9,
-   "place": "76 km ENE of Tonopah, Nevada",
-   "time": 1784703980832,
-   "lon": -116.4955,
-   "lat": 38.4488,
-   "depth": 6.7345,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922161"
+   "mag": 1.8,
+   "place": "59 km NNE of Chase, Alaska",
+   "time": 1784789915302,
+   "lon": -149.84,
+   "lat": 62.969,
+   "depth": 71.3,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olmkhz"
   },
   {
    "mag": 1.8,
@@ -752,30 +869,12 @@
   },
   {
    "mag": 1.8,
-   "place": "60 km S of Whites City, New Mexico",
-   "time": 1784774814271,
-   "lon": -104.46,
-   "lat": 31.631,
-   "depth": 4.251,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivvug"
-  },
-  {
-   "mag": 1.8,
-   "place": "55 km NW of Toyah, Texas",
-   "time": 1784772166940,
-   "lon": -104.223,
-   "lat": 31.655,
-   "depth": 3.7678,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiummd"
-  },
-  {
-   "mag": 1.8,
-   "place": "55 km NW of Toyah, Texas",
-   "time": 1784769857896,
-   "lon": -104.227,
-   "lat": 31.646,
-   "depth": 4.5569,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitfid"
+   "place": "58 km S of Whites City, New Mexico",
+   "time": 1784774905096,
+   "lon": -104.377,
+   "lat": 31.644,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivzki"
   },
   {
    "mag": 1.8,
@@ -850,31 +949,67 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006322"
   },
   {
-   "mag": 1.8,
-   "place": "29 km SSE of Volcano, Hawaii",
-   "time": 1784711166660,
-   "lon": -155.130661010742,
-   "lat": 19.1959991455078,
-   "depth": 40.439998626709,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006287"
-  },
-  {
-   "mag": 1.8,
-   "place": "19 km N of Susitna, Alaska",
-   "time": 1784705111126,
-   "lon": -150.519,
-   "lat": 61.722,
-   "depth": 61.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojrguu"
+   "mag": 1.7,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784797601420,
+   "lon": -115.523666666667,
+   "lat": 32.9125,
+   "depth": 7.85,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659970"
   },
   {
    "mag": 1.7,
-   "place": "55 km NW of Toyah, Texas",
-   "time": 1784781316965,
-   "lon": -104.226,
-   "lat": 31.645,
-   "depth": 4.29,
+   "place": "13 km SSW of Jal, New Mexico",
+   "time": 1784795586615,
+   "lon": -103.241,
+   "lat": 31.995,
+   "depth": 7.2031,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojhkwl"
+  },
+  {
+   "mag": 1.7,
+   "place": "8 km NNE of Imperial, CA",
+   "time": 1784791474550,
+   "lon": -115.524666666667,
+   "lat": 32.9068333333333,
+   "depth": 10.16,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659770"
+  },
+  {
+   "mag": 1.7,
+   "place": "8 km S of Brawley, CA",
+   "time": 1784791260530,
+   "lon": -115.524833333333,
+   "lat": 32.9103333333333,
+   "depth": 8.09,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659754"
+  },
+  {
+   "mag": 1.7,
+   "place": "8 km S of Brawley, CA",
+   "time": 1784790692450,
+   "lon": -115.523,
+   "lat": 32.911,
+   "depth": 8.32,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659714"
+  },
+  {
+   "mag": 1.7,
+   "place": "54 km NW of Toyah, Texas",
+   "time": 1784781317005,
+   "lon": -104.211,
+   "lat": 31.655,
+   "depth": 6.0999,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiznwt"
+  },
+  {
+   "mag": 1.7,
+   "place": "57 km S of Whites City, New Mexico",
+   "time": 1784774814531,
+   "lon": -104.43,
+   "lat": 31.66,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivvug"
   },
   {
    "mag": 1.7,
@@ -887,12 +1022,21 @@
   },
   {
    "mag": 1.7,
-   "place": "58 km S of Whites City, New Mexico",
-   "time": 1784771939947,
-   "lon": -104.45,
-   "lat": 31.648,
-   "depth": 6.4401,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiujfd"
+   "place": "55 km NW of Toyah, Texas",
+   "time": 1784769857822,
+   "lon": -104.216,
+   "lat": 31.654,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitfid"
+  },
+  {
+   "mag": 1.7,
+   "place": "13 km SSW of Jal, New Mexico",
+   "time": 1784761325409,
+   "lon": -103.25,
+   "lat": 32.002,
+   "depth": 8.21,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiojqs"
   },
   {
    "mag": 1.7,
@@ -911,6 +1055,15 @@
    "lat": 19.117166519165,
    "depth": 24.5400009155273,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006522"
+  },
+  {
+   "mag": 1.7,
+   "place": "33 km SSE of Malaga, New Mexico",
+   "time": 1784747876562,
+   "lon": -103.885,
+   "lat": 31.964,
+   "depth": 6.4212,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oihbmw"
   },
   {
    "mag": 1.7,
@@ -938,6 +1091,87 @@
    "lat": 38.757999420166,
    "depth": 5.63000011444092,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403682"
+  },
+  {
+   "mag": 1.6,
+   "place": "1 km NE of Brawley, CA",
+   "time": 1784798836940,
+   "lon": -115.523833333333,
+   "lat": 32.9841666666667,
+   "depth": 2.29,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660026"
+  },
+  {
+   "mag": 1.6,
+   "place": "8 km S of Brawley, CA",
+   "time": 1784798792400,
+   "lon": -115.517,
+   "lat": 32.9111666666667,
+   "depth": 10.07,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660018"
+  },
+  {
+   "mag": 1.6,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784798047270,
+   "lon": -115.517166666667,
+   "lat": 32.9176666666667,
+   "depth": 7.88,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660002"
+  },
+  {
+   "mag": 1.6,
+   "place": "5 km S of Brawley, CA",
+   "time": 1784792131530,
+   "lon": -115.5215,
+   "lat": 32.9328333333333,
+   "depth": 4.06,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659818"
+  },
+  {
+   "mag": 1.6,
+   "place": "6 km S of Brawley, CA",
+   "time": 1784792104890,
+   "lon": -115.524833333333,
+   "lat": 32.9223333333333,
+   "depth": 7.63,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659810"
+  },
+  {
+   "mag": 1.6,
+   "place": "89 km ESE of McCarthy, Alaska",
+   "time": 1784792000107,
+   "lon": -141.293,
+   "lat": 61.25,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olnolj"
+  },
+  {
+   "mag": 1.6,
+   "place": "89 km ESE of McCarthy, Alaska",
+   "time": 1784791321567,
+   "lon": -141.289,
+   "lat": 61.253,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olneqe"
+  },
+  {
+   "mag": 1.6,
+   "place": "3 km SSE of Frazier Park, CA",
+   "time": 1784791264150,
+   "lon": -118.931666666667,
+   "lat": 34.8015,
+   "depth": 12.14,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659762"
+  },
+  {
+   "mag": 1.6,
+   "place": "7 km NE of Imperial, CA",
+   "time": 1784789827990,
+   "lon": -115.523833333333,
+   "lat": 32.9008333333333,
+   "depth": 10.11,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659682"
   },
   {
    "mag": 1.6,
@@ -986,21 +1220,30 @@
   },
   {
    "mag": 1.6,
+   "place": "54 km NW of Toyah, Texas",
+   "time": 1784772166574,
+   "lon": -104.212,
+   "lat": 31.652,
+   "depth": 6.2665,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiummd"
+  },
+  {
+   "mag": 1.6,
+   "place": "57 km S of Whites City, New Mexico",
+   "time": 1784771940511,
+   "lon": -104.431,
+   "lat": 31.655,
+   "depth": 6.0999,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiujfd"
+  },
+  {
+   "mag": 1.6,
    "place": "18 km NW of Balmorhea, Texas",
    "time": 1784771123922,
    "lon": -103.867,
    "lat": 31.118,
    "depth": 0,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitxmy"
-  },
-  {
-   "mag": 1.6,
-   "place": "34 km SSE of Malaga, New Mexico",
-   "time": 1784747877193,
-   "lon": -103.892,
-   "lat": 31.949,
-   "depth": 4.7008,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oihbmw"
   },
   {
    "mag": 1.6,
@@ -1030,13 +1273,58 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922174"
   },
   {
-   "mag": 1.6,
-   "place": "76 km ENE of Tonopah, Nevada",
-   "time": 1784703218004,
-   "lon": -116.4967,
-   "lat": 38.4462,
-   "depth": 6.4651,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922158"
+   "mag": 1.5,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784792749620,
+   "lon": -115.532166666667,
+   "lat": 32.9163333333333,
+   "depth": 7.98,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659850"
+  },
+  {
+   "mag": 1.5,
+   "place": "8 km S of Brawley, CA",
+   "time": 1784792341820,
+   "lon": -115.5165,
+   "lat": 32.9116666666667,
+   "depth": 10.13,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659842"
+  },
+  {
+   "mag": 1.5,
+   "place": "8 km NNE of Imperial, CA",
+   "time": 1784791549790,
+   "lon": -115.525333333333,
+   "lat": 32.9068333333333,
+   "depth": 9.61,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659778"
+  },
+  {
+   "mag": 1.5,
+   "place": "7 km S of Brawley, CA",
+   "time": 1784791053150,
+   "lon": -115.5275,
+   "lat": 32.9188333333333,
+   "depth": 7.73,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659746"
+  },
+  {
+   "mag": 1.5,
+   "place": "8 km NNE of Imperial, CA",
+   "time": 1784789890420,
+   "lon": -115.523666666667,
+   "lat": 32.907,
+   "depth": 10.45,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659690"
+  },
+  {
+   "mag": 1.5,
+   "place": "7 km E of Pinnacles, CA",
+   "time": 1784789779370,
+   "lon": -121.069000244141,
+   "lat": 36.5433349609375,
+   "depth": 7.53999996185303,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404102"
   },
   {
    "mag": 1.5,
@@ -1076,21 +1364,21 @@
   },
   {
    "mag": 1.5,
+   "place": "33 km SSE of Malaga, New Mexico",
+   "time": 1784765384620,
+   "lon": -103.887,
+   "lat": 31.962,
+   "depth": 6.3231,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiqqfc"
+  },
+  {
+   "mag": 1.5,
    "place": "15 km NE of Henderson, Nevada",
    "time": 1784761868987,
    "lon": -114.8743,
    "lat": 36.1453,
    "depth": 3.2021,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922203"
-  },
-  {
-   "mag": 1.5,
-   "place": "15 km SSW of Jal, New Mexico",
-   "time": 1784761325310,
-   "lon": -103.241,
-   "lat": 31.98,
-   "depth": 6.831,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiojqs"
   },
   {
    "mag": 1.5,
@@ -1147,13 +1435,31 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625551"
   },
   {
-   "mag": 1.5,
-   "place": "104 km NNW of Karluk, Alaska",
-   "time": 1784710162308,
-   "lon": -154.874,
-   "lat": 58.48,
-   "depth": 7.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojubuq"
+   "mag": 1.4,
+   "place": "46 km SW of Central, Alaska",
+   "time": 1784794600139,
+   "lon": -145.504,
+   "lat": 65.272,
+   "depth": 4.7,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olpaab"
+  },
+  {
+   "mag": 1.4,
+   "place": "5 km SSE of Brawley, CA",
+   "time": 1784793695750,
+   "lon": -115.5185,
+   "lat": 32.9378333333333,
+   "depth": 6.24,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659858"
+  },
+  {
+   "mag": 1.4,
+   "place": "8 km S of Brawley, CA",
+   "time": 1784792215960,
+   "lon": -115.527166666667,
+   "lat": 32.9091666666667,
+   "depth": 8.14,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659826"
   },
   {
    "mag": 1.4,
@@ -1228,13 +1534,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145976"
   },
   {
-   "mag": 1.4,
-   "place": "18 km WSW of Johannesburg, CA",
-   "time": 1784709722570,
-   "lon": -117.818833333333,
-   "lat": 35.3045,
-   "depth": 8.33,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659186"
+   "mag": 1.3,
+   "place": "6 km S of Brawley, CA",
+   "time": 1784795805700,
+   "lon": -115.534166666667,
+   "lat": 32.9273333333333,
+   "depth": 7.59,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659890"
+  },
+  {
+   "mag": 1.3,
+   "place": "53 km E of Port Alsworth, Alaska",
+   "time": 1784789777918,
+   "lon": -153.357,
+   "lat": 60.236,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olmiij"
   },
   {
    "mag": 1.3,
@@ -1292,6 +1607,33 @@
   },
   {
    "mag": 1.2,
+   "place": "7 km NW of The Geysers, CA",
+   "time": 1784798213620,
+   "lon": -122.813835144043,
+   "lat": 38.814998626709,
+   "depth": 2.67000007629395,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404117"
+  },
+  {
+   "mag": 1.2,
+   "place": "9 km E of Lazy Mountain, Alaska",
+   "time": 1784796295244,
+   "lon": -148.778,
+   "lat": 61.642,
+   "depth": 11.9,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olpymr"
+  },
+  {
+   "mag": 1.2,
+   "place": "5 km S of Brawley, CA",
+   "time": 1784791847140,
+   "lon": -115.526,
+   "lat": 32.9325,
+   "depth": 5.89,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659786"
+  },
+  {
+   "mag": 1.2,
    "place": "7 km W of Cobb, CA",
    "time": 1784782183600,
    "lon": -122.804832458496,
@@ -1325,6 +1667,15 @@
    "lat": 33.511,
    "depth": 13.96,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659330"
+  },
+  {
+   "mag": 1.1,
+   "place": "10 km NE of North Tustin, CA",
+   "time": 1784796801240,
+   "lon": -117.707,
+   "lat": 33.8148333333333,
+   "depth": 5.86,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659930"
   },
   {
    "mag": 1.1,
@@ -1436,6 +1787,15 @@
   },
   {
    "mag": 1.0,
+   "place": "23 km N of Searles Valley, CA",
+   "time": 1784792219270,
+   "lon": -117.395,
+   "lat": 35.9768333333333,
+   "depth": 2.57,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659834"
+  },
+  {
+   "mag": 1.0,
    "place": "17 km E of Ridgecrest, CA",
    "time": 1784775508400,
    "lon": -117.4875,
@@ -1480,13 +1840,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057292"
   },
   {
-   "mag": 1.0,
-   "place": "25 km WSW of Emery, Utah",
-   "time": 1784709023780,
-   "lon": -111.519166666667,
-   "lat": 38.8375,
-   "depth": 17.63,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007703"
+   "mag": 0.9,
+   "place": "19 km ESE of Little Lake, CA",
+   "time": 1784797980200,
+   "lon": -117.702166666667,
+   "lat": 35.8833333333333,
+   "depth": 2.62,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659994"
+  },
+  {
+   "mag": 0.9,
+   "place": "16 km ESE of Julian, CA",
+   "time": 1784796174770,
+   "lon": -116.4405,
+   "lat": 33.0426666666667,
+   "depth": 8.38,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659898"
   },
   {
    "mag": 0.9,
@@ -1550,15 +1919,6 @@
    "lat": 38.1491666666667,
    "depth": 5.9,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145971"
-  },
-  {
-   "mag": 0.9,
-   "place": "14 km W of Johannesburg, CA",
-   "time": 1784709018500,
-   "lon": -117.7925,
-   "lat": 35.3586666666667,
-   "depth": 4.84,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659178"
   },
   {
    "mag": 0.8,
@@ -1642,13 +2002,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659258"
   },
   {
-   "mag": 0.8,
-   "place": "14 km SW of Searles Valley, CA",
-   "time": 1784711744400,
-   "lon": -117.528666666667,
-   "lat": 35.6973333333333,
-   "depth": 7.51,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659202"
+   "mag": 0.7,
+   "place": "3 km SE of Lake Henshaw, CA",
+   "time": 1784797762580,
+   "lon": -116.7365,
+   "lat": 33.2223333333333,
+   "depth": 8.02,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659986"
   },
   {
    "mag": 0.7,
@@ -1739,6 +2099,15 @@
    "lat": 46.8425,
    "depth": -2.61,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057022"
+  },
+  {
+   "mag": 0.6,
+   "place": "19 km ESE of Little Lake, CA",
+   "time": 1784789770920,
+   "lon": -117.7025,
+   "lat": 35.8841666666667,
+   "depth": 2.58,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659674"
   },
   {
    "mag": 0.6,
@@ -1838,15 +2207,6 @@
    "lat": 41.5935,
    "depth": 2.71,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007688"
-  },
-  {
-   "mag": 0.4,
-   "place": "11 km ESE of Anza, CA",
-   "time": 1784711607390,
-   "lon": -116.569166666667,
-   "lat": 33.501,
-   "depth": 11.98,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659194"
   },
   {
    "mag": 0.2,
