@@ -1,48 +1,64 @@
 {
- "updated": "2026-07-23T12:04:36.817918+00:00",
+ "updated": "2026-07-23T14:36:10.927739+00:00",
  "terms": [
   {
-   "term": "iran",
+   "term": "trump",
    "count": 17
   },
   {
+   "term": "nuclear",
+   "count": 14
+  },
+  {
+   "term": "saudi",
+   "count": 13
+  },
+  {
    "term": "deal",
-   "count": 11
+   "count": 13
   },
   {
    "term": "china",
    "count": 10
   },
   {
-   "term": "nuclear",
-   "count": 10
-  },
-  {
-   "term": "saudi",
-   "count": 10
-  },
-  {
-   "term": "trump",
-   "count": 9
-  },
-  {
    "term": "arabia",
    "count": 9
+  },
+  {
+   "term": "iran",
+   "count": 9
+  },
+  {
+   "term": "kong",
+   "count": 8
+  },
+  {
+   "term": "middle",
+   "count": 8
+  },
+  {
+   "term": "east",
+   "count": 8
+  },
+  {
+   "term": "hong",
+   "count": 8
+  },
+  {
+   "term": "israel",
+   "count": 7
   },
   {
    "term": "green",
    "count": 7
   },
   {
-   "term": "google",
+   "term": "chinese",
    "count": 6
   },
   {
-   "term": "attacks",
-   "count": 6
-  },
-  {
-   "term": "tankers",
+   "term": "años",
    "count": 6
   },
   {
@@ -54,19 +70,7 @@
    "count": 5
   },
   {
-   "term": "billion",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
-   "term": "claim",
-   "count": 5
-  },
-  {
-   "term": "rusia",
+   "term": "next",
    "count": 5
   },
   {
@@ -78,23 +82,35 @@
    "count": 5
   },
   {
+   "term": "album",
+   "count": 4
+  },
+  {
+   "term": "tour",
+   "count": 4
+  },
+  {
+   "term": "2026",
+   "count": 4
+  },
+  {
+   "term": "film",
+   "count": 4
+  },
+  {
    "term": "years",
    "count": 4
   },
   {
-   "term": "tesla",
+   "term": "time",
    "count": 4
   },
   {
-   "term": "attack",
+   "term": "tech",
    "count": 4
   },
   {
-   "term": "launches",
-   "count": 4
-  },
-  {
-   "term": "houthis",
+   "term": "billion",
    "count": 4
   },
   {
@@ -102,29 +118,13 @@
    "count": 4
   },
   {
-   "term": "middle",
-   "count": 4
-  },
-  {
-   "term": "east",
-   "count": 4
-  },
-  {
-   "term": "rubio",
-   "count": 4
-  },
-  {
-   "term": "jueves",
-   "count": 4
-  },
-  {
-   "term": "julio",
+   "term": "attacks",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Iran",
+   "name": "Trump",
    "count": 16
   },
   {
@@ -132,7 +132,19 @@
    "count": 9
   },
   {
-   "name": "Saudi Arabia",
+   "name": "Iran",
+   "count": 9
+  },
+  {
+   "name": "Middle East",
+   "count": 8
+  },
+  {
+   "name": "Saudi",
+   "count": 7
+  },
+  {
+   "name": "Israel",
    "count": 7
   },
   {
@@ -140,55 +152,43 @@
    "count": 7
   },
   {
-   "name": "Trump",
+   "name": "Hong Kong",
    "count": 6
   },
   {
-   "name": "Google",
+   "name": "Saudi Arabia",
    "count": 5
   },
   {
-   "name": "Rusia",
+   "name": "Chinese",
    "count": 5
+  },
+  {
+   "name": "Yemen",
+   "count": 4
+  },
+  {
+   "name": "Ford",
+   "count": 3
+  },
+  {
+   "name": "Kimi K3",
+   "count": 3
   },
   {
    "name": "Houthis",
-   "count": 4
-  },
-  {
-   "name": "Red Sea",
-   "count": 4
-  },
-  {
-   "name": "Middle East",
-   "count": 4
-  },
-  {
-   "name": "Ucrania",
-   "count": 4
-  },
-  {
-   "name": "Tesla",
    "count": 3
   },
   {
-   "name": "Rubio",
+   "name": "Saudis",
    "count": 3
   },
   {
-   "name": "Alaska",
+   "name": "Hormuz",
    "count": 3
   },
   {
-   "name": "Saudi",
-   "count": 3
-  },
-  {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
-   "name": "Face",
+   "name": "New Album",
    "count": 2
   },
   {
@@ -200,15 +200,11 @@
    "count": 2
   },
   {
-   "name": "London",
+   "name": "Apple",
    "count": 2
   },
   {
-   "name": "Worse",
-   "count": 2
-  },
-  {
-   "name": "Purpose",
+   "name": "OpenAI",
    "count": 2
   },
   {
@@ -216,7 +212,11 @@
    "count": 2
   },
   {
-   "name": "Fable",
+   "name": "Google",
+   "count": 2
+  },
+  {
+   "name": "Israeli",
    "count": 2
   }
  ]
