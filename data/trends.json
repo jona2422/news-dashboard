@@ -1,40 +1,48 @@
 {
- "updated": "2026-07-22T22:18:07.384306+00:00",
+ "updated": "2026-07-23T00:15:12.398510+00:00",
  "terms": [
   {
-   "term": "trump",
-   "count": 22
+   "term": "iran",
+   "count": 25
   },
   {
-   "term": "iran",
+   "term": "trump",
    "count": 21
   },
   {
    "term": "nuclear",
-   "count": 13
+   "count": 16
   },
   {
    "term": "china",
-   "count": 12
-  },
-  {
-   "term": "arabia",
-   "count": 8
-  },
-  {
-   "term": "deal",
-   "count": 7
+   "count": 13
   },
   {
    "term": "saudi",
-   "count": 7
+   "count": 11
   },
   {
-   "term": "album",
+   "term": "arabia",
+   "count": 11
+  },
+  {
+   "term": "attacks",
+   "count": 9
+  },
+  {
+   "term": "deal",
+   "count": 8
+  },
+  {
+   "term": "threatens",
    "count": 6
   },
   {
-   "term": "fire",
+   "term": "tankers",
+   "count": 6
+  },
+  {
+   "term": "strikes",
    "count": 6
   },
   {
@@ -42,11 +50,15 @@
    "count": 5
   },
   {
-   "term": "threatens",
+   "term": "houthis",
    "count": 5
   },
   {
-   "term": "attacks",
+   "term": "claim",
+   "count": 5
+  },
+  {
+   "term": "hormuz",
    "count": 5
   },
   {
@@ -58,8 +70,20 @@
    "count": 5
   },
   {
+   "term": "fire",
+   "count": 5
+  },
+  {
    "term": "notification",
    "count": 5
+  },
+  {
+   "term": "love",
+   "count": 4
+  },
+  {
+   "term": "album",
+   "count": 4
   },
   {
    "term": "tour",
@@ -70,43 +94,19 @@
    "count": 4
   },
   {
-   "term": "announce",
+   "term": "work",
    "count": 4
   },
   {
-   "term": "south",
+   "term": "home",
    "count": 4
   },
   {
-   "term": "announces",
+   "term": "washington",
    "count": 4
   },
   {
-   "term": "2026",
-   "count": 4
-  },
-  {
-   "term": "rico",
-   "count": 4
-  },
-  {
-   "term": "trial",
-   "count": 4
-  },
-  {
-   "term": "house",
-   "count": 4
-  },
-  {
-   "term": "warns",
-   "count": 4
-  },
-  {
-   "term": "gaza",
-   "count": 4
-  },
-  {
-   "term": "hormuz",
+   "term": "saudita",
    "count": 4
   },
   {
@@ -125,19 +125,23 @@
  "entities": [
   {
    "name": "Iran",
-   "count": 20
+   "count": 24
   },
   {
    "name": "Trump",
-   "count": 19
+   "count": 18
   },
   {
    "name": "China",
-   "count": 9
+   "count": 11
   },
   {
    "name": "Saudi Arabia",
    "count": 7
+  },
+  {
+   "name": "Houthis",
+   "count": 5
   },
   {
    "name": "Green",
@@ -148,7 +152,15 @@
    "count": 4
   },
   {
+   "name": "Saudi",
+   "count": 4
+  },
+  {
    "name": "Hormuz",
+   "count": 4
+  },
+  {
+   "name": "Arabia Saudita",
    "count": 4
   },
   {
@@ -156,15 +168,19 @@
    "count": 4
   },
   {
-   "name": "Amazon",
+   "name": "Meta",
    "count": 3
   },
   {
-   "name": "Anthropic",
+   "name": "Yemen",
    "count": 3
   },
   {
-   "name": "Ukraine",
+   "name": "Red Sea",
+   "count": 3
+  },
+  {
+   "name": "Middle East",
    "count": 3
   },
   {
@@ -172,11 +188,15 @@
    "count": 3
   },
   {
-   "name": "Gaza",
+   "name": "Ukraine",
    "count": 3
   },
   {
-   "name": "Puerto Rico",
+   "name": "Iranian",
+   "count": 3
+  },
+  {
+   "name": "Washington",
    "count": 3
   },
   {
@@ -184,7 +204,7 @@
    "count": 3
   },
   {
-   "name": "Indonesia",
+   "name": "Puerto Rico",
    "count": 3
   },
   {
@@ -196,27 +216,7 @@
    "count": 3
   },
   {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
-   "name": "Tour",
-   "count": 2
-  },
-  {
-   "name": "Face",
-   "count": 2
-  },
-  {
-   "name": "Nina Protocol",
-   "count": 2
-  },
-  {
-   "name": "Mexico Honey",
-   "count": 2
-  },
-  {
-   "name": "Stream",
+   "name": "Love",
    "count": 2
   }
  ]
