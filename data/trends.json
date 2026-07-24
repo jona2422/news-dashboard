@@ -1,80 +1,88 @@
 {
- "updated": "2026-07-24T15:49:53.959513+00:00",
+ "updated": "2026-07-24T17:54:50.626931+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 15
+   "count": 16
   },
   {
    "term": "iran",
-   "count": 11
+   "count": 15
   },
   {
    "term": "green",
-   "count": 10
-  },
-  {
-   "term": "middle",
-   "count": 10
-  },
-  {
-   "term": "east",
-   "count": 10
+   "count": 9
   },
   {
    "term": "american",
    "count": 8
   },
   {
-   "term": "attack",
-   "count": 7
-  },
-  {
-   "term": "china",
-   "count": 7
-  },
-  {
-   "term": "wildfires",
-   "count": 7
-  },
-  {
-   "term": "fire",
-   "count": 6
-  },
-  {
    "term": "west",
-   "count": 6
+   "count": 8
   },
   {
-   "term": "notification",
+   "term": "middle",
+   "count": 8
+  },
+  {
+   "term": "east",
+   "count": 8
+  },
+  {
+   "term": "attack",
+   "count": 8
+  },
+  {
+   "term": "strikes",
+   "count": 7
+  },
+  {
+   "term": "bank",
+   "count": 7
+  },
+  {
+   "term": "week",
    "count": 6
   },
   {
    "term": "album",
-   "count": 5
+   "count": 6
   },
   {
    "term": "tour",
+   "count": 6
+  },
+  {
+   "term": "people",
+   "count": 6
+  },
+  {
+   "term": "china",
+   "count": 6
+  },
+  {
+   "term": "next",
    "count": 5
   },
   {
-   "term": "strikes",
+   "term": "world",
    "count": 5
   },
   {
-   "term": "bank",
+   "term": "chinese",
    "count": 5
   },
   {
-   "term": "france",
+   "term": "threat",
    "count": 5
   },
   {
-   "term": "crisis",
+   "term": "houthis",
    "count": 5
   },
   {
-   "term": "forest",
+   "term": "israel",
    "count": 5
   },
   {
@@ -86,7 +94,15 @@
    "count": 5
   },
   {
-   "term": "chris",
+   "term": "cover",
+   "count": 4
+  },
+  {
+   "term": "announces",
+   "count": 4
+  },
+  {
+   "term": "stream",
    "count": 4
   },
   {
@@ -94,57 +110,49 @@
    "count": 4
   },
   {
-   "term": "indonesia",
+   "term": "time",
    "count": 4
   },
   {
-   "term": "life",
+   "term": "real",
    "count": 4
   },
   {
-   "term": "tariffs",
-   "count": 4
-  },
-  {
-   "term": "madrid",
-   "count": 4
-  },
-  {
-   "term": "incendios",
-   "count": 4
-  },
-  {
-   "term": "saudi",
-   "count": 4
-  },
-  {
-   "term": "nuclear",
+   "term": "fire",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 13
-  },
-  {
-   "name": "Middle East",
-   "count": 10
+   "count": 14
   },
   {
    "name": "Iran",
-   "count": 10
+   "count": 14
   },
   {
-   "name": "Green",
+   "name": "Middle East",
    "count": 8
   },
   {
-   "name": "China",
-   "count": 6
+   "name": "West Bank",
+   "count": 7
   },
   {
-   "name": "West Bank",
+   "name": "Green",
+   "count": 7
+  },
+  {
+   "name": "China",
+   "count": 5
+  },
+  {
+   "name": "Houthis",
+   "count": 5
+  },
+  {
+   "name": "Israel",
    "count": 5
   },
   {
@@ -152,15 +160,11 @@
    "count": 5
   },
   {
-   "name": "Indonesia",
+   "name": "American",
    "count": 4
   },
   {
-   "name": "France",
-   "count": 4
-  },
-  {
-   "name": "Madrid",
+   "name": "Tehran",
    "count": 4
   },
   {
@@ -168,15 +172,39 @@
    "count": 4
   },
   {
-   "name": "American",
+   "name": "Stream",
    "count": 3
   },
   {
-   "name": "Four Palestinians",
+   "name": "Tour",
    "count": 3
   },
   {
-   "name": "Spain",
+   "name": "Gaza",
+   "count": 3
+  },
+  {
+   "name": "Yemen",
+   "count": 3
+  },
+  {
+   "name": "Russia",
+   "count": 3
+  },
+  {
+   "name": "LeBron James",
+   "count": 3
+  },
+  {
+   "name": "Philadelphia",
+   "count": 3
+  },
+  {
+   "name": "Francia",
+   "count": 3
+  },
+  {
+   "name": "Alaska",
    "count": 3
   },
   {
@@ -184,39 +212,11 @@
    "count": 3
   },
   {
-   "name": "Houthis",
-   "count": 3
-  },
-  {
-   "name": "Israel",
-   "count": 3
-  },
-  {
-   "name": "Chris Robinson",
+   "name": "Cover",
    "count": 2
   },
   {
-   "name": "Mover",
-   "count": 2
-  },
-  {
-   "name": "Burned Out",
-   "count": 2
-  },
-  {
-   "name": "Tour",
-   "count": 2
-  },
-  {
-   "name": "Chris Brown Pleads Guilty",
-   "count": 2
-  },
-  {
-   "name": "Ministry",
-   "count": 2
-  },
-  {
-   "name": "Made",
+   "name": "Ministry Announce Final Album",
    "count": 2
   }
  ]
