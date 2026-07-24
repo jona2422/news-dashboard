@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-24T06:41:43.308501+00:00",
- "sources_ok": 35,
+ "updated": "2026-07-24T09:37:46.970241+00:00",
+ "sources_ok": 34,
  "sources_total": 38,
  "beats": [
   {
@@ -46,6 +46,14 @@
  ],
  "feeds": [
   {
+   "beat": "china",
+   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
+   "source": "globaltimes.cn",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
+  },
+  {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
@@ -74,7 +82,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 31,
+   "count": 33,
    "error": ""
   },
   {
@@ -106,7 +114,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 138,
+   "count": 139,
    "error": ""
   },
   {
@@ -159,14 +167,6 @@
   },
   {
    "beat": "china",
-   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
-   "source": "outbrain",
-   "ok": true,
-   "count": 50,
-   "error": ""
-  },
-  {
-   "beat": "china",
    "url": "https://www.theguardian.com/world/china/rss",
    "source": "China | The Guardian",
    "ok": true,
@@ -186,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 200,
+   "count": 202,
    "error": ""
   },
   {
@@ -202,7 +202,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 47,
+   "count": 36,
    "error": ""
   },
   {
@@ -298,7 +298,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 21,
+   "count": 24,
    "error": ""
   },
   {
