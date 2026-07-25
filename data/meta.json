@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T09:13:48.191506+00:00",
+ "updated": "2026-07-25T10:48:35.519253+00:00",
  "sources_ok": 36,
  "sources_total": 38,
  "beats": [
@@ -51,7 +51,7 @@
    "source": "reliefweb.int",
    "ok": false,
    "count": 0,
-   "error": "sin items"
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "beat": "medio_oriente",
@@ -66,7 +66,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": ""
   },
   {
@@ -194,7 +194,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 38,
+   "count": 36,
    "error": ""
   },
   {
