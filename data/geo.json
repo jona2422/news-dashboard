@@ -1,14 +1,32 @@
 {
- "updated": "2026-07-25T21:11:25.085207+00:00",
- "total": 118,
+ "updated": "2026-07-25T22:12:19.574062+00:00",
+ "total": 121,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 14,
+   "count": 15,
    "items": [
+    {
+     "title": "US pauses nightly Iran strikes, as Houthis clash with Saudis",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3361857/us-pauses-nightly-iran-strikes-houthis-clash-saudis?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/75fe8ad1-038a-4c5e-826e-42ba3f6ef8b4_8ff0f428.jpg?itok=WAlAYMRk&v=1785016616",
+     "ts": 1785016626000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+     "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1785016102000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
     {
      "title": "Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video",
      "link": "https://www.rollingstone.com/music/music-news/katy-perry-white-house-firework-military-strikes-tiktok-1235598831/",
@@ -80,24 +98,6 @@
      "ts": 1784957407000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US pummels Iran as Tehran targets regional bases stationing US forces",
-     "link": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/71fb0704-8794-11f1-aff9-005056bf30b7/w:1024/p:16x9/AP26205308049430.jpg",
-     "ts": 1784926097000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -106,7 +106,7 @@
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 13,
+   "count": 12,
    "items": [
     {
      "title": "How America’s 250-year China dream became its greatest strategic challenge",
@@ -304,8 +304,17 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 10,
+   "count": 11,
    "items": [
+    {
+     "title": "US pauses nightly Iran strikes, as Houthis clash with Saudis",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3361857/us-pauses-nightly-iran-strikes-houthis-clash-saudis?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/75fe8ad1-038a-4c5e-826e-42ba3f6ef8b4_8ff0f428.jpg?itok=WAlAYMRk&v=1785016616",
+     "ts": 1785016626000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Iran’s government spars with state TV as mediators push talks with US",
      "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
@@ -384,15 +393,6 @@
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/d0a0a47029f4933162934e69e720068270780d03/504_0_2019_1615/master/2019.jpg?width=140&quality=85&auto=format&fit=max&s=4af4c35e5db972f160ae5b244e3a6eeb",
      "ts": 1784913216000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran warns countries aiding US attack",
-     "link": "https://www.france24.com/en/iran-warns-countries-aiding-us-attack",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/09ae0e1e-8756-11f1-8b9d-005056bf30b7/w:1024/p:16x9/EN-20260724-131918-132224-CS.jpg",
-     "ts": 1784905415000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -480,12 +480,165 @@
    ]
   },
   {
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
+   "count": 8,
+   "items": [
+    {
+     "title": "Berlin pride event canceled after vehicle drives into crowd",
+     "link": "https://www.dw.com/en/berlin-pride-event-canceled-after-vehicle-drives-into-crowd/a-78116146?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785017040000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Al menos un muerto y varios heridos por un atropello durante el Día del Orgullo en Berlín",
+     "link": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
+     "ts": 1785016403000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Un muerto y 14 heridos en atropello masivo en Berlín",
+     "link": "https://www.dw.com/es/un-muerto-y-14-heridos-en-atropello-masivo-en-berlín/a-78116499?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785015900000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "1 killed, several injured at Berlin pride parade, after car drives into crowd",
+     "link": "https://www.scmp.com/news/world/europe/article/3361856/berlin-pride-parade-called-after-car-drives-crowd?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/919034ff-3ef6-43e8-86bb-bb4d0f72460f_ad52bc17.jpg?itok=4b9hT_lD&v=1785015501",
+     "ts": 1785015508000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+     "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1785015180000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Berlin Pride march called off after car crashes into crowd of people near route",
+     "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6a982f444639a23465779e103f663b5f8df46ea9/898_34_4484_3588/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3b6d3fcc1b3501682c74cd88833c5637",
+     "ts": 1785014416000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "2 dead after small plane crashes into house in Germany",
+     "link": "https://www.scmp.com/news/world/europe/article/3361848/1-dead-after-small-plane-crashes-house-germany?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d77db96b-6f2e-49f3-84a4-5557724d2653_5aa680a2.jpg?itok=bpDsbgQB&v=1784983569",
+     "ts": 1784983570000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
+     "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=66fad829321e78441df39528ac0b3887",
+     "ts": 1784865604000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Yemen",
+   "es": "Yemen",
+   "lat": 15.6,
+   "lon": 48.0,
+   "count": 6,
+   "items": [
+    {
+     "title": "US pauses nightly Iran strikes, as Houthis clash with Saudis",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3361857/us-pauses-nightly-iran-strikes-houthis-clash-saudis?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/75fe8ad1-038a-4c5e-826e-42ba3f6ef8b4_8ff0f428.jpg?itok=WAlAYMRk&v=1785016616",
+     "ts": 1785016626000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
+     "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3b23528b400aed20e124a840d4aa14c1d90e7f40/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f339b0d30a9995f9d09b577e2e482e3",
+     "ts": 1784982511000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
+     "link": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
+     "ts": 1784968230000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
+     "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
+     "ts": 1784966418000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Houthis target Saudi oil facilities as new Middle East front",
+     "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/e950e45a-886a-11f1-ab01-005056bf30b7/w:1024/p:16x9/000-C36Q7WG.jpg",
+     "ts": 1784932272000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
+     "ts": 1784915902000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
    "name": "India",
    "es": "India",
    "lat": 20.6,
    "lon": 79.0,
-   "count": 6,
+   "count": 5,
    "items": [
+    {
+     "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785013065000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "\"Partido de las Cucarachas\" en India anuncia fin de protestas tras renuncia de ministro de Educación",
      "link": "https://www.france24.com/es/video/20260725-partido-de-las-cucarachas-en-india-anuncia-fin-de-protestas-tras-renuncia-de-ministro-de-educaci%C3%B3n",
@@ -514,29 +667,11 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-     "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784994833000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "India’s education minister quits in major win for youth protesters",
      "link": "https://www.scmp.com/news/asia/south-asia/article/3361839/indias-education-minister-quits-major-win-youth-protesters?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/00bf80ac-0e65-43d9-a9e4-a216fe3e6f2d_da0a1793.jpg?itok=nKD8XspR&v=1784973705",
      "ts": 1784973709000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
      "beat": "china",
      "beatName": "China"
     }
@@ -593,60 +728,6 @@
      "ts": 1784999256000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Yemen",
-   "es": "Yemen",
-   "lat": 15.6,
-   "lon": 48.0,
-   "count": 5,
-   "items": [
-    {
-     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
-     "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3b23528b400aed20e124a840d4aa14c1d90e7f40/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f339b0d30a9995f9d09b577e2e482e3",
-     "ts": 1784982511000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
-     "link": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
-     "ts": 1784968230000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
-     "ts": 1784966418000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Houthis target Saudi oil facilities as new Middle East front",
-     "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/e950e45a-886a-11f1-ab01-005056bf30b7/w:1024/p:16x9/000-C36Q7WG.jpg",
-     "ts": 1784932272000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
-     "ts": 1784915902000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -786,87 +867,6 @@
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 4,
-   "items": [
-    {
-     "title": "Proponen que la Zona Libre administre el aeropuerto de Colón",
-     "link": "https://www.prensa.com/economia/proponen-que-la-zona-libre-administre-el-aeropuerto-de-colon/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LRMB4HV5CZCPXHL5CKSTU5LFCA.jpg?auth=e6e2707d6f714fc2130084884bdf8fa9e834c8b6be87860cfb3ffaedf5f0dac0&smart=true&width=667&height=375",
-     "ts": 1785011245000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Oro para Panamá: Nemesis Candelo abre el medallero nacional en Santo Domingo 2026",
-     "link": "https://www.prensa.com/deportes/oro-para-panama-nemesis-candelo-abre-el-medallero-nacional-en-santo-domingo-2026/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/6WS2OH37NBFONPD2MZWXMYO3L4.jpeg?auth=861d5684e5777fbddc297edaa9198ed68875d3d0e1b50317a21dd2c509880d5e&smart=true&width=3750&height=2517",
-     "ts": 1785008491000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
-     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
-     "ts": 1785005922000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "BID aprueba hasta $40 millones para fortalecer el sistema de salud en Panamá",
-     "link": "https://www.prensa.com/sociedad/bid-aprueba-hasta-40-millones-para-fortalecer-el-sistema-de-salud-en-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/2O76J2MNN5ATNGGLAOXOJLWAFI.jpeg?auth=a348a60c79b9ecf4afe5171f93934eb8622bf4bc73eb53ba1154a1cd7c6919c2&smart=true&width=750&height=480",
-     "ts": 1785000122000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 3,
-   "items": [
-    {
-     "title": "Berlin cancels CSD Pride parade after police incident",
-     "link": "https://www.dw.com/en/berlin-cancels-csd-pride-parade-after-police-incident/a-78116146?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785012300000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "2 dead after small plane crashes into house in Germany",
-     "link": "https://www.scmp.com/news/world/europe/article/3361848/1-dead-after-small-plane-crashes-house-germany?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d77db96b-6f2e-49f3-84a4-5557724d2653_5aa680a2.jpg?itok=bpDsbgQB&v=1784983569",
-     "ts": 1784983570000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
-     "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=66fad829321e78441df39528ac0b3887",
-     "ts": 1784865604000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "Israel",
    "es": "Israel",
    "lat": 31.0,
@@ -903,74 +903,38 @@
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
    "count": 3,
    "items": [
     {
-     "title": "De vender café para pagar el viaje a ser campeonas del mundo: Selección Colombia sub-19 de hockey subacuático ganó el mundial en Turquía",
-     "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
-     "ts": 1785011626000,
+     "title": "Proponen que la Zona Libre administre el aeropuerto de Colón",
+     "link": "https://www.prensa.com/economia/proponen-que-la-zona-libre-administre-el-aeropuerto-de-colon/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/LRMB4HV5CZCPXHL5CKSTU5LFCA.jpg?auth=e6e2707d6f714fc2130084884bdf8fa9e834c8b6be87860cfb3ffaedf5f0dac0&smart=true&width=667&height=375",
+     "ts": 1785011245000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Mexicano llegó a Colombia, pero una alerta de Interpol reveló que era buscado por feminicidio: fue capturado en el aeropuerto José María Córdova",
-     "link": "https://www.eltiempo.com/colombia/medellin/mexicano-llego-a-colombia-pero-una-alerta-de-interpol-revelo-que-era-buscado-por-feminicidio-fue-capturado-en-el-aeropuerto-jose-maria-cordova-3573829",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a64f02cd6a7d.png",
-     "ts": 1785009829000,
+     "title": "Oro para Panamá: Nemesis Candelo abre el medallero nacional en Santo Domingo 2026",
+     "link": "https://www.prensa.com/deportes/oro-para-panama-nemesis-candelo-abre-el-medallero-nacional-en-santo-domingo-2026/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/6WS2OH37NBFONPD2MZWXMYO3L4.jpeg?auth=861d5684e5777fbddc297edaa9198ed68875d3d0e1b50317a21dd2c509880d5e&smart=true&width=3750&height=2517",
+     "ts": 1785008491000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Las noticias falsas empañan el empalme presidencial en Colombia",
-     "link": "https://www.france24.com/es/video/20260725-las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-colombia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/01855dba-8845-11f1-80a0-005056bf30b7/w:1024/p:16x9/Las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-Colombia.png",
-     "ts": 1784999774000,
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino venciendo a Costa Rica",
+     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
+     "ts": 1785005922000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 3,
-   "items": [
-    {
-     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
-     "ts": 1784989815000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
-     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
-     "ts": 1784957037000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -1056,6 +1020,33 @@
    ]
   },
   {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "De vender café para pagar el viaje a ser campeonas del mundo: Selección Colombia sub-19 de hockey subacuático ganó el mundial en Turquía",
+     "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
+     "ts": 1785011626000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Mexicano llegó a Colombia, pero una alerta de Interpol reveló que era buscado por feminicidio: fue capturado en el aeropuerto José María Córdova",
+     "link": "https://www.eltiempo.com/colombia/medellin/mexicano-llego-a-colombia-pero-una-alerta-de-interpol-revelo-que-era-buscado-por-feminicidio-fue-capturado-en-el-aeropuerto-jose-maria-cordova-3573829",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a64f02cd6a7d.png",
+     "ts": 1785009829000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
    "name": "Dominican Rep.",
    "es": "Rep. Dominicana",
    "lat": 18.7,
@@ -1072,7 +1063,7 @@
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino venciendo a Costa Rica",
      "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
@@ -1137,6 +1128,33 @@
    ]
   },
   {
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
+     "ts": 1784989815000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
+     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
+     "ts": 1784957037000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Serbia",
    "es": "Serbia",
    "lat": 44.0,
@@ -1169,6 +1187,24 @@
      "ts": 1784995360000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "es": "Costa Rica",
+   "lat": 9.7,
+   "lon": -83.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino venciendo a Costa Rica",
+     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
+     "ts": 1785005922000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -1223,24 +1259,6 @@
      "ts": 1784865604000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   }

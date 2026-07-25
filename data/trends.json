@@ -1,24 +1,24 @@
 {
- "updated": "2026-07-25T21:11:25.085207+00:00",
+ "updated": "2026-07-25T22:12:19.574062+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 10
+   "count": 11
   },
   {
    "term": "fire",
    "count": 8
   },
   {
-   "term": "china",
+   "term": "west",
    "count": 8
   },
   {
-   "term": "trump",
+   "term": "world",
    "count": 7
   },
   {
-   "term": "west",
+   "term": "trump",
    "count": 7
   },
   {
@@ -26,7 +26,15 @@
    "count": 7
   },
   {
-   "term": "world",
+   "term": "china",
+   "count": 7
+  },
+  {
+   "term": "strikes",
+   "count": 6
+  },
+  {
+   "term": "show",
    "count": 6
   },
   {
@@ -34,23 +42,19 @@
    "count": 6
   },
   {
-   "term": "india",
-   "count": 6
-  },
-  {
    "term": "green",
    "count": 6
-  },
-  {
-   "term": "strikes",
-   "count": 5
   },
   {
    "term": "take",
    "count": 5
   },
   {
-   "term": "show",
+   "term": "india",
+   "count": 5
+  },
+  {
+   "term": "killed",
    "count": 5
   },
   {
@@ -82,15 +86,15 @@
    "count": 4
   },
   {
-   "term": "power",
-   "count": 4
-  },
-  {
    "term": "made",
    "count": 4
   },
   {
    "term": "pressure",
+   "count": 4
+  },
+  {
+   "term": "year",
    "count": 4
   },
   {
@@ -102,30 +106,26 @@
    "count": 4
   },
   {
-   "term": "police",
+   "term": "people",
    "count": 4
   },
   {
-   "term": "gaza",
+   "term": "berlin",
    "count": 4
   },
   {
-   "term": "killed",
+   "term": "pride",
    "count": 4
   },
   {
-   "term": "minister",
-   "count": 4
-  },
-  {
-   "term": "españa",
+   "term": "crowd",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 10
+   "count": 11
   },
   {
    "name": "West Bank",
@@ -133,10 +133,6 @@
   },
   {
    "name": "Israeli",
-   "count": 6
-  },
-  {
-   "name": "India",
    "count": 6
   },
   {
@@ -164,7 +160,19 @@
    "count": 4
   },
   {
+   "name": "India",
+   "count": 4
+  },
+  {
    "name": "España",
+   "count": 4
+  },
+  {
+   "name": "Alaska",
+   "count": 4
+  },
+  {
+   "name": "Houthis",
    "count": 4
   },
   {
@@ -176,19 +184,11 @@
    "count": 3
   },
   {
-   "name": "Italy",
+   "name": "Show HN",
    "count": 3
   },
   {
    "name": "Syria",
-   "count": 3
-  },
-  {
-   "name": "Colombia",
-   "count": 3
-  },
-  {
-   "name": "Panamá",
    "count": 3
   },
   {
@@ -200,14 +200,6 @@
    "count": 3
   },
   {
-   "name": "Alaska",
-   "count": 3
-  },
-  {
-   "name": "Houthis",
-   "count": 3
-  },
-  {
    "name": "Saudi",
    "count": 3
   },
@@ -216,8 +208,16 @@
    "count": 3
   },
   {
-   "name": "Japan",
-   "count": 3
+   "name": "It All",
+   "count": 2
+  },
+  {
+   "name": "Chicago",
+   "count": 2
+  },
+  {
+   "name": "Open",
+   "count": 2
   }
  ]
 }

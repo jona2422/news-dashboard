@@ -1,10 +1,19 @@
 {
- "updated": "2026-07-25T21:11:25.085207+00:00",
+ "updated": "2026-07-25T22:12:19.574062+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Bon Iver Plays Full Bob Dylan Covers Set as Bon Dylan at Eaux Claires Festival",
+     "link": "https://consequence.net/2026/07/bon-iver-do-bob-dylan-at-eaux-claires/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/07/Bon-Dylan.jpeg?quality=80",
+     "published": "2026-07-25T21:51:55+00:00",
+     "ts": 1785016315000,
+     "count": 1
+    },
     {
      "title": "Karol G’s Viajando Por El Mundo Tropitour Is a Bold, Joyous Ode to Latina Power",
      "link": "https://www.rollingstone.com/music/music-latin/karol-g-viajando-por-el-mundo-tropitour-set-list-review-1235598839/",
@@ -246,15 +255,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/07/Andy-Larocque-Gus-G.jpg?quality=80",
      "published": "2026-07-24T18:01:11+00:00",
      "ts": 1784916071000,
-     "count": 1
-    },
-    {
-     "title": "Michelle Yeoh’s a Dying Robot In New Blade Runner 2099 Trailer: Watch",
-     "link": "https://consequence.net/2026/07/blade-runner-2099-trailer-michelle-yeoh/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/07/blade-runner-2099-michelle-yeoh-new.jpg?quality=80",
-     "published": "2026-07-24T17:36:22+00:00",
-     "ts": 1784914582000,
      "count": 1
     }
    ]
@@ -522,12 +522,75 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+     "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T21:48:22+00:00",
+     "ts": 1785016102000,
+     "count": 1
+    },
+    {
+     "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
+     "link": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T21:32:08+00:00",
+     "ts": 1785015128000,
+     "count": 1
+    },
+    {
+     "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+     "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T21:18:06+00:00",
+     "ts": 1785014286000,
+     "count": 1
+    },
+    {
+     "title": "Multicast TV Distribution on My Home Network",
+     "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T20:55:12+00:00",
+     "ts": 1785012912000,
+     "count": 1
+    },
+    {
      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
      "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
      "source": "TechCrunch",
      "image": "",
      "published": "2026-07-25T20:55:11+00:00",
      "ts": 1785012911000,
+     "count": 1
+    },
+    {
+     "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+     "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg",
+     "published": "2026-07-25T20:52:30+00:00",
+     "ts": 1785012750000,
+     "count": 1
+    },
+    {
+     "title": "Fly.io CEO Kurt Mackey is stepping down",
+     "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T20:43:11+00:00",
+     "ts": 1785012191000,
+     "count": 1
+    },
+    {
+     "title": "The new rules of context engineering for Claude 5 generation models",
+     "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T20:42:35+00:00",
+     "ts": 1785012155000,
      "count": 1
     },
     {
@@ -540,12 +603,39 @@
      "count": 1
     },
     {
-     "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-     "link": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+     "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+     "link": "https://news.ycombinator.com/item?id=49051130",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-07-25T19:41:07+00:00",
-     "ts": 1785008467000,
+     "published": "2026-07-25T20:18:54+00:00",
+     "ts": 1785010734000,
+     "count": 1
+    },
+    {
+     "title": "Did They Ghost You?",
+     "link": "https://didtheyghostyou.com/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T20:18:03+00:00",
+     "ts": 1785010683000,
+     "count": 1
+    },
+    {
+     "title": "Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations",
+     "link": "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T20:10:00+00:00",
+     "ts": 1785010200000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+     "link": "https://github.com/0hardik1/awsmux",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-25T20:09:06+00:00",
+     "ts": 1785010146000,
      "count": 1
     },
     {
@@ -666,15 +756,6 @@
      "count": 1
     },
     {
-     "title": "Engineering management after the cost of code collapsed",
-     "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T15:10:51+00:00",
-     "ts": 1784992251000,
-     "count": 1
-    },
-    {
      "title": "Synth historian Oli Freke will spend big on a good bicycle",
      "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
      "source": "The Verge",
@@ -691,87 +772,6 @@
      "published": "2026-07-25T14:49:49+00:00",
      "ts": 1784990989000,
      "count": 1
-    },
-    {
-     "title": "Scanwheel is a drum style mechanical television you can build yourself",
-     "link": "https://github.com/AncientJames/Scanwheel/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T14:10:43+00:00",
-     "ts": 1784988643000,
-     "count": 1
-    },
-    {
-     "title": "Warner Bros. is suing Amazon for poaching employees",
-     "link": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB374_WARNER_BROS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-25T14:05:12+00:00",
-     "ts": 1784988312000,
-     "count": 1
-    },
-    {
-     "title": "The Silurian Hypothesis (2020)",
-     "link": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T13:48:11+00:00",
-     "ts": 1784987291000,
-     "count": 1
-    },
-    {
-     "title": "My web version of Mars MIPS, now has built-in C compiler",
-     "link": "https://webmars.nfiles.top/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T13:42:28+00:00",
-     "ts": 1784986948000,
-     "count": 1
-    },
-    {
-     "title": "Bitchat is now on Radicle",
-     "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T13:18:49+00:00",
-     "ts": 1784985529000,
-     "count": 1
-    },
-    {
-     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-07-25T13:05:00+00:00",
-     "ts": 1784984700000,
-     "count": 1
-    },
-    {
-     "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-     "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T12:00:04+00:00",
-     "ts": 1784980804000,
-     "count": 1
-    },
-    {
-     "title": "The Fedora 45 Sausage Factory",
-     "link": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T11:04:57+00:00",
-     "ts": 1784977497000,
-     "count": 1
-    },
-    {
-     "title": "With help from data, art museums are reframing the visitor experience",
-     "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-1152x648.jpg",
-     "published": "2026-07-25T11:00:32+00:00",
-     "ts": 1784977232000,
-     "count": 1
     }
    ]
   },
@@ -780,12 +780,48 @@
    "name": "Actualidad Global",
    "items": [
     {
-     "title": "Berlin cancels CSD Pride parade after police incident",
-     "link": "https://www.dw.com/en/berlin-cancels-csd-pride-parade-after-police-incident/a-78116146?maca=en-rss-en-all-1573-rdf",
+     "title": "Berlin pride event canceled after vehicle drives into crowd",
+     "link": "https://www.dw.com/en/berlin-pride-event-canceled-after-vehicle-drives-into-crowd/a-78116146?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "published": "2026-07-25T20:45:00+00:00",
-     "ts": 1785012300000,
+     "published": "2026-07-25T22:04:00+00:00",
+     "ts": 1785017040000,
+     "count": 1
+    },
+    {
+     "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+     "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-07-25T21:33:00+00:00",
+     "ts": 1785015180000,
+     "count": 1
+    },
+    {
+     "title": "Berlin Pride march called off after car crashes into crowd of people near route",
+     "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6a982f444639a23465779e103f663b5f8df46ea9/898_34_4484_3588/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3b6d3fcc1b3501682c74cd88833c5637",
+     "published": "2026-07-25T21:20:16+00:00",
+     "ts": 1785014416000,
+     "count": 1
+    },
+    {
+     "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-25T21:08:24+00:00",
+     "ts": 1785013704000,
+     "count": 1
+    },
+    {
+     "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-25T20:57:45+00:00",
+     "ts": 1785013065000,
      "count": 1
     },
     {
@@ -994,42 +1030,6 @@
      "published": "2026-07-25T16:02:40+00:00",
      "ts": 1784995360000,
      "count": 1
-    },
-    {
-     "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
-     "link": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=dbf4348277429f6f2875a8c19723a500",
-     "published": "2026-07-25T16:00:46+00:00",
-     "ts": 1784995246000,
-     "count": 1
-    },
-    {
-     "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-     "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-25T15:53:53+00:00",
-     "ts": 1784994833000,
-     "count": 1
-    },
-    {
-     "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-25T15:52:19+00:00",
-     "ts": 1784994739000,
-     "count": 1
-    },
-    {
-     "title": "The Battle Over Al-Aqsa",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-25T15:49:53+00:00",
-     "ts": 1784994593000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,42 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Al menos un muerto y varios heridos por un atropello durante el Día del Orgullo en Berlín",
+     "link": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
+     "published": "2026-07-25T21:53:23+00:00",
+     "ts": 1785016403000,
+     "count": 1
+    },
+    {
+     "title": "Un muerto y 14 heridos en atropello masivo en Berlín",
+     "link": "https://www.dw.com/es/un-muerto-y-14-heridos-en-atropello-masivo-en-berlín/a-78116499?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-07-25T21:45:00+00:00",
+     "ts": 1785015900000,
+     "count": 1
+    },
+    {
+     "title": "Estudiar en Europa con una beca: Erasmus+ abre oportunidades para panameños",
+     "link": "https://www.prensa.com/vivir/estudiar-en-europa-con-una-beca-erasmus-abre-oportunidades-para-panamenos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/XOL5B6R665DEXLMTZA5RO6GDE4.JPG?auth=b2e9d8083d61596655f02b4040d92794ca87a7622809fa89ad014e0ec6e44418&smart=true&width=6048&height=4032",
+     "published": "2026-07-25T21:40:49+00:00",
+     "ts": 1785015649000,
+     "count": 1
+    },
+    {
+     "title": "Ojo | Hay cierres viales este domingo por carrera atlética en Bucaramanga, conozca las restricciones",
+     "link": "https://www.eltiempo.com/colombia/santander/ojo-hay-cierres-viales-este-domingo-por-carrera-atletica-en-bucaramanga-conozca-las-restricciones-3573864",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/08/6a4e6aaf1c89e.r_d.384-670-0.jpeg",
+     "published": "2026-07-25T21:07:19+00:00",
+     "ts": 1785013639000,
+     "count": 1
+    },
     {
      "title": "Entre once candidatos en Tunja escogerán este domingo al sucesor del alcalde ruso, al que el Consejo de Estado le anuló la elección",
      "link": "https://www.eltiempo.com/colombia/otras-ciudades/entre-once-candidatos-en-tunja-escogeran-este-domingo-al-sucesor-del-alcalde-ruso-al-que-el-consejo-de-estado-le-anulo-la-eleccion-3573860",
@@ -1191,7 +1227,7 @@
      "count": 1
     },
     {
-     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino venciendo a Costa Rica",
      "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
@@ -1252,42 +1288,6 @@
      "published": "2026-07-25T18:00:57+00:00",
      "ts": 1785002457000,
      "count": 2
-    },
-    {
-     "title": "Expulsaron a seis migrantes venezolanos de Bucaramanga; algunos de ellos ya habrían delinquido en la ciudad",
-     "link": "https://www.eltiempo.com/colombia/santander/expulsaron-a-seis-migrantes-venezolanos-de-bucaramanga-algunos-de-ellos-ya-habrian-delinquido-en-la-ciudad-3573831",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2019/11/25/5ddc7020b65e5.jpeg",
-     "published": "2026-07-25T17:47:42+00:00",
-     "ts": 1785001662000,
-     "count": 1
-    },
-    {
-     "title": "CAF alcanza calificación Aa1 tras mejora de Moody’s",
-     "link": "https://www.prensa.com/economia/caf-alcanza-calificacion-aa1-tras-mejora-de-moodys/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TZQSTEUSNRCN5PSOIIXXP45A4Y.jpg?auth=c90e16665a6ade9e4cb3d4b59f9563ac077cf901f4ff8c9221c06dfbf4ca5bfa&smart=true&width=737&height=413",
-     "published": "2026-07-25T17:37:38+00:00",
-     "ts": 1785001058000,
-     "count": 1
-    },
-    {
-     "title": "BID aprueba hasta $40 millones para fortalecer el sistema de salud en Panamá",
-     "link": "https://www.prensa.com/sociedad/bid-aprueba-hasta-40-millones-para-fortalecer-el-sistema-de-salud-en-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/2O76J2MNN5ATNGGLAOXOJLWAFI.jpeg?auth=a348a60c79b9ecf4afe5171f93934eb8622bf4bc73eb53ba1154a1cd7c6919c2&smart=true&width=750&height=480",
-     "published": "2026-07-25T17:22:02+00:00",
-     "ts": 1785000122000,
-     "count": 1
-    },
-    {
-     "title": "Las noticias falsas empañan el empalme presidencial en Colombia",
-     "link": "https://www.france24.com/es/video/20260725-las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-colombia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/01855dba-8845-11f1-80a0-005056bf30b7/w:1024/p:16x9/Las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-Colombia.png",
-     "published": "2026-07-25T17:16:14+00:00",
-     "ts": 1784999774000,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,42 @@
    "id": "desastres",
    "name": "Desastres Naturales",
    "items": [
+    {
+     "title": "M 3.1 - 3 km S of Guánica, Puerto Rico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525803",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-25T22:09:30.570000+00:00",
+     "ts": 1785017370570,
+     "count": 1
+    },
+    {
+     "title": "M 4.9 - Kermadec Islands, New Zealand",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3d9",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-25T22:01:16.040000+00:00",
+     "ts": 1785016876040,
+     "count": 1
+    },
+    {
+     "title": "M 2.8 - 17 km NNE of Houston, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opyztl",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-25T21:44:46.209000+00:00",
+     "ts": 1785015886209,
+     "count": 1
+    },
+    {
+     "title": "M 5.0 - 91 km SE of Atka, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3cv",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-25T21:22:33.040000+00:00",
+     "ts": 1785014553040,
+     "count": 1
+    },
     {
      "title": "M 4.1 - 37 km S of Farkhār, Afghanistan",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3bz",
@@ -1338,16 +1374,7 @@
      "image": "",
      "published": "2026-07-25T19:30:40+00:00",
      "ts": 1785007840000,
-     "count": 202
-    },
-    {
-     "title": "Green forest fire notification in Russian Federation",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029579",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-25T19:29:11+00:00",
-     "ts": 1785007751000,
-     "count": 8
+     "count": 197
     },
     {
      "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1356,7 +1383,7 @@
      "image": "",
      "published": "2026-07-25T19:28:58+00:00",
      "ts": 1785007738000,
-     "count": 35
+     "count": 34
     },
     {
      "title": "M 4.4 - 199 km SW of Port McNeill, Canada",
@@ -1368,13 +1395,13 @@
      "count": 1
     },
     {
-     "title": "Green forest fire notification in United States",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029569",
+     "title": "Green forest fire notification in Russian Federation",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029767",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-07-25T19:16:10+00:00",
-     "ts": 1785006970000,
-     "count": 14
+     "published": "2026-07-25T19:08:52+00:00",
+     "ts": 1785006532000,
+     "count": 7
     },
     {
      "title": "M 4.4 - Kuril Islands",
@@ -1395,22 +1422,13 @@
      "count": 1
     },
     {
-     "title": "M 2.8 - 17 km NNE of Houston, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opyztl",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-25T18:17:10.040000+00:00",
-     "ts": 1785003430040,
-     "count": 1
-    },
-    {
      "title": "M 3.6 - 229 km ESE of Attu Station, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opiqjh",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
      "published": "2026-07-25T15:50:57.127000+00:00",
      "ts": 1784994657127,
-     "count": 2
+     "count": 1
     },
     {
      "title": "M 3.1 - 33 km NE of Ensenada, B.C., MX",
@@ -1429,6 +1447,15 @@
      "published": "2026-07-25T15:13:37.090000+00:00",
      "ts": 1784992417090,
      "count": 1
+    },
+    {
+     "title": "Green forest fire notification in United States",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029750",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-07-25T15:00:57+00:00",
+     "ts": 1784991657000,
+     "count": 12
     },
     {
      "title": "M 3.7 - 45 km SSE of Boca de Yuma, Dominican Republic",
@@ -1485,15 +1512,6 @@
      "count": 1
     },
     {
-     "title": "M 4.4 - 3 km NNE of Scontrone, Italy",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37m",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-25T10:16:48.961000+00:00",
-     "ts": 1784974608961,
-     "count": 1
-    },
-    {
      "title": "M 3.0 - 255 km SE of Chiniak, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a2",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1527,25 +1545,7 @@
      "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104049.png",
      "published": "2026-07-25T05:52:25+00:00",
      "ts": 1784958745000,
-     "count": 15
-    },
-    {
-     "title": "M 6.0 - 82 km W of Sola, Vanuatu",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-25T02:16:37.435000+00:00",
-     "ts": 1784945797435,
-     "count": 3
-    },
-    {
-     "title": "M 2.5 - 7 km NE of Lake Davis, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405277",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-25T02:06:36.949000+00:00",
-     "ts": 1784945196949,
-     "count": 1
+     "count": 8
     }
    ]
   },
@@ -1812,6 +1812,33 @@
    "name": "China",
    "items": [
     {
+     "title": "US pauses nightly Iran strikes, as Houthis clash with Saudis",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3361857/us-pauses-nightly-iran-strikes-houthis-clash-saudis?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/75fe8ad1-038a-4c5e-826e-42ba3f6ef8b4_8ff0f428.jpg?itok=WAlAYMRk&v=1785016616",
+     "published": "2026-07-25T21:57:06+00:00",
+     "ts": 1785016626000,
+     "count": 1
+    },
+    {
+     "title": "1 killed, several injured at Berlin pride parade, after car drives into crowd",
+     "link": "https://www.scmp.com/news/world/europe/article/3361856/berlin-pride-parade-called-after-car-drives-crowd?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/919034ff-3ef6-43e8-86bb-bb4d0f72460f_ad52bc17.jpg?itok=4b9hT_lD&v=1785015501",
+     "published": "2026-07-25T21:38:28+00:00",
+     "ts": 1785015508000,
+     "count": 1
+    },
+    {
+     "title": "The West is debating AI’s future with half the world absent",
+     "link": "https://www.scmp.com/opinion/world-opinion/article/3361362/west-debating-ais-future-half-world-absent?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/ce8d18c8-c63a-4ae4-ad2a-0d46714e9029_8a36f693.jpg?itok=ocyhNyW7&v=1784632039",
+     "published": "2026-07-25T21:30:08+00:00",
+     "ts": 1785015008000,
+     "count": 1
+    },
+    {
      "title": "Maine Democrats pick Troy Jackson to replace scandal-plagued candidate in key Senate race",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3361855/maine-democrats-pick-troy-jackson-replace-scandal-plagued-candidate-key-senate-race?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -2034,33 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/25ed6f35-a5d6-4944-beb5-11b4b25c3706_6f0f6077.jpg?itok=Oug5WL2i&v=1784956793",
      "published": "2026-07-25T05:20:37+00:00",
      "ts": 1784956837000,
-     "count": 1
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "published": "2026-07-25T04:57:39+00:00",
-     "ts": 1784955459000,
-     "count": 1
-    },
-    {
-     "title": "Photo: 广场鸽子, by Costi",
-     "link": "https://chinadigitaltimes.net/2026/07/photo-%e5%b9%bf%e5%9c%ba%e9%b8%bd%e5%ad%90-by-costi/",
-     "source": "China Digital Times (CDT)",
-     "image": "http://chinadigitaltimes.net/wp-content/uploads/2026/07/广场鸽子-by-Costi-e1784955261198.jpg",
-     "published": "2026-07-25T04:56:55+00:00",
-     "ts": 1784955415000,
-     "count": 1
-    },
-    {
-     "title": "More than 30 restaurants pull out of dog-friendly scheme, 70 warnings issued",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3361826/more-30-restaurants-pull-out-dog-friendly-scheme-70-warnings-issued?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/e836a2a7-11c5-4d09-a8c2-be16418b78f4_067b3a1b.jpg?itok=QGz8vubO&v=1784954853",
-     "published": "2026-07-25T04:47:41+00:00",
-     "ts": 1784954861000,
      "count": 1
     }
    ]
