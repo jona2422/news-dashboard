@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T10:48:35.519253+00:00",
+ "updated": "2026-07-25T12:11:03.980831+00:00",
  "sources_ok": 36,
  "sources_total": 38,
  "beats": [
@@ -51,7 +51,7 @@
    "source": "reliefweb.int",
    "ok": false,
    "count": 0,
-   "error": "<urlopen error [Errno 101] Network is unreachable>"
+   "error": "sin items"
   },
   {
    "beat": "medio_oriente",
@@ -178,7 +178,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 254,
+   "count": 268,
    "error": ""
   },
   {
@@ -194,7 +194,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 36,
+   "count": 38,
    "error": ""
   },
   {

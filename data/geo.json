@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-25T10:48:35.519253+00:00",
- "total": 105,
+ "updated": "2026-07-25T12:11:03.980831+00:00",
+ "total": 106,
  "countries": [
   {
    "name": "United States",
@@ -10,11 +10,29 @@
    "count": 15,
    "items": [
     {
+     "title": "\"Gané US$120.000 en un día en TikTok\": el lucrativo negocio de las ventas en vivo",
+     "link": "https://www.bbc.com/mundo/articles/cdew9yz5g4yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf7b/live/ebeadd60-85c7-11f1-b976-0b9c15b0ccfc.jpg",
+     "ts": 1784980541000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
      "title": "‘Shameful’: Pentagon accused of cover-up over US military casualties in Iran war",
      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/64239acab642df03b098daf3f9802c483e058b55/69_607_2244_1794/master/2244.jpg?width=140&quality=85&auto=format&fit=max&s=82ec57f213939e294106ccc9ed05d35b",
      "ts": 1784973641000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+     "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784973284000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -44,24 +62,6 @@
      "ts": 1784963165000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-     "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edde/live/f09eb960-87f4-11f1-8878-23ecfdb2eeb6.jpg",
-     "ts": 1784961702000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump: ‘I’m running for a fourth term as President of the United States’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784961626000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
@@ -102,12 +102,120 @@
    ]
   },
   {
+   "name": "China",
+   "es": "China",
+   "lat": 35.9,
+   "lon": 104.2,
+   "count": 14,
+   "items": [
+    {
+     "title": "Lawmakers return from historic Beijing trip with insights on Hong Kong’s 5-year plan",
+     "link": "https://www.scmp.com/news/hong-kong/politics/article/3361845/lawmakers-return-historic-beijing-trip-insights-hong-kongs-5-year-plan?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/79107aea-f7da-4954-99ca-4ff89af66bff_b33d2d24.jpg?itok=gfv0WjLW&v=1784981012",
+     "ts": 1784981014000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China completes first high-speed rail tunnel under the Yangtze River",
+     "link": "https://www.scmp.com/news/china/politics/article/3361842/china-completes-first-high-speed-rail-tunnel-under-yangtze-river?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/42ffce96-244e-410b-83f8-db6d29515501_7c4a68b9.jpg?itok=nc3jolnA&v=1784977693",
+     "ts": 1784980809000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "How China is using film diplomacy to project a better image across Africa",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3361763/how-china-using-film-diplomacy-project-better-image-across-africa?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/2478eb32-688d-4b79-85d9-d821402ae306_ad8c1bb1.jpg?itok=6m80xNy7&v=1784887617",
+     "ts": 1784977208000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong mandates fire escape hoods in hotels and guest houses to boost safety",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3361840/hong-kong-mandates-fire-escape-hoods-hotels-and-guest-houses-boost-safety?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/9eba5eb3-506a-4416-81fa-cec46d351baa_042c8e99.jpg?itok=Uw3AVmP4&v=1784979345",
+     "ts": 1784974923000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "What a helicopter’s flight in the Taiwan Strait says about Beijing’s war plans",
+     "link": "https://www.scmp.com/news/china/military/article/3361835/what-helicopters-flight-taiwan-strait-says-about-beijings-war-plans?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/c01b541b-2695-46df-ad27-b80c50554cf2_28283a36.jpg?itok=mBwS3D2m&v=1784966890",
+     "ts": 1784973613000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong issues 21 smoking fines on construction sites in first 6 days of ban",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3361838/hong-kong-fines-21-construction-workers-smoking-first-6-days-site-ban?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/553d7e66-b5a2-457b-b06d-377a1f6a08c6_fbf33cf5.jpg?itok=XZA1bH4C&v=1784970508",
+     "ts": 1784971197000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Nearly 170 mainland Chinese motorists expected in Hong Kong under expanded scheme",
+     "link": "https://www.scmp.com/news/hong-kong/transport/article/3361837/nearly-170-mainland-chinese-motorists-expected-hong-kong-under-expanded-scheme?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/69190139-8045-45be-a441-0c8a13019b90_b68828bc.jpg?itok=M_YjT5gO&v=1784969759",
+     "ts": 1784969767000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China dad’s growth hormone investment for daughter sparks debate over societal pressure",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3361806/china-dads-growth-hormone-investment-daughter-sparks-debate-over-societal-pressure?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/53919925-d95a-41c7-9f27-0541f24a8ba2_2b4fd286.jpg?itok=OddQaFH-&v=1784907398",
+     "ts": 1784966415000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China multa a Trip.com con 765 millones por monopolio",
+     "link": "https://www.dw.com/es/china-multa-a-trip-com-con-765-millones-por-monopolio/a-78109471?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1784965860000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Job fears in changing world make AI a hot subject at China’s vocational schools",
+     "link": "https://www.scmp.com/economy/china-economy/article/3361747/job-fears-changing-world-make-ai-hot-subject-chinas-vocational-schools?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/3e6512a4-4fe7-4b0d-a2bd-40e0e34e4df9_67cfc478.jpg?itok=9HDemMXb&v=1784884379",
+     "ts": 1784959208000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 13,
+   "count": 12,
    "items": [
+    {
+     "title": "Qué es la montaña Pickaxe, la instalación secreta y fuertemente protegida de Irán que Trump ha prometido atacar ‘con dureza’",
+     "link": "https://www.prensa.com/mundo/que-es-la-montana-pickaxe-la-instalacion-secreta-y-fuertemente-protegida-de-iran-que-trump-ha-prometido-atacar-con-dureza/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/XZLRWFAS6VHTHGQELRBNN77OWI.jpg?auth=cef90f4d9545c3c20f39abde19e617ba206378bd4ec5ae7a08218a002db2678e&smart=true&width=1155&height=650",
+     "ts": 1784980281000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "‘Shameful’: Pentagon accused of cover-up over US military casualties in Iran war",
      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
@@ -134,15 +242,6 @@
      "ts": 1784963165000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-     "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
-     "ts": 1784961280000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
@@ -201,110 +300,11 @@
    ]
   },
   {
-   "name": "China",
-   "es": "China",
-   "lat": 35.9,
-   "lon": 104.2,
-   "count": 11,
-   "items": [
-    {
-     "title": "Hong Kong mandates fire escape hoods in hotels and guest houses to boost safety",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3361840/hong-kong-mandates-fire-escape-hoods-hotels-and-guest-houses-boost-safety?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/c12d6eb6-8ec5-4764-8594-f8155eb6b1aa_3d72995b.jpg?itok=VjC8njlj&v=1784974313",
-     "ts": 1784974923000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "What a helicopter’s flight in the Taiwan Strait says about Beijing’s war plans",
-     "link": "https://www.scmp.com/news/china/military/article/3361835/what-helicopters-flight-taiwan-strait-says-about-beijings-war-plans?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/c01b541b-2695-46df-ad27-b80c50554cf2_28283a36.jpg?itok=mBwS3D2m&v=1784966890",
-     "ts": 1784973613000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Hong Kong issues 21 smoking fines on construction sites in first 6 days of ban",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3361838/hong-kong-fines-21-construction-workers-smoking-first-6-days-site-ban?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/553d7e66-b5a2-457b-b06d-377a1f6a08c6_fbf33cf5.jpg?itok=XZA1bH4C&v=1784970508",
-     "ts": 1784971197000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Nearly 170 mainland Chinese motorists expected in Hong Kong under expanded scheme",
-     "link": "https://www.scmp.com/news/hong-kong/transport/article/3361837/nearly-170-mainland-chinese-motorists-expected-hong-kong-under-expanded-scheme?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/69190139-8045-45be-a441-0c8a13019b90_b68828bc.jpg?itok=M_YjT5gO&v=1784969759",
-     "ts": 1784969767000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China dad’s growth hormone investment for daughter sparks debate over societal pressure",
-     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3361806/china-dads-growth-hormone-investment-daughter-sparks-debate-over-societal-pressure?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/53919925-d95a-41c7-9f27-0541f24a8ba2_2b4fd286.jpg?itok=OddQaFH-&v=1784907398",
-     "ts": 1784966415000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China multa a Trip.com con 765 millones por monopolio",
-     "link": "https://www.dw.com/es/china-multa-a-trip-com-con-765-millones-por-monopolio/a-78109471?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784965860000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Job fears in changing world make AI a hot subject at China’s vocational schools",
-     "link": "https://www.scmp.com/economy/china-economy/article/3361747/job-fears-changing-world-make-ai-hot-subject-chinas-vocational-schools?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/3e6512a4-4fe7-4b0d-a2bd-40e0e34e4df9_67cfc478.jpg?itok=9HDemMXb&v=1784884379",
-     "ts": 1784959208000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Shenzhen rail and air services cancelled as southern China braces for Typhoon Noul",
-     "link": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/25ed6f35-a5d6-4944-beb5-11b4b25c3706_6f0f6077.jpg?itok=Oug5WL2i&v=1784956793",
-     "ts": 1784956837000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Can China’s aerospace industry overcome ‘execution gap’ in modernisation goals?",
-     "link": "https://www.scmp.com/news/china/military/article/3361802/can-chinas-aerospace-industry-overcome-execution-gap-modernisation-goals?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/1f1627d6-e8c9-4e3d-a000-553725e9e88c_f06d6997.jpg?itok=mjSyfphB&v=1784903803",
-     "ts": 1784952019000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Palestine",
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
@@ -323,15 +323,6 @@
      "ts": 1784968978000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Born too soon: Premature babies fight for survival in Gaza",
-     "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784964335000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war",
@@ -399,87 +390,6 @@
    ]
   },
   {
-   "name": "Yemen",
-   "es": "Yemen",
-   "lat": 15.6,
-   "lon": 48.0,
-   "count": 8,
-   "items": [
-    {
-     "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
-     "link": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
-     "ts": 1784968230000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
-     "ts": 1784966418000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Los hutíes se atribuyen un ataque contra Arabia Saudita",
-     "link": "https://www.dw.com/es/los-hutíes-se-atribuyen-un-ataque-contra-arabia-saudita/a-78108986?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784961960000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-     "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
-     "ts": 1784961280000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
-     "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
-     "ts": 1784932272000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
-     "ts": 1784915902000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-     "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c0/live/60bb5b90-86b5-11f1-bb58-d3ffca85db6d.jpg",
-     "ts": 1784858389000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Trump threatens Iran and Houthi rebels with 'major military punishment'",
-     "link": "https://www.france24.com/en/middle-east/20260723-trump-threatens-iran-and-houthi-rebels-with-major-military-punishment",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/669a0bb4-867f-11f1-bc8a-005056a90284/w:1024/p:16x9/9cf489352df1b19309121efdf4c467be9adf5d68.jpg",
-     "ts": 1784850848000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "Spain",
    "es": "España",
    "lat": 40.5,
@@ -487,11 +397,11 @@
    "count": 6,
    "items": [
     {
-     "title": "France and Spain race to control wildfires as Bordeaux suburbs evacuated – live",
+     "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/8a14639f0e99479055543f1ad46d51626bf97609/1536_0_6435_5148/master/6435.jpg?width=140&quality=85&auto=format&fit=max&s=c9a42dc4e57a8ed8e20d046b5b5ef575",
-     "ts": 1784975269000,
+     "ts": 1784980337000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -500,18 +410,18 @@
      "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b659/live/80ba37f0-87a4-11f1-9b54-591acc53357a.jpg",
-     "ts": 1784969834000,
+     "ts": 1784979559000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Wildfires in Spain and France force evacuation of 200,000 people",
-     "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784965303000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
+     "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
+     "ts": 1784979003000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Más de 60.000 afectados por el fuego voraz en Madrid y Ávila",
@@ -543,47 +453,65 @@
    ]
   },
   {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 4,
+   "name": "Yemen",
+   "es": "Yemen",
+   "lat": 15.6,
+   "lon": 48.0,
+   "count": 6,
    "items": [
     {
-     "title": "Extinct Media Museum Tokyo",
-     "link": "https://extinct-media-museum.blog.jp/otemachi/",
-     "source": "Hacker News: Front Page",
+     "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
+     "link": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
+     "ts": 1784968230000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
+     "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
+     "ts": 1784966418000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Los hutíes se atribuyen un ataque contra Arabia Saudita",
+     "link": "https://www.dw.com/es/los-hutíes-se-atribuyen-un-ataque-contra-arabia-saudita/a-78108986?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1784958687000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
+     "ts": 1784961960000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
-     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
-     "ts": 1784957037000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
+     "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
+     "ts": 1784932272000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
+     "ts": 1784915902000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Why Japan’s scenic Tohoku region is still a tourist outlier",
-     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3361778/why-japans-scenic-tohoku-region-still-tourist-outlier?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/55c0f0e7-de01-4e15-9b8a-c0c681e13a29_1f0a613e.jpg?itok=I66sgZ3y&v=1784892137",
-     "ts": 1784943013000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+     "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c0/live/60bb5b90-86b5-11f1-bb58-d3ffca85db6d.jpg",
+     "ts": 1784858389000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -592,14 +520,32 @@
    "es": "India",
    "lat": 20.6,
    "lon": 79.0,
-   "count": 4,
+   "count": 5,
    "items": [
     {
-     "title": "India’s education minister resigns after mass protests by Cockroach movement",
+     "title": "La revolución de las cucarachas, el movimiento de protesta de los jóvenes en India que tumbó a un ministro",
+     "link": "https://www.bbc.com/mundo/articles/c935kql445qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52d7/live/2a7f0f50-878b-11f1-b8ee-9b3c26ad07bb.jpg",
+     "ts": 1784978109000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
+     "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784977745000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "India’s education minister resigns amid Cockroach youth movement protests",
      "link": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5fd9e6e4673465e230967714786da882726804c9/364_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=92f6aeabb36356d336472e57e39d46a6",
-     "ts": 1784974002000,
+     "image": "https://i.guim.co.uk/img/media/e452065a79f3fccbd9748b75d237ea4e2ec1c845/1218_0_4282_3426/master/4282.jpg?width=140&quality=85&auto=format&fit=max&s=de8cfa2a6085067197eb3c214fff1ff4",
+     "ts": 1784975877000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -613,20 +559,56 @@
      "beatName": "China"
     },
     {
-     "title": "India: Education minister resigns amid student-led protests",
-     "link": "https://www.dw.com/en/india-education-minister-resigns-amid-student-led-protests/live-78108089?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1784960460000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
      "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
      "ts": 1784955459000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 4,
+   "items": [
+    {
+     "title": "Two buses collide in Syria, killing at least 35 people",
+     "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784978054000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "António Guterres inicia una visita de tres días a Siria",
+     "link": "https://www.dw.com/es/antónio-guterres-inicia-una-visita-de-tres-días-a-siria/a-78111064?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1784974260000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
+     "link": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/ad66bd18-87ff-11f1-b072-005056bf30b7/w:1024/p:16x9/000-C36M9T4.jpg",
+     "ts": 1784959683000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
+     "link": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/65fff7aa-7097-4194-bd6e-dfc5e422b1db_93f92620.jpg?itok=nL5sy6GA&v=1784896277",
+     "ts": 1784957407000,
      "beat": "china",
      "beatName": "China"
     }
@@ -640,7 +622,7 @@
    "count": 4,
    "items": [
     {
-     "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+     "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -678,45 +660,72 @@
    ]
   },
   {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 4,
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 3,
    "items": [
     {
-     "title": "António Guterres inicia una visita de tres días a Siria",
-     "link": "https://www.dw.com/es/antónio-guterres-inicia-una-visita-de-tres-días-a-siria/a-78111064?maca=spa-rss-sp-all-1122-rdf",
+     "title": "Extinct Media Museum Tokyo",
+     "link": "https://extinct-media-museum.blog.jp/otemachi/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1784958687000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
+     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
+     "ts": 1784957037000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
+     "ts": 1784955459000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 3,
+   "items": [
+    {
+     "title": "Al menos 14 civiles muertos en ataques entre Rusia y Ucrania",
+     "link": "https://www.dw.com/es/al-menos-14-civiles-muertos-en-ataques-entre-rusia-y-ucrania/a-78112041?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1784974260000,
+     "ts": 1784976780000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-     "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784964167000,
+     "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
+     "link": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5375b13483d218632321769f338038d25b2c828f/226_0_2250_1801/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=738c70d62bdc293d1e108b1427e41714",
+     "ts": 1784973640000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
-     "link": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/ad66bd18-87ff-11f1-b072-005056bf30b7/w:1024/p:16x9/000-C36M9T4.jpg",
-     "ts": 1784959683000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
+     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/65fff7aa-7097-4194-bd6e-dfc5e422b1db_93f92620.jpg?itok=nL5sy6GA&v=1784896277",
-     "ts": 1784957407000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
+     "ts": 1784957037000,
      "beat": "china",
      "beatName": "China"
     }
@@ -727,7 +736,7 @@
    "es": "Arabia Saudita",
    "lat": 23.9,
    "lon": 45.1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Los hutíes se atribuyen un ataque contra Arabia Saudita",
@@ -737,15 +746,6 @@
      "ts": 1784961960000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-     "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
-     "ts": 1784961280000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
@@ -768,11 +768,38 @@
    ]
   },
   {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Al menos 14 civiles muertos en ataques entre Rusia y Ucrania",
+     "link": "https://www.dw.com/es/al-menos-14-civiles-muertos-en-ataques-entre-rusia-y-ucrania/a-78112041?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1784976780000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Venice Biennale President Calls EU Withdrawal of Funding Over Russia ‘Entirely Political, Certainly Not Legal’",
+     "link": "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1784915909000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
    "name": "United Kingdom",
    "es": "Reino Unido",
    "lat": 55.4,
    "lon": -3.4,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
@@ -780,15 +807,6 @@
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/c3631d6aa5ecaac3fd446659bf42886de8c8abfa/73_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=34a2df1ad69ab952243bbbb67bd9e71c",
      "ts": 1784971548000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Almost 75% of England’s riverbanks ‘off limits’ to public, figures show",
-     "link": "https://www.theguardian.com/environment/2026/jul/25/almost-75-percent-england-riverbanks-off-limits-to-public",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ae074c65871b4164413f03ca19b2a2e8ee01be1a/609_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=fee62397d4ba31a0476fd964300ce3a7",
-     "ts": 1784962837000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -811,49 +829,49 @@
    "count": 2,
    "items": [
     {
-     "title": "France and Spain race to control wildfires as Bordeaux suburbs evacuated – live",
+     "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/8a14639f0e99479055543f1ad46d51626bf97609/1536_0_6435_5148/master/6435.jpg?width=140&quality=85&auto=format&fit=max&s=c9a42dc4e57a8ed8e20d046b5b5ef575",
-     "ts": 1784975269000,
+     "ts": 1784980337000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Wildfires in Spain and France force evacuation of 200,000 people",
-     "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784965303000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
+     "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
+     "ts": 1784979003000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
    "count": 2,
    "items": [
     {
-     "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
-     "link": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5375b13483d218632321769f338038d25b2c828f/226_0_2250_1801/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=738c70d62bdc293d1e108b1427e41714",
-     "ts": 1784973640000,
+     "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
+     "link": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1784977740000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
-     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
-     "ts": 1784957037000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
+     "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=66fad829321e78441df39528ac0b3887",
+     "ts": 1784865604000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -912,24 +930,6 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Venice Biennale President Calls EU Withdrawal of Funding Over Russia ‘Entirely Political, Certainly Not Legal’",
-     "link": "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1784915909000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
    "name": "Ecuador",
    "es": "Ecuador",
    "lat": -1.8,
@@ -962,6 +962,42 @@
      "ts": 1784927700000,
      "beat": "tech",
      "beatName": "Tecnología & IA"
+    }
+   ]
+  },
+  {
+   "name": "Egypt",
+   "es": "Egipto",
+   "lat": 26.8,
+   "lon": 30.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+     "link": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x3125+0+0/resize/2500x3125!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F7d%2F4a07288448a79a53c61f6c085cc7%2Fheat1.jpg",
+     "ts": 1784981134000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Philippines",
+   "es": "Filipinas",
+   "lat": 12.9,
+   "lon": 121.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Tuberculosis: How drones are transforming care in the Philippines",
+     "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784979000000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -1002,24 +1038,6 @@
    ]
   },
   {
-   "name": "Dominican Rep.",
-   "es": "Rep. Dominicana",
-   "lat": 18.7,
-   "lon": -70.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "La música y la tecnología dieron la bienvenida a los JCC Santo Domingo 2026",
-     "link": "https://www.prensa.com/deportes/la-musica-y-la-tecnologia-dieron-la-bienvenida-a-los-jcc-santo-domingo-2026/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/KMZ5Y7MT6NF37HH7RA2YUGMN3M.jpg?auth=5ab37b1f52922f6d213fda75f3d0e7802d670f9bfc07f95aefaf6ee36c550726&smart=true&width=4368&height=2912",
-     "ts": 1784955600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Turkey",
    "es": "Turquía",
    "lat": 38.9,
@@ -1042,24 +1060,6 @@
    "es": "Irlanda",
    "lat": 53.4,
    "lon": -8.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
-     "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=66fad829321e78441df39528ac0b3887",
-     "ts": 1784865604000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
    "count": 1,
    "items": [
     {
