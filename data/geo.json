@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-25T19:37:11.142908+00:00",
- "total": 117,
+ "updated": "2026-07-25T21:11:25.085207+00:00",
+ "total": 118,
  "countries": [
   {
    "name": "United States",
@@ -10,7 +10,16 @@
    "count": 14,
    "items": [
     {
-     "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
+     "title": "Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video",
+     "link": "https://www.rollingstone.com/music/music-news/katy-perry-white-house-firework-military-strikes-tiktok-1235598831/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "ts": 1785009663000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    },
+    {
+     "title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
      "link": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/74ffbb7833ce2f38040db95a067927da970ea985/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=bf043c5091a12ed2f8d64227e0b410bc",
@@ -26,15 +35,6 @@
      "ts": 1784997556000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Canadá inaugura puente fronterizo con EE. UU. en medio de tensiones comerciales",
-     "link": "https://www.france24.com/es/video/20260725-puente-entre-canad%C3%A1-y-ee-uu-inaugura-en-medio-de-tensiones-comerciales",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/839d5b54-8845-11f1-af14-005056a90284/w:1024/p:16x9/ES-20260725-070800-071002-CS.jpg",
-     "ts": 1784997346000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "How America’s 250-year China dream became its greatest strategic challenge",
@@ -201,6 +201,105 @@
    ]
   },
   {
+   "name": "Palestine",
+   "es": "Palestina",
+   "lat": 31.9,
+   "lon": 35.2,
+   "count": 11,
+   "items": [
+    {
+     "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+     "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785009643000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "War in the Middle East: Deadly violence mounts in the West Bank",
+     "link": "https://www.france24.com/en/war-in-the-middle-east-deadly-violence-mounts-in-west-bank",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/f9babf96-8847-11f1-af86-005056bfb2b6/w:1024/p:16x9/EN-20260725-181154-182032-CS.jpg",
+     "ts": 1785001075000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
+     "link": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/a615f28a-8832-11f1-9803-005056bfb2b6/w:1024/p:16x9/AP26205335159820.jpg",
+     "ts": 1784989770000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
+     "link": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/5544ce72-87ff-11f1-bd29-005056a90284/w:1024/p:16x9/2026-07-24T224242Z-1147157310-RC2MKMAJ90B6-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-FUNERAL.jpg",
+     "ts": 1784968978000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war",
+     "link": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/9bcafdf361b36611b3e994877b812b9765d4430e/178_278_3462_2769/master/3462.jpg?width=140&quality=85&auto=format&fit=max&s=2665aec7fb00d4b2c51c095f61e205dd",
+     "ts": 1784955636000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+     "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
+     "ts": 1784933399000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
+     "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5e0ee810c42016b02c4122145a9337833a4af49b/306_0_3059_2447/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=33eafc43277c2fdcab74f89a61da2e0d",
+     "ts": 1784912042000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Deadly clashes in the occupied West Bank",
+     "link": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c89a5b2c-8777-11f1-9f86-005056a97e36/w:1024/p:16x9/EN-20260724-170417-170751-CS.jpg",
+     "ts": 1784908630000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "'Incredibly dire': Nine months into Gaza ceasefire, conditions 'should have improved by now'",
+     "link": "https://www.france24.com/en/incredibly-dire-nine-months-into-gaza-ceasefire-conditions-should-have-improved-by-now",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/92623534-874a-11f1-b08a-005056bfb2b6/w:1024/p:16x9/EN-20260724-091006-091821-CS.jpg",
+     "ts": 1784889856000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Gaza faces ongoing food crisis despite ceasefire",
+     "link": "https://www.france24.com/en/gaza-faces-ongoing-food-crisis-despite-ceasefire",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/060bf3d0-8746-11f1-b792-005056a97e36/w:1024/p:16x9/EN-20260724-091028-091821-CS.jpg",
+     "ts": 1784887925000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
@@ -300,192 +399,30 @@
    ]
   },
   {
-   "name": "Palestine",
-   "es": "Palestina",
-   "lat": 31.9,
-   "lon": 35.2,
-   "count": 10,
-   "items": [
-    {
-     "title": "War in the Middle East: Deadly violence mounts in the West Bank",
-     "link": "https://www.france24.com/en/war-in-the-middle-east-deadly-violence-mounts-in-west-bank",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/f9babf96-8847-11f1-af86-005056bfb2b6/w:1024/p:16x9/EN-20260725-181154-182032-CS.jpg",
-     "ts": 1785001075000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
-     "link": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/a615f28a-8832-11f1-9803-005056bfb2b6/w:1024/p:16x9/AP26205335159820.jpg",
-     "ts": 1784989770000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
-     "link": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/5544ce72-87ff-11f1-bd29-005056a90284/w:1024/p:16x9/2026-07-24T224242Z-1147157310-RC2MKMAJ90B6-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-FUNERAL.jpg",
-     "ts": 1784968978000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war",
-     "link": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9bcafdf361b36611b3e994877b812b9765d4430e/178_278_3462_2769/master/3462.jpg?width=140&quality=85&auto=format&fit=max&s=2665aec7fb00d4b2c51c095f61e205dd",
-     "ts": 1784955636000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-     "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
-     "ts": 1784933399000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
-     "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5e0ee810c42016b02c4122145a9337833a4af49b/306_0_3059_2447/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=33eafc43277c2fdcab74f89a61da2e0d",
-     "ts": 1784912042000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Deadly clashes in the occupied West Bank",
-     "link": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/c89a5b2c-8777-11f1-9f86-005056a97e36/w:1024/p:16x9/EN-20260724-170417-170751-CS.jpg",
-     "ts": 1784908630000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "'Incredibly dire': Nine months into Gaza ceasefire, conditions 'should have improved by now'",
-     "link": "https://www.france24.com/en/incredibly-dire-nine-months-into-gaza-ceasefire-conditions-should-have-improved-by-now",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/92623534-874a-11f1-b08a-005056bfb2b6/w:1024/p:16x9/EN-20260724-091006-091821-CS.jpg",
-     "ts": 1784889856000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Gaza faces ongoing food crisis despite ceasefire",
-     "link": "https://www.france24.com/en/gaza-faces-ongoing-food-crisis-despite-ceasefire",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/060bf3d0-8746-11f1-b792-005056a97e36/w:1024/p:16x9/EN-20260724-091028-091821-CS.jpg",
-     "ts": 1784887925000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Netanyahu orders new West Bank settler outposts, legalises existing ones after deadly clash",
-     "link": "https://www.france24.com/en/middle-east/20260724-four-palestinians-and-one-israeli-killed-in-occupied-west-bank-shooting",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
-     "ts": 1784882820000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
-   "count": 8,
-   "items": [
-    {
-     "title": "India: \"Partido de las Cucarachas\" logra renuncia de ministro y termina protestas",
-     "link": "https://www.france24.com/es/video/20260725-india-partido-de-las-cucarachas-logra-renuncia-de-ministro-y-termina-protestas",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/2266d34a-8856-11f1-b529-005056a90284/w:1024/p:16x9/INDIA-CUCARACHAS.png",
-     "ts": 1785006708000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "India's 'cockroach' protest called off after education minister quits",
-     "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1785001486000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Renuncia el ministro de Educación de India tras escándalo por filtración de examen",
-     "link": "https://www.france24.com/es/video/20260725-renuncia-el-ministro-de-educaci%C3%B3n-de-india-tras-esc%C3%A1ndalo-por-filtraci%C3%B3n-de-examen",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d795f3e0-8842-11f1-8ce1-005056a90284/w:1024/p:16x9/ES-20260725-070236-070423-CS.jpg",
-     "ts": 1784997199000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
-     "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784995360000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-     "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784994833000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-     "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2100x1400+0+0/resize/2100x1400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fa0%2F0e0990784f58ab750ab61ad12277%2Fap26206436838172.jpg",
-     "ts": 1784990902000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India’s education minister quits in major win for youth protesters",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3361839/indias-education-minister-quits-major-win-youth-protesters?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/00bf80ac-0e65-43d9-a9e4-a216fe3e6f2d_da0a1793.jpg?itok=nKD8XspR&v=1784973705",
-     "ts": 1784973709000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Spain",
    "es": "España",
    "lat": 40.5,
    "lon": -3.7,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "‘Es el peor incendio de la historia de Madrid’: los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
+     "link": "https://www.prensa.com/mundo/es-el-peor-incendio-de-la-historia-de-madrid-los-fuegos-sin-control-que-han-obligado-a-evacuar-a-decenas-de-miles-de-personas/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/L7F7FQJMAJBRTHBM3I4LK4PEHA.jpg?auth=c0a282082e2170cb929b2cbf4ad83328b643c0016420adf040ea0465bd9a54c2&smart=true&width=1024&height=576",
+     "ts": 1785011844000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Más de 88,500 afectados en el centro de España por dos grandes incendios",
+     "link": "https://www.prensa.com/mundo/mas-de-88500-afectados-en-el-centro-de-espana-por-dos-grandes-incendios/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/R63Y73S7ABEGLLP335MWOABRQU.jpg?auth=17531b2f6483e67f944a0dda6a7fdacf24f948a411b2c3d7bc36240d639fcc8c&smart=true&width=1920&height=1280",
+     "ts": 1785008125000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "Francia y España enfrentan una devastadora ola de incendios forestales",
      "link": "https://www.france24.com/es/video/20260725-francia-y-espa%C3%B1a-enfrentan-una-devastadora-ola-de-incendios-forestales",
@@ -532,15 +469,6 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Más de 70.000 evacuados por incendios que siguen fuera de control en España",
-     "link": "https://www.france24.com/es/video/20260725-m%C3%A1s-de-70-000-evacuados-por-incendios-que-siguen-fuera-de-control-en-espa%C3%B1a",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/641cb7c6-883f-11f1-9cf1-005056a90284/w:1024/p:16x9/ES-20260725-083143-083533-CS.jpg",
-     "ts": 1784997059000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
      "title": "Controversial Gelman Collection to Inaugurate Spain’s New Faro Santander in September",
      "link": "https://www.artnews.com/list/art-news/news/faro-santander-september-2026-opening-gelman-collection-1234793355/",
      "source": "ARTnews.com",
@@ -552,11 +480,74 @@
    ]
   },
   {
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 6,
+   "items": [
+    {
+     "title": "\"Partido de las Cucarachas\" en India anuncia fin de protestas tras renuncia de ministro de Educación",
+     "link": "https://www.france24.com/es/video/20260725-partido-de-las-cucarachas-en-india-anuncia-fin-de-protestas-tras-renuncia-de-ministro-de-educaci%C3%B3n",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/6c4b209a-8858-11f1-8e38-005056a97e36/w:1024/p:16x9/ES-20260725-123758-123916-CS.jpg",
+     "ts": 1785006953000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "India's 'cockroach' protest called off after education minister quits",
+     "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1785001486000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
+     "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784995360000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
+     "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784994833000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "India’s education minister quits in major win for youth protesters",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3361839/indias-education-minister-quits-major-win-youth-protesters?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/00bf80ac-0e65-43d9-a9e4-a216fe3e6f2d_da0a1793.jpg?itok=nKD8XspR&v=1784973705",
+     "ts": 1784973709000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
+     "ts": 1784955459000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "France",
    "es": "Francia",
    "lat": 46.2,
    "lon": 2.2,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Francia y España enfrentan una devastadora ola de incendios forestales",
@@ -602,69 +593,6 @@
      "ts": 1784999256000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Tour de France final stage shortened due to wildfires",
-     "link": "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1784993160000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 5,
-   "items": [
-    {
-     "title": "At least 35 killed after two buses collide in eastern Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785007350000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Choque entre dos buses deja al menos 35 muertos en Siria",
-     "link": "https://www.dw.com/es/choque-entre-dos-buses-deja-al-menos-35-muertos-en-siria/a-78114892?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784997000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Dozens dead after buses collide in eastern Syria",
-     "link": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1784991000000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
-     "link": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/8466258c-8824-11f1-a00d-005056a90284/w:1024/p:16x9/AP26206334587919.jpg",
-     "ts": 1784959683000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/65fff7aa-7097-4194-bd6e-dfc5e422b1db_93f92620.jpg?itok=nL5sy6GA&v=1784896277",
-     "ts": 1784957407000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -703,10 +631,10 @@
      "beatName": "China"
     },
     {
-     "title": "Houthis target Saudi oil facilities as new Middle Eastern front",
+     "title": "Houthis target Saudi oil facilities as new Middle East front",
      "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
+     "image": "https://s.france24.com/media/display/e950e45a-886a-11f1-ab01-005056bf30b7/w:1024/p:16x9/000-C36Q7WG.jpg",
      "ts": 1784932272000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
@@ -768,6 +696,51 @@
    ]
   },
   {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 4,
+   "items": [
+    {
+     "title": "\"No escatimen esfuerzos\": Guterres aboga por la reconstrucción de Siria durante su visita a Damasco",
+     "link": "https://www.france24.com/es/medio-oriente/20260725-no-escatimen-esfuerzos-guterres-aboga-por-la-reconstrucci%C3%B3n-de-siria-durante-su-visita-a-damasco",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8566ddce-8814-11f1-bad9-005056a90284/w:1024/p:16x9/0032d1ab6aac44ca23f1da7160e77cff7b8dad6c.jpg",
+     "ts": 1785009185000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "At least 35 killed after two buses collide in eastern Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785007350000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
+     "link": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/8466258c-8824-11f1-a00d-005056a90284/w:1024/p:16x9/AP26206334587919.jpg",
+     "ts": 1784959683000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
+     "link": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/65fff7aa-7097-4194-bd6e-dfc5e422b1db_93f92620.jpg?itok=nL5sy6GA&v=1784896277",
+     "ts": 1784957407000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Brazil",
    "es": "Brasil",
    "lat": -14.2,
@@ -813,6 +786,87 @@
    ]
   },
   {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 4,
+   "items": [
+    {
+     "title": "Proponen que la Zona Libre administre el aeropuerto de Colón",
+     "link": "https://www.prensa.com/economia/proponen-que-la-zona-libre-administre-el-aeropuerto-de-colon/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/LRMB4HV5CZCPXHL5CKSTU5LFCA.jpg?auth=e6e2707d6f714fc2130084884bdf8fa9e834c8b6be87860cfb3ffaedf5f0dac0&smart=true&width=667&height=375",
+     "ts": 1785011245000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Oro para Panamá: Nemesis Candelo abre el medallero nacional en Santo Domingo 2026",
+     "link": "https://www.prensa.com/deportes/oro-para-panama-nemesis-candelo-abre-el-medallero-nacional-en-santo-domingo-2026/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/6WS2OH37NBFONPD2MZWXMYO3L4.jpeg?auth=861d5684e5777fbddc297edaa9198ed68875d3d0e1b50317a21dd2c509880d5e&smart=true&width=3750&height=2517",
+     "ts": 1785008491000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
+     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
+     "ts": 1785005922000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "BID aprueba hasta $40 millones para fortalecer el sistema de salud en Panamá",
+     "link": "https://www.prensa.com/sociedad/bid-aprueba-hasta-40-millones-para-fortalecer-el-sistema-de-salud-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/2O76J2MNN5ATNGGLAOXOJLWAFI.jpeg?auth=a348a60c79b9ecf4afe5171f93934eb8622bf4bc73eb53ba1154a1cd7c6919c2&smart=true&width=750&height=480",
+     "ts": 1785000122000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
+   "count": 3,
+   "items": [
+    {
+     "title": "Berlin cancels CSD Pride parade after police incident",
+     "link": "https://www.dw.com/en/berlin-cancels-csd-pride-parade-after-police-incident/a-78116146?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785012300000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "2 dead after small plane crashes into house in Germany",
+     "link": "https://www.scmp.com/news/world/europe/article/3361848/1-dead-after-small-plane-crashes-house-germany?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d77db96b-6f2e-49f3-84a4-5557724d2653_5aa680a2.jpg?itok=bpDsbgQB&v=1784983569",
+     "ts": 1784983570000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
+     "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=66fad829321e78441df39528ac0b3887",
+     "ts": 1784865604000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
    "name": "Israel",
    "es": "Israel",
    "lat": 31.0,
@@ -849,36 +903,36 @@
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
    "count": 3,
    "items": [
     {
-     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
-     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
-     "ts": 1785005922000,
+     "title": "De vender café para pagar el viaje a ser campeonas del mundo: Selección Colombia sub-19 de hockey subacuático ganó el mundial en Turquía",
+     "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
+     "ts": 1785011626000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "BID aprueba hasta $40 millones para fortalecer el sistema de salud en Panamá",
-     "link": "https://www.prensa.com/sociedad/bid-aprueba-hasta-40-millones-para-fortalecer-el-sistema-de-salud-en-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/2O76J2MNN5ATNGGLAOXOJLWAFI.jpeg?auth=a348a60c79b9ecf4afe5171f93934eb8622bf4bc73eb53ba1154a1cd7c6919c2&smart=true&width=750&height=480",
-     "ts": 1785000122000,
+     "title": "Mexicano llegó a Colombia, pero una alerta de Interpol reveló que era buscado por feminicidio: fue capturado en el aeropuerto José María Córdova",
+     "link": "https://www.eltiempo.com/colombia/medellin/mexicano-llego-a-colombia-pero-una-alerta-de-interpol-revelo-que-era-buscado-por-feminicidio-fue-capturado-en-el-aeropuerto-jose-maria-cordova-3573829",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a64f02cd6a7d.png",
+     "ts": 1785009829000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Panamá fortalece la confianza internacional en su registro marítimo",
-     "link": "https://www.prensa.com/opinion/panama-fortalece-la-confianza-internacional-en-su-registro-maritimo/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LGUIKLKW6RAQFL4W4BWKJVHL3E.JPG?auth=512c94337093b03d22997d6ec6710eedb4db0ff941ff4136cbfec57f9d53ff7f&smart=true&width=3903&height=2195",
-     "ts": 1784999191000,
+     "title": "Las noticias falsas empañan el empalme presidencial en Colombia",
+     "link": "https://www.france24.com/es/video/20260725-las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-colombia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/01855dba-8845-11f1-80a0-005056bf30b7/w:1024/p:16x9/Las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-Colombia.png",
+     "ts": 1784999774000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -986,7 +1040,7 @@
      "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
      "source": "EL TIEMPO.COM -Colombia",
      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
-     "ts": 1785006879000,
+     "ts": 1785011626000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
@@ -1002,27 +1056,27 @@
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
+   "name": "Dominican Rep.",
+   "es": "Rep. Dominicana",
+   "lat": 18.7,
+   "lon": -70.2,
    "count": 2,
    "items": [
     {
-     "title": "De vender café para pagar el viaje a ser campeonas del mundo: Selección Colombia sub-19 de hockey subacuático ganó el mundial en Turquía",
-     "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
-     "ts": 1785006879000,
+     "title": "Oro para Panamá: Nemesis Candelo abre el medallero nacional en Santo Domingo 2026",
+     "link": "https://www.prensa.com/deportes/oro-para-panama-nemesis-candelo-abre-el-medallero-nacional-en-santo-domingo-2026/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/6WS2OH37NBFONPD2MZWXMYO3L4.jpeg?auth=861d5684e5777fbddc297edaa9198ed68875d3d0e1b50317a21dd2c509880d5e&smart=true&width=3750&height=2517",
+     "ts": 1785008491000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Las noticias falsas empañan el empalme presidencial en Colombia",
-     "link": "https://www.france24.com/es/video/20260725-las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-colombia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/01855dba-8845-11f1-80a0-005056bf30b7/w:1024/p:16x9/Las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-Colombia.png",
-     "ts": 1784999774000,
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
+     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
+     "ts": 1785005922000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1083,33 +1137,6 @@
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 2,
-   "items": [
-    {
-     "title": "2 dead after small plane crashes into house in Germany",
-     "link": "https://www.scmp.com/news/world/europe/article/3361848/1-dead-after-small-plane-crashes-house-germany?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d77db96b-6f2e-49f3-84a4-5557724d2653_5aa680a2.jpg?itok=bpDsbgQB&v=1784983569",
-     "ts": 1784983570000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
-     "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=66fad829321e78441df39528ac0b3887",
-     "ts": 1784865604000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "Serbia",
    "es": "Serbia",
    "lat": 44.0,
@@ -1146,24 +1173,6 @@
    ]
   },
   {
-   "name": "Dominican Rep.",
-   "es": "Rep. Dominicana",
-   "lat": 18.7,
-   "lon": -70.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
-     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
-     "ts": 1785005922000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Argentina",
    "es": "Argentina",
    "lat": -38.4,
@@ -1194,24 +1203,6 @@
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/WBANTQPXANCKVNADTHCB5SGQCI.jpg?auth=a51079a8b22270fbf1a6d4ef68695b4d7929225422309fedcd48e627dd23a6a9&smart=true&width=5046&height=3364",
      "ts": 1785003232000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Canadá inaugura puente fronterizo con EE. UU. en medio de tensiones comerciales",
-     "link": "https://www.france24.com/es/video/20260725-puente-entre-canad%C3%A1-y-ee-uu-inaugura-en-medio-de-tensiones-comerciales",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/839d5b54-8845-11f1-af14-005056a90284/w:1024/p:16x9/ES-20260725-070800-071002-CS.jpg",
-     "ts": 1784997346000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
