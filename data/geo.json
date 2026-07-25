@@ -1,14 +1,23 @@
 {
- "updated": "2026-07-25T17:18:28.049880+00:00",
- "total": 123,
+ "updated": "2026-07-25T19:37:11.142908+00:00",
+ "total": 117,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 16,
+   "count": 14,
    "items": [
+    {
+     "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
+     "link": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/74ffbb7833ce2f38040db95a067927da970ea985/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=bf043c5091a12ed2f8d64227e0b410bc",
+     "ts": 1785004493000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Iran’s government spars with state TV as mediators push talks with US",
      "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
@@ -19,7 +28,7 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Puente entre Canadá y EE. UU. inaugura en medio de tensiones comerciales",
+     "title": "Canadá inaugura puente fronterizo con EE. UU. en medio de tensiones comerciales",
      "link": "https://www.france24.com/es/video/20260725-puente-entre-canad%C3%A1-y-ee-uu-inaugura-en-medio-de-tensiones-comerciales",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
      "image": "https://s.france24.com/media/display/839d5b54-8845-11f1-af14-005056a90284/w:1024/p:16x9/ES-20260725-070800-071002-CS.jpg",
@@ -35,24 +44,6 @@
      "ts": 1784991608000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Former top US food safety official says US mismanagement of cyclospora is approaching ‘a catastrophic level’",
-     "link": "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e274dbb13c53c5a43d38766d861f04a1c7716536/753_0_2160_1728/master/2160.jpg?width=140&quality=85&auto=format&fit=max&s=ce5e4d4b283a23819642cda74a7dff67",
-     "ts": 1784988283000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-     "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
-     "ts": 1784987467000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
@@ -98,6 +89,15 @@
      "ts": 1784955459000,
      "beat": "china",
      "beatName": "China"
+    },
+    {
+     "title": "US pummels Iran as Tehran targets regional bases stationing US forces",
+     "link": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/71fb0704-8794-11f1-aff9-005056bf30b7/w:1024/p:16x9/AP26205308049430.jpg",
+     "ts": 1784926097000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -205,7 +205,7 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 12,
+   "count": 10,
    "items": [
     {
      "title": "Iran’s government spars with state TV as mediators push talks with US",
@@ -213,15 +213,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1784997556000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "War on Iran: Phase II: Day 14",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784987352000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -296,105 +287,15 @@
      "ts": 1784913216000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
-   "count": 10,
-   "items": [
-    {
-     "title": "Renuncia el ministro de Educación de India tras escándalo por filtración de examen",
-     "link": "https://www.france24.com/es/video/20260725-renuncia-el-ministro-de-educaci%C3%B3n-de-india-tras-esc%C3%A1ndalo-por-filtraci%C3%B3n-de-examen",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d795f3e0-8842-11f1-8ce1-005056a90284/w:1024/p:16x9/ES-20260725-070236-070423-CS.jpg",
-     "ts": 1784997199000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
-     "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784995360000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-     "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784994833000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India: \"Las Cucarachas\" anuncian el fin de las protestas tras la renuncia del ministro de Educación",
-     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260725-india-las-cucarachas-anuncian-el-fin-de-las-protestas-tras-la-renuncia-del-ministro-de-educaci%C3%B3n",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/6bbefd40-8830-11f1-a24e-005056bfb2b6/w:1024/p:16x9/2026-07-25T101841Z-1497472734-RC2XKMAOWM9P-RTRMADP-3-INDIA-POLITICS.jpg",
-     "ts": 1784991300000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-     "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2100x1400+0+0/resize/2100x1400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fa0%2F0e0990784f58ab750ab61ad12277%2Fap26206436838172.jpg",
-     "ts": 1784990902000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India’s education minister resigns in victory for Cockroach youth movement protests",
-     "link": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e452065a79f3fccbd9748b75d237ea4e2ec1c845/1218_0_4282_3426/master/4282.jpg?width=140&quality=85&auto=format&fit=max&s=de8cfa2a6085067197eb3c214fff1ff4",
-     "ts": 1784987673000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Protesters celebrate resignation of India's education minister",
-     "link": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg",
-     "ts": 1784987041000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "CJP protest: The youth movement India's Modi didn't see coming",
-     "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c7/live/dbcb6ca0-869f-11f1-926f-c90d1bcfbc84.jpg",
-     "ts": 1784985964000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India’s education minister quits in major win for youth protesters",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3361839/indias-education-minister-quits-major-win-youth-protesters?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/00bf80ac-0e65-43d9-a9e4-a216fe3e6f2d_da0a1793.jpg?itok=nKD8XspR&v=1784973705",
-     "ts": 1784973709000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Iran warns countries aiding US attack",
+     "link": "https://www.france24.com/en/iran-warns-countries-aiding-us-attack",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/09ae0e1e-8756-11f1-8b9d-005056bf30b7/w:1024/p:16x9/EN-20260724-131918-132224-CS.jpg",
+     "ts": 1784905415000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -403,8 +304,17 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "War in the Middle East: Deadly violence mounts in the West Bank",
+     "link": "https://www.france24.com/en/war-in-the-middle-east-deadly-violence-mounts-in-west-bank",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/f9babf96-8847-11f1-af86-005056bfb2b6/w:1024/p:16x9/EN-20260725-181154-182032-CS.jpg",
+     "ts": 1785001075000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
     {
      "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
      "link": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
@@ -489,12 +399,111 @@
    ]
   },
   {
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 8,
+   "items": [
+    {
+     "title": "India: \"Partido de las Cucarachas\" logra renuncia de ministro y termina protestas",
+     "link": "https://www.france24.com/es/video/20260725-india-partido-de-las-cucarachas-logra-renuncia-de-ministro-y-termina-protestas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/2266d34a-8856-11f1-b529-005056a90284/w:1024/p:16x9/INDIA-CUCARACHAS.png",
+     "ts": 1785006708000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "India's 'cockroach' protest called off after education minister quits",
+     "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1785001486000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Renuncia el ministro de Educación de India tras escándalo por filtración de examen",
+     "link": "https://www.france24.com/es/video/20260725-renuncia-el-ministro-de-educaci%C3%B3n-de-india-tras-esc%C3%A1ndalo-por-filtraci%C3%B3n-de-examen",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/d795f3e0-8842-11f1-8ce1-005056a90284/w:1024/p:16x9/ES-20260725-070236-070423-CS.jpg",
+     "ts": 1784997199000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
+     "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784995360000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
+     "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1784994833000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+     "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2100x1400+0+0/resize/2100x1400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fa0%2F0e0990784f58ab750ab61ad12277%2Fap26206436838172.jpg",
+     "ts": 1784990902000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "India’s education minister quits in major win for youth protesters",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3361839/indias-education-minister-quits-major-win-youth-protesters?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/00bf80ac-0e65-43d9-a9e4-a216fe3e6f2d_da0a1793.jpg?itok=nKD8XspR&v=1784973705",
+     "ts": 1784973709000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
+     "ts": 1784955459000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Spain",
    "es": "España",
    "lat": 40.5,
    "lon": -3.7,
-   "count": 8,
+   "count": 7,
    "items": [
+    {
+     "title": "Francia y España enfrentan una devastadora ola de incendios forestales",
+     "link": "https://www.france24.com/es/video/20260725-francia-y-espa%C3%B1a-enfrentan-una-devastadora-ola-de-incendios-forestales",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/b4f95844-8857-11f1-87d5-005056a97e36/w:1024/p:16x9/ES-20260725-123140-123342-CS.jpg",
+     "ts": 1785006903000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "‘Si me hubiera demorado cinco minutos más, nos habría arrasado’: los testimonios de los afectados por los devastadores incendios en España y Francia",
+     "link": "https://www.prensa.com/bbc/si-me-hubiera-demorado-cinco-minutos-mas-nos-habria-arrasado-los-testimonios-de-los-afectados-por-los-devastadores-incendios-en-espana-y-francia/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/YXFNPKEAHVDO5AWVKRGNTSBJ74.jpg?auth=ba356905009bdf11be3a836143344cbae15ebaca40384772e494bf138b7d81c6&smart=true&width=1024&height=576",
+     "ts": 1785002457000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "More than 250,000 flee wildfires in France and Spain",
      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
@@ -505,11 +514,11 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+     "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/578e9b040e4040d69c71fdccd9aeb8b2744179d2/618_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=987293fade0e2a1883b5e9ff60a70847",
-     "ts": 1784998180000,
+     "ts": 1784999256000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -532,33 +541,6 @@
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "(Actualizada: 18)\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
-     "link": "https://www.prensa.com/mundo/es-el-peor-incendio-de-la-historia-de-madrid-los-fuegos-sin-control-que-han-obligado-a-evacuar-a-decenas-de-miles-de-personas/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/L7F7FQJMAJBRTHBM3I4LK4PEHA.jpg?auth=c0a282082e2170cb929b2cbf4ad83328b643c0016420adf040ea0465bd9a54c2&smart=true&width=1024&height=576",
-     "ts": 1784991600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-     "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784989221000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
-     "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-     "ts": 1784988799000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
      "title": "Controversial Gelman Collection to Inaugurate Spain’s New Faro Santander in September",
      "link": "https://www.artnews.com/list/art-news/news/faro-santander-september-2026-opening-gelman-collection-1234793355/",
      "source": "ARTnews.com",
@@ -570,129 +552,39 @@
    ]
   },
   {
-   "name": "Yemen",
-   "es": "Yemen",
-   "lat": 15.6,
-   "lon": 48.0,
-   "count": 6,
-   "items": [
-    {
-     "title": "Los hutíes de Yemen afirman haber atacado instalaciones petroleras saudíes en el mar Rojo",
-     "link": "https://www.france24.com/es/medio-oriente/20260725-los-hut%C3%ADes-de-yemen-afirman-haber-atacado-instalaciones-petroleras-saud%C3%ADes-en-el-mar-rojo",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
-     "ts": 1784995518000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
-     "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3b23528b400aed20e124a840d4aa14c1d90e7f40/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f339b0d30a9995f9d09b577e2e482e3",
-     "ts": 1784982511000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
-     "link": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
-     "ts": 1784968230000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
-     "ts": 1784966418000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Yemen's Houthis say they targeted Saudi oil facilities on Red Sea",
-     "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
-     "ts": 1784932272000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
-     "ts": 1784915902000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 5,
-   "items": [
-    {
-     "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
-     "link": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d9541bab98a8bbdd9dfe5c0a6388c6af8e6fb8f0/41_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=0db21d1197d9d08a4290ca243dd027b3",
-     "ts": 1784998214000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "VIDEO | Canal de Suez: la crisis que marcó el fin de Reino Unido y Francia como imperios coloniales hace 70 años",
-     "link": "https://www.bbc.com/mundo/articles/c8dn4gvg8njo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e88/live/f5a828e0-8783-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1784991723000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
-     "ts": 1784989815000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "“You wouldn't write it down as an idea – let's have gentle falsetto vocals referencing a Batman film and try to be inspired by UK garage and Prince”: How Hot Chip made an electronic pop classic",
-     "link": "https://www.musicradar.com/artists/you-wouldnt-write-it-down-as-an-idea-lets-have-gentle-falsetto-vocals-referencing-a-batman-film-and-try-to-be-inspired-by-uk-garage-and-prince-how-hot-chip-made-an-electronic-pop-classic",
-     "source": "Latest from MusicRadar",
-     "image": "https://cdn.mos.cms.futurecdn.net/swwqrjavNmmGpsFm87Kmu5-1280-80.jpg",
-     "ts": 1784985738000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
-    },
-    {
-     "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-     "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1784953221000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    }
-   ]
-  },
-  {
    "name": "France",
    "es": "Francia",
    "lat": 46.2,
    "lon": 2.2,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Francia y España enfrentan una devastadora ola de incendios forestales",
+     "link": "https://www.france24.com/es/video/20260725-francia-y-espa%C3%B1a-enfrentan-una-devastadora-ola-de-incendios-forestales",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/b4f95844-8857-11f1-87d5-005056a97e36/w:1024/p:16x9/ES-20260725-123140-123342-CS.jpg",
+     "ts": 1785006903000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "🔴 En directo | Francia vive una situación \"histórica\", con casi 100.000 hectáreas arrasadas: Sébastien Lecornu",
+     "link": "https://www.france24.com/es/europa/20260725-en-directo-incendios-avanzan-hacia-burdeos-provocan-evacuaciones-masivas-en-espa%C3%B1a-y-ponen-en-alerta-a-escocia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "ts": 1785006389000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "‘Si me hubiera demorado cinco minutos más, nos habría arrasado’: los testimonios de los afectados por los devastadores incendios en España y Francia",
+     "link": "https://www.prensa.com/bbc/si-me-hubiera-demorado-cinco-minutos-mas-nos-habria-arrasado-los-testimonios-de-los-afectados-por-los-devastadores-incendios-en-espana-y-francia/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/YXFNPKEAHVDO5AWVKRGNTSBJ74.jpg?auth=ba356905009bdf11be3a836143344cbae15ebaca40384772e494bf138b7d81c6&smart=true&width=1024&height=576",
+     "ts": 1785002457000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "More than 250,000 flee wildfires in France and Spain",
      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
@@ -703,11 +595,11 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+     "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/578e9b040e4040d69c71fdccd9aeb8b2744179d2/618_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=987293fade0e2a1883b5e9ff60a70847",
-     "ts": 1784998180000,
+     "ts": 1784999256000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -719,69 +611,6 @@
      "ts": 1784993160000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "VIDEO | Canal de Suez: la crisis que marcó el fin de Reino Unido y Francia como imperios coloniales hace 70 años",
-     "link": "https://www.bbc.com/mundo/articles/c8dn4gvg8njo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e88/live/f5a828e0-8783-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1784991723000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
-     "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-     "ts": 1784988799000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 4,
-   "items": [
-    {
-     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
-     "ts": 1784989815000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Extinct Media Museum Tokyo",
-     "link": "https://extinct-media-museum.blog.jp/otemachi/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1784958687000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
-     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
-     "ts": 1784957037000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
-     "ts": 1784955459000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -790,8 +619,17 @@
    "es": "Siria",
    "lat": 34.8,
    "lon": 39.0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "At least 35 killed after two buses collide in eastern Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785007350000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Choque entre dos buses deja al menos 35 muertos en Siria",
      "link": "https://www.dw.com/es/choque-entre-dos-buses-deja-al-menos-35-muertos-en-siria/a-78114892?maca=spa-rss-sp-all-1122-rdf",
@@ -831,74 +669,146 @@
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 3,
+   "name": "Yemen",
+   "es": "Yemen",
+   "lat": 15.6,
+   "lon": 48.0,
+   "count": 5,
    "items": [
     {
-     "title": "Panamá fortalece la confianza internacional en su registro marítimo",
-     "link": "https://www.prensa.com/opinion/panama-fortalece-la-confianza-internacional-en-su-registro-maritimo/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LGUIKLKW6RAQFL4W4BWKJVHL3E.JPG?auth=512c94337093b03d22997d6ec6710eedb4db0ff941ff4136cbfec57f9d53ff7f&smart=true&width=3903&height=2195",
-     "ts": 1784999191000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
+     "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3b23528b400aed20e124a840d4aa14c1d90e7f40/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f339b0d30a9995f9d09b577e2e482e3",
+     "ts": 1784982511000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
+     "link": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
+     "ts": 1784968230000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Células madre en Panamá: estos son los cuatro centros autorizados para su uso",
-     "link": "https://www.prensa.com/sociedad/celulas-madre-en-panama-estos-son-los-cuatro-centros-autorizados-para-su-uso/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/SJ2DKTGXWFE4TKIRK34HNTASO4.jpg?auth=3b5dcba3dd8c96e8d9714e8f392931d45592a4596c59ed38ddbbdc29cc34aa98&smart=true&width=3864&height=2576",
-     "ts": 1784992026000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
+     "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
+     "ts": 1784966418000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Houthis target Saudi oil facilities as new Middle Eastern front",
+     "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
+     "ts": 1784932272000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
+     "ts": 1784915902000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 3,
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 4,
    "items": [
     {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
+     "title": "Police investigate payments to Reform UK first revealed by The Guardian",
+     "link": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/86b6ec0f1c67f1a2c46154a7cfce7c3d9763e754/338_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=c958c2a8ccbcd387b7bf872a5b2310e1",
+     "ts": 1785006681000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
+     "link": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d9541bab98a8bbdd9dfe5c0a6388c6af8e6fb8f0/41_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=0db21d1197d9d08a4290ca243dd027b3",
+     "ts": 1784998214000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
+     "ts": 1784989815000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "“You wouldn't write it down as an idea – let's have gentle falsetto vocals referencing a Batman film and try to be inspired by UK garage and Prince”: How Hot Chip made an electronic pop classic",
+     "link": "https://www.musicradar.com/artists/you-wouldnt-write-it-down-as-an-idea-lets-have-gentle-falsetto-vocals-referencing-a-batman-film-and-try-to-be-inspired-by-uk-garage-and-prince-how-hot-chip-made-an-electronic-pop-classic",
+     "source": "Latest from MusicRadar",
+     "image": "https://cdn.mos.cms.futurecdn.net/swwqrjavNmmGpsFm87Kmu5-1280-80.jpg",
+     "ts": 1784985738000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    }
+   ]
+  },
+  {
+   "name": "Brazil",
+   "es": "Brasil",
+   "lat": -14.2,
+   "lon": -51.9,
+   "count": 4,
+   "items": [
+    {
+     "title": "Brasil registra la menor mortalidad por VIH en más de tres décadas",
+     "link": "https://www.france24.com/es/video/20260725-brasil-registra-la-menor-mortalidad-por-vih-en-m%C3%A1s-de-tres-d%C3%A9cadas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/e773d304-8856-11f1-bd17-005056bf30b7/w:1024/p:16x9/ES-20260725-101124-101327-CS.jpg",
+     "ts": 1785006866000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Temblor hoy en Colombia: sismo de magnitud 3,1 se registró este sábado 25 de julio en La Guajira",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-de-magnitud-3-1-se-registro-este-sabado-25-de-julio-en-la-guajira-3573811",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/25/6a64d62808cef.r_d.110-316-0.png",
-     "ts": 1784993432000,
+     "title": "Milei arremete contra Lula en Brasil y llama a “parar la basura socialista”",
+     "link": "https://elpais.com/argentina/2026-07-25/milei-arremete-contra-lula-en-brasil-y-llama-a-parar-la-basura-socialista.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/PMUJJ3HDRRKE5OCZMK6ER62J6E.jpg?auth=9d37052adea6ed47a40cae7c2dde1d76f117f3089be5fe433c06e524d0685c98",
+     "ts": 1785004988000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Aerocivil reporta retrasos y cambios en vuelos por condiciones meteorológicas en Barranquilla, Medellín y Villavicencio: 'Contacte con sus aerolíneas'",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/aerocivil-reporta-retrasos-y-cambios-en-vuelos-por-condiciones-meteorologicas-en-barranquilla-medellin-y-villavicencio-contacte-con-sus-aerolineas-3573791",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a64bebd77e68.png",
-     "ts": 1784987376000,
+     "title": "Flávio Bolsonaro se lanza a la carrera presidencial de Brasil con pocas alianzas y en el punto de mira de la justicia",
+     "link": "https://elpais.com/america/2026-07-25/flavio-bolsonaro-se-lanza-a-la-carrera-presidencial-de-brasil-con-pocas-alianzas-y-en-el-punto-de-mira-de-la-justicia.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DJB5CVBNFZNKPCRJLJWCU66FCA.jpg?auth=cb89d884f10bb18ba49d14e7646a504a67ed8f0a52063ded5719b25b98b0637e",
+     "ts": 1785004802000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Flavio Bolsonaro gets party nod to run against Brazil's Lula",
+     "link": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785004500000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -910,13 +820,13 @@
    "count": 3,
    "items": [
     {
-     "title": "¿El precio del acuerdo nuclear con Arabia Saudita? Reconocer a Israel",
-     "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260725-el-precio-del-acuerdo-nuclear-con-arabia-saudita-reconocer-a-israel",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d020d85c-8773-11f1-b846-005056a90284/w:1024/p:16x9/WEB-PORTADA-SEM-24JUL.png",
-     "ts": 1784987965000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+     "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785003294000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
@@ -939,21 +849,219 @@
    ]
   },
   {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 3,
+   "items": [
+    {
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
+     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
+     "ts": 1785005922000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "BID aprueba hasta $40 millones para fortalecer el sistema de salud en Panamá",
+     "link": "https://www.prensa.com/sociedad/bid-aprueba-hasta-40-millones-para-fortalecer-el-sistema-de-salud-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/2O76J2MNN5ATNGGLAOXOJLWAFI.jpeg?auth=a348a60c79b9ecf4afe5171f93934eb8622bf4bc73eb53ba1154a1cd7c6919c2&smart=true&width=750&height=480",
+     "ts": 1785000122000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Panamá fortalece la confianza internacional en su registro marítimo",
+     "link": "https://www.prensa.com/opinion/panama-fortalece-la-confianza-internacional-en-su-registro-maritimo/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/LGUIKLKW6RAQFL4W4BWKJVHL3E.JPG?auth=512c94337093b03d22997d6ec6710eedb4db0ff941ff4136cbfec57f9d53ff7f&smart=true&width=3903&height=2195",
+     "ts": 1784999191000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 3,
+   "items": [
+    {
+     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
+     "ts": 1784989815000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
+     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
+     "ts": 1784957037000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Japan courts India, Malaysia to escape US-China AI duopoly",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/824162d4-20c5-4356-b901-c3b840cc1cb2_7ca3d5ee.jpg?itok=RdLTcbO-&v=1784956045",
+     "ts": 1784955459000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
+   "count": 2,
+   "items": [
+    {
+     "title": "Archie Rand’s Landmark Letter Paintings Acquired by Italy’s Modena FC Collection",
+     "link": "https://www.artnews.com/art-news/news/archie-rand-letter-paintings-modena-fc-acquisition-1234793377/",
+     "source": "ARTnews.com",
+     "image": "https://www.artnews.com/wp-content/uploads/2026/07/Letter-Paintings-C-vi029.jpg?w=400",
+     "ts": 1785005876000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
+     "ts": 1784989815000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Tokayev dice a Putin que la guerra en Ucrania debe terminar",
+     "link": "https://www.dw.com/es/tokayev-dice-a-putin-que-la-guerra-en-ucrania-debe-terminar/a-78115646?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785003720000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Venice Biennale President Calls EU Withdrawal of Funding Over Russia ‘Entirely Political, Certainly Not Legal’",
+     "link": "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1784915909000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Turkey",
+   "es": "Turquía",
+   "lat": 38.9,
+   "lon": 35.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "De vender café para pagar el viaje a ser campeonas del mundo: Selección Colombia sub-19 de hockey subacuático ganó el mundial en Turquía",
+     "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
+     "ts": 1785006879000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+     "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3ab284c230e78a419f83bcbf6a82905b4bdae6f6/660_0_6567_5257/master/6567.jpg?width=140&quality=85&auto=format&fit=max&s=aed7dbcf702b5ce446af9946bafc003f",
+     "ts": 1784929856000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "De vender café para pagar el viaje a ser campeonas del mundo: Selección Colombia sub-19 de hockey subacuático ganó el mundial en Turquía",
+     "link": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/25/6a650ac6811ed.png",
+     "ts": 1785006879000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Las noticias falsas empañan el empalme presidencial en Colombia",
+     "link": "https://www.france24.com/es/video/20260725-las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-colombia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/01855dba-8845-11f1-80a0-005056bf30b7/w:1024/p:16x9/Las-noticias-falsas-empan%CC%83an-el-empalme-presidencial-en-Colombia.png",
+     "ts": 1784999774000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "Tokayev dice a Putin que la guerra en Ucrania debe terminar",
+     "link": "https://www.dw.com/es/tokayev-dice-a-putin-que-la-guerra-en-ucrania-debe-terminar/a-78115646?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785003720000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
+     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
+     "ts": 1784957037000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Saudi Arabia",
    "es": "Arabia Saudita",
    "lat": 23.9,
    "lon": 45.1,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "¿El precio del acuerdo nuclear con Arabia Saudita? Reconocer a Israel",
-     "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260725-el-precio-del-acuerdo-nuclear-con-arabia-saudita-reconocer-a-israel",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d020d85c-8773-11f1-b846-005056a90284/w:1024/p:16x9/WEB-PORTADA-SEM-24JUL.png",
-     "ts": 1784987965000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
     {
      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
      "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
@@ -975,33 +1083,6 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Venice Biennale President Calls EU Withdrawal of Funding Over Russia ‘Entirely Political, Certainly Not Legal’",
-     "link": "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1784915909000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
    "name": "Germany",
    "es": "Alemania",
    "lat": 51.2,
@@ -1009,7 +1090,7 @@
    "count": 2,
    "items": [
     {
-     "title": "1 dead after small plane crashes into house in Germany",
+     "title": "2 dead after small plane crashes into house in Germany",
      "link": "https://www.scmp.com/news/world/europe/article/3361848/1-dead-after-small-plane-crashes-house-germany?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d77db96b-6f2e-49f3-84a4-5557724d2653_5aa680a2.jpg?itok=bpDsbgQB&v=1784983569",
@@ -1029,20 +1110,20 @@
    ]
   },
   {
-   "name": "Ecuador",
-   "es": "Ecuador",
-   "lat": -1.8,
-   "lon": -78.2,
+   "name": "Serbia",
+   "es": "Serbia",
+   "lat": 44.0,
+   "lon": 21.0,
    "count": 1,
    "items": [
     {
-     "title": "Museo Nacional del Ecuador Selects an Architect for Quito, Chelsea Set to Get a New Gallery this Art Week: Morning Links for July 24, 2026",
-     "link": "https://www.artnews.com/art-news/news/museo-nacional-del-ecuador-selects-architect-morning-links-1234793347/",
-     "source": "ARTnews.com",
+     "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+     "link": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
      "image": "",
-     "ts": 1784903545000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
+     "ts": 1785000720000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -1065,20 +1146,56 @@
    ]
   },
   {
-   "name": "Korea",
-   "es": "Corea del Sur",
-   "lat": 35.9,
-   "lon": 127.8,
+   "name": "Dominican Rep.",
+   "es": "Rep. Dominicana",
+   "lat": 18.7,
+   "lon": -70.2,
    "count": 1,
    "items": [
     {
-     "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-     "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1784989221000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Santo Domingo 2026: Panamá inicia con el pie derecho en el baloncesto femenino",
+     "link": "https://www.prensa.com/deportes/santo-domingo-2026-panama-inicia-con-el-pie-derecho-en-el-baloncesto-femenino/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GSCNWMXKY5FABLICS2GV6TJOVI.png?auth=0ce1c23c86623f863b1e56c272ae085dc5b9b9b92991781f5a8e54a7cfb2fb4d&smart=true&width=2816&height=1492",
+     "ts": 1785005922000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "Milei arremete contra Lula en Brasil y llama a “parar la basura socialista”",
+     "link": "https://elpais.com/argentina/2026-07-25/milei-arremete-contra-lula-en-brasil-y-llama-a-parar-la-basura-socialista.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/PMUJJ3HDRRKE5OCZMK6ER62J6E.jpg?auth=9d37052adea6ed47a40cae7c2dde1d76f117f3089be5fe433c06e524d0685c98",
+     "ts": 1785004988000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Hungary",
+   "es": "Hungría",
+   "lat": 47.2,
+   "lon": 19.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "Hamilton y Antonelli pierden tres puestos en parrilla por sanción en Hungría",
+     "link": "https://www.prensa.com/deportes/hamilton-y-antonelli-pierden-tres-puestos-en-parrilla-por-sancion-en-hungria/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/WBANTQPXANCKVNADTHCB5SGQCI.jpg?auth=a51079a8b22270fbf1a6d4ef68695b4d7929225422309fedcd48e627dd23a6a9&smart=true&width=5046&height=3364",
+     "ts": 1785003232000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -1090,139 +1207,13 @@
    "count": 1,
    "items": [
     {
-     "title": "Puente entre Canadá y EE. UU. inaugura en medio de tensiones comerciales",
+     "title": "Canadá inaugura puente fronterizo con EE. UU. en medio de tensiones comerciales",
      "link": "https://www.france24.com/es/video/20260725-puente-entre-canad%C3%A1-y-ee-uu-inaugura-en-medio-de-tensiones-comerciales",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
      "image": "https://s.france24.com/media/display/839d5b54-8845-11f1-af14-005056a90284/w:1024/p:16x9/ES-20260725-070800-071002-CS.jpg",
      "ts": 1784997346000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "El Salvador",
-   "es": "El Salvador",
-   "lat": 13.8,
-   "lon": -88.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Cuba",
-   "es": "Cuba",
-   "lat": 21.5,
-   "lon": -77.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Peru",
-   "es": "Perú",
-   "lat": -9.2,
-   "lon": -75.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Bolivia",
-   "es": "Bolivia",
-   "lat": -16.3,
-   "lon": -63.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ciudadanos de Cuba, Colombia, Perú, Bolivia, Panamá y El Salvador han sido presa de redes que reclutan para Rusia",
-     "link": "https://www.prensa.com/politica/ciudadanos-de-cuba-colombia-peru-bolivia-panama-y-el-salvador-han-sido-presa-de-redes-que-reclutan-para-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TGV7TKSEBJARPG3VATM3B3OE5E.jpg?auth=58a2284c9bc5b291324b30d845f33aacc415bc763eb3e702896ba755531a7dd3&smart=true&width=1920&height=1385",
-     "ts": 1784995138000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Venezuela",
-   "es": "Venezuela",
-   "lat": 6.4,
-   "lon": -66.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "3 investigaciones internacionales sobre Nicolás Maduro y su gobierno además del proceso judicial de Nueva York",
-     "link": "https://www.bbc.com/mundo/articles/cx2djl7pqj9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59cf/live/48d29560-85f8-11f1-b3ca-7f13da683e7e.jpg",
-     "ts": 1784992792000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Niger",
-   "es": "Níger",
-   "lat": 17.6,
-   "lon": 8.1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Tres años de Junta Militar en una Níger que sigue inestable",
-     "link": "https://www.dw.com/es/tres-años-de-junta-militar-en-una-níger-que-sigue-inestable/a-78109836?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1784992740000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Turkey",
-   "es": "Turquía",
-   "lat": 38.9,
-   "lon": 35.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
-     "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3ab284c230e78a419f83bcbf6a82905b4bdae6f6/660_0_6567_5257/master/6567.jpg?width=140&quality=85&auto=format&fit=max&s=aed7dbcf702b5ce446af9946bafc003f",
-     "ts": 1784929856000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -1241,42 +1232,6 @@
      "ts": 1784865604000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Italy",
-   "es": "Italia",
-   "lat": 41.9,
-   "lon": 12.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "Japan, UK, Italy eye Japanese factory to build fighter jet",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
-     "ts": 1784989815000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
-     "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
-     "ts": 1784957037000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
