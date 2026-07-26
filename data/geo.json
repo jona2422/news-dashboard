@@ -1,14 +1,50 @@
 {
- "updated": "2026-07-26T10:14:28.111600+00:00",
- "total": 104,
+ "updated": "2026-07-26T11:39:52.022113+00:00",
+ "total": 107,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 19,
+   "count": 22,
    "items": [
+    {
+     "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785064680000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US pauses attacks on Iran for a second day as peace talks continue",
+     "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/043c8a85c68c52d84753f45400765d8c176f8f26/128_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=792b805c835f05fe6a3b5dc19c267bb5",
+     "ts": 1785064584000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Chinese tech firms’ ‘snub’ to US Congress advisers highlights Beijing’s growing AI caution",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3361893/chinese-tech-firms-snub-us-congress-advisers-highlights-beijings-growing-ai-caution?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/a02f446a-c702-4216-bb5c-6f9c9e16a438_dc8044e0.jpg?itok=n0QoRbRA&v=1785059166",
+     "ts": 1785063613000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Estados Unidos desiste esta noche de bombardear Irán",
+     "link": "https://www.dw.com/es/estados-unidos-desiste-esta-noche-de-bombardear-irán/a-78118793?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785059520000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "‘Super’ El Nino: Africa facing mass migration, US$20 billion in damages",
      "link": "https://www.scmp.com/news/world/africa/article/3361891/super-el-nino-africa-facing-mass-migration-us20-billion-damages?utm_source=rss_feed",
@@ -24,15 +60,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1785056019000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Middle East: No fresh US strikes on Iran for a second day",
-     "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785052920000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -71,33 +98,204 @@
      "ts": 1785042000000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Iran",
+   "es": "Irán",
+   "lat": 32.4,
+   "lon": 53.7,
+   "count": 15,
+   "items": [
+    {
+     "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785064680000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Cuba tilda la presión de Estados Unidos de ‘castigo colectivo’ que busca un ‘estallido social’",
-     "link": "https://www.prensa.com/mundo/cuba-tilda-la-presion-de-estados-unidos-de-castigo-colectivo-que-busca-un-estallido-social/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Y5MTNZ6O5NFVRN6LPIAPPYLMQU.jpg?auth=d6a230a8c42a86e8f19cdf18d5a74453c5ad3b7f5a62be13b1aed450a5804387&smart=true&width=1920&height=1243",
-     "ts": 1785042000000,
+     "title": "US pauses attacks on Iran for a second day as peace talks continue",
+     "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/043c8a85c68c52d84753f45400765d8c176f8f26/128_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=792b805c835f05fe6a3b5dc19c267bb5",
+     "ts": 1785064584000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+     "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785062723000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Estados Unidos desiste esta noche de bombardear Irán",
+     "link": "https://www.dw.com/es/estados-unidos-desiste-esta-noche-de-bombardear-irán/a-78118793?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785059520000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Why new US tariffs threaten Trump government’s credibility in Asean",
-     "link": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
+     "title": "Iran claims progress in Oman talks after US halts air strikes",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3361888/iran-claims-progress-oman-talks-after-us-halts-air-strikes?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/ba5f6654-b310-4220-a8a0-7ba4ee44bac6_248153be.jpg?itok=ae19Axss&v=1785031857",
-     "ts": 1785036609000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/b6cc1b72-0c25-4e50-8af9-3dae1797393d_e8c8d798.jpg?itok=jpKLscBK&v=1785052323",
+     "ts": 1785052331000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Show HN: I mapped every US golf course",
-     "link": "https://golfcoursebrowser.com/",
-     "source": "Hacker News: Front Page",
+     "title": "US holds fire against Iran as media reports say Washington's stockpiles are dwindling",
+     "link": "https://www.france24.com/en/middle-east/20260726-us-holds-fire-against-iran-as-media-reports-say-washington-s-stockpiles-are-dwindling",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/70e31452-88b5-11f1-a476-005056bfb2b6/w:1024/p:16x9/83746325d30b877e4cbad19acf28a767949c6eee.jpg",
+     "ts": 1785044829000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "100 days to US midterms, Trump faces defeat amid voter anger over inflation, Iran war",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3361874/100-days-us-midterms-trump-faces-defeat-amid-voter-anger-over-inflation-iran-war?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/1b9b6ee2-3bc3-4e59-9535-7d79a2ed27b0_f7965041.jpg?itok=NTc2FfPO&v=1785044533",
+     "ts": 1785044541000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
+     "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3b23528b400aed20e124a840d4aa14c1d90e7f40/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f339b0d30a9995f9d09b577e2e482e3",
+     "ts": 1784982511000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "No, this video does not show Iran downing a US B-52 bomber",
+     "link": "https://www.france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/1f108a8e-8760-11f1-9ceb-005056bfb2b6/w:1024/p:16x9/B52.jpg",
+     "ts": 1784971636000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+     "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3ab284c230e78a419f83bcbf6a82905b4bdae6f6/660_0_6567_5257/master/6567.jpg?width=140&quality=85&auto=format&fit=max&s=aed7dbcf702b5ce446af9946bafc003f",
+     "ts": 1784929856000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "China",
+   "es": "China",
+   "lat": 35.9,
+   "lon": 104.2,
+   "count": 15,
+   "items": [
+    {
+     "title": "Search for survivors continues as 45 rescued after cargo ship sinks in South China Sea",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3361901/search-survivors-continues-45-rescued-after-cargo-ship-sinks-south-china-sea?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/dbe86df9-aa7a-44ed-bf37-603bb357e55c_a2dba6ec.jpg?itok=iQba-ujF&v=1785064700",
+     "ts": 1785064773000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Chinese tech firms’ ‘snub’ to US Congress advisers highlights Beijing’s growing AI caution",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3361893/chinese-tech-firms-snub-us-congress-advisers-highlights-beijings-growing-ai-caution?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/a02f446a-c702-4216-bb5c-6f9c9e16a438_dc8044e0.jpg?itok=n0QoRbRA&v=1785059166",
+     "ts": 1785063613000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "How can Alzheimer’s patients in Hong Kong buy ‘more golden hours’ with family?",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361854/how-can-alzheimers-patients-hong-kong-buy-more-golden-hours-family?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/0bba78dc-b2ea-4328-993b-ba2f38c90d67_22f10501.jpg?itok=HawEgWeS&v=1784994262",
+     "ts": 1785063608000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong veterinary board pressed to improve service amid logjam of complaints",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3361884/hong-kong-veterinary-board-pressed-improve-service-amid-logjam-complaints?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/887bceaa-7380-4b60-af1b-209825e8a87f_6f207c43.jpg?itok=hRjUPOuM&v=1785050223",
+     "ts": 1785058206000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Northern Metropolis will make Hong Kong more liveable, Paul Chan says",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3361890/northern-metropolis-will-make-hong-kong-more-liveable-paul-chan-says?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/87f1b04d-d989-4c5d-bb32-e7fcbc220042_45def31b.jpg?itok=U1gNBjNx&v=1785055782",
+     "ts": 1785055869000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China rescata a 44 marineros de un buque vietnamita hundido",
+     "link": "https://www.dw.com/es/china-rescata-a-44-marineros-de-un-buque-vietnamita-hundido/a-78118334?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1785032546000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
+     "ts": 1785053040000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Journal to review university paper citing Hong Kong map without Victoria Harbour",
+     "link": "https://www.scmp.com/news/hong-kong/education/article/3361883/journal-review-eduhk-research-paper-citing-hong-kong-map-without-victoria-harbour?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/aaaa356c-7e95-420a-b2ef-e9a37512d302_aed5e320.jpg?itok=e1lZlSJq&v=1785049983",
+     "ts": 1785052817000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Noul, third-closest typhoon to Hong Kong since 2000, causes minor damage to city",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361886/noul-third-closest-typhoon-hong-kong-2000-causes-minor-damage-city?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/c59b737c-8d83-47f9-8300-f0d2b3ebeda7_094c2de9.jpg?itok=AuZ3CfE9&v=1785051106",
+     "ts": 1785051111000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Typhoon Noul: 2,000 passengers left stranded overnight at Hong Kong airport",
+     "link": "https://www.scmp.com/news/hong-kong/transport/article/3361875/2000-passengers-stranded-overnight-hong-kong-airport-due-typhoon-noul?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/8f384c36-1fec-4e62-8eaf-ba357c48a5e0_6be425df.jpg?itok=mfCEMijI&v=1785045384",
+     "ts": 1785045388000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "India aims for a 200-ship navy to counter China and Pakistan",
+     "link": "https://www.scmp.com/week-asia/politics/article/3361786/india-aims-200-ship-navy-counter-china-and-pakistan?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/3249e844-4147-4f43-857d-71212e83e52d_91242b79.jpg?itok=dJ2VB3yE&v=1784896212",
+     "ts": 1785043806000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -106,8 +304,17 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 14,
+   "count": 12,
    "items": [
+    {
+     "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+     "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/a8b251b0-88db-11f1-aeef-edf7e578a56d.jpg",
+     "ts": 1785061565000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Israel detains over 70 suspects following deadly violence in the West Bank",
      "link": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
@@ -123,24 +330,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1785056110000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785052530000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israeli settlers set fire to mosque in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785049946000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -197,321 +386,60 @@
      "ts": 1784912042000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "China",
-   "es": "China",
-   "lat": 35.9,
-   "lon": 104.2,
-   "count": 14,
-   "items": [
-    {
-     "title": "Hong Kong veterinary board pressed to improve service amid logjam of complaints",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3361884/hong-kong-veterinary-board-pressed-improve-service-amid-logjam-complaints?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/887bceaa-7380-4b60-af1b-209825e8a87f_6f207c43.jpg?itok=hRjUPOuM&v=1785050223",
-     "ts": 1785058206000,
-     "beat": "china",
-     "beatName": "China"
     },
     {
-     "title": "Northern Metropolis will make Hong Kong more liveable, Paul Chan says",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3361890/northern-metropolis-will-make-hong-kong-more-liveable-paul-chan-says?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/87f1b04d-d989-4c5d-bb32-e7fcbc220042_45def31b.jpg?itok=U1gNBjNx&v=1785055782",
-     "ts": 1785055869000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China rescata a 44 marineros de un buque vietnamita hundido",
-     "link": "https://www.dw.com/es/china-rescata-a-44-marineros-de-un-buque-vietnamita-hundido/a-78118334?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785053040000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Journal to review university paper citing Hong Kong map without Victoria Harbour",
-     "link": "https://www.scmp.com/news/hong-kong/education/article/3361883/journal-review-eduhk-research-paper-citing-hong-kong-map-without-victoria-harbour?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/aaaa356c-7e95-420a-b2ef-e9a37512d302_aed5e320.jpg?itok=e1lZlSJq&v=1785049983",
-     "ts": 1785052817000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Vietnamese vessel sinks in South China Sea, 23 missing",
-     "link": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-23-missing/a-78118211?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785051960000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Noul, third-closest typhoon to Hong Kong since 2000, causes minor damage to city",
-     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361886/noul-third-closest-typhoon-hong-kong-2000-causes-minor-damage-city?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/c59b737c-8d83-47f9-8300-f0d2b3ebeda7_094c2de9.jpg?itok=AuZ3CfE9&v=1785051106",
-     "ts": 1785051111000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Typhoon Noul: 2,000 passengers left stranded overnight at Hong Kong airport",
-     "link": "https://www.scmp.com/news/hong-kong/transport/article/3361875/2000-passengers-stranded-overnight-hong-kong-airport-due-typhoon-noul?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/8f384c36-1fec-4e62-8eaf-ba357c48a5e0_6be425df.jpg?itok=mfCEMijI&v=1785045384",
-     "ts": 1785045388000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "India aims for a 200-ship navy to counter China and Pakistan",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361786/india-aims-200-ship-navy-counter-china-and-pakistan?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/3249e844-4147-4f43-857d-71212e83e52d_91242b79.jpg?itok=dJ2VB3yE&v=1784896212",
-     "ts": 1785043806000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "El sureste de China en alerta máxima por tifón Noul",
-     "link": "https://www.dw.com/es/el-sureste-de-china-en-alerta-máxima-por-tifón-noul/a-78117456?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785042600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Southeast Asia must embrace reforms for ‘China plus one’ to succeed",
-     "link": "https://www.scmp.com/week-asia/opinion/article/3361816/southeast-asia-must-embrace-reforms-china-plus-one-succeed?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/877ce350-ef43-4ed9-a83f-f3498c4f5321_7f84f0e3.jpg?itok=qBWQtV1N&v=1784941791",
-     "ts": 1785040206000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Iran",
-   "es": "Irán",
-   "lat": 32.4,
-   "lon": 53.7,
-   "count": 12,
-   "items": [
-    {
-     "title": "Middle East: No fresh US strikes on Iran for a second day",
-     "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785052920000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran claims progress in Oman talks after US halts air strikes",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3361888/iran-claims-progress-oman-talks-after-us-halts-air-strikes?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/b6cc1b72-0c25-4e50-8af9-3dae1797393d_e8c8d798.jpg?itok=jpKLscBK&v=1785052323",
-     "ts": 1785052331000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US holds fire against Iran as media reports say Washington's stockpiles are dwindling",
-     "link": "https://www.france24.com/en/middle-east/20260726-us-holds-fire-against-iran-as-media-reports-say-washington-s-stockpiles-are-dwindling",
+     "title": "Deadly clashes in the occupied West Bank",
+     "link": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/70e31452-88b5-11f1-a476-005056bfb2b6/w:1024/p:16x9/83746325d30b877e4cbad19acf28a767949c6eee.jpg",
-     "ts": 1785044829000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "100 days to US midterms, Trump faces defeat amid voter anger over inflation, Iran war",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3361874/100-days-us-midterms-trump-faces-defeat-amid-voter-anger-over-inflation-iran-war?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/1b9b6ee2-3bc3-4e59-9535-7d79a2ed27b0_f7965041.jpg?itok=NTc2FfPO&v=1785044533",
-     "ts": 1785044541000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
-     "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3b23528b400aed20e124a840d4aa14c1d90e7f40/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f339b0d30a9995f9d09b577e2e482e3",
-     "ts": 1784982511000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "No, this video does not show Iran downing a US B-52 bomber",
-     "link": "https://www.france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/1f108a8e-8760-11f1-9ceb-005056bfb2b6/w:1024/p:16x9/B52.jpg",
-     "ts": 1784971636000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
-     "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3ab284c230e78a419f83bcbf6a82905b4bdae6f6/660_0_6567_5257/master/6567.jpg?width=140&quality=85&auto=format&fit=max&s=aed7dbcf702b5ce446af9946bafc003f",
-     "ts": 1784929856000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US pummels Iran as Tehran targets regional bases stationing US forces",
-     "link": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/71fb0704-8794-11f1-aff9-005056bf30b7/w:1024/p:16x9/AP26205308049430.jpg",
-     "ts": 1784926097000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-     "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
-     "ts": 1784915902000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Middle East crisis: US carries out strikes across Iran as Tehran targets American bases in region – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e7bb6355149157db04d4dbd35e8ef866b099184c/372_0_4191_3354/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=56dfb95796c210d358b2a238f04eff44",
-     "ts": 1784913609000,
+     "image": "https://s.france24.com/media/display/c89a5b2c-8777-11f1-9f86-005056a97e36/w:1024/p:16x9/EN-20260724-170417-170751-CS.jpg",
+     "ts": 1784908630000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 6,
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 4,
    "items": [
     {
-     "title": "Un muerto y al menos 16 heridos en la Marcha del Orgullo en Berlín después de que un vehículo arrollara a la multitud",
-     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63e3/live/a7bb1680-8885-11f1-888c-4340a977fe30.jpg",
-     "ts": 1785058405000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "UK’s Burnham ‘putting Britain first’ as he rules out 2029 election",
+     "link": "https://www.scmp.com/news/world/europe/article/3361902/uks-burnham-putting-britain-first-he-rules-out-2029-election?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/0396fcc1-76b7-4ec6-92bd-610a91b64a45_e4a7f92c.jpg?itok=7n5hESlS&v=1785065800",
+     "ts": 1785065810000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "What we know so far about the Berlin Pride ramming attack",
-     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg",
-     "ts": 1785057513000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-     "link": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81f/live/5ba2aae0-88c8-11f1-b2ab-0dd01740f9f6.jpg",
-     "ts": 1785053695000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
-     "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6a982f444639a23465779e103f663b5f8df46ea9/898_34_4484_3588/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3b6d3fcc1b3501682c74cd88833c5637",
-     "ts": 1785052933000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
-     "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785049500000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "La Policía difunde la foto del sospechoso del atentado en Berlín",
-     "link": "https://www.dw.com/es/la-policía-difunde-la-foto-del-sospechoso-del-atentado-en-berlín/a-78118195?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785049260000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Israel",
-   "es": "Israel",
-   "lat": 31.0,
-   "lon": 34.9,
-   "count": 5,
-   "items": [
-    {
-     "title": "Israel detains over 70 suspects following deadly violence in the West Bank",
-     "link": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/6db49f66-88d4-11f1-8dc3-005056bfb2b6/w:1024/p:16x9/EN-20260726-101117-101248-CS.jpg",
-     "ts": 1785059378000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel debate boils over in the United States",
-     "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
+     "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1785056019000,
+     "ts": 1785064680000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+     "title": "Why the UK cancelled a military exercise in Kenya – and what it means",
+     "link": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1785052530000,
+     "ts": 1785062847000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
-     "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5e0ee810c42016b02c4122145a9337833a4af49b/306_0_3059_2447/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=33eafc43277c2fdcab74f89a61da2e0d",
-     "ts": 1784912042000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Netanyahu orders new West Bank settler outposts, legalises existing ones after deadly clash",
-     "link": "https://www.france24.com/en/middle-east/20260724-four-palestinians-and-one-israeli-killed-in-occupied-west-bank-shooting",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
-     "ts": 1784882820000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "“You wouldn't write it down as an idea – let's have gentle falsetto vocals referencing a Batman film and try to be inspired by UK garage and Prince”: How Hot Chip made an electronic pop classic",
+     "link": "https://www.musicradar.com/artists/you-wouldnt-write-it-down-as-an-idea-lets-have-gentle-falsetto-vocals-referencing-a-batman-film-and-try-to-be-inspired-by-uk-garage-and-prince-how-hot-chip-made-an-electronic-pop-classic",
+     "source": "Latest from MusicRadar",
+     "image": "https://cdn.mos.cms.futurecdn.net/swwqrjavNmmGpsFm87Kmu5-1280-80.jpg",
+     "ts": 1784985738000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
     }
    ]
   },
@@ -523,20 +451,20 @@
    "count": 4,
    "items": [
     {
+     "title": "Who is India’s new education minister?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785062038000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
      "title": "The Cockroach Effect: Modi vs India’s Gen Z",
      "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1785056932000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India news: Home minister backs Pradhan after resignation",
-     "link": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785048480000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -606,6 +534,42 @@
    ]
   },
   {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 3,
+   "items": [
+    {
+     "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
+     "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d4ea3c0184899653b60050ef9031da256e9cc70d/478_0_5566_4453/master/5566.jpg?width=140&quality=85&auto=format&fit=max&s=08c946b3bab63cfa2bb57492210e6177",
+     "ts": 1785065403000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
+     "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b659/live/80ba37f0-87a4-11f1-9b54-591acc53357a.jpg",
+     "ts": 1785064182000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Controversial Gelman Collection to Inaugurate Spain’s New Faro Santander in September",
+     "link": "https://www.artnews.com/list/art-news/news/faro-santander-september-2026-opening-gelman-collection-1234793355/",
+     "source": "ARTnews.com",
+     "image": "https://www.artnews.com/wp-content/uploads/2026/07/DRivera_RetratoNatashaGelman.jpg?w=400",
+     "ts": 1784916028000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
    "name": "Russia",
    "es": "Rusia",
    "lat": 61.5,
@@ -642,46 +606,82 @@
    ]
   },
   {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
    "count": 3,
    "items": [
     {
-     "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
-     "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d4ea3c0184899653b60050ef9031da256e9cc70d/478_0_5566_4453/master/5566.jpg?width=140&quality=85&auto=format&fit=max&s=08c946b3bab63cfa2bb57492210e6177",
-     "ts": 1785059517000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+     "title": "What we know so far about the Berlin Pride ramming attack",
+     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d055/live/c69c5bb0-88b5-11f1-b7ca-b5f2b9ce39f1.png",
-     "ts": 1785057406000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg",
+     "ts": 1785065237000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Tour de France final stage shortened as emergency teams tackle wildfires",
-     "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Un muerto y al menos 16 heridos en la Marcha del Orgullo en Berlín después de que un vehículo arrollara a la multitud",
+     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63e3/live/a7bb1680-8885-11f1-888c-4340a977fe30.jpg",
+     "ts": 1785058405000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "La Policía difunde la foto del sospechoso del atentado en Berlín",
+     "link": "https://www.dw.com/es/la-policía-difunde-la-foto-del-sospechoso-del-atentado-en-berlín/a-78118195?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1785052522000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "ts": 1785049260000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
+   "name": "Israel",
+   "es": "Israel",
+   "lat": 31.0,
+   "lon": 34.9,
+   "count": 3,
+   "items": [
+    {
+     "title": "Israel detains over 70 suspects following deadly violence in the West Bank",
+     "link": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/6db49f66-88d4-11f1-8dc3-005056bfb2b6/w:1024/p:16x9/EN-20260726-101117-101248-CS.jpg",
+     "ts": 1785059378000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel debate boils over in the United States",
+     "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785056019000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
+     "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5e0ee810c42016b02c4122145a9337833a4af49b/306_0_3059_2447/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=33eafc43277c2fdcab74f89a61da2e0d",
+     "ts": 1784912042000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
    "count": 2,
    "items": [
     {
@@ -689,18 +689,18 @@
      "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/d4ea3c0184899653b60050ef9031da256e9cc70d/478_0_5566_4453/master/5566.jpg?width=140&quality=85&auto=format&fit=max&s=08c946b3bab63cfa2bb57492210e6177",
-     "ts": 1785059517000,
+     "ts": 1785065403000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Controversial Gelman Collection to Inaugurate Spain’s New Faro Santander in September",
-     "link": "https://www.artnews.com/list/art-news/news/faro-santander-september-2026-opening-gelman-collection-1234793355/",
-     "source": "ARTnews.com",
-     "image": "https://www.artnews.com/wp-content/uploads/2026/07/DRivera_RetratoNatashaGelman.jpg?w=400",
-     "ts": 1784916028000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
+     "title": "Photos: Wildfires in France drive 250,000 people from their homes",
+     "link": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785060484000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -759,24 +759,6 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 1,
-   "items": [
-    {
-     "title": "“You wouldn't write it down as an idea – let's have gentle falsetto vocals referencing a Batman film and try to be inspired by UK garage and Prince”: How Hot Chip made an electronic pop classic",
-     "link": "https://www.musicradar.com/artists/you-wouldnt-write-it-down-as-an-idea-lets-have-gentle-falsetto-vocals-referencing-a-batman-film-and-try-to-be-inspired-by-uk-garage-and-prince-how-hot-chip-made-an-electronic-pop-classic",
-     "source": "Latest from MusicRadar",
-     "image": "https://cdn.mos.cms.futurecdn.net/swwqrjavNmmGpsFm87Kmu5-1280-80.jpg",
-     "ts": 1784985738000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
-    }
-   ]
-  },
-  {
    "name": "Italy",
    "es": "Italia",
    "lat": 41.9,
@@ -791,6 +773,42 @@
      "ts": 1785005876000,
      "beat": "arte",
      "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "es": "Malasia",
+   "lat": 4.2,
+   "lon": 102.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
+     "link": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785065304000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Kenya",
+   "es": "Kenia",
+   "lat": -0.02,
+   "lon": 37.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Why the UK cancelled a military exercise in Kenya – and what it means",
+     "link": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785062847000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -838,13 +856,13 @@
    "count": 1,
    "items": [
     {
-     "title": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo",
-     "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785049451000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Detenido en Chile el último  prófugo por el asesinato del cantautor Víctor Jara, el exmilitar Nelson Haase Mazzei",
+     "link": "https://elpais.com/chile/2026-07-26/detenido-en-chile-el-ultimo-profugo-por-el-asesinato-del-cantautor-victor-jara-el-exmilitar-nelson-haase-mazzei.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/5JDOVU5LCZBDXCFKQQV3PZO6SQ.jpg?auth=f334aaab877377cbe9825d1ca128a5ba405d97fdeb65171773e0c15239b1205b",
+     "ts": 1785057130000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -897,24 +915,6 @@
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/Y5MTNZ6O5NFVRN6LPIAPPYLMQU.jpg?auth=d6a230a8c42a86e8f19cdf18d5a74453c5ad3b7f5a62be13b1aed450a5804387&smart=true&width=1920&height=1243",
      "ts": 1785042000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "Argentina: un señalamiento injusto",
-     "link": "https://www.prensa.com/opinion/argentina-un-senalamiento-injusto/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/C2AUX7TMJRDBTNKBIVJE44CITA.jpg?auth=8b94c8682510f5b13ec0ef9b122ae19c8c13bfd9a5bc93e0bbf8af168c07614b&smart=true&width=1920&height=1280",
-     "ts": 1785041100000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -987,24 +987,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/dea664ed-415c-43bf-ba06-a7bcc9ab0e7f_230e6259.jpg?itok=hgF24WMx&v=1785049901",
      "ts": 1785049910000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Myanmar",
-   "es": "Birmania",
-   "lat": 21.9,
-   "lon": 95.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "‘Defanging’ Aung San: Myanmar’s generals wage war on memory",
-     "link": "https://www.scmp.com/week-asia/people/article/3361577/defanging-aung-san-myanmars-generals-wage-war-memory?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/7f577817-a4b3-41bb-bcb9-19f6470be1e7_31001d92.jpg?itok=9wYkzehG&v=1784794810",
-     "ts": 1785031207000,
      "beat": "china",
      "beatName": "China"
     }
