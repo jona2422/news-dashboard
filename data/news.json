@@ -1,15 +1,33 @@
 {
- "updated": "2026-07-26T15:32:29.332393+00:00",
+ "updated": "2026-07-26T17:26:48.216828+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
     {
+     "title": "Kacey Musgraves Strikes Three Shows Off of Her Middle of Nowhere Tour",
+     "link": "https://www.rollingstone.com/music/music-news/kacey-musgraves-cancels-three-shows-middle-of-nowhere-tour-1235598902/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-07-26T16:31:38+00:00",
+     "ts": 1785083498000,
+     "count": 1
+    },
+    {
+     "title": "Matt Damon’s 4′ 5″ Stunt Double Says She’s Prepared Her Entire Career for Role in The Odyssey",
+     "link": "https://consequence.net/2026/07/matt-damon-odyssey-stunt-double/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/07/Matt-Damon-The-Odyssey.jpeg?quality=80",
+     "published": "2026-07-26T15:36:23+00:00",
+     "ts": 1785080183000,
+     "count": 1
+    },
+    {
      "title": "Jon Hamm Lost Larry David His Game on Celebrity Who Wants to Be a Millionaire?",
      "link": "https://consequence.net/2026/07/larry-david-jon-hamm-who-wants-to-be-a-millionaire/",
      "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/07/Larry-David-on-Millionaire.jpeg?quality=80",
+     "image": "https://consequence.net/wp-content/uploads/2026/07/Larry-David-Millionaire.jpeg?quality=80",
      "published": "2026-07-26T15:23:38+00:00",
      "ts": 1785079418000,
      "count": 1
@@ -219,7 +237,7 @@
      "image": "https://consequence.net/wp-content/uploads/2024/07/lou-koller-cancer-fundraiser.jpg?quality=80",
      "published": "2026-07-25T02:23:51+00:00",
      "ts": 1784946231000,
-     "count": 2
+     "count": 1
     },
     {
      "title": "Sick of It All’s Lou Koller has died at 59",
@@ -237,24 +255,6 @@
      "image": "https://media.brooklynvegan.com/xxrzsfjkyw/uploads/2026/07/22/gregfreeman-unionpool-20.jpg",
      "published": "2026-07-24T22:15:37+00:00",
      "ts": 1784931337000,
-     "count": 1
-    },
-    {
-     "title": "10 New Songs Out Today",
-     "link": "https://www.brooklynvegan.com/10-new-songs-out-today-45/",
-     "source": "BrooklynVegan",
-     "image": "https://media.brooklynvegan.com/xxrzsfjkyw/uploads/2026/07/24/katrina-ford.jpg",
-     "published": "2026-07-24T22:10:12+00:00",
-     "ts": 1784931012000,
-     "count": 2
-    },
-    {
-     "title": "Stream No Pressure’s rippin’ new pop punk album ‘NP Style’",
-     "link": "https://www.brooklynvegan.com/stream-no-pressures-rippin-new-pop-punk-album-np-style/",
-     "source": "BrooklynVegan",
-     "image": "https://media.brooklynvegan.com/xxrzsfjkyw/uploads/2026/07/24/No-Pressure-NP-Style.jpg",
-     "published": "2026-07-24T21:31:42+00:00",
-     "ts": 1784928702000,
      "count": 1
     }
    ]
@@ -522,6 +522,87 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Inside one London founder house rewriting the founder-house rules",
+     "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-07-26T17:03:19+00:00",
+     "ts": 1785085399000,
+     "count": 1
+    },
+    {
+     "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+     "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-07-26T16:33:13+00:00",
+     "ts": 1785083593000,
+     "count": 1
+    },
+    {
+     "title": "What if LLMs escape through inferences itself? This is fiction. For now",
+     "link": "https://www.agrillo.it/EvasionEn.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-26T16:23:56+00:00",
+     "ts": 1785083036000,
+     "count": 1
+    },
+    {
+     "title": "TechCrunch Mobility: Uber bets on its former CEO",
+     "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-07-26T16:03:00+00:00",
+     "ts": 1785081780000,
+     "count": 1
+    },
+    {
+     "title": "Make an Origami Circuit Board",
+     "link": "https://spectrum.ieee.org/origami-circuit-boards",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-26T15:56:08+00:00",
+     "ts": 1785081368000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+     "link": "https://github.com/gmrandazzo/CheapSecurity",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-26T15:53:55+00:00",
+     "ts": 1785081235000,
+     "count": 1
+    },
+    {
+     "title": "Design Is Compromise",
+     "link": "https://stephango.com/design-is-compromise",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-26T15:51:12+00:00",
+     "ts": 1785081072000,
+     "count": 1
+    },
+    {
+     "title": "Carrie is just trying to make a friend in the new trailer",
+     "link": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/CARR_S1_Static16x9_Crown_3840x2160_PRE_PV_FINAL_en-US_3000.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-07-26T15:33:27+00:00",
+     "ts": 1785080007000,
+     "count": 1
+    },
+    {
+     "title": "An Inside Look at the Token Reseller Market",
+     "link": "https://vectoral.com/blog/token-relay-market",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-26T15:17:06+00:00",
+     "ts": 1785079026000,
+     "count": 1
+    },
+    {
      "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
      "link": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
      "source": "The Verge",
@@ -537,15 +618,6 @@
      "image": "",
      "published": "2026-07-26T14:40:27+00:00",
      "ts": 1785076827000,
-     "count": 1
-    },
-    {
-     "title": "Ask HN: What are the most promising RL fields for a new master student?",
-     "link": "https://news.ycombinator.com/item?id=49057972",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-26T13:22:59+00:00",
-     "ts": 1785072179000,
      "count": 1
     },
     {
@@ -612,6 +684,15 @@
      "count": 1
     },
     {
+     "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+     "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-26T10:32:35+00:00",
+     "ts": 1785061955000,
+     "count": 1
+    },
+    {
      "title": "Elevated Errors for Opus 5",
      "link": "https://status.claude.com/incidents/zftg3gqkmv18",
      "source": "Hacker News: Front Page",
@@ -675,42 +756,6 @@
      "count": 1
     },
     {
-     "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-     "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-26T00:36:30+00:00",
-     "ts": 1785026190000,
-     "count": 1
-    },
-    {
-     "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-     "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T23:32:50+00:00",
-     "ts": 1785022370000,
-     "count": 1
-    },
-    {
-     "title": "What is happening to jobs? Separating AI hype from reality",
-     "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T22:51:10+00:00",
-     "ts": 1785019870000,
-     "count": 1
-    },
-    {
-     "title": "Cloudflare's new AI traffic options for customers",
-     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T22:50:49+00:00",
-     "ts": 1785019849000,
-     "count": 1
-    },
-    {
      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
      "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
      "source": "TechCrunch",
@@ -727,51 +772,6 @@
      "published": "2026-07-25T20:52:30+00:00",
      "ts": 1785012750000,
      "count": 1
-    },
-    {
-     "title": "The new rules of context engineering for Claude 5 generation models",
-     "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-25T20:42:35+00:00",
-     "ts": 1785012155000,
-     "count": 1
-    },
-    {
-     "title": "The hacker who humiliated spyware makers and was never caught",
-     "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-07-25T20:24:14+00:00",
-     "ts": 1785011054000,
-     "count": 1
-    },
-    {
-     "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-     "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-07-25T19:23:32+00:00",
-     "ts": 1785007412000,
-     "count": 1
-    },
-    {
-     "title": "Google basically confirms the Pixel 11 is getting a price hike",
-     "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-25T18:13:36+00:00",
-     "ts": 1785003216000,
-     "count": 1
-    },
-    {
-     "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-     "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1-1152x648.jpg",
-     "published": "2026-07-25T17:47:22+00:00",
-     "ts": 1785001642000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,159 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+     "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Fe6%2F7e92f7ff45e7bea46b1a0fb42a96%2Fap26194339749499.jpg",
+     "published": "2026-07-26T17:16:06+00:00",
+     "ts": 1785086166000,
+     "count": 1
+    },
+    {
+     "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+     "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-07-26T17:15:00+00:00",
+     "ts": 1785086100000,
+     "count": 1
+    },
+    {
+     "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+     "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T17:13:55+00:00",
+     "ts": 1785086035000,
+     "count": 1
+    },
+    {
+     "title": "Berlin Pride van and knife rampage an ‘Islamist terror attack’, authorities say",
+     "link": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/1020ba63b214241099508d422112ae65ba0fd547/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=4692656c2862be6b665a09b034127fec",
+     "published": "2026-07-26T17:07:36+00:00",
+     "ts": 1785085656000,
+     "count": 1
+    },
+    {
+     "title": "England’s north-south life expectancy gap grows despite record longevity",
+     "link": "https://www.theguardian.com/society/2026/jul/26/england-north-south-life-expectancy-gap-grows-despite-record-longevity",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/0dd6c2f12ba7b0be76cea557f7160c69e02f0e28/162_0_3202_2562/master/3202.jpg?width=140&quality=85&auto=format&fit=max&s=793bd7e6f951fa879610249cf36fe61c",
+     "published": "2026-07-26T17:00:16+00:00",
+     "ts": 1785085216000,
+     "count": 1
+    },
+    {
+     "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+     "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T16:49:59+00:00",
+     "ts": 1785084599000,
+     "count": 1
+    },
+    {
+     "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d0/live/634ce840-88ec-11f1-8824-a9ae603ecd1c.png",
+     "published": "2026-07-26T16:48:16+00:00",
+     "ts": 1785084496000,
+     "count": 1
+    },
+    {
+     "title": "India’s Cockroach Janta party protest victory signals trouble ahead for Modi",
+     "link": "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/0e6c85e54279b036a666016e901bda4472f341c4/458_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e2c8a1e65ceefadad90327bf3313b03c",
+     "published": "2026-07-26T16:42:31+00:00",
+     "ts": 1785084151000,
+     "count": 1
+    },
+    {
+     "title": "Heatwave drives major wildfires across North Africa",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T16:39:06+00:00",
+     "ts": 1785083946000,
+     "count": 1
+    },
+    {
+     "title": "Israeli settlers torch mosques in occupied West Bank",
+     "link": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-07-26T16:21:00+00:00",
+     "ts": 1785082860000,
+     "count": 2
+    },
+    {
+     "title": "Darfur: Weaponising Identity",
+     "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T16:20:27+00:00",
+     "ts": 1785082827000,
+     "count": 1
+    },
+    {
+     "title": "Typhoon Noul batters Southeast China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T16:19:07+00:00",
+     "ts": 1785082747000,
+     "count": 1
+    },
+    {
+     "title": "Who is India’s new education minister Pralhad Joshi?",
+     "link": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T16:18:03+00:00",
+     "ts": 1785082683000,
+     "count": 1
+    },
+    {
+     "title": "Water supply failure leaves Gatwick airport without working toilets",
+     "link": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f1d9ec6cc84204b430c61c28bef82296e33e5401/322_328_2167_1734/master/2167.jpg?width=140&quality=85&auto=format&fit=max&s=a9a8c73325c3e57d1b577fbac7164731",
+     "published": "2026-07-26T15:59:29+00:00",
+     "ts": 1785081569000,
+     "count": 1
+    },
+    {
+     "title": "Joy in Greece as Mount Olympus joins Unesco list of world heritage sites",
+     "link": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c1dcc75bacc489145c2e2ebe62d8f57b3fe73cd8/830_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=8994c6cdd401ac0c6e24f68b55b0e4b7",
+     "published": "2026-07-26T15:39:20+00:00",
+     "ts": 1785080360000,
+     "count": 1
+    },
+    {
+     "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
+     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-07-26T15:26:57+00:00",
+     "ts": 1785079617000,
+     "count": 1
+    },
+    {
+     "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
+     "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6a982f444639a23465779e103f663b5f8df46ea9/898_34_4484_3588/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3b6d3fcc1b3501682c74cd88833c5637",
+     "published": "2026-07-26T15:22:17+00:00",
+     "ts": 1785079337000,
+     "count": 1
+    },
     {
      "title": "New Jersey governor signs law banning surveillance pricing to protect shoppers",
      "link": "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban",
@@ -877,159 +1030,6 @@
      "published": "2026-07-26T14:39:30+00:00",
      "ts": 1785076770000,
      "count": 1
-    },
-    {
-     "title": "Oklahoma influencer killed in apparent murder-suicide by husband, police say",
-     "link": "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/55c673ff6924c4f3b32dab5902bfe6b2b984ef8f/129_0_2743_2195/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=7e4099a1d8b7daee6532a7d677cf8321",
-     "published": "2026-07-26T14:38:46+00:00",
-     "ts": 1785076726000,
-     "count": 1
-    },
-    {
-     "title": "Water supply failure leaves Gatwick without working toilets",
-     "link": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/f1d9ec6cc84204b430c61c28bef82296e33e5401/322_328_2167_1734/master/2167.jpg?width=140&quality=85&auto=format&fit=max&s=a9a8c73325c3e57d1b577fbac7164731",
-     "published": "2026-07-26T14:35:56+00:00",
-     "ts": 1785076556000,
-     "count": 1
-    },
-    {
-     "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-     "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T14:22:03+00:00",
-     "ts": 1785075723000,
-     "count": 1
-    },
-    {
-     "title": "Controversial Argentina World Cup banner gets new life in print",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/controversial-argentina-world-cup-banner-gets-new-life-in-print?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T14:05:03+00:00",
-     "ts": 1785074703000,
-     "count": 1
-    },
-    {
-     "title": "Israel and the cost paradox of the Iran war",
-     "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T14:04:39+00:00",
-     "ts": 1785074679000,
-     "count": 1
-    },
-    {
-     "title": "Wildfires spread in France and Spain forcing more to flee",
-     "link": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-07-26T13:57:00+00:00",
-     "ts": 1785074220000,
-     "count": 1
-    },
-    {
-     "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-     "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:51:53+00:00",
-     "ts": 1785073913000,
-     "count": 1
-    },
-    {
-     "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
-     "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6a982f444639a23465779e103f663b5f8df46ea9/898_34_4484_3588/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3b6d3fcc1b3501682c74cd88833c5637",
-     "published": "2026-07-26T13:45:29+00:00",
-     "ts": 1785073529000,
-     "count": 1
-    },
-    {
-     "title": "What we know so far about the Berlin Pride ramming attack",
-     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg",
-     "published": "2026-07-26T13:40:29+00:00",
-     "ts": 1785073229000,
-     "count": 1
-    },
-    {
-     "title": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
-     "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:39:17+00:00",
-     "ts": 1785073157000,
-     "count": 1
-    },
-    {
-     "title": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:34:45+00:00",
-     "ts": 1785072885000,
-     "count": 1
-    },
-    {
-     "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-     "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:31:04+00:00",
-     "ts": 1785072664000,
-     "count": 1
-    },
-    {
-     "title": "Langton released from hospital after concussion at Commonwealth Games",
-     "link": "https://www.aljazeera.com/sports/2026/7/26/langton-released-from-hospital-after-concussion-at-commonwealth-games?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:30:32+00:00",
-     "ts": 1785072632000,
-     "count": 1
-    },
-    {
-     "title": "Restricted eating hours may reduce cognitive decline in older age, researchers find",
-     "link": "https://www.theguardian.com/science/2026/jul/26/restricted-eating-hours-may-reduce-cognitive-decline-in-older-age-researchers-find",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/64266a57f46d284dc512cdc305a8c95f5f4a6423/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=7c8a847307cdf4e4cb65e79f13079354",
-     "published": "2026-07-26T13:30:12+00:00",
-     "ts": 1785072612000,
-     "count": 1
-    },
-    {
-     "title": "‘New education minister can’t bring my dead daughter back’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/new-education-minister-cant-bring-my-dead-daughter?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:26:17+00:00",
-     "ts": 1785072377000,
-     "count": 1
-    },
-    {
-     "title": "What next for India’s ‘Cockroach’ movement after education minister sacked",
-     "link": "https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-26T13:15:01+00:00",
-     "ts": 1785071701000,
-     "count": 1
-    },
-    {
-     "title": "Germany classifies Berlin Pride ramming as 'terror attack'",
-     "link": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-07-26T13:07:00+00:00",
-     "ts": 1785071220000,
-     "count": 1
     }
    ]
   },
@@ -1038,21 +1038,129 @@
    "name": "Panamá · LatAm",
    "items": [
     {
+     "title": "Última hora de los incendios forestales, en directo | El incendio de Ávila es ya el mayor de la historia de España con 50.000 hectáreas quemadas",
+     "link": "https://elpais.com/espana/2026-07-26/ultima-hora-de-los-incendios-forestales-en-directo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/LQL57QYNHFGWXMBPNRV7RH242E.JPG?auth=194ce3173bfb37f01a8b0c86ff3a5ececede8dd80a120df86e5866399d052910",
+     "published": "2026-07-26T17:24:58+00:00",
+     "ts": 1785086698000,
+     "count": 1
+    },
+    {
+     "title": "La Policía abate a tiros al sospechoso del atentado contra el Orgullo en Berlín, según medios alemanes",
+     "link": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/QA3HNDGECVIQFIGQ3MPXKOTVSU.jpg?auth=05c5fd4c8b19f9c0a77d75354f814f7690ed4a32e647c1f5dcc6c5d981360a83",
+     "published": "2026-07-26T17:18:55+00:00",
+     "ts": 1785086335000,
+     "count": 1
+    },
+    {
+     "title": "Clubes de Tejedoras de Barranquilla presentes en Colombiamoda 2026",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/clubes-de-tejedoras-de-barranquilla-presentes-en-colombiamoda-3573949",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/26/6a66313195b44.png",
+     "published": "2026-07-26T17:01:00+00:00",
+     "ts": 1785085260000,
+     "count": 1
+    },
+    {
+     "title": "Juan Orlando Hernández regresa a Honduras tras ser indultado por Trump de su condena por narcotráfico",
+     "link": "https://elpais.com/america/2026-07-26/juan-orlando-hernandez-regresa-a-honduras-tras-ser-indultado-por-trump-de-su-condena-por-narcotrafico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/LGAW2QVSXVJWVDXDNXNLRFHFYA.jpg?auth=8920ff67fb630236764e7c3991b476e43d1941a183415058ec7ccaf72a136812",
+     "published": "2026-07-26T16:49:04+00:00",
+     "ts": 1785084544000,
+     "count": 1
+    },
+    {
+     "title": "Experta recomienda una temperatura no demasiado baja y exposición indirecta del aire acondicionado en personas mayores",
+     "link": "https://www.prensa.com/vivir/experta-recomienda-una-temperatura-no-demasiado-baja-y-exposicion-indirecta-del-aire-acondicionado-en-personas-mayores/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/72NNFLBDQFHOLAOVCI66VSN72Q.jpg?auth=5931366d1249d981ba4c2212f8be429f3aceb6d73d5c25529e4e40a37fadab18&smart=true&width=1920&height=1282",
+     "published": "2026-07-26T16:35:00+00:00",
+     "ts": 1785083700000,
+     "count": 1
+    },
+    {
+     "title": "Mezquitas incendiadas y grafitis de venganza en Cisjordania: autoridades palestinas acusan a colonos israelíes",
+     "link": "https://www.france24.com/es/medio-oriente/20260726-mezquitas-incendiadas-y-grafitis-de-venganza-en-cisjordania-autoridades-palestinas-acusan-a-colonos-israel%C3%ADes",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8d5c0ea0-88ff-11f1-a4fc-005056bfb2b6/w:1024/p:16x9/AP26207463847538.jpg",
+     "published": "2026-07-26T16:26:19+00:00",
+     "ts": 1785083179000,
+     "count": 1
+    },
+    {
+     "title": "Juan Orlando Hernández vuelve a Honduras para enfrentar la Justicia tras indulto en Estados Unidos",
+     "link": "https://www.prensa.com/politica/juan-orlando-hernandez-vuelve-a-honduras-para-enfrentar-la-justicia-tras-indulto-en-estados-unidos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/OVDBD2Q7UZHPPHRQG6HTC37ELM.jpg?auth=aa75255e774880539639972c06c0ba1a8dc680d27e8fc9a1211f824798e475ed&smart=true&width=1920&height=1280",
+     "published": "2026-07-26T16:15:13+00:00",
+     "ts": 1785082513000,
+     "count": 1
+    },
+    {
+     "title": "La huella de los abuelos dura toda la vida",
+     "link": "https://www.prensa.com/vivir/la-huella-de-los-abuelos-dura-toda-la-vida/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/VEEUCL2XMBF3LIIP7QZGPHGPJ4.png?auth=57d479778a24e25a1dfd7fa74fa30f967c5b0181186b313d19e043cde0fd02d6&smart=true&width=1920&height=1080",
+     "published": "2026-07-26T16:05:00+00:00",
+     "ts": 1785081900000,
+     "count": 1
+    },
+    {
+     "title": "Militares que torturaron y asesinaron a un campesino con discapacidad en una base militar de Antioquia fueron condenados a 20 años de prisión",
+     "link": "https://www.eltiempo.com/colombia/medellin/militares-que-torturaron-y-asesinaron-a-un-campesino-con-discapacidad-en-en-una-base-militar-de-antioquia-fueron-condenados-a-20-anos-de-prision-3573941",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/26/6a66236647790.r_d.1673-503-0.png",
+     "published": "2026-07-26T15:47:59+00:00",
+     "ts": 1785080879000,
+     "count": 1
+    },
+    {
+     "title": "Lando Norris gana el Gran Premio de Hungría",
+     "link": "https://www.prensa.com/deportes/lando-norris-gana-el-gran-premio-de-hungria/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/X3IC3JG3DFCNXFOFEX5NZ4MVZE.jpg?auth=dec80056c50400befa8825597f67e48ffaef0e6bd936633d3486cc9fa579c61d&smart=true&width=4398&height=2932",
+     "published": "2026-07-26T15:46:10+00:00",
+     "ts": 1785080770000,
+     "count": 1
+    },
+    {
+     "title": "Barranquilla: investigan si asesinato de pescador en Puerto Mocho estaría ligado a extorsiones o al robo de dos motores de lancha",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-investigan-si-asesinato-de-pescador-en-puerto-mocho-estaria-ligado-a-extorsiones-o-al-robo-de-dos-motores-de-lancha-3573943",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/05/11/609b283ad8e05.jpeg",
+     "published": "2026-07-26T15:41:28+00:00",
+     "ts": 1785080488000,
+     "count": 1
+    },
+    {
+     "title": "Atropello en el Orgullo LGBTI de Berlín deja un muerto y 29 heridos; autoridades apuntan a un posible atentado islamista",
+     "link": "https://www.prensa.com/mundo/atropello-en-el-orgullo-lgbti-de-berlin-deja-un-muerto-y-29-heridos-autoridades-apuntan-a-un-posible-atentado-islamista/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/6UAK2PGKPJDXDFEHDZLOT3S6WY.jpg?auth=a1f72dea7dcaef938de40e14d3c92f3f0cdbc78ce70aac9a2414599241aad18b&smart=true&width=1920&height=1310",
+     "published": "2026-07-26T15:33:11+00:00",
+     "ts": 1785079991000,
+     "count": 1
+    },
+    {
+     "title": "Anatomía de un desalojo: “Vi como el fuego avanzaba hacia mi casa”",
+     "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-26/anatomia-de-un-desalojo-vi-como-el-fuego-avanzaba-hacia-mi-casa.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/EPZWWF3U5NBZJM7WS3UWQPT7FI.jpg?auth=d215bbddc1000190ecd1353516fa7b987061aab2cfd13b4d99a0c7ab5a634128",
+     "published": "2026-07-26T15:25:26+00:00",
+     "ts": 1785079526000,
+     "count": 1
+    },
+    {
      "title": "MEF anticipa mayor presupuesto para 2027 y Barclays advierte riesgos fiscales",
      "link": "https://www.prensa.com/economia/mef-anticipa-mayor-presupuesto-para-2027-y-barclays-advierte-riesgos-fiscales/",
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/SNIW6BNZMVCT7E3W2GOFSBZRQM.jpg?auth=2684289a97a9a695c04981325c0db56f2302c29b6ad695ac29c0a4e9027712c0&smart=true&width=1920&height=1080",
      "published": "2026-07-26T15:22:00+00:00",
      "ts": 1785079320000,
-     "count": 1
-    },
-    {
-     "title": "Última hora de los incendios forestales, en directo | Madrid concentra los esfuerzos para impedir que se reactiven los focos en el embalse de San Juan",
-     "link": "https://elpais.com/espana/2026-07-26/ultima-hora-de-los-incendios-forestales-en-directo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/LQL57QYNHFGWXMBPNRV7RH242E.JPG?auth=194ce3173bfb37f01a8b0c86ff3a5ececede8dd80a120df86e5866399d052910",
-     "published": "2026-07-26T15:19:06+00:00",
-     "ts": 1785079146000,
      "count": 1
     },
     {
@@ -1080,24 +1188,6 @@
      "image": "https://s.france24.com/media/display/18e52e54-88fe-11f1-bd9d-005056a97e36/w:1024/p:16x9/ES-20260726-080945-081145-CS.jpg",
      "published": "2026-07-26T15:13:33+00:00",
      "ts": 1785078813000,
-     "count": 1
-    },
-    {
-     "title": "Colonos israelíes atacan dos mezquitas en Cisjordania",
-     "link": "https://www.france24.com/es/video/20260726-colonos-israel%C3%ADes-atacan-dos-mezquitas-en-cisjordania",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/b74a05da-88fc-11f1-8afd-005056a97e36/w:1024/p:16x9/ES-20260726-070819-071013-CS.jpg",
-     "published": "2026-07-26T15:13:28+00:00",
-     "ts": 1785078808000,
-     "count": 1
-    },
-    {
-     "title": "Militares que torturaron y asesinaron a un campesino con discapacidad en en una base militar de Antioquia fueron condenados a 20 años de prisión",
-     "link": "https://www.eltiempo.com/colombia/medellin/militares-que-torturaron-y-asesinaron-a-un-campesino-con-discapacidad-en-en-una-base-militar-de-antioquia-fueron-condenados-a-20-anos-de-prision-3573941",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/26/6a66236647790.png",
-     "published": "2026-07-26T15:13:23+00:00",
-     "ts": 1785078803000,
      "count": 1
     },
     {
@@ -1198,96 +1288,6 @@
      "published": "2026-07-26T14:00:00+00:00",
      "ts": 1785074400000,
      "count": 1
-    },
-    {
-     "title": "La guarda y crianza: una responsabilidad basada en el interés superior del niño",
-     "link": "https://www.prensa.com/opinion/la-guarda-y-crianza-una-responsabilidad-basada-en-el-interes-superior-del-nino/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ZB4M442MF5HG7JIPH3HMPKHVEE.png?auth=571c39c6329e1ff4fcbae0ce580649d0bfc5f586688c354dac09a65490c773de&smart=true&width=1698&height=926",
-     "published": "2026-07-26T14:00:00+00:00",
-     "ts": 1785074400000,
-     "count": 1
-    },
-    {
-     "title": "En directo | Incendios en Francia y España: Burdeos sigue amenazada y Sánchez reclama un pacto climático",
-     "link": "https://www.france24.com/es/europa/20260726-en-directo-incendios-en-francia-y-espa%C3%B1a-burdeos-sigue-amenazada-y-s%C3%A1nchez-reclama-un-pacto-clim%C3%A1tico",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/f63db7ac-88d2-11f1-b66c-005056bf30b7/w:1024/p:16x9/000-C3872LF.jpg",
-     "published": "2026-07-26T13:50:28+00:00",
-     "ts": 1785073828000,
-     "count": 1
-    },
-    {
-     "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
-     "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-     "published": "2026-07-26T13:47:43+00:00",
-     "ts": 1785073663000,
-     "count": 2
-    },
-    {
-     "title": "La coherencia también sostiene la democracia",
-     "link": "https://www.prensa.com/opinion/la-coherencia-tambien-sostiene-la-democracia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/4FSQJ3FEJBDKDGD3DVQEYA6FCY.JPG?auth=c73f35fde2d9eddb44b9c79bbd54b322f522a7977c8377965eff8552ac22a05e&smart=true&width=6048&height=4032",
-     "published": "2026-07-26T13:30:00+00:00",
-     "ts": 1785072600000,
-     "count": 1
-    },
-    {
-     "title": "Muere Alberto Arbesú Vidal, creador de ‘Radio Mil’ y reconocido productor de televisión",
-     "link": "https://www.prensa.com/vivir/muere-alberto-arbesu-vidal-creador-de-radio-mil-y-reconocido-productor-de-television/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/3VIAVXIF4BBIVKOZUMV3ZYADWQ.jpg?auth=eeda00d0e1428f4b18b35a95befbb3e5e168b195df48d198124e0a52cb71530d&smart=true&width=456&height=409",
-     "published": "2026-07-26T13:20:00+00:00",
-     "ts": 1785072000000,
-     "count": 1
-    },
-    {
-     "title": "Alemania busca al sospechoso del atropello masivo en Berlín que causó al menos un muerto y 29 heridos",
-     "link": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/QA3HNDGECVIQFIGQ3MPXKOTVSU.jpg?auth=05c5fd4c8b19f9c0a77d75354f814f7690ed4a32e647c1f5dcc6c5d981360a83",
-     "published": "2026-07-26T13:19:39+00:00",
-     "ts": 1785071979000,
-     "count": 1
-    },
-    {
-     "title": "El atropello en Berlín fue un \"ataque terrorista islamista\"",
-     "link": "https://www.dw.com/es/el-atropello-en-berlín-fue-un-ataque-terrorista-islamista/a-78120269?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-07-26T13:12:00+00:00",
-     "ts": 1785071520000,
-     "count": 1
-    },
-    {
-     "title": "Mijahir Jiménez debutó en la MLS y  Heuyin Guardia anotó en Ecuador",
-     "link": "https://www.prensa.com/deportes/mijahir-jimenez-debuto-en-la-mls-y-heuyin-guardia-anoto-en-ecuador/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GISWTFOQSJAGLJOY7A7V7TEZIU.jpg?auth=3853cdcb93775df6dc45e560a13635fe82867024c36511bf81bf684000892228&smart=true&width=1294&height=846",
-     "published": "2026-07-26T12:49:32+00:00",
-     "ts": 1785070172000,
-     "count": 1
-    },
-    {
-     "title": "Costa Rica recibe cooperación de Panamá, Brasil y Perú contra la leishmaniasis",
-     "link": "https://www.prensa.com/sociedad/costa-rica-recibe-cooperacion-de-panama-brasil-y-peru-contra-la-leishmaniasis/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/RDLZSNQI7RGLNJYWPOIPGGUTXU.jpg?auth=083ae128832bc5dffd9efe948cd325925ea075448527fd043ffa5f58470ab431&smart=true&width=667&height=375",
-     "published": "2026-07-26T12:45:00+00:00",
-     "ts": 1785069900000,
-     "count": 1
-    },
-    {
-     "title": "El Olimpo y las playas de Normandía, Patrimonio de la Unesco",
-     "link": "https://www.dw.com/es/el-olimpo-y-las-playas-de-normandía-patrimonio-de-la-unesco/a-78119932?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-07-26T12:29:00+00:00",
-     "ts": 1785068940000,
-     "count": 1
     }
    ]
   },
@@ -1296,22 +1296,85 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029712",
+     "title": "M 3.2 - 151 km SSE of Atka, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ornlfd",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-26T17:20:13.183000+00:00",
+     "ts": 1785086413183,
+     "count": 6
+    },
+    {
+     "title": "M 2.6 - 4 km SSW of Indios, Puerto Rico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525928",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-26T16:15:52.050000+00:00",
+     "ts": 1785082552050,
+     "count": 2
+    },
+    {
+     "title": "M 4.7 - 15 km ESE of Pinglin, Taiwan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-26T15:45:46.831000+00:00",
+     "ts": 1785080746831,
+     "count": 1
+    },
+    {
+     "title": "M 3.0 - 126 km E of Chalkyitsik, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3hq",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-26T15:45:40.040000+00:00",
+     "ts": 1785080740040,
+     "count": 1
+    },
+    {
+     "title": "M 3.7 - 76 km NNE of Cruz Bay, U.S. Virgin Islands",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026207000",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-26T15:40:52.040000+00:00",
+     "ts": 1785080452040,
+     "count": 1
+    },
+    {
+     "title": "M 2.9 - 87 km ESE of Egegik, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orobae",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-26T15:36:34.040000+00:00",
+     "ts": 1785080194040,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Australia",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029811",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-07-26T15:25:03+00:00",
-     "ts": 1785079503000,
+     "published": "2026-07-26T15:35:29+00:00",
+     "ts": 1785080129000,
+     "count": 217
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029627",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-07-26T15:34:45+00:00",
+     "ts": 1785080085000,
      "count": 34
     },
     {
-     "title": "Green forest fire notification in Bolivia",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029598",
+     "title": "Green forest fire notification in South Africa",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029706",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-07-26T15:19:51+00:00",
-     "ts": 1785079191000,
-     "count": 216
+     "published": "2026-07-26T15:33:52+00:00",
+     "ts": 1785080032000,
+     "count": 2
     },
     {
      "title": "Green forest fire notification in United States",
@@ -1329,42 +1392,6 @@
      "image": "",
      "published": "2026-07-26T15:02:37.133000+00:00",
      "ts": 1785078157133,
-     "count": 1
-    },
-    {
-     "title": "M 3.7 - 76 km NNE of Cruz Bay, U.S. Virgin Islands",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026207000",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-26T14:59:13.321000+00:00",
-     "ts": 1785077953321,
-     "count": 1
-    },
-    {
-     "title": "M 5.8 - 99 km SE of Atka, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-26T14:45:23.562000+00:00",
-     "ts": 1785077123562,
-     "count": 5
-    },
-    {
-     "title": "M 4.7 - 15 km ESE of Pinglin, Taiwan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-26T14:42:52.176000+00:00",
-     "ts": 1785076972176,
-     "count": 1
-    },
-    {
-     "title": "M 2.9 - 87 km ESE of Egegik, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orobae",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-26T13:47:29.253000+00:00",
-     "ts": 1785073649253,
      "count": 1
     },
     {
@@ -1393,15 +1420,6 @@
      "published": "2026-07-26T11:57:57.795000+00:00",
      "ts": 1785067077795,
      "count": 1
-    },
-    {
-     "title": "Green forest fire notification in South Africa",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029706",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-26T11:38:05+00:00",
-     "ts": 1785065885000,
-     "count": 2
     },
     {
      "title": "Green forest fire notification in Russian Federation",
@@ -1467,15 +1485,6 @@
      "count": 1
     },
     {
-     "title": "M 2.5 - 18 km SW of Jal, New Mexico",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onpsve",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-26T06:54:53.225000+00:00",
-     "ts": 1785048893225,
-     "count": 1
-    },
-    {
      "title": "M 4.4 - 260 km N of Ama, Japan",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3f0",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1537,15 +1546,6 @@
      "published": "2026-07-26T02:01:01.040000+00:00",
      "ts": 1785031261040,
      "count": 1
-    },
-    {
-     "title": "M 4.5 - 72 km SE of Severo-Kuril’sk, Russia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3dp",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-26T01:50:08.040000+00:00",
-     "ts": 1785030608040,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,15 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "The Guardian view on a US-Saudi nuclear agreement: an offer that further erodes international safeguards | Editorial",
+     "link": "https://www.theguardian.com/commentisfree/2026/jul/26/the-guardian-view-on-a-us-saudi-nuclear-agreement-an-offer-that-further-erodes-international-safeguards",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/94cf8a1b71704fe8e5ef1a081f91445b152ff81b/542_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=ce909e51433ccc72c588bfeca1557bb2",
+     "published": "2026-07-26T16:29:49+00:00",
+     "ts": 1785083389000,
+     "count": 1
+    },
     {
      "title": "US pauses attacks on Iran for a second day as peace talks continue",
      "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
@@ -1795,15 +1804,6 @@
      "published": "2026-07-24T10:12:05+00:00",
      "ts": 1784887925000,
      "count": 1
-    },
-    {
-     "title": "Oil prices surge above $100 a barrel for first time since May",
-     "link": "https://www.france24.com/en/oil-prices-surge-above-100-a-barrel-for-first-time-since-may",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/218fba7e-8741-11f1-8357-005056bf30b7/w:1024/p:16x9/EN-20260724-110537-110700-CS.jpg",
-     "published": "2026-07-24T09:34:07+00:00",
-     "ts": 1784885647000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,24 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "2 dead in Ukraine from Russian attacks; 4 killed in Russian-held area hit by Ukraine",
+     "link": "https://www.scmp.com/news/world/europe/article/3361916/2-dead-ukraine-russian-attacks-4-killed-russian-held-area-hit-ukraine?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/27/c8f5d418-5191-4181-abc8-61973206d487_c091e6a9.jpg?itok=O3hj0nIv&v=1785086354",
+     "published": "2026-07-26T17:19:24+00:00",
+     "ts": 1785086364000,
+     "count": 1
+    },
+    {
+     "title": "Former Honduras president Hernandez returns home after Trump pardon",
+     "link": "https://www.scmp.com/news/world/americas/article/3361915/former-honduras-president-hernandez-returns-home-after-trump-pardon?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/27/e61d8840-a6f3-475d-ad08-a3d8b1f1f653_a7c677f4.jpg?itok=NsD_V0l0&v=1785083414",
+     "published": "2026-07-26T16:31:37+00:00",
+     "ts": 1785083497000,
+     "count": 1
+    },
     {
      "title": "Thailand monastery added to Unesco heritage list, boosting tourism hopes",
      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3361913/thailand-monastery-added-unesco-heritage-list-boosting-tourism-hopes?utm_source=rss_feed",
@@ -1824,7 +1842,7 @@
      "title": "China has put a Polish university on its European dual-use exports blacklist. Why?",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/d109129b-c86e-44e8-82b4-a29b52b76381_65281882.jpg?itok=nnevvQ7q&v=1785063796",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/27/d109129b-c86e-44e8-82b4-a29b52b76381_1cd444e0.jpg?itok=jmAMV299&v=1785082477",
      "published": "2026-07-26T14:00:14+00:00",
      "ts": 1785074414000,
      "count": 1
@@ -2043,24 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/8f384c36-1fec-4e62-8eaf-ba357c48a5e0_6be425df.jpg?itok=mfCEMijI&v=1785045384",
      "published": "2026-07-26T05:56:28+00:00",
      "ts": 1785045388000,
-     "count": 1
-    },
-    {
-     "title": "100 days to US midterms, Trump faces defeat amid voter anger over inflation, Iran war",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3361874/100-days-us-midterms-trump-faces-defeat-amid-voter-anger-over-inflation-iran-war?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/1b9b6ee2-3bc3-4e59-9535-7d79a2ed27b0_f7965041.jpg?itok=NTc2FfPO&v=1785044533",
-     "published": "2026-07-26T05:42:21+00:00",
-     "ts": 1785044541000,
-     "count": 1
-    },
-    {
-     "title": "India aims for a 200-ship navy to counter China and Pakistan",
-     "link": "https://www.scmp.com/week-asia/politics/article/3361786/india-aims-200-ship-navy-counter-china-and-pakistan?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/24/3249e844-4147-4f43-857d-71212e83e52d_91242b79.jpg?itok=dJ2VB3yE&v=1784896212",
-     "published": "2026-07-26T05:30:06+00:00",
-     "ts": 1785043806000,
      "count": 1
     }
    ]
