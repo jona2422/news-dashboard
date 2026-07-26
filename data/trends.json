@@ -1,52 +1,44 @@
 {
- "updated": "2026-07-26T01:01:40.086140+00:00",
+ "updated": "2026-07-26T04:46:06.154381+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 12
-  },
-  {
-   "term": "fire",
-   "count": 10
+   "count": 13
   },
   {
    "term": "west",
-   "count": 10
+   "count": 11
+  },
+  {
+   "term": "fire",
+   "count": 9
   },
   {
    "term": "bank",
-   "count": 8
-  },
-  {
-   "term": "strikes",
-   "count": 7
-  },
-  {
-   "term": "trump",
-   "count": 7
-  },
-  {
-   "term": "israeli",
-   "count": 7
+   "count": 9
   },
   {
    "term": "world",
-   "count": 6
+   "count": 8
   },
   {
-   "term": "show",
-   "count": 6
-  },
-  {
-   "term": "killed",
-   "count": 6
-  },
-  {
-   "term": "gaza",
-   "count": 6
+   "term": "trump",
+   "count": 8
   },
   {
    "term": "china",
+   "count": 7
+  },
+  {
+   "term": "strikes",
+   "count": 6
+  },
+  {
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
    "count": 6
   },
   {
@@ -58,7 +50,31 @@
    "count": 5
   },
   {
-   "term": "bolsonaro",
+   "term": "dead",
+   "count": 5
+  },
+  {
+   "term": "show",
+   "count": 5
+  },
+  {
+   "term": "tehran",
+   "count": 5
+  },
+  {
+   "term": "injured",
+   "count": 5
+  },
+  {
+   "term": "berlin",
+   "count": 5
+  },
+  {
+   "term": "houthis",
+   "count": 5
+  },
+  {
+   "term": "saudi",
    "count": 5
   },
   {
@@ -66,7 +82,15 @@
    "count": 5
   },
   {
-   "term": "españa",
+   "term": "israeli",
+   "count": 5
+  },
+  {
+   "term": "ortega",
+   "count": 5
+  },
+  {
+   "term": "nicaragua",
    "count": 5
   },
   {
@@ -82,26 +106,6 @@
    "count": 5
   },
   {
-   "term": "middle",
-   "count": 5
-  },
-  {
-   "term": "east",
-   "count": 5
-  },
-  {
-   "term": "saudi",
-   "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
    "term": "karol",
    "count": 4
   },
@@ -110,41 +114,49 @@
    "count": 4
   },
   {
-   "term": "dead",
+   "term": "year",
    "count": 4
   },
   {
    "term": "museum",
-   "count": 4
-  },
-  {
-   "term": "reveals",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 12
+   "count": 13
   },
   {
    "name": "West Bank",
-   "count": 8
-  },
-  {
-   "name": "Israeli",
-   "count": 7
-  },
-  {
-   "name": "Gaza",
-   "count": 6
+   "count": 9
   },
   {
    "name": "Trump",
+   "count": 6
+  },
+  {
+   "name": "China",
+   "count": 6
+  },
+  {
+   "name": "Hong Kong",
+   "count": 6
+  },
+  {
+   "name": "Tehran",
    "count": 5
   },
   {
-   "name": "España",
+   "name": "Houthis",
+   "count": 5
+  },
+  {
+   "name": "Israeli",
+   "count": 5
+  },
+  {
+   "name": "Nicaragua",
    "count": 5
   },
   {
@@ -152,31 +164,11 @@
    "count": 5
   },
   {
-   "name": "Middle East",
-   "count": 5
-  },
-  {
-   "name": "China",
-   "count": 5
-  },
-  {
-   "name": "Hong Kong",
-   "count": 5
-  },
-  {
    "name": "Karol",
    "count": 4
   },
   {
-   "name": "Tehran",
-   "count": 4
-  },
-  {
-   "name": "Francia",
-   "count": 4
-  },
-  {
-   "name": "Berlín",
+   "name": "Gaza",
    "count": 4
   },
   {
@@ -184,7 +176,7 @@
    "count": 4
   },
   {
-   "name": "Houthis",
+   "name": "Middle East",
    "count": 4
   },
   {
@@ -192,23 +184,23 @@
    "count": 3
   },
   {
-   "name": "Show HN",
-   "count": 3
-  },
-  {
-   "name": "Venezuela",
-   "count": 3
-  },
-  {
-   "name": "Flávio Bolsonaro",
-   "count": 3
-  },
-  {
-   "name": "Puerto Rico",
-   "count": 3
-  },
-  {
    "name": "Saudi",
+   "count": 3
+  },
+  {
+   "name": "Red Sea",
+   "count": 3
+  },
+  {
+   "name": "Corea",
+   "count": 3
+  },
+  {
+   "name": "Norte",
+   "count": 3
+  },
+  {
+   "name": "Typhoon Noul",
    "count": 3
   },
   {
@@ -217,6 +209,14 @@
   },
   {
    "name": "Chicago",
+   "count": 2
+  },
+  {
+   "name": "Smashing Pumpkins",
+   "count": 2
+  },
+  {
+   "name": "Hollywood Walk",
    "count": 2
   }
  ]
