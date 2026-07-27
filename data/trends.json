@@ -1,24 +1,28 @@
 {
- "updated": "2026-07-27T21:31:33.611279+00:00",
+ "updated": "2026-07-27T23:29:39.298517+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 16
+   "count": 18
   },
   {
    "term": "iran",
    "count": 15
   },
   {
+   "term": "alaska",
+   "count": 11
+  },
+  {
+   "term": "west",
+   "count": 7
+  },
+  {
+   "term": "bank",
+   "count": 7
+  },
+  {
    "term": "china",
-   "count": 9
-  },
-  {
-   "term": "fire",
-   "count": 8
-  },
-  {
-   "term": "israeli",
    "count": 7
   },
   {
@@ -26,23 +30,15 @@
    "count": 6
   },
   {
-   "term": "west",
+   "term": "fire",
    "count": 6
   },
   {
-   "term": "bank",
+   "term": "israeli",
    "count": 6
   },
   {
-   "term": "green",
-   "count": 6
-  },
-  {
-   "term": "2026",
-   "count": 5
-  },
-  {
-   "term": "years",
+   "term": "court",
    "count": 5
   },
   {
@@ -50,11 +46,11 @@
    "count": 5
   },
   {
-   "term": "talks",
+   "term": "google",
    "count": 5
   },
   {
-   "term": "strikes",
+   "term": "diplomacy",
    "count": 5
   },
   {
@@ -62,23 +58,47 @@
    "count": 5
   },
   {
-   "term": "forest",
+   "term": "saudi",
    "count": 5
   },
   {
-   "term": "notification",
-   "count": 5
+   "term": "d4vd",
+   "count": 4
   },
   {
-   "term": "alaska",
-   "count": 5
+   "term": "trial",
+   "count": 4
   },
   {
-   "term": "show",
+   "term": "texas",
+   "count": 4
+  },
+  {
+   "term": "festival",
+   "count": 4
+  },
+  {
+   "term": "2026",
+   "count": 4
+  },
+  {
+   "term": "shows",
+   "count": 4
+  },
+  {
+   "term": "artist",
    "count": 4
   },
   {
    "term": "police",
+   "count": 4
+  },
+  {
+   "term": "year",
+   "count": 4
+  },
+  {
+   "term": "race",
    "count": 4
   },
   {
@@ -90,57 +110,41 @@
    "count": 4
   },
   {
-   "term": "adds",
+   "term": "talks",
    "count": 4
   },
   {
-   "term": "space",
+   "term": "strikes",
    "count": 4
   },
   {
-   "term": "diplomacy",
-   "count": 4
-  },
-  {
-   "term": "argentina",
-   "count": 4
-  },
-  {
-   "term": "saudi",
-   "count": 4
-  },
-  {
-   "term": "ties",
-   "count": 3
-  },
-  {
-   "term": "playing",
-   "count": 3
-  },
-  {
-   "term": "brooklyn",
+   "term": "orders",
    "count": 3
   }
  ],
  "entities": [
   {
+   "name": "Trump",
+   "count": 16
+  },
+  {
    "name": "Iran",
    "count": 15
   },
   {
-   "name": "Trump",
-   "count": 14
+   "name": "Alaska",
+   "count": 11
   },
   {
    "name": "China",
-   "count": 8
-  },
-  {
-   "name": "Israeli",
    "count": 7
   },
   {
-   "name": "Green",
+   "name": "West Bank",
+   "count": 6
+  },
+  {
+   "name": "Israeli",
    "count": 6
   },
   {
@@ -148,31 +152,27 @@
    "count": 5
   },
   {
-   "name": "Alaska",
-   "count": 5
-  },
-  {
-   "name": "West Bank",
-   "count": 5
-  },
-  {
-   "name": "Argentina",
+   "name": "Texas",
    "count": 4
   },
   {
-   "name": "Brooklyn",
+   "name": "Google",
+   "count": 4
+  },
+  {
+   "name": "France",
    "count": 3
   },
   {
-   "name": "OpenAI",
+   "name": "Cartagena",
    "count": 3
   },
   {
-   "name": "Brasil",
+   "name": "Green",
    "count": 3
   },
   {
-   "name": "Milei",
+   "name": "Saudi Arabia",
    "count": 3
   },
   {
@@ -180,15 +180,15 @@
    "count": 3
   },
   {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
-   "name": "Madrid",
+   "name": "Trial",
    "count": 2
   },
   {
-   "name": "Texas",
+   "name": "Tour",
+   "count": 2
+  },
+  {
+   "name": "Madrid",
    "count": 2
   },
   {
@@ -196,7 +196,15 @@
    "count": 2
   },
   {
-   "name": "Jon Stewart",
+   "name": "Brooklyn",
+   "count": 2
+  },
+  {
+   "name": "Betye Saar",
+   "count": 2
+  },
+  {
+   "name": "Dies",
    "count": 2
   },
   {
@@ -204,19 +212,11 @@
    "count": 2
   },
   {
-   "name": "Google",
-   "count": 2
-  },
-  {
-   "name": "Hugging Face",
+   "name": "Microsoft",
    "count": 2
   },
   {
    "name": "Australia",
-   "count": 2
-  },
-  {
-   "name": "Police",
    "count": 2
   }
  ]
