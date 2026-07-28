@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T12:16:03.789020+00:00",
- "sources_ok": 36,
+ "updated": "2026-07-28T14:45:39.369765+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -46,6 +46,14 @@
  ],
  "feeds": [
   {
+   "beat": "arte",
+   "url": "https://www.thisiscolossal.com/feed/",
+   "source": "thisiscolossal.com",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out"
+  },
+  {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
@@ -66,7 +74,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 23,
+   "count": 26,
    "error": ""
   },
   {
@@ -113,14 +121,6 @@
    "beat": "arte",
    "url": "https://news.artnet.com/feed",
    "source": "Artnet News",
-   "ok": true,
-   "count": 10,
-   "error": ""
-  },
-  {
-   "beat": "arte",
-   "url": "https://www.thisiscolossal.com/feed/",
-   "source": "Colossal",
    "ok": true,
    "count": 10,
    "error": ""
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 101,
+   "count": 108,
    "error": ""
   },
   {
@@ -298,7 +298,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 23,
+   "count": 25,
    "error": ""
   },
   {
