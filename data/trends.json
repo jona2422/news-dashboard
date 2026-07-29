@@ -1,24 +1,28 @@
 {
- "updated": "2026-07-29T06:47:29.281476+00:00",
+ "updated": "2026-07-29T09:59:34.406740+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 19
+   "count": 20
   },
   {
    "term": "trump",
-   "count": 14
-  },
-  {
-   "term": "hong",
-   "count": 7
-  },
-  {
-   "term": "netanyahu",
-   "count": 7
+   "count": 10
   },
   {
    "term": "china",
+   "count": 10
+  },
+  {
+   "term": "saudi",
+   "count": 7
+  },
+  {
+   "term": "arabia",
+   "count": 7
+  },
+  {
+   "term": "iraq",
    "count": 7
   },
   {
@@ -26,39 +30,27 @@
    "count": 7
   },
   {
-   "term": "japan",
-   "count": 6
-  },
-  {
-   "term": "strikes",
-   "count": 6
-  },
-  {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "years",
-   "count": 5
-  },
-  {
    "term": "tour",
    "count": 5
   },
   {
-   "term": "life",
+   "term": "hong",
    "count": 5
   },
   {
-   "term": "home",
+   "term": "face",
    "count": 5
   },
   {
-   "term": "targets",
+   "term": "strikes",
    "count": 5
   },
   {
-   "term": "iraq",
+   "term": "strike",
+   "count": 5
+  },
+  {
+   "term": "south",
    "count": 5
   },
   {
@@ -66,19 +58,15 @@
    "count": 5
   },
   {
-   "term": "fire",
-   "count": 5
+   "term": "early",
+   "count": 4
   },
   {
-   "term": "ends",
+   "term": "years",
    "count": 4
   },
   {
    "term": "book",
-   "count": 4
-  },
-  {
-   "term": "house",
    "count": 4
   },
   {
@@ -90,27 +78,31 @@
    "count": 4
   },
   {
+   "term": "life",
+   "count": 4
+  },
+  {
+   "term": "since",
+   "count": 4
+  },
+  {
    "term": "world",
    "count": 4
   },
   {
-   "term": "earthquake",
+   "term": "museum",
    "count": 4
   },
   {
-   "term": "national",
+   "term": "home",
    "count": 4
   },
   {
-   "term": "people",
+   "term": "plan",
    "count": 4
   },
   {
-   "term": "south",
-   "count": 4
-  },
-  {
-   "term": "attack",
+   "term": "military",
    "count": 4
   },
   {
@@ -120,6 +112,14 @@
   {
    "term": "forest",
    "count": 4
+  },
+  {
+   "term": "fire",
+   "count": 4
+  },
+  {
+   "term": "notification",
+   "count": 4
   }
  ],
  "entities": [
@@ -128,39 +128,47 @@
    "count": 18
   },
   {
+   "name": "China",
+   "count": 10
+  },
+  {
    "name": "Trump",
-   "count": 12
+   "count": 8
+  },
+  {
+   "name": "Saudi Arabia",
+   "count": 7
+  },
+  {
+   "name": "Iraq",
+   "count": 7
   },
   {
    "name": "Alaska",
    "count": 7
   },
   {
-   "name": "Netanyahu",
-   "count": 6
-  },
-  {
-   "name": "China",
-   "count": 6
-  },
-  {
-   "name": "Japan",
-   "count": 5
-  },
-  {
-   "name": "Iraq",
-   "count": 5
-  },
-  {
-   "name": "Hong Kong",
-   "count": 5
-  },
-  {
    "name": "Green",
    "count": 4
   },
   {
-   "name": "Saudis",
+   "name": "Hong Kong",
+   "count": 4
+  },
+  {
+   "name": "Telegram",
+   "count": 3
+  },
+  {
+   "name": "Japan",
+   "count": 3
+  },
+  {
+   "name": "India",
+   "count": 3
+  },
+  {
+   "name": "Ukraine",
    "count": 3
   },
   {
@@ -168,7 +176,11 @@
    "count": 3
   },
   {
-   "name": "Saudi Arabia",
+   "name": "Netanyahu",
+   "count": 3
+  },
+  {
+   "name": "Israel",
    "count": 3
   },
   {
@@ -184,39 +196,27 @@
    "count": 2
   },
   {
-   "name": "Show HN",
+   "name": "New York",
    "count": 2
   },
   {
-   "name": "Icac",
+   "name": "Russia",
    "count": 2
   },
   {
-   "name": "Middle East",
+   "name": "Durov",
    "count": 2
   },
   {
-   "name": "Taiwan",
+   "name": "France",
    "count": 2
   },
   {
-   "name": "Israeli",
+   "name": "Spain",
    "count": 2
   },
   {
-   "name": "Inside",
-   "count": 2
-  },
-  {
-   "name": "Palestinian",
-   "count": 2
-  },
-  {
-   "name": "Gobierno",
-   "count": 2
-  },
-  {
-   "name": "Tonga",
+   "name": "Europe",
    "count": 2
   }
  ]

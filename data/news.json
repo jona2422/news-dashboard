@@ -1,10 +1,19 @@
 {
- "updated": "2026-07-29T06:47:29.281476+00:00",
+ "updated": "2026-07-29T09:59:34.406740+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Willie Nelson Voices Concern About ‘Data Centers Invading Our Land’",
+     "link": "https://www.rollingstone.com/music/music-news/willie-nelson-data-centers-statement-1235600229/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-07-29T07:07:25+00:00",
+     "ts": 1785308845000,
+     "count": 1
+    },
     {
      "title": "Megan Moroney Ends Concert Early Due to Illness: ‘It Hurts Me So Much to Disappoint You All’",
      "link": "https://www.rollingstone.com/music/music-news/megan-moroney-ends-denver-concert-early-illness-1235600223/",
@@ -204,15 +213,6 @@
      "count": 1
     },
     {
-     "title": "Robyn and Zara Larsson Raise Heart Rates on ‘Talk to Me’ Remix",
-     "link": "https://www.rollingstone.com/music/music-news/robyn-zara-larsson-talk-to-me-remix-1235599569/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-07-28T18:23:04+00:00",
-     "ts": 1785262984000,
-     "count": 1
-    },
-    {
      "title": "Pearl Jam’s Jeff Ament Announces New Photo Book Since Forever",
      "link": "https://consequence.net/2026/07/jeff-ament-pearl-jam-photo-book-since-forever/",
      "source": "Consequence",
@@ -263,6 +263,15 @@
    "id": "arte",
    "name": "Arte · Cultura · Educación",
    "items": [
+    {
+     "title": "Gee’s Bend Meets Ralph Lauren—and Other Art World Matters",
+     "link": "https://news.artnet.com/artnet-bulletin/ralph-lauren-gees-bend-july-29-2026-2791471",
+     "source": "Artnet News",
+     "image": "",
+     "published": "2026-07-29T07:08:12+00:00",
+     "ts": 1785308892000,
+     "count": 1
+    },
     {
      "title": "Too hot for summer school?",
      "link": "https://hechingerreport.org/too-hot-for-summer-school/",
@@ -505,15 +514,6 @@
      "published": "2026-07-28T14:00:20+00:00",
      "ts": 1785247220000,
      "count": 1
-    },
-    {
-     "title": "Betye Saar Dies at 99",
-     "link": "https://hyperallergic.com/betye-saar-dies-at-99/",
-     "source": "Hyperallergic",
-     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/smithsonian-opinion.jpg",
-     "published": "2026-07-28T10:00:02+00:00",
-     "ts": 1785232802000,
-     "count": 1
     }
    ]
   },
@@ -521,6 +521,42 @@
    "id": "tech",
    "name": "Tecnología & IA",
    "items": [
+    {
+     "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+     "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25229461/STK252_ebay_stock_CVirginia_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-07-29T09:22:42+00:00",
+     "ts": 1785316962000,
+     "count": 1
+    },
+    {
+     "title": "The AI Hype Index: Unsexy AI",
+     "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+     "source": "MIT Technology Review",
+     "image": "",
+     "published": "2026-07-29T08:42:57+00:00",
+     "ts": 1785314577000,
+     "count": 1
+    },
+    {
+     "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+     "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-07-29T07:18:24+00:00",
+     "ts": 1785309504000,
+     "count": 1
+    },
+    {
+     "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
+     "link": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257737_logitech_mouse__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-07-29T06:39:13+00:00",
+     "ts": 1785307153000,
+     "count": 1
+    },
     {
      "title": "More Tailscale tricks for your jailbroken Kindle",
      "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
@@ -567,15 +603,6 @@
      "count": 1
     },
     {
-     "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-     "link": "https://github.com/jagg-ix/zil-lean",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-29T02:22:04+00:00",
-     "ts": 1785291724000,
-     "count": 1
-    },
-    {
      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
      "link": "https://learnvector.ai/",
      "source": "Hacker News: Front Page",
@@ -600,15 +627,6 @@
      "image": "",
      "published": "2026-07-29T00:59:37+00:00",
      "ts": 1785286777000,
-     "count": 1
-    },
-    {
-     "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-     "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-07-29T00:32:08+00:00",
-     "ts": 1785285128000,
      "count": 1
     },
     {
@@ -672,15 +690,6 @@
      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
      "published": "2026-07-28T22:49:40+00:00",
      "ts": 1785278980000,
-     "count": 1
-    },
-    {
-     "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
-     "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25229461/STK252_ebay_stock_CVirginia_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-07-28T22:48:10+00:00",
-     "ts": 1785278890000,
      "count": 1
     },
     {
@@ -763,15 +772,6 @@
      "published": "2026-07-28T20:52:55+00:00",
      "ts": 1785271975000,
      "count": 1
-    },
-    {
-     "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
-     "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-1152x648.jpg",
-     "published": "2026-07-28T20:51:45+00:00",
-     "ts": 1785271905000,
-     "count": 1
     }
    ]
   },
@@ -780,255 +780,255 @@
    "name": "Actualidad Global",
    "items": [
     {
-     "title": "Why Netanyahu didn’t want a Zelenskyy moment with Trump",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-29T06:37:25+00:00",
-     "ts": 1785307045000,
+     "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+     "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aab/live/599f9370-8b2f-11f1-b2c5-873bffcd48e7.jpg",
+     "published": "2026-07-29T09:51:49+00:00",
+     "ts": 1785318709000,
+     "count": 2
+    },
+    {
+     "title": "FA 'deeply concerned' by Fifa plan as Uefa to meet",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8597/live/49e2a200-8b2b-11f1-b8ee-9b3c26ad07bb.jpg",
+     "published": "2026-07-29T09:46:28+00:00",
+     "ts": 1785318388000,
      "count": 1
     },
     {
-     "title": "Zack Polanski will not say sorry to Farage for sharing ‘dangerous’ image",
-     "link": "https://www.theguardian.com/politics/2026/jul/29/zack-polanski-will-not-apologise-to-nigel-farage-for-sharing-image",
+     "title": "Burnham says it’s ’shameful’ politicians have failed to fix social care, as he fast-tracks Louise Casey’s review – UK politics live",
+     "link": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e9fea47d4c46b7940ce3dfbf71ce11108012dd85/208_0_1239_991/master/1239.jpg?width=140&quality=85&auto=format&fit=max&s=4d7fc95f063b04ac93eb4ab804473b70",
-     "published": "2026-07-29T06:29:37+00:00",
-     "ts": 1785306577000,
+     "image": "https://i.guim.co.uk/img/media/6e2ec94c3d43918cd09dd13ac2f0d1e5013fa6f4/490_0_3542_2835/master/3542.jpg?width=140&quality=85&auto=format&fit=max&s=17d8fad2f282339898f2d28952c40102",
+     "published": "2026-07-29T09:41:53+00:00",
+     "ts": 1785318113000,
      "count": 1
     },
     {
-     "title": "Australia news live: Icac witness accepts former NSW Liberal minister did not have extramarital affair despite ‘shit sheet’ claim",
-     "link": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+     "title": "France and Spain brace for fresh heatwave as warnings issued over risk of new wildfires – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ad84154ca3a18934d41ef9ca4d419ce634b9c618/774_407_3988_3190/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=789e1b5bea5052b4d504ca87f1fdc0c9",
-     "published": "2026-07-29T06:25:17+00:00",
-     "ts": 1785306317000,
+     "image": "https://i.guim.co.uk/img/media/0c3982ab2901d73abc700ff7025b700d8e7ca6cb/620_0_6795_5438/master/6795.jpg?width=140&quality=85&auto=format&fit=max&s=ca63bb2351e75c449bb3b496d92e3fdc",
+     "published": "2026-07-29T09:41:03+00:00",
+     "ts": 1785318063000,
      "count": 1
     },
     {
-     "title": "Germany: How weather extremes impact local agriculture",
-     "link": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-all-1573-rdf",
+     "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+     "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1815/live/8b95e9d0-8b23-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-07-29T09:39:56+00:00",
+     "ts": 1785317996000,
+     "count": 1
+    },
+    {
+     "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
+     "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/95aaa36271e29748803235ed48d74c4fc42f582b/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=61e0cf9a31288104065f6cf5fd432d20",
+     "published": "2026-07-29T09:32:10+00:00",
+     "ts": 1785317530000,
+     "count": 1
+    },
+    {
+     "title": "India news: Police issue FIRs over 'abusive' posts against Modi",
+     "link": "https://www.dw.com/en/india-news-police-issue-firs-over-abusive-posts-against-modi/live-78156014?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "published": "2026-07-29T06:23:00+00:00",
-     "ts": 1785306180000,
+     "published": "2026-07-29T09:31:00+00:00",
+     "ts": 1785317460000,
      "count": 1
     },
     {
-     "title": "Mooted WA oil refinery ‘dinosaur technology’ amid clean energy transition, experts say",
-     "link": "https://www.theguardian.com/australia-news/2026/jul/29/western-australia-oil-refinery-feasibility-study",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7a579595e763e3cdb81c0ef6b635fcb157702422/293_0_6586_5269/master/6586.jpg?width=140&quality=85&auto=format&fit=max&s=541d4fd7d58b6b5856e939d13c277b0b",
-     "published": "2026-07-29T06:15:55+00:00",
-     "ts": 1785305755000,
-     "count": 1
-    },
-    {
-     "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-     "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e8/live/3f41c370-8b13-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-07-29T06:10:19+00:00",
-     "ts": 1785305419000,
-     "count": 1
-    },
-    {
-     "title": "'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake",
-     "link": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d9/live/73bb8900-8b0a-11f1-baef-9b9692338545.jpg",
-     "published": "2026-07-29T06:07:26+00:00",
-     "ts": 1785305246000,
-     "count": 1
-    },
-    {
-     "title": "Judge allows use of police interview in Tupac Shakur murder trial",
-     "link": "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial",
+     "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+     "link": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
      "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2F61%2Fc24348434109a45ecf4de4addf5f%2Fap26181733102304.jpg",
-     "published": "2026-07-29T06:04:35+00:00",
-     "ts": 1785305075000,
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4395x2930+0+0/resize/4395x2930!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F4c%2Fd5342e3e4bf0857b9e9d534b95ff%2Fap26209715636264.jpg",
+     "published": "2026-07-29T09:24:52+00:00",
+     "ts": 1785317092000,
      "count": 1
     },
     {
-     "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
-     "link": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
+     "title": "US bans Chinese and foreign-made humanoid robots",
+     "link": "https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-07-29T09:15:00+00:00",
+     "ts": 1785316500000,
+     "count": 1
+    },
+    {
+     "title": "Heathrow passengers face higher fares as airport can recover early expansion plan costs",
+     "link": "https://www.theguardian.com/business/2026/jul/29/heathrow-passengers-higher-fares-expansion-plan-costs",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ef51a77cb7081cc0e81bf8db9579a58a987b0f3b/1115_0_3690_2952/master/3690.jpg?width=140&quality=85&auto=format&fit=max&s=d0809440aa63db2f2c482c7d88faaa4b",
-     "published": "2026-07-29T05:52:02+00:00",
-     "ts": 1785304322000,
+     "image": "https://i.guim.co.uk/img/media/7e8bd9e2ec4031a527bc952088e0c991bf6da63b/968_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=7c299d92dc59104f84bd9a6c2b90a6f3",
+     "published": "2026-07-29T09:09:27+00:00",
+     "ts": 1785316167000,
      "count": 1
     },
     {
-     "title": "Wednesday briefing: Will Zelenskyy’s domestic struggles harm his reputation on the global stage?",
-     "link": "https://www.theguardian.com/world/2026/jul/29/wednesday-briefing-will-zelenskyys-domestic-struggles-harm-his-reputation-on-the-global-stage",
+     "title": "‘The shaking was terrifying’: stories of survival and loss emerge after Japan earthquake",
+     "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/eea4beac08b8d7341134d3f6a3ccb2df71df036b/271_155_4806_3845/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=298cf163878a6d877bc9736badb79f5c",
-     "published": "2026-07-29T05:46:19+00:00",
-     "ts": 1785303979000,
+     "image": "https://i.guim.co.uk/img/media/b147767b372fa3c2b900ee756134ef45d94d079a/552_160_3105_2484/master/3105.jpg?width=140&quality=85&auto=format&fit=max&s=d542cbca79eb675846d997134c3f4a0f",
+     "published": "2026-07-29T09:08:57+00:00",
+     "ts": 1785316137000,
      "count": 1
     },
     {
-     "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-     "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+     "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
+     "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3279/live/f3e4cc50-8b18-11f1-ad6a-6171441778fb.jpg",
+     "published": "2026-07-29T09:07:40+00:00",
+     "ts": 1785316060000,
+     "count": 2
+    },
+    {
+     "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+     "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5145x3430+0+0/resize/5145x3430!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F7f%2F6e8fb8134e29ae162b0c0da58493%2Fap26210255812509.jpg",
+     "published": "2026-07-29T09:07:03+00:00",
+     "ts": 1785316023000,
+     "count": 1
+    },
+    {
+     "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
+     "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6508/live/d06365c0-8b22-11f1-aaf3-8dae78dd0f1a.jpg",
+     "published": "2026-07-29T09:02:48+00:00",
+     "ts": 1785315768000,
+     "count": 1
+    },
+    {
+     "title": "Why US military prosecutes alleged rapes of women in UK as ‘sexual assaults’",
+     "link": "https://www.theguardian.com/uk-news/2026/jul/29/why-us-military-prosecutes-alleged-rapes-of-women-in-uk-as-sexual-assaults",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/144249660394b8d872d3a4336b778bc26f0123af/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c6d6c08a40a6f1e8086c6950ceaa30e3",
+     "published": "2026-07-29T09:00:28+00:00",
+     "ts": 1785315628000,
+     "count": 1
+    },
+    {
+     "title": "Anthony Fauci to face grilling from Senate Republicans on Covid pandemic",
+     "link": "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e77d522ba46a7761b1d58a45aa1f5f10a1357311/476_0_4756_3805/master/4756.jpg?width=140&quality=85&auto=format&fit=max&s=8344c26a7631bf79643f5d236851b8a9",
+     "published": "2026-07-29T09:00:28+00:00",
+     "ts": 1785315628000,
+     "count": 1
+    },
+    {
+     "title": "More Americans are going bankrupt. What does that mean?",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3240x2328+0+0/resize/3240x2328!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2F2c%2F6e81bd2e4f9fa9b3c90ff6fc5557%2Fap21062421446501.jpg",
+     "published": "2026-07-29T09:00:00+00:00",
+     "ts": 1785315600000,
+     "count": 1
+    },
+    {
+     "title": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5068x3378+0+0/resize/5068x3378!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2Fc7%2Ff4732ea44b0a9f4a363a0d80dd17%2Fgettyimages-1243226820.jpg",
+     "published": "2026-07-29T09:00:00+00:00",
+     "ts": 1785315600000,
+     "count": 1
+    },
+    {
+     "title": "'Machines are collaborators' at this new museum of AI art",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/2000x1125!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F03%2F36cc41b04686a3641da2c0a741f3%2Fgallery-a-data-pavilion-08copy.png",
+     "published": "2026-07-29T09:00:00+00:00",
+     "ts": 1785315600000,
+     "count": 1
+    },
+    {
+     "title": "To win over working class voters, Democrats need to stop talking about democracy",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6502x3657+0+0/resize/6502x3657!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F5c%2Fdba4ea9746749c2a785a7f3a8292%2Fgettyimages-2244506450.jpg",
+     "published": "2026-07-29T09:00:00+00:00",
+     "ts": 1785315600000,
+     "count": 1
+    },
+    {
+     "title": "The Federal Reserve faces a critical decision on interest rates",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3973x2649+0+0/resize/3973x2649!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F95%2Fa3eacef54efebc1a245001e55d9f%2Fgettyimages-2286063371-1.jpg",
+     "published": "2026-07-29T09:00:00+00:00",
+     "ts": 1785315600000,
+     "count": 1
+    },
+    {
+     "title": "As extreme heat grips the South and West, here's how to stay safe",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3826x2551+0+0/resize/3826x2551!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fc8%2Fb491846e47f39f1d5bf1026baf77%2Fap26204620552684.jpg",
+     "published": "2026-07-29T09:00:00+00:00",
+     "ts": 1785315600000,
+     "count": 1
+    },
+    {
+     "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
+     "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/226397f73f6add8b1df6e01f36e0859b72ff49b1/743_0_6599_5283/master/6599.jpg?width=140&quality=85&auto=format&fit=max&s=632d4a875e64fa8d20f2b1bc2f2b9a86",
+     "published": "2026-07-29T08:50:26+00:00",
+     "ts": 1785315026000,
+     "count": 1
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief",
+     "source": "NPR Topics: News",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5901898",
+     "published": "2026-07-29T08:46:26+00:00",
+     "ts": 1785314786000,
+     "count": 1
+    },
+    {
+     "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-07-29T05:43:03+00:00",
-     "ts": 1785303783000,
+     "published": "2026-07-29T08:33:39+00:00",
+     "ts": 1785314019000,
      "count": 1
     },
     {
-     "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
-     "link": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3968x2726+0+0/resize/3968x2726!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F36%2Fd660d94d4cd7a7353454fa34ec86%2Fap26210157559813.jpg",
-     "published": "2026-07-29T05:34:42+00:00",
-     "ts": 1785303282000,
-     "count": 1
-    },
-    {
-     "title": "Angus Taylor insists he made no payments to conservative Liberal group amid Icac investigation",
-     "link": "https://www.theguardian.com/australia-news/2026/jul/29/angus-taylor-nsw-icac-inquiry-liberal-party-reformers-donation-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/33d6ef608d04fc15fb5ffcb48ac44ecc2b279d8e/0_270_2682_2146/master/2682.jpg?width=140&quality=85&auto=format&fit=max&s=26910cee5cac8b64325ee8d08462ace8",
-     "published": "2026-07-29T05:24:20+00:00",
-     "ts": 1785302660000,
-     "count": 1
-    },
-    {
-     "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
-     "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
+     "link": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
      "image": "",
-     "published": "2026-07-29T05:22:18+00:00",
-     "ts": 1785302538000,
+     "published": "2026-07-29T08:32:00+00:00",
+     "ts": 1785313920000,
      "count": 1
     },
     {
-     "title": "Mother and toddler’s deaths in South Australia investigated as murder-suicide as hopes for missing baby fade",
+     "title": "Mother went to South Australia police station day before suspected murder-suicide",
      "link": "https://www.theguardian.com/australia-news/2026/jul/29/sa-police-helena-wright-toddler-death-missing-baby-port-macdonnell-ntwnfb",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/a47392e91eb0ea7b2b8cbde807079a3227cf8148/243_0_1107_886/master/1107.jpg?width=140&quality=85&auto=format&fit=max&s=4a6c82bd2c2de4c531a41c8a0ca754b3",
-     "published": "2026-07-29T05:21:17+00:00",
-     "ts": 1785302477000,
+     "published": "2026-07-29T08:27:31+00:00",
+     "ts": 1785313651000,
      "count": 1
     },
     {
-     "title": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
+     "link": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
      "image": "",
-     "published": "2026-07-29T05:18:36+00:00",
-     "ts": 1785302316000,
-     "count": 1
-    },
-    {
-     "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-29T05:07:33+00:00",
-     "ts": 1785301653000,
-     "count": 1
-    },
-    {
-     "title": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
-     "link": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6848/live/f72b2db0-8a68-11f1-b2ab-0dd01740f9f6.jpg",
-     "published": "2026-07-29T05:01:46+00:00",
-     "ts": 1785301306000,
-     "count": 1
-    },
-    {
-     "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-     "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9c/live/a9fea910-8aa2-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-07-29T05:01:12+00:00",
-     "ts": 1785301272000,
-     "count": 1
-    },
-    {
-     "title": "Four women accuse Jared Leto of criminal sexual conduct",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c8/live/4a9ae6d0-8a6d-11f1-924e-bfa32777c3ff.jpg",
-     "published": "2026-07-29T05:00:07+00:00",
-     "ts": 1785301207000,
-     "count": 1
-    },
-    {
-     "title": "Trump meets Netanyahu for a record seventh White House visit",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-29T04:47:25+00:00",
-     "ts": 1785300445000,
-     "count": 1
-    },
-    {
-     "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-     "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554a/live/122cc280-8aab-11f1-b8ee-9b3c26ad07bb.jpg",
-     "published": "2026-07-29T04:43:36+00:00",
-     "ts": 1785300216000,
-     "count": 1
-    },
-    {
-     "title": "Iran and US trade strikes, shattering brief lull in fighting",
-     "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
-     "published": "2026-07-29T04:30:08+00:00",
-     "ts": 1785299408000,
-     "count": 1
-    },
-    {
-     "title": "Organic eggs have worse impact on climate than eggs from caged chickens",
-     "link": "https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0c25bfbcb871f9d36a7669fb3dfe9b139246241c/0_706_2667_2133/master/2667.jpg?width=140&quality=85&auto=format&fit=max&s=fb88d83c77cde8d69e8e0dfa054323e4",
-     "published": "2026-07-29T04:00:24+00:00",
-     "ts": 1785297624000,
-     "count": 1
-    },
-    {
-     "title": "Magic circle: Stonehenge offers lucky visitors 20 minutes alone in monument",
-     "link": "https://www.theguardian.com/uk-news/2026/jul/29/stonehenge-offers-visitors-20-minutes-alone-in-monument",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3ee93c50906728833d2d03150a40d0b5011102f2/333_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=6704de85dddf8511bfe4c3c5e32de123",
-     "published": "2026-07-29T04:00:23+00:00",
-     "ts": 1785297623000,
-     "count": 1
-    },
-    {
-     "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
-     "link": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/036e29f1db8d14c2b5c4cce7c8f9993c50cd4570/121_0_1404_1123/master/1404.jpg?width=140&quality=85&auto=format&fit=max&s=2db90d534a1d58332e68dacf2dd85513",
-     "published": "2026-07-29T04:00:22+00:00",
-     "ts": 1785297622000,
-     "count": 1
-    },
-    {
-     "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
-     "link": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3772a611510eaa4d255fa770e785399946a5765c/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=532482896ce323ddd8cadeca10f27b75",
-     "published": "2026-07-29T03:36:14+00:00",
-     "ts": 1785296174000,
-     "count": 1
-    },
-    {
-     "title": "Haitians living in fear as Temporary Protected Status ends in the US",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-07-29T03:09:15+00:00",
-     "ts": 1785294555000,
+     "published": "2026-07-29T08:27:00+00:00",
+     "ts": 1785313620000,
      "count": 1
     }
    ]
@@ -1037,6 +1037,60 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "5 alimentos que ayudan a cuidar nuestros huesos (más allá de la leche)",
+     "link": "https://www.bbc.com/mundo/articles/cy0jkg5rl16o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d83/live/85f99d30-89f4-11f1-ad85-33848ec6bcfe.jpg",
+     "published": "2026-07-29T09:41:33+00:00",
+     "ts": 1785318093000,
+     "count": 1
+    },
+    {
+     "title": "Extraña desaparición de mujer de 77 años en el centro de Neiva: denuncian que entró a una calle pero cámaras nunca registraron su salida; esto se sabe",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/extrana-desaparicion-de-mujer-de-77-anos-en-el-centro-de-neiva-denuncian-que-entro-a-una-calle-pero-camaras-nunca-registraron-su-salida-esto-se-sabe-3574571",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/28/6a69701286e95.r_d.149-208-0.jpeg",
+     "published": "2026-07-29T09:39:01+00:00",
+     "ts": 1785317941000,
+     "count": 1
+    },
+    {
+     "title": "Policía revela cómo avanza la búsqueda de la bebé de María Camila Potosí, joven embarazada que fue asesinada en Cali: 'Ninguna hipótesis se descarta'",
+     "link": "https://www.eltiempo.com/colombia/cali/policia-revela-como-avanza-la-busqueda-de-la-bebe-de-maria-camila-potosi-joven-embarazada-que-fue-asesinada-en-cali-ninguna-hipotesis-se-descarta-3574580",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/28/6a6960154d9f2.png",
+     "published": "2026-07-29T09:38:05+00:00",
+     "ts": 1785317885000,
+     "count": 1
+    },
+    {
+     "title": "BMW prevé recortar 8.000 puestos de empleo hasta finales de 2027",
+     "link": "https://www.dw.com/es/bmw-prevé-recortar-8-000-puestos-de-empleo-hasta-finales-de-2027/a-78154710?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-07-29T08:49:00+00:00",
+     "ts": 1785314940000,
+     "count": 1
+    },
+    {
+     "title": "Un potente terremoto en Japón deja al menos 13 muertos y varias personas atrapadas en un centro comercial",
+     "link": "https://www.bbc.com/mundo/articles/c5y62l02y3jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b02f/live/ba8cefe0-8a88-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-07-29T07:13:10+00:00",
+     "ts": 1785309190000,
+     "count": 1
+    },
+    {
+     "title": "Rusia da orden de búsqueda contra Pavel Durov, fundador de Telegram",
+     "link": "https://www.dw.com/es/rusia-da-orden-de-búsqueda-contra-pavel-durov-fundador-de-telegram/a-78153786?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-07-29T07:09:00+00:00",
+     "ts": 1785308940000,
+     "count": 1
+    },
     {
      "title": "Así fue el 'borondo' que se dio Rigoberto Urán por los principales atractivos de Cali como antesala al Giro de Rigo",
      "link": "https://www.eltiempo.com/colombia/cali/asi-fue-el-borondo-que-se-dio-rigoberto-uran-por-los-principales-atractivos-de-cali-como-antesala-al-giro-de-rigo-3574600",
@@ -1234,60 +1288,6 @@
      "published": "2026-07-29T04:00:00+00:00",
      "ts": 1785297600000,
      "count": 1
-    },
-    {
-     "title": "“Es un mojado”: los insultos racistas que una demanda atribuye a agentes migratorios en Los Ángeles",
-     "link": "https://elpais.com/us/migracion/2026-07-29/es-un-mojado-los-insultos-racistas-que-una-demanda-atribuye-a-agentes-migratorios-en-los-angeles.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/N57IRF7PUBHSVGKBCNLKTSQIBY.jpg?auth=41c890d40627edc100a8b6d722d67f7d0d7815c857f0748417dd0827e13d7b64",
-     "published": "2026-07-29T04:00:00+00:00",
-     "ts": 1785297600000,
-     "count": 1
-    },
-    {
-     "title": "Gobernar sin fecha de caducidad: la ruta de Bukele para borrar los límites del poder en El Salvador",
-     "link": "https://elpais.com/america/2026-07-29/gobernar-sin-fecha-de-caducidad-la-ruta-de-bukele-para-borrar-los-limites-del-poder-en-el-salvador.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/G4PLCQTYAFKJ3AECHN3OOYAGPY.jpg?auth=40718ecaf9600affd26053808098b6ae26a2b4b08ab7006b3957b9446662d52d",
-     "published": "2026-07-29T04:00:00+00:00",
-     "ts": 1785297600000,
-     "count": 1
-    },
-    {
-     "title": "José Flores, el hombre de 119 años de Costa Rica que los expertos tratan de acreditar como el más longevo del mundo",
-     "link": "https://elpais.com/america-futura/2026-07-29/jose-flores-el-hombre-de-119-anos-que-encarna-un-estilo-de-vida-menguante-en-la-region-mas-turistica-de-costa-rica.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/W5A3X4LF3ZD3XGODMEFMVVVRTE.jpg?auth=70280b63c977c5f2c1e503f9849f0c6b5f67f6f059e871809509b2f67f42141d",
-     "published": "2026-07-29T04:00:00+00:00",
-     "ts": 1785297600000,
-     "count": 1
-    },
-    {
-     "title": "Supermercados públicos hasta un 30% más baratos, el plan de Mamdani que indigna a los comerciantes de Nueva York",
-     "link": "https://elpais.com/us/2026-07-29/supermercados-publicos-hasta-un-30-mas-baratos-el-plan-de-mamdani-que-indigna-a-los-comerciantes-de-nueva-york.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/UFBUQGBMHVL7NIIDDUXHF3ORB4.jpg?auth=38b7d9f4620f53e19da83e8c669dffd5b6e2620a4bf26ba89740df066b1c3b7f",
-     "published": "2026-07-29T04:00:00+00:00",
-     "ts": 1785297600000,
-     "count": 1
-    },
-    {
-     "title": "Las flores colombianas chocan con la revaluación, el salario mínimo, los fletes y Trump",
-     "link": "https://elpais.com/america-colombia/2026-07-29/las-flores-colombianas-chocan-con-la-revaluacion-el-salario-minimo-los-fletes-y-trump.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/246MQB7GFJGL3N6YU757EYX44M.jpg?auth=33ab4f9eee67b7103059637b0dff8d358330f731e493a344ea88419d27110fe6",
-     "published": "2026-07-29T04:00:00+00:00",
-     "ts": 1785297600000,
-     "count": 1
-    },
-    {
-     "title": "La inteligencia artificial: cuestión de ética y capacidades en América Latina y el Caribe",
-     "link": "https://elpais.com/america-futura/2026-07-29/la-inteligencia-artificial-cuestion-de-etica-y-capacidades-en-america-latina-y-el-caribe.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/52HKVRLTVVCZBDUI5A3MMCI7P4.jpg?auth=8bee7e10904a36fb3f32d66e4912003f6ad02d457efff9bc80b85662c7db01a1",
-     "published": "2026-07-29T04:00:00+00:00",
-     "ts": 1785297600000,
-     "count": 1
     }
    ]
   },
@@ -1296,22 +1296,85 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "M 2.5 - 8 km ESE of Cloverdale, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407567",
+     "title": "M 3.1 - 69 km SSE of Atka, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgle",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-07-29T06:43:07.371000+00:00",
-     "ts": 1785307387371,
+     "published": "2026-07-29T09:52:45.040000+00:00",
+     "ts": 1785318765040,
+     "count": 3
+    },
+    {
+     "title": "M 2.8 - 188 km WSW of Nikolski, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tglb",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-29T09:48:28.040000+00:00",
+     "ts": 1785318508040,
+     "count": 3
+    },
+    {
+     "title": "M 2.8 - 10 km SSW of Lamont, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663002",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-29T09:46:00.470000+00:00",
+     "ts": 1785318360470,
+     "count": 1
+    },
+    {
+     "title": "M 4.1 - 84 km NE of San Pedro de Atacama, Chile",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tglq",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-29T09:10:44.040000+00:00",
+     "ts": 1785316244040,
+     "count": 1
+    },
+    {
+     "title": "M 5.0 - 52 km E of Denali National Park, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovufno",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-29T08:59:29.606000+00:00",
+     "ts": 1785315569606,
+     "count": 3
+    },
+    {
+     "title": "M 4.3 - 8 km ESE of Cloverdale, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407577",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-07-29T08:50:12.221000+00:00",
+     "ts": 1785315012221,
      "count": 2
     },
     {
-     "title": "M 2.8 - 77 km SSE of Atka, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovakby",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "title": "Green forest fire notification in Tanzania",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029860",
+     "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-07-29T06:34:22.445000+00:00",
-     "ts": 1785306862445,
-     "count": 3
+     "published": "2026-07-29T07:40:37+00:00",
+     "ts": 1785310837000,
+     "count": 226
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029890",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-07-29T07:30:50+00:00",
+     "ts": 1785310250000,
+     "count": 31
+    },
+    {
+     "title": "Green forest fire notification in Russian Federation",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029835",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-07-29T07:03:09+00:00",
+     "ts": 1785308589000,
+     "count": 13
     },
     {
      "title": "M 2.8 - 113 km WSW of Adak, Alaska",
@@ -1332,24 +1395,6 @@
      "count": 1
     },
     {
-     "title": "M 3.0 - 184 km WSW of Nikolski, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouyvpz",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-29T06:17:40.723000+00:00",
-     "ts": 1785305860723,
-     "count": 3
-    },
-    {
-     "title": "M 3.7 - 230 km ESE of Attu Station, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouxsve",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-29T06:09:31.001000+00:00",
-     "ts": 1785305371001,
-     "count": 4
-    },
-    {
      "title": "M 4.5 - 44 km SSE of Bodden Town, Cayman Islands",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgd1",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1359,12 +1404,12 @@
      "count": 1
     },
     {
-     "title": "M 2.9 - 52 km E of Denali National Park, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owgput",
+     "title": "M 3.8 - 230 km ESE of Attu Station, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owgktx",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-07-29T05:25:28.110000+00:00",
-     "ts": 1785302728110,
+     "published": "2026-07-29T05:18:51.757000+00:00",
+     "ts": 1785302331757,
      "count": 3
     },
     {
@@ -1411,42 +1456,6 @@
      "published": "2026-07-29T03:42:37.040000+00:00",
      "ts": 1785296557040,
      "count": 1
-    },
-    {
-     "title": "Green forest fire notification in Tanzania",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029860",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-29T03:40:58+00:00",
-     "ts": 1785296458000,
-     "count": 226
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029890",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-29T03:36:15+00:00",
-     "ts": 1785296175000,
-     "count": 31
-    },
-    {
-     "title": "M 6.8 - 2026 Uto, Japan Earthquake",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-29T03:15:37.628000+00:00",
-     "ts": 1785294937628,
-     "count": 1
-    },
-    {
-     "title": "Green forest fire notification in Russian Federation",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029892",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-07-29T03:13:05+00:00",
-     "ts": 1785294785000,
-     "count": 13
     },
     {
      "title": "M 3.9 Experimental Explosion - 171 km ENE of Flagler Beach, Florida",
@@ -1537,15 +1546,6 @@
      "published": "2026-07-28T23:21:08.724000+00:00",
      "ts": 1785280868724,
      "count": 1
-    },
-    {
-     "title": "M 3.6 - 124 km NNW of The Valley, Anguilla",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026209002",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-07-28T23:01:22.997000+00:00",
-     "ts": 1785279682997,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,60 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "US thwarts Iran missile attack and joins forces with Saudis to strike Iraq, killing 20",
+     "link": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3772a611510eaa4d255fa770e785399946a5765c/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=532482896ce323ddd8cadeca10f27b75",
+     "published": "2026-07-29T09:52:44+00:00",
+     "ts": 1785318764000,
+     "count": 1
+    },
+    {
+     "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+     "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1815/live/8b95e9d0-8b23-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-07-29T09:39:56+00:00",
+     "ts": 1785317996000,
+     "count": 1
+    },
+    {
+     "title": "Netanyahu praises 'excellent' meeting with Trump in first since Iran war",
+     "link": "https://www.france24.com/en/netanyahu-praises-excellent-meeting-with-trump-in-first-since-iran-war",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/9ea52c7a-8ae2-11f1-ba39-005056a97e36/w:1024/p:16x9/AP26208782971465.jpg",
+     "published": "2026-07-29T09:04:22+00:00",
+     "ts": 1785315862000,
+     "count": 1
+    },
+    {
+     "title": "‘They targeted us directly’: how the Israel-Lebanon war became deadly for healthcare workers",
+     "link": "https://www.theguardian.com/global-development/2026/jul/29/they-targeted-us-directly-how-the-israel-lebanon-war-became-deadly-for-healthcare-workers",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/16c28869905aad48164bb00d3bc830cd044c3af2/543_189_2326_1861/master/2326.jpg?width=140&quality=85&auto=format&fit=max&s=18afb89ed0ab808e6e678a405f30ea17",
+     "published": "2026-07-29T09:00:28+00:00",
+     "ts": 1785315628000,
+     "count": 1
+    },
+    {
+     "title": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume",
+     "link": "https://www.france24.com/en/us-says-iran-trying-to-derail-ongoing-ceasefire-talks-as-strikes-resume",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/a717986a-8278-11f1-aee4-005056bf30b7/w:1024/p:16x9/000-C2G42T4.jpg",
+     "published": "2026-07-29T08:59:42+00:00",
+     "ts": 1785315582000,
+     "count": 1
+    },
+    {
+     "title": "Israeli airstrike hits mosque in Gaza City – video",
+     "link": "https://www.theguardian.com/world/video/2026/jul/29/israeli-airstrike-hits-mosque-gaza-city-video",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/846ba19e4e0b97116807b8d9e3ec4bb18307bf47/156_0_3697_2957/master/3697.jpg?width=140&quality=85&auto=format&fit=max&s=0de81ed70957d10b664937c1f727c75d",
+     "published": "2026-07-29T08:49:06+00:00",
+     "ts": 1785314946000,
+     "count": 1
+    },
     {
      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
      "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
@@ -1563,30 +1617,12 @@
      "count": 1
     },
     {
-     "title": "Iran and US trade strikes, shattering brief lull in fighting",
-     "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
-     "published": "2026-07-29T04:30:08+00:00",
-     "ts": 1785299408000,
-     "count": 1
-    },
-    {
      "title": "From 400 hives to 35: the Gaza beekeeper refusing to let war end his life’s work",
      "link": "https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/e7d829a9c283e94378cdb618233e200d8a28e885/980_0_6041_4834/master/6041.jpg?width=140&quality=85&auto=format&fit=max&s=b8a82ea75cea45d34b945176fadfdfc1",
      "published": "2026-07-29T04:00:23+00:00",
      "ts": 1785297623000,
-     "count": 1
-    },
-    {
-     "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
-     "link": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3772a611510eaa4d255fa770e785399946a5765c/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=532482896ce323ddd8cadeca10f27b75",
-     "published": "2026-07-29T03:36:14+00:00",
-     "ts": 1785296174000,
      "count": 1
     },
     {
@@ -1768,42 +1804,6 @@
      "published": "2026-07-27T11:32:48+00:00",
      "ts": 1785151968000,
      "count": 1
-    },
-    {
-     "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-     "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
-     "published": "2026-07-27T09:59:15+00:00",
-     "ts": 1785146355000,
-     "count": 2
-    },
-    {
-     "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
-     "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/1590f3b0-890c-11f1-84f3-d921f52926a2.jpg",
-     "published": "2026-07-27T08:14:46+00:00",
-     "ts": 1785140086000,
-     "count": 1
-    },
-    {
-     "title": "US pauses Iran attacks after Trump advised to halt bombing",
-     "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/958908be634d62903516d0230827dc129ed254f4/200_78_2464_1972/master/2464.jpg?width=140&quality=85&auto=format&fit=max&s=0f368e9e440ff16810332bede58e954c",
-     "published": "2026-07-27T06:33:40+00:00",
-     "ts": 1785134020000,
-     "count": 1
-    },
-    {
-     "title": "He’s commander-in-chief of chaos. Now we’re all victims of Trump’s wars | Nesrine Malik",
-     "link": "https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/894468e7cd042ab782e54c38a4690bc70a3f610b/0_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5eeb39429eec60171239c9a56a3ea6cd",
-     "published": "2026-07-27T04:00:31+00:00",
-     "ts": 1785124831000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,168 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "Authorities arrest 14 in crackdown on unlicensed hawkers, seize 600kg of food",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362268/authorities-arrest-14-crackdown-unlicensed-hawkers-seize-600kg-food?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/3e09eb1f-fb86-4ea3-972e-8622f51fcbe1_3b67ff30.jpg?itok=4cVijvkW&v=1785318372",
+     "published": "2026-07-29T09:46:17+00:00",
+     "ts": 1785318377000,
+     "count": 1
+    },
+    {
+     "title": "China’s hi-tech boom pushes firms to boost pay in 2027 as keeping talent a priority",
+     "link": "https://www.scmp.com/economy/china-economy/article/3362254/chinas-hi-tech-boom-pushes-firms-boost-pay-2027-keeping-talent-priority?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/a4948986-fa6f-40f4-ad74-208ed866da72_c0b57fd5.jpg?itok=O7CT0fUS&v=1785315488",
+     "published": "2026-07-29T09:41:17+00:00",
+     "ts": 1785318077000,
+     "count": 1
+    },
+    {
+     "title": "Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach",
+     "link": "https://www.scmp.com/tech/article/3362261/chinese-ai-start-moonshot-seeks-influential-ambassadors-widen-kimis-global-reach?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/c31eb075-c5f3-4318-bf38-f470fd6be5ef_d2a6f95c.jpg?itok=rjE7ZDi3&v=1785316557",
+     "published": "2026-07-29T09:30:19+00:00",
+     "ts": 1785317419000,
+     "count": 1
+    },
+    {
+     "title": "‘Practical’ young Africans leaning towards China over US and away from ideology",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3362249/practical-young-africans-leaning-towards-china-over-us-and-away-ideology?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/1994e74a-28e9-4e24-bd6f-ca678e9c0d3a_f7063791.jpg?itok=jxDXZCLm&v=1785313626",
+     "published": "2026-07-29T09:01:08+00:00",
+     "ts": 1785315668000,
+     "count": 1
+    },
+    {
+     "title": "Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3362255/why-zhongji-unveiling-us12-billion-buy-backs-its-hong-kong-debut?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/36311e8e-2d93-43f9-a18b-530d6b1c7324_f0d3649f.jpg?itok=3Qy-Z9uX&v=1785315629",
+     "published": "2026-07-29T09:00:31+00:00",
+     "ts": 1785315631000,
+     "count": 1
+    },
+    {
+     "title": "How South Korea can ease Brazilian concerns to unlock trade in South America",
+     "link": "https://www.scmp.com/week-asia/economics/article/3362218/how-south-korea-can-ease-brazilian-concerns-unlock-trade-south-america?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/7921f372-4693-4637-bb47-f69691a73e4e_0b4ad240.jpg?itok=hV-fMwCn&v=1785303154",
+     "published": "2026-07-29T09:00:10+00:00",
+     "ts": 1785315610000,
+     "count": 1
+    },
+    {
+     "title": "China should lean into its defining AI advantage – accessibility",
+     "link": "https://www.scmp.com/opinion/china-opinion/article/3361895/china-should-lean-its-defining-ai-advantage-accessibility?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/27/4b281e30-a864-4bcf-b9fb-1b079c368615_221a2f0a.jpg?itok=a-lxzCp8&v=1785141857",
+     "published": "2026-07-29T08:30:06+00:00",
+     "ts": 1785313806000,
+     "count": 1
+    },
+    {
+     "title": "Advanced technologies now account for 1 in 6 valid invention patents in China",
+     "link": "https://www.scmp.com/economy/china-economy/article/3362232/advanced-technologies-now-account-1-6-valid-invention-patents-china?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/68b32fd6-c020-46eb-bbd4-774ee451f612_b14f59fa.jpg?itok=eBRIEfjw&v=1785307451",
+     "published": "2026-07-29T08:00:21+00:00",
+     "ts": 1785312021000,
+     "count": 1
+    },
+    {
+     "title": "Lenovo Capital takes aim at robotics, coding agents in  ‘sniper’ AI investment strategy",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3362213/lenovo-capital-takes-aim-robotics-coding-agents-sniper-ai-investment-strategy?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/b4628ac0-a722-40d3-aa69-fa4b5bbbe713_632a4640.jpg?itok=ug9JyYuA&v=1785301133",
+     "published": "2026-07-29T08:00:13+00:00",
+     "ts": 1785312013000,
+     "count": 1
+    },
+    {
+     "title": "A new peak in US-China tech rivalry? Tibet drone hub launches on Mount Everest",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3362159/new-peak-us-china-tech-rivalry-tibet-drone-hub-launches-mount-everest?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/03545b5b-6ddc-4c92-83e6-84e155600e75_e77542df.jpg?itok=5XbJ-42V&v=1785243326",
+     "published": "2026-07-29T08:00:09+00:00",
+     "ts": 1785312009000,
+     "count": 1
+    },
+    {
+     "title": "Vietnam to host US aircraft carrier despite Trump’s tariffs, Iran war chaos",
+     "link": "https://www.scmp.com/week-asia/politics/article/3362219/vietnam-host-us-aircraft-carrier-despite-trumps-tariffs-iran-war-chaos?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/fd94f7e6-ed12-4799-8381-864b3e235cff_89e1707c.jpg?itok=ifSN2aVx&v=1785303349",
+     "published": "2026-07-29T07:59:48+00:00",
+     "ts": 1785311988000,
+     "count": 1
+    },
+    {
+     "title": "Having babies in space; China’s first Fields Medal winners: 7 science highlights",
+     "link": "https://www.scmp.com/news/china/science/article/3362090/having-babies-space-chinas-first-fields-medal-winners-7-science-highlights?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/5094af01-e3ae-49a5-9dd0-4b3280cf4c2b_13f928b7.jpg?itok=s9mWw01i&v=1785312497",
+     "published": "2026-07-29T07:30:07+00:00",
+     "ts": 1785310207000,
+     "count": 1
+    },
+    {
+     "title": "Russia charges Telegram founder Durov with aiding terror, issues wanted alert",
+     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3362240/russia-charges-telegram-founder-durov-aiding-terror-issues-wanted-alert?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/9c28f372-72e0-46f4-9063-de5c0e4e9c74_fbd7858a.jpg?itok=381BwKca&v=1785310037",
+     "published": "2026-07-29T07:27:25+00:00",
+     "ts": 1785310045000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong coach accused of slapping boy, 8, forcing him to stand in blazing sun",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362237/hong-kong-coach-accused-slapping-boy-8-forcing-him-stand-blazing-sun?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/27874f85-dceb-479f-bae8-9d867e17096a_fe8825ef.jpg?itok=l-Z6NA8s&v=1785309139",
+     "published": "2026-07-29T07:19:57+00:00",
+     "ts": 1785309597000,
+     "count": 1
+    },
+    {
+     "title": "Singapore signals housing market stability by scrapping 15-month HDB wait",
+     "link": "https://www.scmp.com/week-asia/economics/article/3362238/singapore-signals-housing-market-stability-scrapping-15-month-hdb-wait?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/c087d874-80fa-4829-9b37-45b546b1823c_de9be741.jpg?itok=5zrVleOc&v=1785309178",
+     "published": "2026-07-29T07:12:58+00:00",
+     "ts": 1785309178000,
+     "count": 1
+    },
+    {
+     "title": "Bangladesh’s Sheikh Hasina vows to return despite believing she ‘may be killed’",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3362236/bangladeshs-sheikh-hasina-vows-return-despite-believing-she-may-be-killed?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/83c4c40b-9d49-4863-9512-b757471d56df_f94e3b18.jpg?itok=ZidLlUZb&v=1785308652",
+     "published": "2026-07-29T07:04:14+00:00",
+     "ts": 1785308654000,
+     "count": 1
+    },
+    {
+     "title": "‘I was so touched’: Hongkongers in quake-hit Japanese city help each other",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3362235/hongkongers-quake-hit-japanese-city-offer-helping-hand-fellow-travellers?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/85107ed8-de8b-4731-9e08-3d923bfc7fd3_a5807305.jpg?itok=XedUY0Ab&v=1785308550",
+     "published": "2026-07-29T07:02:39+00:00",
+     "ts": 1785308559000,
+     "count": 1
+    },
+    {
+     "title": "Spurned by the US, African students turn to China for a university degree",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3362222/african-students-turn-china-amid-tighter-us-visa-rules-and-higher-university-costs?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/689db3f2-a710-4fa2-ab8b-10895052f7aa_2f3f15f5.jpg?itok=drT2VV5J&v=1785305175",
+     "published": "2026-07-29T07:00:06+00:00",
+     "ts": 1785308406000,
+     "count": 1
+    },
     {
      "title": "Ex-Cathay employee gets 20 months’ jail for taking bribes in human smuggling case",
      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362230/ex-cathay-employee-gets-20-months-jail-taking-bribes-human-smuggling-case?utm_source=rss_feed",
@@ -1875,7 +2037,7 @@
      "count": 1
     },
     {
-     "title": "Pentagon official hails ‘stronger’ military ties with PLA at anniversary event",
+     "title": "Pentagon official hails ‘stronger’ military ties in rare speech at PLA anniversary event",
      "link": "https://www.scmp.com/news/china/military/article/3362210/pentagon-official-hails-stronger-military-ties-pla-anniversary-event?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/f7bdddfa-f9cc-4b7f-8640-be404e01e179_55c4029e.jpg?itok=NXAVfitf&v=1785301790",
@@ -1893,174 +2055,12 @@
      "count": 1
     },
     {
-     "title": "Japan quake death toll rises to 13 after newly reopened Aeon Mall collapses in Kumamoto",
+     "title": "Death toll in Japan quake rises to 18 as rescuers comb through rubble",
      "link": "https://www.scmp.com/news/asia/east-asia/article/3362200/japan-quake-death-toll-rises-13-after-newly-reopened-aeon-mall-collapses?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/45b31657-efb7-4248-beca-10617bb84e01_85711af8.jpg?itok=B8JyJ6Ul&v=1785295674",
      "published": "2026-07-29T03:28:02+00:00",
      "ts": 1785295682000,
-     "count": 1
-    },
-    {
-     "title": "Independent bookshop of 50 years to close after national security raid",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3362198/after-50-years-business-bookshop-close-following-national-security-raid?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/00fd1095-e794-4e2c-9b0a-0360d829a991_adc19385.jpg?itok=H0L8XQn7&v=1785304205",
-     "published": "2026-07-29T03:21:39+00:00",
-     "ts": 1785295299000,
-     "count": 1
-    },
-    {
-     "title": "US Senate confirms Clayton as Trump’s new spy chief",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3362197/us-senate-confirms-clayton-trumps-new-spy-chief?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/da789fde-83ec-4d1a-8ca1-03666cf84733_09c1adc0.jpg?itok=3QX3Ra3B&v=1785294340",
-     "published": "2026-07-29T03:05:47+00:00",
-     "ts": 1785294347000,
-     "count": 1
-    },
-    {
-     "title": "EU’s US$17 million maritime aid for Philippines targets Asian ‘fault lines’",
-     "link": "https://www.scmp.com/week-asia/politics/article/3362175/eus-us17-million-maritime-aid-philippines-targets-asian-fault-lines?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/203b05cc-8af2-40eb-8bb3-8524120f8d43_32ecca94.jpg?itok=OrOoFeE5&v=1785253009",
-     "published": "2026-07-29T03:00:15+00:00",
-     "ts": 1785294015000,
-     "count": 1
-    },
-    {
-     "title": "China has 6 of world’s 10 most innovative humanoid robot start-ups: report",
-     "link": "https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/3006d82c-35ec-4a34-9025-6d608f825a8d_d08c19a7.jpg?itok=jRqSDaxz&v=1785290954",
-     "published": "2026-07-29T02:59:49+00:00",
-     "ts": 1785293989000,
-     "count": 1
-    },
-    {
-     "title": "Man dies, 78 people evacuated after fire breaks out at Hong Kong village house",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3362194/man-dies-78-people-evacuated-after-fire-breaks-out-hong-kong-village-house?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/b686feeb-0e43-4b8e-8e58-7e55f258dfdb_b7fee02e.jpg?itok=fMd5AkXb&v=1785290454",
-     "published": "2026-07-29T02:01:05+00:00",
-     "ts": 1785290465000,
-     "count": 1
-    },
-    {
-     "title": "HSBC to relocate senior executive to Hong Kong amid pivot to Asia: sources",
-     "link": "https://www.scmp.com/business/banking-finance/article/3362190/hsbc-relocate-senior-executive-hong-kong-amid-pivot-asia-sources?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/20f16822-406c-488a-80ac-adc38f635c85_5d0f8fc4.jpg?itok=ZH-z0Pku&v=1785285835",
-     "published": "2026-07-29T02:00:11+00:00",
-     "ts": 1785290411000,
-     "count": 1
-    },
-    {
-     "title": "US posts photo of coastguard working with Taiwan after Beijing starts patrols",
-     "link": "https://www.scmp.com/news/china/military/article/3362193/us-posts-photo-coastguard-working-taiwan-after-beijing-starts-patrols?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/653c2b55-7d47-47da-80a3-21057ff363fe_0f074543.jpg?itok=dxov6D6N&v=1785288983",
-     "published": "2026-07-29T01:36:26+00:00",
-     "ts": 1785288986000,
-     "count": 1
-    },
-    {
-     "title": "AI competition heats up as US targets Southeast Asia’s public sector",
-     "link": "https://www.scmp.com/week-asia/economics/article/3362166/ai-competition-heats-us-targets-southeast-asias-public-sector?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/0754e1f0-2512-4393-8fab-eb4d4dc09d1f_a8fbc772.jpg?itok=T5WUYH_v&v=1785246278",
-     "published": "2026-07-29T01:30:12+00:00",
-     "ts": 1785288612000,
-     "count": 1
-    },
-    {
-     "title": "How Hong Kong can chart a cycle-friendly course",
-     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361735/how-hong-kong-can-chart-cycle-friendly-course?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/499218cf-e136-4730-bed2-d6c21e757b92_6698066b.jpg?itok=lyR_fT-Z&v=1785227737",
-     "published": "2026-07-29T01:30:06+00:00",
-     "ts": 1785288606000,
-     "count": 1
-    },
-    {
-     "title": "Chinese gaokao student’s inspiring story captivates nation after losing last relative",
-     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3362191/chinese-gaokao-students-inspiring-story-captivates-nation-after-losing-last-relative?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/fe2edd25-6557-4fd7-b8be-c1296c0459ff_d1f6d30d.jpg?itok=YI3gnKTK&v=1785288377",
-     "published": "2026-07-29T01:26:27+00:00",
-     "ts": 1785288387000,
-     "count": 1
-    },
-    {
-     "title": "Should China aim for the lead in making AI rules for the world?",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3362160/should-china-aim-lead-making-ai-rules-world?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/963e081c-71f1-44e8-8375-326aef8d7085_6866c55b.jpg?itok=EZYDZ3fv&v=1785243709",
-     "published": "2026-07-29T01:00:13+00:00",
-     "ts": 1785286813000,
-     "count": 1
-    },
-    {
-     "title": "AI boom will sustain Hong Kong’s export surge, lift GDP outlook, economists say",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362167/ai-boom-will-sustain-hong-kongs-export-surge-lift-gdp-outlook-economists-say?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/b826376f-8b82-413b-9f9a-ea04254673a9_d6b82a8c.jpg?itok=w9QMokVR&v=1785247957",
-     "published": "2026-07-29T00:30:07+00:00",
-     "ts": 1785285007000,
-     "count": 1
-    },
-    {
-     "title": "South Korean scientists solve 250-year-old dementia-linked brain mystery",
-     "link": "https://www.scmp.com/week-asia/health-environment/article/3362149/south-korean-scientists-solve-250-year-old-dementia-linked-brain-mystery?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/28/64a5f3dc-0091-46fa-874f-8c9120bcd7b4_4be9f0ce.jpg?itok=6yMFHu8G&v=1785236824",
-     "published": "2026-07-29T00:00:16+00:00",
-     "ts": 1785283216000,
-     "count": 1
-    },
-    {
-     "title": "Shanghai Clearing House targets global growth with expanded offshore yuan push",
-     "link": "https://www.scmp.com/business/markets/article/3362189/shanghai-clearing-house-targets-global-growth-expanded-offshore-yuan-push?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/a345c7f8-3f21-4b4c-9274-9f7105fe84b9_f2a8e6d8.jpg?itok=WFyNVT2B&v=1785281526",
-     "published": "2026-07-28T23:34:00+00:00",
-     "ts": 1785281640000,
-     "count": 1
-    },
-    {
-     "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
-     "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4246978568dc52b388726a54c5799437285f8631/510_0_4378_3501/master/4378.jpg?width=140&quality=85&auto=format&fit=max&s=19ef92bf4dd2a6ce8a86dee6dbfeb46d",
-     "published": "2026-07-28T23:24:15+00:00",
-     "ts": 1785281055000,
-     "count": 1
-    },
-    {
-     "title": "Musk’s X launches invite-only ‘X Money’ payment service",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3362188/elon-musk-launches-invite-only-x-money-where-users-can-send-cash-one-another?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/70bf4096-a005-4e79-87f2-8b6fd4721630_37c73f1c.jpg?itok=e5i1x3_n&v=1785280167",
-     "published": "2026-07-28T23:10:52+00:00",
-     "ts": 1785280252000,
-     "count": 1
-    },
-    {
-     "title": "US teen gets life for killing 4 in Georgia high school shooting",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3362187/life-prison-no-parole-us-teenager-who-killed-4-georgia-school-shooting?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/0fb1ab6d-911e-4ca2-8d24-dff2b29cf360_7fe8305d.jpg?itok=tiW8N0kP&v=1785278806",
-     "published": "2026-07-28T22:50:52+00:00",
-     "ts": 1785279052000,
-     "count": 1
-    },
-    {
-     "title": "US thwarts Iranian missile barrage, joins Saudis in Iraq strikes",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3362186/saudi-arabia-says-it-shot-down-more-drones-houthis-claim-have-turned-back-tanker?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/85f9eab8-28f5-427e-886e-2278fa0402ab_aaee34f2.jpg?itok=--CHq0kK&v=1785292291",
-     "published": "2026-07-28T22:17:28+00:00",
-     "ts": 1785277048000,
      "count": 1
     }
    ]
