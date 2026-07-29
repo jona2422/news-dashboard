@@ -1,29 +1,38 @@
 {
- "updated": "2026-07-29T15:22:18.044447+00:00",
- "total": 101,
+ "updated": "2026-07-29T17:41:10.152630+00:00",
+ "total": 102,
  "countries": [
   {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 19,
+   "count": 20,
    "items": [
     {
-     "title": "En directo: EE. UU. y Riad bombardean milicias respaldadas por Irán en Irak; Teherán lanza ataques de represalia",
-     "link": "https://www.france24.com/es/medio-oriente/20260729-en-directo-ee-uu-y-riad-bombardean-milicias-respaldadas-por-ir%C3%A1n-en-irak-teher%C3%A1n-lanza-ataques-de-represalia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5fb4996c-8b5d-11f1-ba74-005056a97e36/w:1024/p:16x9/2026-07-29T091939Z-461694213-RC2JNMAQIKR2-RTRMADP-3-IRAN-CRISIS-SAUDI-IRAQ-PMF-1.jpg",
-     "ts": 1785337136000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+     "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
+     "link": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1785335265000,
+     "ts": 1785345399000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran war: Egypt's difficult balancing act",
+     "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785341940000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+     "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785339785000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -89,15 +98,6 @@
      "ts": 1785315862000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume",
-     "link": "https://www.france24.com/en/us-says-iran-trying-to-derail-ongoing-ceasefire-talks-as-strikes-resume",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/a717986a-8278-11f1-aee4-005056bf30b7/w:1024/p:16x9/000-C2G42T4.jpg",
-     "ts": 1785315582000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -106,8 +106,53 @@
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 17,
+   "count": 18,
    "items": [
+    {
+     "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
+     "link": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/9e24db9220da7c4a0616978d902f8de87eaf8bd2/410_0_3353_2682/master/3353.jpg?width=140&quality=85&auto=format&fit=max&s=73e617fe35571cc0b0cbfef87ef2624c",
+     "ts": 1785346352000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Blindaje total para la Feria de las Flores: más de 3.000 policías y una fuerza élite de EE. UU. custodiarán Medellín",
+     "link": "https://www.eltiempo.com/colombia/medellin/blindaje-total-para-la-feria-de-las-flores-mas-de-3-000-policias-y-una-fuerza-elite-de-ee-uu-custodiaran-medellin-3574721",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/29/6a6a3614a7b48.jpeg",
+     "ts": 1785345864000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
+     "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c915/live/a70a1ff0-8b4c-11f1-8139-b39d1c7486b2.jpg",
+     "ts": 1785343746000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+     "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785339785000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US sanctions Chinese, Hong Kong shipping firms over Iranian oil deliveries",
+     "link": "https://www.scmp.com/news/us/article/3362307/us-sanctions-chinese-hong-kong-shipping-firms-over-iranian-oil-deliveries?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/6ab2959e-2b20-44a8-914c-724e81ed0787_a6e56722.jpg?itok=-ZaX1yWL&v=1785339765",
+     "ts": 1785339772000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "US and Saudi Araba jointly strike Iraq, widening the conflict",
      "link": "https://www.france24.com/en/us-and-saudi-araba-jointly-strike-iraq-widening-the-conflict",
@@ -116,33 +161,6 @@
      "ts": 1785337641000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "En directo: EE. UU. y Riad bombardean milicias respaldadas por Irán en Irak; Teherán lanza ataques de represalia",
-     "link": "https://www.france24.com/es/medio-oriente/20260729-en-directo-ee-uu-y-riad-bombardean-milicias-respaldadas-por-ir%C3%A1n-en-irak-teher%C3%A1n-lanza-ataques-de-represalia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5fb4996c-8b5d-11f1-ba74-005056a97e36/w:1024/p:16x9/2026-07-29T091939Z-461694213-RC2JNMAQIKR2-RTRMADP-3-IRAN-CRISIS-SAUDI-IRAQ-PMF-1.jpg",
-     "ts": 1785337136000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-     "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c915/live/a70a1ff0-8b4c-11f1-8139-b39d1c7486b2.jpg",
-     "ts": 1785335374000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785335265000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
@@ -179,24 +197,6 @@
      "ts": 1785328200000,
      "beat": "arte",
      "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Chinese satellite imagery analysis challenges US-Iran war claims",
-     "link": "https://www.scmp.com/news/china/science/article/3362231/chinese-satellite-imagery-analysis-challenges-us-iran-war-claims?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/9a4982a6-9d1d-42e3-a569-523957ca9221_fc998a0b.jpg?itok=ViAt-KTH&v=1785306939",
-     "ts": 1785326406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Inside America’s US$1.5 billion play for Southeast Asian energy",
-     "link": "https://www.scmp.com/week-asia/economics/article/3362266/inside-americas-us15-billion-play-southeast-asian-energy?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/ba4e440e-f231-43d2-965b-e79d1f36df54_cdfdb546.jpg?itok=5L1UTWEZ&v=1785317717",
-     "ts": 1785322835000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -207,6 +207,15 @@
    "lon": 104.2,
    "count": 11,
    "items": [
+    {
+     "title": "US sanctions Chinese, Hong Kong shipping firms over Iranian oil deliveries",
+     "link": "https://www.scmp.com/news/us/article/3362307/us-sanctions-chinese-hong-kong-shipping-firms-over-iranian-oil-deliveries?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/6ab2959e-2b20-44a8-914c-724e81ed0787_a6e56722.jpg?itok=-ZaX1yWL&v=1785339765",
+     "ts": 1785339772000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "AI major focus as Hong Kong funds record 12 university research projects",
      "link": "https://www.scmp.com/news/hong-kong/education/article/3362305/ai-major-focus-hong-kong-funds-record-12-university-research-projects?utm_source=rss_feed",
@@ -287,87 +296,177 @@
      "ts": 1785322808000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "China’s Type 076 amphibious assault ship Sichuan in final tests with drone catapult",
-     "link": "https://www.scmp.com/news/china/military/article/3362271/chinas-type-076-amphibious-assault-ship-sichuan-final-tests-drone-catapult?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/e6ba891c-bb78-480b-a4cb-9c77012b61ce_1140a2aa.jpg?itok=PL59glat&v=1785319053",
-     "ts": 1785319571000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
   {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
-   "count": 7,
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 9,
    "items": [
     {
-     "title": "Última hora de los incendios forestales, en directo | Interior da por estabilizado el incendio en Madrid, pero preocupa uno en Zamora de nivel 2",
-     "link": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JZZ5RSIICFC7ZF2YTO2F5XD2J4.jpeg?auth=5723ac3e1beb003ec7c955eb64626d01434dd6c3042cfd928e3a07b293baca4e",
-     "ts": 1785337980000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+     "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
+     "link": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e2af04a787db17b71c6f95e1a67d57cc2baa2133/3069_933_6849_5478/master/6849.jpg?width=140&quality=85&auto=format&fit=max&s=8d58b173216d81a85251d760746c5d46",
-     "ts": 1785336969000,
+     "image": "https://i.guim.co.uk/img/media/13a1f967768d83d7def5caea675ee0208ff38afd/0_28_2548_2038/master/2548.jpg?width=140&quality=85&auto=format&fit=max&s=becddf8d4f69c069c2638ac74186d60c",
+     "ts": 1785344527000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Megaincendios en España y Francia: respiro y alerta por nueva ola de calor",
-     "link": "https://www.dw.com/es/megaincendios-en-españa-y-francia-respiro-y-alerta-por-nueva-ola-de-calor/a-78162053?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785335280000,
+     "title": "Staff at newest V&A site in London vote overwhelmingly for strike action",
+     "link": "https://www.theguardian.com/artanddesign/2026/jul/29/v-and-a-museum-storehouse-london-vote-strike",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c58848d6da6933a3bdcf7e83d7ee8c325c02e982/0_196_2850_2280/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=5a888b5ec4c4d64a0a4ab47202b4458d",
+     "ts": 1785343813000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "UK politics: Burnham does not rule out tax rises for social care reform – as it happened",
+     "link": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c246186fa0af17731ddc39d83aa5731ac3f075da/424_0_4256_3404/master/4256.jpg?width=140&quality=85&auto=format&fit=max&s=39d2084b4f17ea42ca39400af63c7373",
+     "ts": 1785343357000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Revealed: George Cottrell transferred $2m to his mother days before her donations to Reform UK",
+     "link": "https://www.theguardian.com/politics/2026/jul/29/george-cottrell-transferred-2m-mother-beforer-reform-uk-donations",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6504876f5591c52544310b10cbbd98c1301de664/255_0_3179_2543/master/3179.jpg?width=140&quality=85&auto=format&fit=max&s=05f2c2fd72d2905435e2898769d46729",
+     "ts": 1785342887000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "El Reino Unido declara gran parte de la isla oficialmente en estado de “grave sequía”",
+     "link": "https://elpais.com/clima-y-medio-ambiente/2026-07-29/el-reino-unido-declara-gran-parte-de-la-isla-oficialmente-en-estado-de-grave-sequia.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/SZENHGSCBFE3RC47EYBTQSDGAI.jpg?auth=8c3e1c22a04c0f073e42745ec479944e2e6f0b27a6970848bd49a2e1f3985b4b",
+     "ts": 1785341173000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-     "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/676e/live/d3e05150-8b3f-11f1-b2d7-b96c6bc9d7f5.jpg",
-     "ts": 1785335233000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "1-54 Contemporary African Art Fair Announces Exhibitors for Upcoming London Edition",
+     "link": "https://www.artnews.com/art-news/news/1-54-african-art-fair-london-2026-1234793708/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1785340203000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     },
     {
-     "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
-     "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-rdf",
+     "title": "UK’s PM Burnham vows to fix Britain’s ‘unfair’ adult care system",
+     "link": "https://www.scmp.com/news/world/europe/article/3362304/uks-pm-burnham-vows-fix-englands-unfair-adult-care-system?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/cc83eea8-70c3-4aaf-bf07-a530dcb5c9b0_b69bd60c.jpg?itok=X8pcoHpc&v=1785336433",
+     "ts": 1785336439000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group",
+     "link": "https://www.scmp.com/news/world/europe/article/3362293/norwegian-teen-found-guilty-uk-murder-plot-tied-iran-linked-group?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/e4615736-e67f-4460-b7fe-1e2b18d099da_13bde7cf.jpg?itok=lGDIhvRw&v=1785329365",
+     "ts": 1785329367000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "UK looks to build naval coalition to secure shipping in Strait of Hormuz",
+     "link": "https://www.france24.com/en/uk-looks-to-build-naval-coalition-to-secure-shipping-in-strait-of-hormuz",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/e46f0168-8abf-11f1-91e2-005056bf30b7/w:1024/p:16x9/2026-07-22T064712Z-30428312-RC2QEMAZJ3CI-RTRMADP-3-IRAN-CRISIS-OIL-REFINERIES.jpg",
+     "ts": 1785321703000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
+   "count": 8,
+   "items": [
+    {
+     "title": "France expels Russian media commentator over disinformation",
+     "link": "https://www.dw.com/en/france-expels-russian-media-commentator-over-disinformation/a-78165435?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "ts": 1785334740000,
+     "ts": 1785346080000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Next 12 hours ‘decisive’ for wildfire near Madrid, says Spanish PM",
-     "link": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/f98c3a7a01805b89f888cbc603fde6f6ee1dc314/17_0_4665_3732/master/4665.jpg?width=140&quality=85&auto=format&fit=max&s=97f3bff259b6df01c93937b450ea01de",
-     "ts": 1785334673000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Los incendios en España están \"técnicamente estabilizados\"",
-     "link": "https://www.dw.com/es/los-incendios-en-españa-están-técnicamente-estabilizados/a-78162720?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
+     "title": "Christie’s to Sell Monet Masterpiece From Durand-Ruel Collection in Paris",
+     "link": "https://www.artnews.com/art-news/news/christies-paris-durand-ruel-monet-sale-1234793792/",
+     "source": "ARTnews.com",
      "image": "",
-     "ts": 1785331500000,
+     "ts": 1785345236000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Desde pirocumulonimbos hasta nuevos récords: lo inédito de los incendios en Francia y España",
+     "link": "https://www.france24.com/es/programas/medio-ambiente/20260729-desde-pirocumulonimbos-hasta-nuevos-r%C3%A9cords-lo-in%C3%A9dito-de-los-incendios-en-francia-y-espa%C3%B1a",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/11d84736-8b60-11f1-97f2-005056a97e36/w:1024/p:16x9/2026-07-29T143640Z-584977264-RC2QNMAQY6CM-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+     "ts": 1785344412000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "France fire crews face searing heat in battle to contain flames",
+     "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e847/live/cfd368e0-8b71-11f1-b8ee-9b3c26ad07bb.jpg",
+     "ts": 1785343781000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Francia ordena la expulsión de exdirectora de canal estatal ruso RT",
+     "link": "https://www.dw.com/es/francia-ordena-la-expulsión-de-exdirectora-de-canal-estatal-ruso-rt/a-78165519?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785343500000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Hallan cinco bebés muertos en cajas de cartón en Francia: ¿qué es la negación de embarazos?",
+     "link": "https://www.dw.com/es/hallan-cinco-bebés-muertos-en-cajas-de-cartón-en-francia-¿qué-es-la-negación-de-embarazos/a-78164982?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785342960000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Famed French DJ Kavinsky found dead in Paris",
+     "link": "https://www.scmp.com/news/world/europe/article/3362298/famed-french-dj-kavinsky-found-dead-paris?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/78d10f0f-1ecc-4b44-a8a7-faeafc7ea97d_81e374bd.jpg?itok=a2OFxu89&v=1785331002",
+     "ts": 1785331004000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "France battles wildfire 4 times the size of Paris",
+     "link": "https://www.scmp.com/news/world/europe/article/3362292/france-battles-wildfire-4-times-size-paris?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/cf1718fb-3f2b-4d37-b452-f1eadc1d31ad_6942b813.jpg?itok=MEXvYy7U&v=1785328639",
+     "ts": 1785328641000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -376,7 +475,7 @@
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
@@ -388,7 +487,7 @@
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Aipac’s brand has become toxic. Can its ‘pro-Israel, pro-peace’ rival J Street move in?",
+     "title": "Aipac’s brand has become toxic. Can this ‘pro-Israel, pro-peace’ rival move in?",
      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/29/aipac-j-street-zionism",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/a6f13b2bc03e7fd167c640c7239f69df424273d7/1_0_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=d4fbbabce56b5d9c3b826ef859cd571e",
@@ -422,168 +521,51 @@
      "ts": 1785243119000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel-Lebanon Conflict: Amid displacement, Lebanese cling to 'hope of returning home to rebuild'",
-     "link": "https://www.france24.com/en/video/20260727-israel-lebanon-conflict-amid-displacement-lebanese-cling-to-hope-of-returning-home-to-rebuild",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/f333f04a-89d0-11f1-9e80-005056bfb2b6/w:1024/p:16x9/EN-20260726-201217-202201-CS.jpg",
-     "ts": 1785167430000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 5,
-   "items": [
-    {
-     "title": "Burnham does not rule out tax rises for social care reform as he fast-tracks Louise Casey’s review – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c246186fa0af17731ddc39d83aa5731ac3f075da/424_0_4256_3404/master/4256.jpg?width=140&quality=85&auto=format&fit=max&s=39d2084b4f17ea42ca39400af63c7373",
-     "ts": 1785338030000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "UK’s PM Burnham vows to fix Britain’s ‘unfair’ adult care system",
-     "link": "https://www.scmp.com/news/world/europe/article/3362304/uks-pm-burnham-vows-fix-englands-unfair-adult-care-system?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/cc83eea8-70c3-4aaf-bf07-a530dcb5c9b0_b69bd60c.jpg?itok=X8pcoHpc&v=1785336433",
-     "ts": 1785336439000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group",
-     "link": "https://www.scmp.com/news/world/europe/article/3362293/norwegian-teen-found-guilty-uk-murder-plot-tied-iran-linked-group?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/e4615736-e67f-4460-b7fe-1e2b18d099da_13bde7cf.jpg?itok=lGDIhvRw&v=1785329365",
-     "ts": 1785329367000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "UK looks to build naval coalition to secure shipping in Strait of Hormuz",
-     "link": "https://www.france24.com/en/uk-looks-to-build-naval-coalition-to-secure-shipping-in-strait-of-hormuz",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/e46f0168-8abf-11f1-91e2-005056bf30b7/w:1024/p:16x9/2026-07-22T064712Z-30428312-RC2QEMAZJ3CI-RTRMADP-3-IRAN-CRISIS-OIL-REFINERIES.jpg",
-     "ts": 1785321703000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "UK Jury Convicts Activists Who Covered a Picasso With Image of Gazan Mother and Child at the National Gallery",
-     "link": "https://www.artnews.com/art-news/news/activists-covered-picasso-gaza-national-gallery-1234793701/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1785268193000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 5,
-   "items": [
-    {
-     "title": "Megaincendios en España y Francia: respiro y alerta por nueva ola de calor",
-     "link": "https://www.dw.com/es/megaincendios-en-españa-y-francia-respiro-y-alerta-por-nueva-ola-de-calor/a-78162053?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785335280000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
-     "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785334740000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Francia arde: 14 rebrotes de incendios en Gironda en plena ola de calor",
-     "link": "https://www.france24.com/es/video/20260729-francia-arde-14-rebrotes-de-incendios-en-gironda-en-plena-ola-de-calor",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/016c9068-8b52-11f1-93ee-005056a97e36/w:1024/p:16x9/ES-20260729-080139-080259-CS.jpg",
-     "ts": 1785334587000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Famed French DJ Kavinsky found dead in Paris",
-     "link": "https://www.scmp.com/news/world/europe/article/3362298/famed-french-dj-kavinsky-found-dead-paris?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/78d10f0f-1ecc-4b44-a8a7-faeafc7ea97d_81e374bd.jpg?itok=a2OFxu89&v=1785331002",
-     "ts": 1785331004000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "France battles wildfire 4 times the size of Paris",
-     "link": "https://www.scmp.com/news/world/europe/article/3362292/france-battles-wildfire-4-times-size-paris?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/cf1718fb-3f2b-4d37-b452-f1eadc1d31ad_6942b813.jpg?itok=MEXvYy7U&v=1785328639",
-     "ts": 1785328641000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Saudi Arabia",
-   "es": "Arabia Saudita",
-   "lat": 23.9,
-   "lon": 45.1,
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
    "count": 4,
    "items": [
     {
-     "title": "En directo: EE. UU. y Riad bombardean milicias respaldadas por Irán en Irak; Teherán lanza ataques de represalia",
-     "link": "https://www.france24.com/es/medio-oriente/20260729-en-directo-ee-uu-y-riad-bombardean-milicias-respaldadas-por-ir%C3%A1n-en-irak-teher%C3%A1n-lanza-ataques-de-represalia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5fb4996c-8b5d-11f1-ba74-005056a97e36/w:1024/p:16x9/2026-07-29T091939Z-461694213-RC2JNMAQIKR2-RTRMADP-3-IRAN-CRISIS-SAUDI-IRAQ-PMF-1.jpg",
-     "ts": 1785337136000,
+     "title": "Última hora de los incendios forestales, en directo | Interior da por estabilizado el incendio en Madrid, pero preocupa uno en Zamora de nivel 2",
+     "link": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/JZZ5RSIICFC7ZF2YTO2F5XD2J4.jpeg?auth=5723ac3e1beb003ec7c955eb64626d01434dd6c3042cfd928e3a07b293baca4e",
+     "ts": 1785346071000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Why Saudi Arabia holds the key to Palestinian statehood",
-     "link": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785335997000,
+     "title": "Desde pirocumulonimbos hasta nuevos récords: lo inédito de los incendios en Francia y España",
+     "link": "https://www.france24.com/es/programas/medio-ambiente/20260729-desde-pirocumulonimbos-hasta-nuevos-r%C3%A9cords-lo-in%C3%A9dito-de-los-incendios-en-francia-y-espa%C3%B1a",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/11d84736-8b60-11f1-97f2-005056a97e36/w:1024/p:16x9/2026-07-29T143640Z-584977264-RC2QNMAQY6CM-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+     "ts": 1785344412000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Los incendios que arrasaron 70,000 hectáreas en España están ‘técnicamente estabilizados’",
+     "link": "https://www.prensa.com/mundo/los-incendios-que-arrasaron-70000-hectareas-en-espana-estan-tecnicamente-estabilizados/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/GW6D4FSZGFEXDNWUDRZ75A2DJE.jpg?auth=0db50a403c99da71fc5a1a35b497c980b7c9d60928219e96e2c4f869541502fd&smart=true&width=1920&height=1280",
+     "ts": 1785344173000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e2af04a787db17b71c6f95e1a67d57cc2baa2133/3069_933_6849_5478/master/6849.jpg?width=140&quality=85&auto=format&fit=max&s=8d58b173216d81a85251d760746c5d46",
+     "ts": 1785341082000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-     "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0514/live/6249cdc0-8b29-11f1-841c-ef08db9db338.jpg",
-     "ts": 1785332921000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Yemen says ready to escalate against Houthi rebels as they target Saudi Arabia",
-     "link": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/06b7fa46-86d2-11f1-8e4f-005056bf30b7/w:1024/p:16x9/AP26198630293275.jpg",
-     "ts": 1785190750000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -595,6 +577,15 @@
    "count": 4,
    "items": [
     {
+     "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
+     "link": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/9e24db9220da7c4a0616978d902f8de87eaf8bd2/410_0_3353_2682/master/3353.jpg?width=140&quality=85&auto=format&fit=max&s=73e617fe35571cc0b0cbfef87ef2624c",
+     "ts": 1785346352000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
      "title": "US and Saudi Araba jointly strike Iraq, widening the conflict",
      "link": "https://www.france24.com/en/us-and-saudi-araba-jointly-strike-iraq-widening-the-conflict",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
@@ -602,15 +593,6 @@
      "ts": 1785337641000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "En directo: EE. UU. y Riad bombardean milicias respaldadas por Irán en Irak; Teherán lanza ataques de represalia",
-     "link": "https://www.france24.com/es/medio-oriente/20260729-en-directo-ee-uu-y-riad-bombardean-milicias-respaldadas-por-ir%C3%A1n-en-irak-teher%C3%A1n-lanza-ataques-de-represalia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5fb4996c-8b5d-11f1-ba74-005056a97e36/w:1024/p:16x9/2026-07-29T091939Z-461694213-RC2JNMAQIKR2-RTRMADP-3-IRAN-CRISIS-SAUDI-IRAQ-PMF-1.jpg",
-     "ts": 1785337136000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
@@ -633,21 +615,156 @@
    ]
   },
   {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 3,
+   "items": [
+    {
+     "title": "Blindaje total para la Feria de las Flores: más de 3.000 policías y una fuerza élite de EE. UU. custodiarán Medellín",
+     "link": "https://www.eltiempo.com/colombia/medellin/blindaje-total-para-la-feria-de-las-flores-mas-de-3-000-policias-y-una-fuerza-elite-de-ee-uu-custodiaran-medellin-3574721",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/29/6a6a3614a7b48.jpeg",
+     "ts": 1785345864000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Santander es hito mundial en la medicina: por primera vez se hizo una telecirugía a una distancia de 25 mil kilómetros, desde Colombia a la India",
+     "link": "https://www.eltiempo.com/colombia/santander/santander-es-hito-mundial-en-la-medicina-por-primera-vez-se-hizo-una-telecirugia-a-una-distancia-de-25-mil-kilometros-desde-colombia-a-la-india-3574678",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a295c6dd0e.r_d.480-640-0.jpeg",
+     "ts": 1785342901000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Temblor en la frontera de Colombia y Ecuador | Reportan sismo de 4.2 este 29 de julio: se sintió en Tulcán y poblaciones de Nariño y Putumayo",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-la-frontera-de-colombia-y-ecuador-reportan-sismo-de-4-2-este-29-de-julio-se-sintio-en-tulcan-y-poblaciones-de-narino-y-putumayo-3574683",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/29/6a6a2201579b0.jpeg",
+     "ts": 1785339818000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
+   "count": 2,
+   "items": [
+    {
+     "title": "La FIFA abre procedimiento contra Argentina por pancarta de las Malvinas e incidentes en la final del Mundial",
+     "link": "https://www.france24.com/es/deportes/20260729-la-fifa-abre-procedimiento-contra-argentina-por-pancarta-de-las-malvinas-e-incidentes-en-la-final-del-mundial",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/1adf711a-8b74-11f1-8100-005056a90284/w:1024/p:16x9/2026-07-24T123454Z-505039837-RC2AHMAP29PX-RTRMADP-3-SOCCER-WORLDCUP-ESP-ARG.jpg",
+     "ts": 1785346629000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "La FIFA abre un procedimiento disciplinario a varios jugadores de Argentina y a Gavi por los incidentes de la final del Mundial",
+     "link": "https://elpais.com/deportes/futbol/2026-07-29/la-fifa-abre-un-procedimiento-disciplinario-a-varios-jugadores-de-argentina-y-a-gavi-por-los-incidentes-de-la-final-del-mundial.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/JAYZLNMAV5JFRL6B7VU7GW6B6Q.jpg?auth=bee277d627e6e83f4735ee54734eea836f9a9c7f2608112dd2ac3c5e0a51b36f",
+     "ts": 1785344883000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 2,
+   "items": [
+    {
+     "title": "Santander es hito mundial en la medicina: por primera vez se hizo una telecirugía a una distancia de 25 mil kilómetros, desde Colombia a la India",
+     "link": "https://www.eltiempo.com/colombia/santander/santander-es-hito-mundial-en-la-medicina-por-primera-vez-se-hizo-una-telecirugia-a-una-distancia-de-25-mil-kilometros-desde-colombia-a-la-india-3574678",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a295c6dd0e.r_d.480-640-0.jpeg",
+     "ts": 1785342901000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "India seeks new anti-AI deepfake law to counter ‘weapons of mass distortion’",
+     "link": "https://www.scmp.com/week-asia/politics/article/3362302/india-seeks-new-anti-ai-deepfake-law-counter-weapons-mass-distortion?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/0d85f0a1-9429-4d6f-ac50-0ba44d011bd9_10afb378.jpg?itok=FRt4RNLo&v=1785333308",
+     "ts": 1785333312000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "es": "Ecuador",
+   "lat": -1.8,
+   "lon": -78.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "Hallan asesinados a tres hombres reportados como desaparecidos en la frontera con Ecuador: uno de ellos era hijo de una firmante de paz de Nariño",
+     "link": "https://www.eltiempo.com/colombia/cali/hallan-asesinados-a-tres-hombres-reportados-como-desaparecidos-en-la-frontera-con-ecuador-uno-de-ellos-era-hijo-de-una-firmante-de-paz-de-narino-3574674",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a1e4b012f3.r_d.590-761-0.jpeg",
+     "ts": 1785340882000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Temblor en la frontera de Colombia y Ecuador | Reportan sismo de 4.2 este 29 de julio: se sintió en Tulcán y poblaciones de Nariño y Putumayo",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-la-frontera-de-colombia-y-ecuador-reportan-sismo-de-4-2-este-29-de-julio-se-sintio-en-tulcan-y-poblaciones-de-narino-y-putumayo-3574683",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/29/6a6a2201579b0.jpeg",
+     "ts": 1785339818000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Saudi Arabia",
+   "es": "Arabia Saudita",
+   "lat": 23.9,
+   "lon": 45.1,
+   "count": 2,
+   "items": [
+    {
+     "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+     "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0514/live/6249cdc0-8b29-11f1-841c-ef08db9db338.jpg",
+     "ts": 1785332921000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Yemen says ready to escalate against Houthi rebels as they target Saudi Arabia",
+     "link": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/06b7fa46-86d2-11f1-8e4f-005056bf30b7/w:1024/p:16x9/AP26198630293275.jpg",
+     "ts": 1785190750000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
    "name": "Lebanon",
    "es": "Líbano",
    "lat": 33.9,
    "lon": 35.9,
-   "count": 4,
+   "count": 2,
    "items": [
-    {
-     "title": "Líbano: entre ruinas, algunos ciudadanos regresan a sus hogares y ponen a prueba las \"zonas piloto\"",
-     "link": "https://www.france24.com/es/video/20260729-l%C3%ADbano-entre-ruinas-algunos-ciudadanos-regresan-a-sus-hogares-y-ponen-a-prueba-las-zonas-piloto",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/8af66e5a-8b55-11f1-9480-005056a97e36/w:1024/p:16x9/ES-20260729-080627-080809-CS.jpg",
-     "ts": 1785334689000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
     {
      "title": "‘They targeted us directly’: how the Israel-Lebanon war became deadly for healthcare workers",
      "link": "https://www.theguardian.com/global-development/2026/jul/29/they-targeted-us-directly-how-the-israel-lebanon-war-became-deadly-for-healthcare-workers",
@@ -665,15 +782,6 @@
      "ts": 1785211228000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel-Lebanon Conflict: Amid displacement, Lebanese cling to 'hope of returning home to rebuild'",
-     "link": "https://www.france24.com/en/video/20260727-israel-lebanon-conflict-amid-displacement-lebanese-cling-to-hope-of-returning-home-to-rebuild",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/f333f04a-89d0-11f1-9e80-005056bfb2b6/w:1024/p:16x9/EN-20260726-201217-202201-CS.jpg",
-     "ts": 1785167430000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -682,17 +790,8 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785334149000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
     {
      "title": "Israeli airstrike hits mosque in Gaza City – video",
      "link": "https://www.theguardian.com/world/video/2026/jul/29/israeli-airstrike-hits-mosque-gaza-city-video",
@@ -718,17 +817,8 @@
    "es": "Japón",
    "lat": 36.2,
    "lon": 138.3,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/95aaa36271e29748803235ed48d74c4fc42f582b/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=61e0cf9a31288104065f6cf5fd432d20",
-     "ts": 1785335253000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
     {
      "title": "Japan’s Nagasaki Atomic Bomb Museum Accused of Whitewashing, and More: Morning Links for July 29, 2026",
      "link": "https://www.artnews.com/art-news/news/japans-nagasaki-atomic-bomb-museum-accused-of-whitewashing-1234793752/",
@@ -741,96 +831,6 @@
    ]
   },
   {
-   "name": "Australia",
-   "es": "Australia",
-   "lat": -25.3,
-   "lon": 133.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Bird flu is spreading locally and Australia faces more wildlife deaths. How bad could it get?",
-     "link": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/957696d3f801898f87231295e9ea93a5745bee30/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=0bf9cbe3acd1cb91c2cb8039b1b5224a",
-     "ts": 1785337235000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Biennale of Sydney Appoints Low Kee Hong Artistic Director of 2028 Edition",
-     "link": "https://www.artnews.com/art-news/news/biennale-of-sydney-appoints-low-kee-hong-artistic-director-2028-edition-1234793670/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1785264743000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-     "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/eaaad6c0-8abe-11f1-9997-a1a12b7801e6.jpg",
-     "ts": 1785327462000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-     "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a3e/live/b5882cf0-1d6c-11f1-b048-c9424b2cf5fd.png",
-     "ts": 1785169985000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "United Arab Emirates",
-   "es": "Emiratos Árabes",
-   "lat": 23.4,
-   "lon": 53.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "$1 Billion Guggenheim Abu Dhabi Finally Gets an Opening Date",
-     "link": "https://news.artnet.com/art-world/guggenheim-abu-dhabi-opening-date-2791345",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1785254249000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Greece",
-   "es": "Grecia",
-   "lat": 39.1,
-   "lon": 21.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Body found in suitcase in Athens 11 days ago that of 38-year-old British woman",
-     "link": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/dd13799e6b4b9d371d48508f61c4003633a790d4/124_0_3720_2976/master/3720.jpg?width=140&quality=85&auto=format&fit=max&s=e62eeab93d3ebd2ac3dce1dfe467e7ee",
-     "ts": 1785337926000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Russia",
    "es": "Rusia",
    "lat": 61.5,
@@ -838,11 +838,29 @@
    "count": 1,
    "items": [
     {
-     "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+     "link": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c40f81422f4ddaef4e3830e63db6b5e908ccd4da/1825_378_2431_1945/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=30e247e6f0f1d50fa16cb5cf92603e65",
+     "ts": 1785342969000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Egypt",
+   "es": "Egipto",
+   "lat": 26.8,
+   "lon": 30.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Iran war: Egypt's difficult balancing act",
+     "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
      "image": "",
-     "ts": 1785335604000,
+     "ts": 1785341940000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -856,67 +874,49 @@
    "count": 1,
    "items": [
     {
-     "title": "Germany news: Temperatures to soar amid new heatwave",
-     "link": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-rdf",
+     "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
+     "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "ts": 1785335400000,
+     "ts": 1785339600000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Pakistan",
-   "es": "Pakistán",
-   "lat": 30.4,
-   "lon": 69.3,
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
    "count": 1,
    "items": [
     {
-     "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-     "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F72%2F116065e040039a53d770cff0721b%2Ffarflungpostcard-betsy.jpg",
-     "ts": 1785334867000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Ghana",
-   "es": "Ghana",
-   "lat": 7.9,
-   "lon": -1.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Príncipe de Ghana: Kayra Harding dará último adiós a su esposo Anthony Bart-Appiah, este jueves",
-     "link": "https://www.prensa.com/vivir/principe-de-ghana-kayra-harding-dara-ultimo-adios-a-su-esposo-anthony-bart-appiah-este-jueves/",
+     "title": "Panamá dice presente en los Premios Juventud con cinco nominados",
+     "link": "https://www.prensa.com/vivir/panama-dice-presente-en-los-premios-juventud-con-cinco-nominados/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/BGYIYRDPCFCNXBOJX6OI3OUU7E.jpg?auth=bfb9299c17ab01300a74ad12a8c26a06d763a03505d72aaddb4842db49de0376&smart=true&width=1504&height=1336",
-     "ts": 1785335249000,
+     "image": "https://www.prensa.com/resizer/v2/XFW5FHPG3VEF3HP5565XONNG6U.jpg?auth=08bc6afd88d1a487a613880e10d8c0a03c6775cc8343752a88a26d34bb1b4fd1&smart=true&width=759&height=426",
+     "ts": 1785343792000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
    "count": 1,
    "items": [
     {
-     "title": "Macabro hallazgo en Puerto Colombia: identifican a barranquillero de 19 años que fue desmembrado y abandonado en sacos en la vía a Sabanilla",
-     "link": "https://www.eltiempo.com/colombia/barranquilla/macabro-hallazgo-en-puerto-colombia-identifican-a-barranquillero-de-19-anos-que-fue-desmembrado-y-abandonado-en-sacos-en-la-via-a-sabanilla-3574644",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/29/6a6a07b6dde45.png",
-     "ts": 1785333000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+     "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/eaaad6c0-8abe-11f1-9997-a1a12b7801e6.jpg",
+     "ts": 1785327462000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -935,24 +935,6 @@
      "ts": 1785190750000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "India seeks new anti-AI deepfake law to counter ‘weapons of mass distortion’",
-     "link": "https://www.scmp.com/week-asia/politics/article/3362302/india-seeks-new-anti-ai-deepfake-law-counter-weapons-mass-distortion?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/29/0d85f0a1-9429-4d6f-ac50-0ba44d011bd9_10afb378.jpg?itok=FRt4RNLo&v=1785333308",
-     "ts": 1785333312000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
