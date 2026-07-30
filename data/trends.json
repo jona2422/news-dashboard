@@ -1,48 +1,40 @@
 {
- "updated": "2026-07-30T09:44:59.313949+00:00",
+ "updated": "2026-07-30T12:06:29.514887+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 18
+   "count": 17
+  },
+  {
+   "term": "attack",
+   "count": 11
   },
   {
    "term": "strikes",
-   "count": 13
-  },
-  {
-   "term": "trump",
-   "count": 9
+   "count": 11
   },
   {
    "term": "world",
-   "count": 8
+   "count": 10
   },
   {
    "term": "east",
    "count": 8
   },
   {
-   "term": "attack",
+   "term": "trump",
    "count": 8
   },
   {
-   "term": "launches",
+   "term": "missile",
    "count": 7
   },
   {
-   "term": "saudi",
+   "term": "china",
    "count": 7
-  },
-  {
-   "term": "2026",
-   "count": 6
   },
   {
    "term": "middle",
-   "count": 6
-  },
-  {
-   "term": "arabia",
    "count": 6
   },
   {
@@ -50,7 +42,15 @@
    "count": 6
   },
   {
-   "term": "china",
+   "term": "saudi",
+   "count": 6
+  },
+  {
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
    "count": 6
   },
   {
@@ -62,15 +62,23 @@
    "count": 5
   },
   {
-   "term": "missile",
+   "term": "2026",
    "count": 5
   },
   {
-   "term": "russian",
+   "term": "years",
    "count": 5
   },
   {
-   "term": "panamá",
+   "term": "hits",
+   "count": 5
+  },
+  {
+   "term": "launches",
+   "count": 5
+  },
+  {
+   "term": "arabia",
    "count": 5
   },
   {
@@ -78,35 +86,19 @@
    "count": 5
   },
   {
+   "term": "fire",
+   "count": 5
+  },
+  {
    "term": "iraq",
    "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
-   "term": "song",
-   "count": 4
-  },
-  {
-   "term": "show",
-   "count": 4
   },
   {
    "term": "time",
    "count": 4
   },
   {
-   "term": "pause",
-   "count": 4
-  },
-  {
-   "term": "york",
+   "term": "west",
    "count": 4
   },
   {
@@ -114,22 +106,34 @@
    "count": 4
   },
   {
-   "term": "american",
+   "term": "microsoft",
    "count": 4
   },
   {
-   "term": "microsoft",
+   "term": "agents",
+   "count": 4
+  },
+  {
+   "term": "russian",
+   "count": 4
+  },
+  {
+   "term": "poland",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 18
+   "count": 17
+  },
+  {
+   "name": "China",
+   "count": 7
   },
   {
    "name": "Trump",
-   "count": 7
+   "count": 6
   },
   {
    "name": "Middle East",
@@ -140,47 +144,35 @@
    "count": 6
   },
   {
-   "name": "China",
+   "name": "Hong Kong",
    "count": 6
-  },
-  {
-   "name": "Saudi Arabia",
-   "count": 5
   },
   {
    "name": "Iraq",
    "count": 5
   },
   {
-   "name": "Hong Kong",
-   "count": 5
+   "name": "Glen Hansard",
+   "count": 4
   },
   {
    "name": "Microsoft",
    "count": 4
   },
   {
-   "name": "Russian",
-   "count": 4
-  },
-  {
-   "name": "Alaska",
-   "count": 4
-  },
-  {
-   "name": "Glen Hansard",
-   "count": 3
-  },
-  {
-   "name": "OpenAI",
-   "count": 3
-  },
-  {
    "name": "Poland",
-   "count": 3
+   "count": 4
   },
   {
-   "name": "Gaza",
+   "name": "Israeli",
+   "count": 4
+  },
+  {
+   "name": "Saudi Arabia",
+   "count": 4
+  },
+  {
+   "name": "Russian",
    "count": 3
   },
   {
@@ -192,15 +184,15 @@
    "count": 3
   },
   {
-   "name": "American",
+   "name": "Russia",
    "count": 3
   },
   {
-   "name": "Cali",
+   "name": "Japón",
    "count": 3
   },
   {
-   "name": "Panamá",
+   "name": "Alaska",
    "count": 3
   },
   {
@@ -208,7 +200,11 @@
    "count": 3
   },
   {
-   "name": "Japan",
+   "name": "Philippines",
+   "count": 3
+  },
+  {
+   "name": "Tehran",
    "count": 3
   },
   {
@@ -216,7 +212,11 @@
    "count": 3
   },
   {
-   "name": "Bruce Springsteen",
+   "name": "First Time",
+   "count": 2
+  },
+  {
+   "name": "August",
    "count": 2
   }
  ]
