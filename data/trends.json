@@ -1,44 +1,56 @@
 {
- "updated": "2026-07-30T03:33:33.005888+00:00",
+ "updated": "2026-07-30T06:44:29.818059+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 20
-  },
-  {
-   "term": "trump",
-   "count": 15
+   "count": 19
   },
   {
    "term": "strikes",
-   "count": 11
-  },
-  {
-   "term": "world",
-   "count": 9
+   "count": 12
   },
   {
    "term": "launches",
+   "count": 10
+  },
+  {
+   "term": "trump",
+   "count": 9
+  },
+  {
+   "term": "attack",
+   "count": 9
+  },
+  {
+   "term": "world",
    "count": 8
   },
   {
    "term": "2026",
-   "count": 7
+   "count": 8
   },
   {
    "term": "east",
-   "count": 6
+   "count": 7
   },
   {
-   "term": "attack",
-   "count": 6
+   "term": "japan",
+   "count": 7
   },
   {
-   "term": "saudi",
+   "term": "middle",
    "count": 6
   },
   {
    "term": "green",
+   "count": 6
+  },
+  {
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
    "count": 6
   },
   {
@@ -54,19 +66,11 @@
    "count": 5
   },
   {
-   "term": "openai",
+   "term": "agents",
    "count": 5
   },
   {
-   "term": "middle",
-   "count": 5
-  },
-  {
-   "term": "japan",
-   "count": 5
-  },
-  {
-   "term": "fire",
+   "term": "panamá",
    "count": 5
   },
   {
@@ -74,27 +78,31 @@
    "count": 5
   },
   {
+   "term": "forest",
+   "count": 5
+  },
+  {
+   "term": "saudi",
+   "count": 5
+  },
+  {
    "term": "iraq",
    "count": 5
   },
   {
-   "term": "assault",
-   "count": 4
+   "term": "china",
+   "count": 5
   },
   {
    "term": "tour",
    "count": 4
   },
   {
-   "term": "waves",
-   "count": 4
-  },
-  {
-   "term": "days",
-   "count": 4
-  },
-  {
    "term": "pause",
+   "count": 4
+  },
+  {
+   "term": "people",
    "count": 4
   },
   {
@@ -110,42 +118,34 @@
    "count": 4
   },
   {
-   "term": "agents",
-   "count": 4
-  },
-  {
-   "term": "attacks",
-   "count": 4
-  },
-  {
-   "term": "earthquake",
+   "term": "openai",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 20
+   "count": 19
   },
   {
    "name": "Trump",
-   "count": 12
+   "count": 8
+  },
+  {
+   "name": "Japan",
+   "count": 7
+  },
+  {
+   "name": "Middle East",
+   "count": 6
   },
   {
    "name": "Green",
    "count": 6
   },
   {
-   "name": "OpenAI",
-   "count": 5
-  },
-  {
-   "name": "Middle East",
-   "count": 5
-  },
-  {
-   "name": "Japan",
-   "count": 5
+   "name": "Hong Kong",
+   "count": 6
   },
   {
    "name": "Iraq",
@@ -156,11 +156,15 @@
    "count": 4
   },
   {
-   "name": "Saudi Arabia",
+   "name": "OpenAI",
    "count": 4
   },
   {
-   "name": "Hong Kong",
+   "name": "Jordan",
+   "count": 4
+  },
+  {
+   "name": "China",
    "count": 4
   },
   {
@@ -168,15 +172,23 @@
    "count": 3
   },
   {
-   "name": "Israel",
+   "name": "September",
    "count": 3
   },
   {
-   "name": "Hormuz",
+   "name": "Iranian",
    "count": 3
   },
   {
-   "name": "Israeli",
+   "name": "Gaza",
+   "count": 3
+  },
+  {
+   "name": "Panamá",
+   "count": 3
+  },
+  {
+   "name": "Hawaii",
    "count": 3
   },
   {
@@ -184,15 +196,15 @@
    "count": 3
   },
   {
-   "name": "Pacific",
+   "name": "Israel",
+   "count": 3
+  },
+  {
+   "name": "Saudi Arabia",
    "count": 3
   },
   {
    "name": "Netanyahu",
-   "count": 3
-  },
-  {
-   "name": "Chinese",
    "count": 3
   },
   {
@@ -205,18 +217,6 @@
   },
   {
    "name": "Bono",
-   "count": 2
-  },
-  {
-   "name": "New York",
-   "count": 2
-  },
-  {
-   "name": "Pied",
-   "count": 2
-  },
-  {
-   "name": "Anthropic",
    "count": 2
   }
  ]
