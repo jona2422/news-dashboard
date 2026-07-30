@@ -1,32 +1,44 @@
 {
- "updated": "2026-07-30T18:49:53.504909+00:00",
+ "updated": "2026-07-30T20:37:20.529669+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 15
+   "count": 17
+  },
+  {
+   "term": "ceuta",
+   "count": 13
   },
   {
    "term": "2026",
-   "count": 12
+   "count": 11
+  },
+  {
+   "term": "trump",
+   "count": 11
+  },
+  {
+   "term": "saudi",
+   "count": 10
   },
   {
    "term": "china",
    "count": 10
   },
   {
-   "term": "trump",
-   "count": 8
-  },
-  {
-   "term": "saudi",
-   "count": 8
-  },
-  {
    "term": "east",
+   "count": 8
+  },
+  {
+   "term": "show",
    "count": 7
   },
   {
-   "term": "ceuta",
+   "term": "middle",
+   "count": 7
+  },
+  {
+   "term": "strikes",
    "count": 7
   },
   {
@@ -34,23 +46,11 @@
    "count": 7
   },
   {
-   "term": "alaska",
-   "count": 7
-  },
-  {
-   "term": "green",
-   "count": 7
+   "term": "world",
+   "count": 6
   },
   {
    "term": "launches",
-   "count": 6
-  },
-  {
-   "term": "middle",
-   "count": 6
-  },
-  {
-   "term": "strikes",
    "count": 6
   },
   {
@@ -58,47 +58,51 @@
    "count": 6
   },
   {
-   "term": "hong",
-   "count": 6
-  },
-  {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "album",
-   "count": 5
-  },
-  {
-   "term": "world",
-   "count": 5
-  },
-  {
-   "term": "region",
-   "count": 5
-  },
-  {
    "term": "iraq",
-   "count": 5
+   "count": 6
   },
   {
-   "term": "song",
-   "count": 4
+   "term": "green",
+   "count": 6
   },
   {
    "term": "glen",
-   "count": 4
+   "count": 5
   },
   {
    "term": "hansard",
+   "count": 5
+  },
+  {
+   "term": "strike",
+   "count": 5
+  },
+  {
+   "term": "crisis",
+   "count": 5
+  },
+  {
+   "term": "españa",
+   "count": 5
+  },
+  {
+   "term": "hong",
+   "count": 5
+  },
+  {
+   "term": "kong",
+   "count": 5
+  },
+  {
+   "term": "museum",
+   "count": 4
+  },
+  {
+   "term": "album",
    "count": 4
   },
   {
    "term": "performance",
-   "count": 4
-  },
-  {
-   "term": "strike",
    "count": 4
   },
   {
@@ -110,65 +114,81 @@
    "count": 4
   },
   {
-   "term": "years",
+   "term": "region",
    "count": 4
   },
   {
-   "term": "plan",
-   "count": 4
-  },
-  {
-   "term": "land",
+   "term": "spain",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 15
+   "count": 16
+  },
+  {
+   "name": "Ceuta",
+   "count": 13
   },
   {
    "name": "China",
    "count": 10
   },
   {
-   "name": "Ceuta",
-   "count": 7
-  },
-  {
-   "name": "Alaska",
-   "count": 7
-  },
-  {
-   "name": "Green",
-   "count": 7
-  },
-  {
    "name": "Trump",
-   "count": 6
+   "count": 9
   },
   {
    "name": "Middle East",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Saudi Arabia",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Iraq",
-   "count": 5
+   "count": 6
   },
   {
-   "name": "Hong Kong",
+   "name": "Green",
+   "count": 6
+  },
+  {
+   "name": "España",
    "count": 5
   },
   {
    "name": "Glen Hansard",
-   "count": 3
+   "count": 4
   },
   {
    "name": "Spain",
+   "count": 4
+  },
+  {
+   "name": "Alaska",
+   "count": 4
+  },
+  {
+   "name": "Hong Kong",
+   "count": 4
+  },
+  {
+   "name": "Show HN",
+   "count": 3
+  },
+  {
+   "name": "María Camila Potosí",
+   "count": 3
+  },
+  {
+   "name": "Cali",
+   "count": 3
+  },
+  {
+   "name": "Indonesia",
    "count": 3
   },
   {
@@ -176,19 +196,7 @@
    "count": 3
   },
   {
-   "name": "Paramount",
-   "count": 2
-  },
-  {
-   "name": "Karol",
-   "count": 2
-  },
-  {
-   "name": "Barry Williams",
-   "count": 2
-  },
-  {
-   "name": "Billie Eilish",
+   "name": "Home",
    "count": 2
   },
   {
@@ -196,27 +204,19 @@
    "count": 2
   },
   {
+   "name": "Barry Williams",
+   "count": 2
+  },
+  {
    "name": "August",
    "count": 2
   },
   {
-   "name": "First Time",
+   "name": "Friend",
    "count": 2
   },
   {
    "name": "Google",
-   "count": 2
-  },
-  {
-   "name": "Europe",
-   "count": 2
-  },
-  {
-   "name": "Hundreds",
-   "count": 2
-  },
-  {
-   "name": "Houthis",
    "count": 2
   }
  ]
