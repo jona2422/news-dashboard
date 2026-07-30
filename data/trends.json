@@ -1,36 +1,48 @@
 {
- "updated": "2026-07-30T14:35:59.486129+00:00",
+ "updated": "2026-07-30T16:51:43.776030+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 14
+   "count": 16
+  },
+  {
+   "term": "2026",
+   "count": 11
   },
   {
    "term": "china",
    "count": 11
   },
   {
-   "term": "world",
+   "term": "trump",
    "count": 9
   },
   {
-   "term": "trump",
+   "term": "strikes",
    "count": 8
   },
   {
-   "term": "attack",
+   "term": "world",
    "count": 7
-  },
-  {
-   "term": "strikes",
-   "count": 7
-  },
-  {
-   "term": "2026",
-   "count": 6
   },
   {
    "term": "missile",
+   "count": 7
+  },
+  {
+   "term": "uefa",
+   "count": 7
+  },
+  {
+   "term": "fifa",
+   "count": 7
+  },
+  {
+   "term": "green",
+   "count": 7
+  },
+  {
+   "term": "album",
    "count": 6
   },
   {
@@ -42,7 +54,11 @@
    "count": 6
   },
   {
-   "term": "green",
+   "term": "attack",
+   "count": 6
+  },
+  {
+   "term": "plan",
    "count": 6
   },
   {
@@ -50,19 +66,23 @@
    "count": 6
   },
   {
-   "term": "album",
-   "count": 5
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
+   "count": 6
   },
   {
    "term": "time",
    "count": 5
   },
   {
-   "term": "years",
+   "term": "launches",
    "count": 5
   },
   {
-   "term": "emergencia",
+   "term": "russian",
    "count": 5
   },
   {
@@ -74,27 +94,23 @@
    "count": 5
   },
   {
+   "term": "arabia",
+   "count": 5
+  },
+  {
    "term": "iraq",
    "count": 5
   },
   {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
-   "term": "west",
+   "term": "show",
    "count": 4
   },
   {
-   "term": "song",
+   "term": "israel",
    "count": 4
   },
   {
-   "term": "face",
+   "term": "york",
    "count": 4
   },
   {
@@ -102,45 +118,29 @@
    "count": 4
   },
   {
-   "term": "build",
-   "count": 4
-  },
-  {
-   "term": "strike",
-   "count": 4
-  },
-  {
-   "term": "launches",
-   "count": 4
-  },
-  {
-   "term": "notification",
-   "count": 4
-  },
-  {
-   "term": "arabia",
+   "term": "fusion",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 14
+   "count": 16
   },
   {
    "name": "China",
-   "count": 10
+   "count": 11
   },
   {
    "name": "Trump",
+   "count": 9
+  },
+  {
+   "name": "Green",
    "count": 7
   },
   {
    "name": "Middle East",
-   "count": 6
-  },
-  {
-   "name": "Green",
    "count": 6
   },
   {
@@ -152,6 +152,10 @@
    "count": 5
   },
   {
+   "name": "Russian",
+   "count": 4
+  },
+  {
    "name": "Saudi Arabia",
    "count": 4
   },
@@ -160,11 +164,7 @@
    "count": 3
   },
   {
-   "name": "Europe",
-   "count": 3
-  },
-  {
-   "name": "Ceuta",
+   "name": "Poland",
    "count": 3
   },
   {
@@ -176,7 +176,23 @@
    "count": 3
   },
   {
-   "name": "España",
+   "name": "Ceuta",
+   "count": 3
+  },
+  {
+   "name": "Morocco",
+   "count": 3
+  },
+  {
+   "name": "World Cup",
+   "count": 3
+  },
+  {
+   "name": "Barranquilla",
+   "count": 3
+  },
+  {
+   "name": "Europa",
    "count": 3
   },
   {
@@ -184,39 +200,23 @@
    "count": 3
   },
   {
-   "name": "Tehran",
-   "count": 3
-  },
-  {
    "name": "Israel",
    "count": 3
   },
   {
-   "name": "Simone Forti",
+   "name": "Billie Eilish",
+   "count": 2
+  },
+  {
+   "name": "Lollapalooza",
+   "count": 2
+  },
+  {
+   "name": "Mercury Prize",
    "count": 2
   },
   {
    "name": "August",
-   "count": 2
-  },
-  {
-   "name": "LLMs",
-   "count": 2
-  },
-  {
-   "name": "London",
-   "count": 2
-  },
-  {
-   "name": "Russian",
-   "count": 2
-  },
-  {
-   "name": "Poland",
-   "count": 2
-  },
-  {
-   "name": "Germany",
    "count": 2
   }
  ]
