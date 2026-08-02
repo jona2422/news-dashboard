@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-02T15:30:27.661240+00:00",
- "sources_ok": 35,
+ "updated": "2026-08-02T17:26:09.077663+00:00",
+ "sources_ok": 34,
  "sources_total": 38,
  "beats": [
   {
@@ -45,6 +45,14 @@
   }
  ],
  "feeds": [
+  {
+   "beat": "desastres",
+   "url": "https://www.gdacs.org/xml/rss.xml",
+   "source": "gdacs.org",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error timed out>"
+  },
   {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
@@ -106,7 +114,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 144,
+   "count": 145,
    "error": ""
   },
   {
@@ -179,14 +187,6 @@
    "source": "China Digital Times (CDT)",
    "ok": true,
    "count": 15,
-   "error": ""
-  },
-  {
-   "beat": "desastres",
-   "url": "https://www.gdacs.org/xml/rss.xml",
-   "source": "GDACS RSS information",
-   "ok": true,
-   "count": 351,
    "error": ""
   },
   {
@@ -306,7 +306,7 @@
    "url": "https://www.france24.com/es/rss",
    "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": ""
   },
   {

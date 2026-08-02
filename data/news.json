@@ -1,10 +1,46 @@
 {
- "updated": "2026-08-02T15:30:27.661240+00:00",
+ "updated": "2026-08-02T17:26:09.077663+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "David Byrne Shares His “Biking Playlist”",
+     "link": "https://consequence.net/2026/08/david-byrne-shares-his-biking-playlist/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/08/David-Byrne.jpeg?quality=80",
+     "published": "2026-08-02T16:53:11+00:00",
+     "ts": 1785689591000,
+     "count": 1
+    },
+    {
+     "title": "Phil Collins Reveals He Nearly Died in 2024 Amid Battle With Alcohol Addiction",
+     "link": "https://www.rollingstone.com/music/music-news/phil-collins-reveals-nearly-died-2024-alcohol-addiction-1235602301/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-08-02T16:34:15+00:00",
+     "ts": 1785688455000,
+     "count": 1
+    },
+    {
+     "title": "William Shatner, 95, Says He’s Playing at Coachella in 2027",
+     "link": "https://consequence.net/2026/08/william-shatner-reveals-his-metal-band-will-play-coachella-2027/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/08/William-Shatner-coachella.jpeg?quality=80",
+     "published": "2026-08-02T16:02:12+00:00",
+     "ts": 1785686532000,
+     "count": 1
+    },
+    {
+     "title": "Watch Olivia Rodrigo Play “Thirty-Three” with The Smashing Pumpkins at Lollapalooza",
+     "link": "https://pitchfork.com/story/watch-olivia-rodrigo-and-the-smashing-pumpkins-cover-thirty-three/",
+     "source": "RSS: News",
+     "image": "https://media.pitchfork.com/photos/6a6f592a7df2a931718f063b/master/pass/MixCollage-02-Aug-2026-10-50-AM-6963.jpg",
+     "published": "2026-08-02T15:25:13+00:00",
+     "ts": 1785684313000,
+     "count": 2
+    },
     {
      "title": "Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays",
      "link": "https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/",
@@ -54,7 +90,7 @@
      "title": "Vincent Pastore, Star of The Sopranos, Dead at 80",
      "link": "https://consequence.net/2026/08/vincent-pastore-sopranos-dead/",
      "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/08/Vincent-Pastore.jpg?quality=80",
+     "image": "https://consequence.net/wp-content/uploads/2026/08/Vincent-Pastore-in-The-Sopranos.jpeg?quality=80",
      "published": "2026-08-01T21:47:54+00:00",
      "ts": 1785620874000,
      "count": 1
@@ -168,24 +204,6 @@
      "count": 1
     },
     {
-     "title": "Modest Mouse Drops Guitarist Simon O’Connor From Upcoming Tour",
-     "link": "https://www.rollingstone.com/music/music-news/modest-mouse-drops-guitarist-simon-oconnor-upcoming-tour-1235601830/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-08-01T03:22:11+00:00",
-     "ts": 1785554531000,
-     "count": 1
-    },
-    {
-     "title": "Olivia Rodrigo Joins Smashing Pumpkins for “Thirty-Three” at Lollapalooza: Watch",
-     "link": "https://consequence.net/2026/07/olivia-rodrigo-smashing-pumpkins-lollapalooza/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/07/Olivia-Rodrigo-with-Smashing-Pumpkins.jpeg?quality=80",
-     "published": "2026-08-01T03:18:08+00:00",
-     "ts": 1785554288000,
-     "count": 1
-    },
-    {
      "title": "Behind the Silhouette: Ado’s Journey to Lollapalooza",
      "link": "https://consequence.net/2026/07/ado-journey-to-lollapalooza/",
      "source": "Consequence",
@@ -237,24 +255,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/07/Ariana-Grande.jpeg?quality=80",
      "published": "2026-07-31T18:05:28+00:00",
      "ts": 1785521128000,
-     "count": 1
-    },
-    {
-     "title": "Patti Smith Left Speechless Meeting Pope Leo Before “Spark Was Lit”",
-     "link": "https://consequence.net/2026/07/patti-smith-pope-leo-xiv-meeting-vatican/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/07/patti-smith-pope-leo.jpg?quality=80",
-     "published": "2026-07-31T17:48:56+00:00",
-     "ts": 1785520136000,
-     "count": 1
-    },
-    {
-     "title": "Glen Hansard’s Public Wake and Funeral Details Announced",
-     "link": "https://consequence.net/2026/07/glen-hansard-public-wake-funeral-details/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/07/Glen-Hansard-1.jpeg?quality=80",
-     "published": "2026-07-31T17:39:24+00:00",
-     "ts": 1785519564000,
      "count": 1
     }
    ]
@@ -522,6 +522,87 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+     "link": "https://github.com/graham33/nixos-dgx-spark",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T17:05:54+00:00",
+     "ts": 1785690354000,
+     "count": 1
+    },
+    {
+     "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+     "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-08-02T17:05:07+00:00",
+     "ts": 1785690307000,
+     "count": 1
+    },
+    {
+     "title": "Linux Desktop Market Share Surpasses 10% in North America",
+     "link": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T16:50:01+00:00",
+     "ts": 1785689401000,
+     "count": 1
+    },
+    {
+     "title": "GE-97 Terminal: The Old Internet",
+     "link": "https://ge97.com/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T16:41:35+00:00",
+     "ts": 1785688895000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+     "link": "https://github.com/wie-project/kakehashi",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T16:26:40+00:00",
+     "ts": 1785688000000,
+     "count": 1
+    },
+    {
+     "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+     "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T16:19:17+00:00",
+     "ts": 1785687557000,
+     "count": 1
+    },
+    {
+     "title": "Xbox prices are increasing by up to €200 or £170",
+     "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-02T16:18:38+00:00",
+     "ts": 1785687518000,
+     "count": 1
+    },
+    {
+     "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+     "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-08-02T16:05:00+00:00",
+     "ts": 1785686700000,
+     "count": 1
+    },
+    {
+     "title": "How the words we teach English language learners changed",
+     "link": "https://pudding.cool/2026/07/essential-words/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T15:41:08+00:00",
+     "ts": 1785685268000,
+     "count": 1
+    },
+    {
      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
      "source": "TechCrunch",
@@ -531,21 +612,12 @@
      "count": 1
     },
     {
-     "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+     "title": "A Rant About “Technology” (2005)",
      "link": "https://www.ursulakleguin.com/a-rant-about-technology",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-02T14:51:18+00:00",
      "ts": 1785682278000,
-     "count": 1
-    },
-    {
-     "title": "The Seinfeld Chronicles: Digital Edition",
-     "link": "https://seinfeld.visualisingdata.com/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T14:17:43+00:00",
-     "ts": 1785680263000,
      "count": 1
     },
     {
@@ -594,39 +666,12 @@
      "count": 1
     },
     {
-     "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-     "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T11:24:20+00:00",
-     "ts": 1785669860000,
-     "count": 1
-    },
-    {
      "title": "Show HN: Fuse – statically typed functional programming language",
      "link": "https://fuselang.org",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-02T11:23:56+00:00",
      "ts": 1785669836000,
-     "count": 1
-    },
-    {
-     "title": "I made a Promise-aware debounce and throttle library for TypeScript",
-     "link": "https://github.com/nyvexis1/temporize",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T11:07:56+00:00",
-     "ts": 1785668876000,
-     "count": 1
-    },
-    {
-     "title": "US Treasury undertakes historic intervention in yen market",
-     "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T10:46:28+00:00",
-     "ts": 1785667588000,
      "count": 1
     },
     {
@@ -693,30 +738,12 @@
      "count": 1
     },
     {
-     "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-     "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+     "title": "Karpathy’s Pelican",
+     "link": "https://twitter.com/karpathy/status/2083749667410727319",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-02T03:12:52+00:00",
-     "ts": 1785640372000,
-     "count": 1
-    },
-    {
-     "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-     "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T02:51:15+00:00",
-     "ts": 1785639075000,
-     "count": 1
-    },
-    {
-     "title": "When random.bytes() runs but doesn't work",
-     "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T02:08:26+00:00",
-     "ts": 1785636506000,
+     "published": "2026-08-02T04:05:56+00:00",
+     "ts": 1785643556000,
      "count": 1
     },
     {
@@ -745,33 +772,6 @@
      "published": "2026-08-01T20:26:04+00:00",
      "ts": 1785615964000,
      "count": 1
-    },
-    {
-     "title": "Angela Nissel faces down grief with a laugh",
-     "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-01T20:13:56+00:00",
-     "ts": 1785615236000,
-     "count": 1
-    },
-    {
-     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-     "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-01T19:45:45+00:00",
-     "ts": 1785613545000,
-     "count": 1
-    },
-    {
-     "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-     "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-01T18:47:27+00:00",
-     "ts": 1785610047000,
-     "count": 1
     }
    ]
   },
@@ -780,21 +780,183 @@
    "name": "Actualidad Global",
    "items": [
     {
+     "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+     "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/485ae932972d035de5428a185f0ec362fd2a790e/638_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=6a9b04eb75d97a2576d4c40955552de3",
+     "published": "2026-08-02T17:17:49+00:00",
+     "ts": 1785691069000,
+     "count": 1
+    },
+    {
+     "title": "Ukraine hits targets deep inside Russia, killing eight",
+     "link": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-08-02T17:15:00+00:00",
+     "ts": 1785690900000,
+     "count": 1
+    },
+    {
+     "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+     "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png",
+     "published": "2026-08-02T17:14:04+00:00",
+     "ts": 1785690844000,
+     "count": 1
+    },
+    {
+     "title": "Deadly floods and landslide hit India’s Kerala",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T16:55:39+00:00",
+     "ts": 1785689739000,
+     "count": 1
+    },
+    {
+     "title": "Britain could face food shortages as drought continues, farmers warn",
+     "link": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/264f6a189017278348b832a55d6ac2782e8a91cf/807_0_4607_3686/master/4607.jpg?width=140&quality=85&auto=format&fit=max&s=428eb6cdeed7fb59d20919c9f75fddaf",
+     "published": "2026-08-02T16:54:07+00:00",
+     "ts": 1785689647000,
+     "count": 1
+    },
+    {
+     "title": "At the scene of deadly Moscow bomb blast",
+     "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bd/live/9c600170-8e88-11f1-b2ab-0dd01740f9f6.jpg",
+     "published": "2026-08-02T16:52:35+00:00",
+     "ts": 1785689555000,
+     "count": 1
+    },
+    {
+     "title": "Cleveland police failed to arrest man who later killed two-year-old girl",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/02/cleveland-teesside-police-failure-murder-sexual-assault-two-year-old-girl-isabelle-walsh",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/1496eabb2264b92541132cb47bf5ef1c4496cb12/153_0_883_706/master/883.jpg?width=140&quality=85&auto=format&fit=max&s=f1bc4f02e7dc60f6ae6959a372a6531c",
+     "published": "2026-08-02T16:47:22+00:00",
+     "ts": 1785689242000,
+     "count": 1
+    },
+    {
+     "title": "Ceuta: Most who breached border have left, Spain says",
+     "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-08-02T16:47:00+00:00",
+     "ts": 1785689220000,
+     "count": 1
+    },
+    {
+     "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+     "link": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T16:40:44+00:00",
+     "ts": 1785688844000,
+     "count": 1
+    },
+    {
+     "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+     "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
+     "published": "2026-08-02T16:37:02+00:00",
+     "ts": 1785688622000,
+     "count": 1
+    },
+    {
+     "title": "Capital One cites anti-money laundering concerns in Trump Organization case",
+     "link": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T16:27:58+00:00",
+     "ts": 1785688078000,
+     "count": 1
+    },
+    {
+     "title": "Burnham to focus on keeping child rapists in prison as release scheme talks enter final day",
+     "link": "https://www.theguardian.com/society/2026/aug/02/andy-burnham-child-rapists-prison-release-scheme-talks",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2deb95380cec6d1eed77873f58884dc566f3a090/756_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=d805d4606dce69b0f73e673c14298f3a",
+     "published": "2026-08-02T16:27:51+00:00",
+     "ts": 1785688071000,
+     "count": 1
+    },
+    {
+     "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+     "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T16:10:32+00:00",
+     "ts": 1785687032000,
+     "count": 1
+    },
+    {
+     "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+     "link": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/644a3d991ac481989ea97a3977c47e2f3677c714/0_0_3862_3088/master/3862.jpg?width=140&quality=85&auto=format&fit=max&s=da5b0b0fd643f7a0f8f8e7ed21b565dd",
+     "published": "2026-08-02T16:06:37+00:00",
+     "ts": 1785686797000,
+     "count": 1
+    },
+    {
+     "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+     "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+     "published": "2026-08-02T15:50:59+00:00",
+     "ts": 1785685859000,
+     "count": 1
+    },
+    {
+     "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+     "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
+     "published": "2026-08-02T15:48:00+00:00",
+     "ts": 1785685680000,
+     "count": 1
+    },
+    {
+     "title": "Solar powers record share of Britain’s electricity mix in July",
+     "link": "https://www.theguardian.com/environment/2026/aug/02/solar-powers-record-share-britain-electricity-july",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/acf8990a0f3b24200bb7b8cd49cd0e2a3ab610e6/145_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=03fcf0463c853c32e920c7f1bcbb8bb1",
+     "published": "2026-08-02T15:46:27+00:00",
+     "ts": 1785685587000,
+     "count": 1
+    },
+    {
+     "title": "Israeli settlers shoot Palestinian child during farm raid",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T15:36:28+00:00",
+     "ts": 1785684988000,
+     "count": 1
+    },
+    {
+     "title": "How to end the ‘Hormuz war’",
+     "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T15:33:20+00:00",
+     "ts": 1785684800000,
+     "count": 1
+    },
+    {
      "title": "Greece: fire brigade helicopters collide as wildfires spread",
      "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
      "published": "2026-08-02T15:26:00+00:00",
      "ts": 1785684360000,
-     "count": 1
-    },
-    {
-     "title": "Helicopters fighting Greece wildfires collide in mid-air",
-     "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282d/live/2cbdf280-8e80-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-02T15:21:56+00:00",
-     "ts": 1785684116000,
      "count": 1
     },
     {
@@ -813,15 +975,6 @@
      "image": "https://i.guim.co.uk/img/media/bfb07400c0a8b8c88a7b31359fb18078f55af6e0/174_58_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=c7df7a426c994c6d2e9fd55d4dbd2da8",
      "published": "2026-08-02T15:10:17+00:00",
      "ts": 1785683417000,
-     "count": 1
-    },
-    {
-     "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-     "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
-     "published": "2026-08-02T15:02:56+00:00",
-     "ts": 1785682976000,
      "count": 1
     },
     {
@@ -846,7 +999,7 @@
      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
      "link": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/db6e60629e1abee1679d3fc29ac199563c2c2e7c/0_9_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=f4434e2bc9f09de0925cde856cb8433b",
+     "image": "https://i.guim.co.uk/img/media/db6e60629e1abee1679d3fc29ac199563c2c2e7c/27_16_973_778/master/973.jpg?width=140&quality=85&auto=format&fit=max&s=b4905ac9cb5b3f6aa938846b66e18540",
      "published": "2026-08-02T14:56:41+00:00",
      "ts": 1785682601000,
      "count": 1
@@ -858,15 +1011,6 @@
      "image": "",
      "published": "2026-08-02T14:44:34+00:00",
      "ts": 1785681874000,
-     "count": 1
-    },
-    {
-     "title": "‘Stench of sleaze’: Farage struck deal over political return months before 2024 election, reports say",
-     "link": "https://www.theguardian.com/politics/2026/aug/02/nigel-farage-deal-political-return-reform-2024-election-reports",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5c6017c763edeb719374d0668498ac6982bdbe93/490_0_4292_3432/master/4292.jpg?width=140&quality=85&auto=format&fit=max&s=e39ccfd75ec4d79c453f8700a0b1ef0b",
-     "published": "2026-08-02T14:42:01+00:00",
-     "ts": 1785681721000,
      "count": 1
     },
     {
@@ -886,150 +1030,6 @@
      "published": "2026-08-02T14:30:00+00:00",
      "ts": 1785681000000,
      "count": 1
-    },
-    {
-     "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
-     "link": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T14:20:36+00:00",
-     "ts": 1785680436000,
-     "count": 1
-    },
-    {
-     "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
-     "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T14:15:34+00:00",
-     "ts": 1785680134000,
-     "count": 1
-    },
-    {
-     "title": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T14:14:25+00:00",
-     "ts": 1785680065000,
-     "count": 1
-    },
-    {
-     "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-     "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T14:11:54+00:00",
-     "ts": 1785679914000,
-     "count": 1
-    },
-    {
-     "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d0be91831d5c2e0453b63ed157e6461f6eb381c2/1039_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=48e9be666cdf6eaebbd17c1fba20cb03",
-     "published": "2026-08-02T14:01:23+00:00",
-     "ts": 1785679283000,
-     "count": 1
-    },
-    {
-     "title": "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?",
-     "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T13:59:49+00:00",
-     "ts": 1785679189000,
-     "count": 1
-    },
-    {
-     "title": "‘Tiger mum’ Lucy Powell on Labour’s vocational skills drive: ‘It’s about ambition for everybody’",
-     "link": "https://www.theguardian.com/politics/2026/aug/02/lucy-powell-tiger-mum-vocational-skills-labour-education",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e90defdbd7112d3496cada81fc39dc49a599be53/1643_0_6999_5600/master/6999.jpg?width=140&quality=85&auto=format&fit=max&s=da2c5f5b1c56fa76a91d0aaf8317ba8d",
-     "published": "2026-08-02T13:58:43+00:00",
-     "ts": 1785679123000,
-     "count": 1
-    },
-    {
-     "title": "Communal violence between Hindus and Muslims grips southern Nepal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T13:55:07+00:00",
-     "ts": 1785678907000,
-     "count": 1
-    },
-    {
-     "title": "Evacuations near Athens as Greece becomes focus of Europe’s wildfire crisis",
-     "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/485ae932972d035de5428a185f0ec362fd2a790e/638_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=6a9b04eb75d97a2576d4c40955552de3",
-     "published": "2026-08-02T13:52:53+00:00",
-     "ts": 1785678773000,
-     "count": 1
-    },
-    {
-     "title": "Moscow bomb kills at least three as device carried by woman explodes",
-     "link": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/220ac724f33d1d565d98abcebac259d79c6fb324/0_0_6691_5353/master/6691.jpg?width=140&quality=85&auto=format&fit=max&s=0ad3573a7e4116010f0e6f062d7c4bae",
-     "published": "2026-08-02T13:51:41+00:00",
-     "ts": 1785678701000,
-     "count": 1
-    },
-    {
-     "title": "Hundreds mourn Moroccan footballer who died trying to reach Ceuta",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T13:46:23+00:00",
-     "ts": 1785678383000,
-     "count": 1
-    },
-    {
-     "title": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T13:40:55+00:00",
-     "ts": 1785678055000,
-     "count": 1
-    },
-    {
-     "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-     "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F9e%2F9fdc7978476aa4a372ba86b8c10c%2Fap26214055763169.jpg",
-     "published": "2026-08-02T13:35:43+00:00",
-     "ts": 1785677743000,
-     "count": 1
-    },
-    {
-     "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-     "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d2eb725146a70e9f737bf0b62b8e2859147a98bd/554_139_2292_1833/master/2292.jpg?width=140&quality=85&auto=format&fit=max&s=2e6149414170af12322c40e90514a30f",
-     "published": "2026-08-02T13:11:56+00:00",
-     "ts": 1785676316000,
-     "count": 1
-    },
-    {
-     "title": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
-     "link": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T13:08:25+00:00",
-     "ts": 1785676105000,
-     "count": 1
-    },
-    {
-     "title": "‘There’s no nurdle fairy’: thousands mobilise to clean up plastic spillage in north-east England",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/02/nurdles-clean-up-plastic-spillage-beaches-north-east-england",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b87bc9c64d30e642be7474e6940b1e3f40f9218e/291_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=95cdfcf5388037523b1e3eff643aa471",
-     "published": "2026-08-02T13:00:23+00:00",
-     "ts": 1785675623000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,141 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Rusia tacha de \"acto terrorista\" a la explosión en un restaurante de Moscú, que causó tres muertos",
+     "link": "https://www.france24.com/es/europa/20260802-rusia-tacha-de-acto-terrorista-a-la-explosi%C3%B3n-en-un-restaurante-de-mosc%C3%BA-que-caus%C3%B3-tres-muertos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/30cabf74-8e95-11f1-bdfd-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-RUSIA-ATENTADO-RESTAURANTE-MOSCU.jpg",
+     "published": "2026-08-02T17:14:46+00:00",
+     "ts": 1785690886000,
+     "count": 1
+    },
+    {
+     "title": "El costo silencioso de dejar perder lo que pertenece a la nación",
+     "link": "https://www.prensa.com/opinion/el-costo-silencioso-de-dejar-perder-lo-que-pertenece-a-la-nacion/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/NT3CKN53HFD25CL6GYNKETKTZQ.jpeg?auth=dbc87ec2ae09e8f5a4d91deebe4dfe5c9df81dd8f3ad4c19daf7f78b14fa14ed&smart=true&width=1280&height=853",
+     "published": "2026-08-02T17:10:07+00:00",
+     "ts": 1785690607000,
+     "count": 1
+    },
+    {
+     "title": "Atención: con ráfagas de fusil y mientras patrullaban, mataron a dos policías en zona rural de Ataco (Tolima)",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-con-rafagas-de-fusil-y-mientras-patrullaban-mataron-a-dos-policias-en-zona-rural-de-ataco-tolima-3575598",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/02/6a6f7764092af.r_d.1788-909-0.jpeg",
+     "published": "2026-08-02T17:04:46+00:00",
+     "ts": 1785690286000,
+     "count": 1
+    },
+    {
+     "title": "Cayó el presunto asesino de Gabriel Arenas Herazo, estudiante de ingeniería de la Universidad de Antioquia: detalles de la investigación",
+     "link": "https://www.eltiempo.com/colombia/medellin/cayo-el-presunto-asesino-del-estudiante-gabriel-arenas-herazo-estudiante-de-ingenieria-de-la-universidad-de-antioquia-detalles-de-la-investigacion-3575585",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/02/6a6f6b2897ccf.jpeg",
+     "published": "2026-08-02T16:54:33+00:00",
+     "ts": 1785689673000,
+     "count": 1
+    },
+    {
+     "title": "Crudo ataque sicarial en Fusagasugá dejó dos muertos: las autoridades ubican a los responsables",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/crudo-ataque-sicarial-en-fusagasuga-dejo-dos-muertos-las-autoridades-ubican-a-los-responsables-3575593",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/02/6a6f72c4cf6d8.png",
+     "published": "2026-08-02T16:44:14+00:00",
+     "ts": 1785689054000,
+     "count": 1
+    },
+    {
+     "title": "Mijahir Jiménez firma un doblete histórico en su primera titularidad con New York Red Bulls",
+     "link": "https://www.prensa.com/deportes/mijahir-jimenez-firma-un-doblete-historico-en-su-primera-titularidad-con-new-york-red-bulls/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/LWU6HNSLFFEIVDIGRQNOIZ5D44.jpg?auth=a65e5293ec7caf4f801e240e31202624b02f720846023034624bf6137f62107a&smart=true&width=1389&height=926",
+     "published": "2026-08-02T16:36:10+00:00",
+     "ts": 1785688570000,
+     "count": 1
+    },
+    {
+     "title": "Mantenimiento de SPEC entra en su recta final con 79 % de avance y Gobierno asegura que el suministro de gas y energía opera sin contratiempos",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/mantenimiento-de-spec-entra-en-su-recta-final-con-79-de-avance-y-gobierno-asegura-que-el-suministro-de-gas-y-energia-opera-sin-contratiempos-3575589",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/02/6a6f71291ea0d.r_d.598-558-0.jpeg",
+     "published": "2026-08-02T16:35:26+00:00",
+     "ts": 1785688526000,
+     "count": 1
+    },
+    {
+     "title": "Virus sincitial respiratorio: 12 de las 13 muertes fueron de menores de cinco años",
+     "link": "https://www.prensa.com/sociedad/virus-sincitial-respiratorio-12-de-las-13-muertes-fueron-de-menores-de-cinco-anos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/C37MADENOJEWBLAADNN4ONVOGY.jpg?auth=60b2c8b8f8ccc7065f17aa003fa64e1807a828a39bb5c8cc264aec195b911797&smart=true&width=3862&height=2578",
+     "published": "2026-08-02T16:27:08+00:00",
+     "ts": 1785688028000,
+     "count": 1
+    },
+    {
+     "title": "La tormenta política en Europa que desató la llegada de miles de migrantes africanos a Ceuta",
+     "link": "https://www.prensa.com/mundo/la-tormenta-politica-en-europa-que-desato-la-llegada-de-miles-de-migrantes-africanos-a-ceuta/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/EFPFZ34ZJFBBBDPVVMQRGVONMU.jpg?auth=a826f0c0c3db197e9abe2951c5926b10f83be3c9ff7ace2b9fca50db784ff0fd&smart=true&width=2000&height=1125",
+     "published": "2026-08-02T16:26:45+00:00",
+     "ts": 1785688005000,
+     "count": 2
+    },
+    {
+     "title": "13 personas mueren en Perú al estrellarse una aeronave turística cerca de las Líneas de Nazca",
+     "link": "https://www.prensa.com/mundo/13-personas-mueren-en-peru-al-estrellarse-una-aeronave-turistica-cerca-de-las-lineas-de-nazca/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/XOUO6OS2MFF65MVMKQ624XI5XA.jpg?auth=039fade496de8b090bc56d4335861be6ac454624af9692292064ccce56b83e11&smart=true&width=1024&height=576",
+     "published": "2026-08-02T16:09:46+00:00",
+     "ts": 1785686986000,
+     "count": 2
+    },
+    {
+     "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
+     "link": "https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c612/live/f0a12cb0-8b5d-11f1-b422-3b36120ef864.jpg",
+     "published": "2026-08-02T16:04:35+00:00",
+     "ts": 1785686675000,
+     "count": 1
+    },
+    {
+     "title": "Dos pilotos mueren al chocar dos helicópteros que participaban en la extinción de un incendio en Grecia",
+     "link": "https://elpais.com/internacional/2026-08-02/dos-pilotos-mueren-al-chocar-dos-helicopteros-que-participaban-en-la-extincion-de-un-incendio-en-grecia.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/IB62NOAKKZFFPOXDKJNOAJ72SI.jpg?auth=2c5a967fb9c0fdb152b931633e80490be2a07ca908b02324e73c4b706c8b9ba3",
+     "published": "2026-08-02T15:56:50+00:00",
+     "ts": 1785686210000,
+     "count": 1
+    },
+    {
+     "title": "Ataque de sicarios en un restaurante en Florida, Valle: en la masacre murió el reconocido gobernador de un resguardo indígena nasa",
+     "link": "https://www.eltiempo.com/colombia/cali/ataque-de-sicarios-en-un-establecimiento-comercial-en-florida-valle-en-la-masacre-murio-el-gobernador-de-un-resguardo-indigena-nasa-3575569",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/02/6a6f446ba4fae.r_d.422-632-0.jpeg",
+     "published": "2026-08-02T15:36:03+00:00",
+     "ts": 1785684963000,
+     "count": 1
+    },
+    {
+     "title": "Programación de la Feria de las Flores de Medellín: llega el Desfile Avenida Primavera 2026 con más de 26 carrozas a lo largo de 2,4 kilómetros",
+     "link": "https://www.eltiempo.com/colombia/medellin/programacion-de-la-feria-de-las-flores-de-medellin-llega-el-desfile-avenida-primavera-2026-con-mas-de-26-carrozas-a-lo-largo-de-2-4-kilometros-3575574",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/28/6a692a76ce551.r_d.1222-993-0.jpeg",
+     "published": "2026-08-02T15:32:19+00:00",
+     "ts": 1785684739000,
+     "count": 1
+    },
+    {
+     "title": "Israel mata a 15 palestinos en Gaza y no cesa sus bombardeos pese al plan de desarme de Hamás",
+     "link": "https://www.france24.com/es/medio-oriente/20260802-israel-mata-a-15-palestinos-en-gaza-y-no-cesa-sus-bombardeos-pese-al-plan-de-desarme-de-ham%C3%A1s",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/26791104-8e7e-11f1-986e-005056a90284/w:1024/p:16x9/2026-08-01T234146Z-10278974-RC2JPMAS0YQ0-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+     "published": "2026-08-02T15:30:35+00:00",
+     "ts": 1785684635000,
+     "count": 1
+    },
     {
      "title": "Los reyes del café geisha, estos fueron los ganadores del Best of Panamá 2026",
      "link": "https://www.prensa.com/economia/los-reyes-del-cafe-geisha-estos-fueron-los-ganadores-del-best-of-panama-2026/",
@@ -1056,12 +1191,12 @@
      "count": 1
     },
     {
-     "title": "Programación de la Feria de las Flores de Medellín: llega el Desfile Avenida Primavera 2026 con más de 26 carrozas a lo largo de 2,4 kilómetros",
-     "link": "https://www.eltiempo.com/colombia/medellin/programacion-de-la-feria-de-las-flores-de-medellin-llega-el-desfile-avenida-primavera-2026-con-mas-de-26-carrozas-a-lo-largo-de-2-4-kilometros-3575574",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/28/6a692a76ce551.r_d.1222-993-0.jpeg",
-     "published": "2026-08-02T15:12:51+00:00",
-     "ts": 1785683571000,
+     "title": "Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera",
+     "link": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/H2KDQ2F7IJDEFC4GTRDC53PJMM.jpg?auth=a6775152b25668c44f14421e9ad160663f987f7750f7e2593b4f06bf01d1b6ea",
+     "published": "2026-08-02T15:16:45+00:00",
+     "ts": 1785683805000,
      "count": 1
     },
     {
@@ -1101,15 +1236,6 @@
      "count": 1
     },
     {
-     "title": "Ataque de sicarios en un establecimiento comercial en Florida, Valle: en la masacre murió el gobernador de un resguardo indígena nasa",
-     "link": "https://www.eltiempo.com/colombia/cali/ataque-de-sicarios-en-un-establecimiento-comercial-en-florida-valle-en-la-masacre-murio-el-gobernador-de-un-resguardo-indigena-nasa-3575569",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/02/6a6f446ba4fae.r_d.422-632-0.jpeg",
-     "published": "2026-08-02T14:40:09+00:00",
-     "ts": 1785681609000,
-     "count": 1
-    },
-    {
      "title": "El calor extremo pone a prueba a turistas y comerciantes durante el verano en España",
      "link": "https://www.france24.com/es/video/20260802-el-calor-extremo-pone-a-prueba-a-turistas-y-comerciantes-durante-el-verano-en-espa%C3%B1a",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
@@ -1146,15 +1272,6 @@
      "count": 1
     },
     {
-     "title": "Ataques israelíes en Gaza dejan varios muertos pese al alto el fuego",
-     "link": "https://www.france24.com/es/video/20260802-ataques-israel%C3%ADes-en-gaza-dejan-varios-muertos-pese-al-alto-el-fuego",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1824ad6e-8e7b-11f1-ade0-005056a90284/w:1024/p:16x9/ES-20260802-080223-080423-CS.jpg",
-     "published": "2026-08-02T14:27:13+00:00",
-     "ts": 1785680833000,
-     "count": 1
-    },
-    {
      "title": "¿Cómo conmemora Europa del Este el Holocausto romaní?",
      "link": "https://www.dw.com/es/¿cómo-conmemora-europa-del-este-el-holocausto-romaní/a-78207787?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
@@ -1171,123 +1288,6 @@
      "published": "2026-08-02T13:55:30+00:00",
      "ts": 1785678930000,
      "count": 1
-    },
-    {
-     "title": "Aumentan a 72 los muertos por intentar ingresar a Ceuta",
-     "link": "https://www.dw.com/es/aumentan-a-72-los-muertos-por-intentar-ingresar-a-ceuta/a-78207834?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-02T13:55:00+00:00",
-     "ts": 1785678900000,
-     "count": 1
-    },
-    {
-     "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Las autoridades ceutíes cifran en 88 los fallecidos que están en la morgue",
-     "link": "https://elpais.com/espana/2026-08-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/6OQCNXSNNFGHPPTAHPLQXD3KS4.JPG?auth=9ea447998605228006261e97ba51eb5d90ec821ed86e8ebfe10ae50a7c99a6bc",
-     "published": "2026-08-02T13:47:54+00:00",
-     "ts": 1785678474000,
-     "count": 1
-    },
-    {
-     "title": "Veda del dorado en Panamá se mantiene hasta el 31 de agosto",
-     "link": "https://www.prensa.com/economia/veda-del-dorado-en-panama-se-mantiene-hasta-el-31-de-agosto/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/C63RGGCLAZCYHJM7GZ4CMFEOTA.jpeg?auth=ea7dd2ceffd95770980d94ab2426addf06b6112be739241c7d2523b03dc783d1&smart=true&width=1030&height=686",
-     "published": "2026-08-02T13:30:54+00:00",
-     "ts": 1785677454000,
-     "count": 1
-    },
-    {
-     "title": "PASE-U 2026: conozca los centros de entrega de tarjetas y pagos del 4 de agosto",
-     "link": "https://www.prensa.com/sociedad/pase-u-2026-conozca-los-centros-de-entrega-de-tarjetas-y-pagos-del-4-de-agosto/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ZJYHXLQTLBHKJEVN7ZOENBUQJM.jpeg?auth=110d7ec53829f2f7800b42f7deb1c14e452660f0f6ff53a38cc973145c32c782&smart=true&width=1086&height=724",
-     "published": "2026-08-02T13:00:00+00:00",
-     "ts": 1785675600000,
-     "count": 1
-    },
-    {
-     "title": "Comandante ruso habría sido objetivo de atentado en Moscú",
-     "link": "https://www.dw.com/es/comandante-ruso-habría-sido-objetivo-de-atentado-en-moscú/a-78207583?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-02T12:47:00+00:00",
-     "ts": 1785674820000,
-     "count": 1
-    },
-    {
-     "title": "4 claves para entender la grave crisis migratoria en Ceuta, uno de los enclaves españoles en el norte de África",
-     "link": "https://www.bbc.com/mundo/articles/cm2gv1r9zyno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46c5/live/db4ecd30-8d2f-11f1-b3b6-29b7cb5033ec.jpg",
-     "published": "2026-08-02T12:02:16+00:00",
-     "ts": 1785672136000,
-     "count": 1
-    },
-    {
-     "title": "España tacha de \"egoísta\" la respuesta de algunos países de la UE y pide unidad ante la crisis migratoria en Ceuta",
-     "link": "https://www.bbc.com/mundo/articles/ckgvl7qq190o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
-     "published": "2026-08-02T12:00:02+00:00",
-     "ts": 1785672002000,
-     "count": 2
-    },
-    {
-     "title": "Muere en una avalancha Nirmal Purja, el alpinista que conquistó las 14 montañas más altas del mundo",
-     "link": "https://www.bbc.com/mundo/articles/cx2j98y93qro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
-     "published": "2026-08-02T11:51:22+00:00",
-     "ts": 1785671482000,
-     "count": 1
-    },
-    {
-     "title": "Mercurocromo, el antiséptico con el que curaron las heridas de millones de niños en todo el mundo y terminó prohibido",
-     "link": "https://www.bbc.com/mundo/articles/cx2knyrryvqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef6f/live/be7499a0-8af1-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-02T11:42:54+00:00",
-     "ts": 1785670974000,
-     "count": 1
-    },
-    {
-     "title": "Mueren cinco personas en Indonesia en el incendio de un ferry con más de 200 pasajeros",
-     "link": "https://elpais.com/internacional/2026-08-02/mueren-cinco-personas-en-indonesia-en-el-incendio-de-un-ferry-con-mas-de-200-pasajeros.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TAV5BMFUHFLK3O6UERTRARDNJE.jpg?auth=634a37e0747dda48ecb1b58a2274843cdbc3b3b0db241aa400b717d8f8bac4cf",
-     "published": "2026-08-02T11:42:47+00:00",
-     "ts": 1785670967000,
-     "count": 1
-    },
-    {
-     "title": "Temblor en Colombia | Reportan sismo durante la madrugada de este domingo 2 de agosto: epicentro, profundidad y otros detalles",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-durante-la-madrugada-de-este-domingo-2-de-agosto-epicentro-profundidad-y-otros-detalles-3575566",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/02/6a6f29865770f.jpeg",
-     "published": "2026-08-02T11:32:15+00:00",
-     "ts": 1785670335000,
-     "count": 1
-    },
-    {
-     "title": "Grecia, en situación \"extremadamente difícil\" por incendios",
-     "link": "https://www.dw.com/es/grecia-en-situación-extremadamente-difícil-por-incendios/a-78207077?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-02T10:51:00+00:00",
-     "ts": 1785667860000,
-     "count": 1
-    },
-    {
-     "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
-     "link": "https://www.prensa.com/bbc/luana-lopes-lara-la-bailarina-de-ballet-que-se-convirtio-en-la-multimillonaria-mas-joven-del-mundo-con-una-empresa-muy-controvertida/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/6MRDW3OXV5EURMITVVZQSG3XTI.jpg?auth=e565ccfb1554b1b68511d84d0021ca951e9277a4c8df208f6c9d51c12686d528&smart=true&width=922&height=519",
-     "published": "2026-08-02T10:40:10+00:00",
-     "ts": 1785667210000,
-     "count": 2
     }
    ]
   },
@@ -1296,30 +1296,39 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030017",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-02T15:21:40+00:00",
-     "ts": 1785684100000,
-     "count": 29
-    },
-    {
-     "title": "Green forest fire notification in Angola",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029908",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-02T15:19:07+00:00",
-     "ts": 1785683947000,
-     "count": 231
-    },
-    {
-     "title": "M 4.8 - 18 km N of Honchō, Japan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9",
+     "title": "M 3.6 - 15 km NNW of Chignik Lagoon, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pecwkt",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-02T15:14:00.204000+00:00",
-     "ts": 1785683640204,
+     "published": "2026-08-02T17:21:48.979000+00:00",
+     "ts": 1785691308979,
+     "count": 1
+    },
+    {
+     "title": "M 3.4 - 20 km W of Salamatof, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdypwo",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T17:21:17.138000+00:00",
+     "ts": 1785691277138,
+     "count": 1
+    },
+    {
+     "title": "M 3.4 - 39 km E of King Cove, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmq",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T17:06:06.040000+00:00",
+     "ts": 1785690366040,
+     "count": 1
+    },
+    {
+     "title": "M 4.7 - 170 km SE of Sarangani, Philippines",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T16:56:05.040000+00:00",
+     "ts": 1785689765040,
      "count": 1
     },
     {
@@ -1327,18 +1336,45 @@
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410062",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-02T15:08:02.504000+00:00",
-     "ts": 1785683282504,
+     "published": "2026-08-02T16:48:05.673000+00:00",
+     "ts": 1785689285673,
      "count": 1
     },
     {
-     "title": "Green forest fire notification in Russian Federation",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030034",
-     "source": "GDACS RSS information",
+     "title": "M 4.6 - 8 km N of Belén, Nicaragua",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmh",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-02T15:05:41+00:00",
-     "ts": 1785683141000,
-     "count": 23
+     "published": "2026-08-02T16:25:21.040000+00:00",
+     "ts": 1785687921040,
+     "count": 1
+    },
+    {
+     "title": "M 4.5 - 7 km SSW of Yumare, Venezuela",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T16:20:04.264000+00:00",
+     "ts": 1785687604264,
+     "count": 1
+    },
+    {
+     "title": "M 5.0 - south of Tonga",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T15:55:19.040000+00:00",
+     "ts": 1785686119040,
+     "count": 1
+    },
+    {
+     "title": "M 4.8 - 18 km N of Honchō, Japan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T15:46:02.183000+00:00",
+     "ts": 1785685562183,
+     "count": 1
     },
     {
      "title": "M 4.9 - 207 km NW of Oula Xiuma, China",
@@ -1347,15 +1383,6 @@
      "image": "",
      "published": "2026-08-02T14:51:20.040000+00:00",
      "ts": 1785682280040,
-     "count": 1
-    },
-    {
-     "title": "M 3.2 - 17 km E of Desert Hot Springs, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664738",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T14:41:04.896000+00:00",
-     "ts": 1785681664896,
      "count": 1
     },
     {
@@ -1383,7 +1410,7 @@
      "image": "",
      "published": "2026-08-02T14:09:13.759000+00:00",
      "ts": 1785679753759,
-     "count": 2
+     "count": 1
     },
     {
      "title": "M 5.1 - 60 km W of Bahía de Lobos, Mexico",
@@ -1404,15 +1431,6 @@
      "count": 1
     },
     {
-     "title": "M 4.5 - 7 km SSW of Yumare, Venezuela",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T12:37:10.637000+00:00",
-     "ts": 1785674230637,
-     "count": 1
-    },
-    {
      "title": "M 3.9 - 229 km ESE of Attu Station, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl7",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1429,15 +1447,6 @@
      "published": "2026-08-02T12:26:21.040000+00:00",
      "ts": 1785673581040,
      "count": 2
-    },
-    {
-     "title": "M 3.5 - 20 km W of Salamatof, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdypwo",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T12:19:50.040000+00:00",
-     "ts": 1785673190040,
-     "count": 1
     },
     {
      "title": "M 2.5 - 44 km SE of Naalehu, Hawaii",
@@ -1476,30 +1485,12 @@
      "count": 1
     },
     {
-     "title": "Green forest fire notification in United States",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030030",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-02T11:00:36+00:00",
-     "ts": 1785668436000,
-     "count": 28
-    },
-    {
      "title": "M 5.3 - 265 km S of ‘Ohonua, Tonga",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
      "published": "2026-08-02T10:53:14.040000+00:00",
      "ts": 1785667994040,
-     "count": 1
-    },
-    {
-     "title": "M 3.5 - 13 km NNW of Chignik Lagoon, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pecwkt",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T09:31:25.040000+00:00",
-     "ts": 1785663085040,
      "count": 1
     },
     {
@@ -1512,15 +1503,6 @@
      "count": 1
     },
     {
-     "title": "Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1555671",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1722485_1.png",
-     "published": "2026-08-02T08:53:52+00:00",
-     "ts": 1785660832000,
-     "count": 4
-    },
-    {
      "title": "M 4.9 - 149 km S of Severo-Kuril’sk, Russia",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1530,15 +1512,6 @@
      "count": 3
     },
     {
-     "title": "Green flood alert in Poland",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104064",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104064.png",
-     "published": "2026-08-02T07:33:52+00:00",
-     "ts": 1785656032000,
-     "count": 11
-    },
-    {
      "title": "M 4.9 - 36 km SSW of Mendi, Papua New Guinea",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1546,6 +1519,33 @@
      "published": "2026-08-02T05:53:06.040000+00:00",
      "ts": 1785649986040,
      "count": 1
+    },
+    {
+     "title": "M 4.8 - 77 km SE of Atka, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T05:33:42.040000+00:00",
+     "ts": 1785648822040,
+     "count": 2
+    },
+    {
+     "title": "M 4.4 - 42 km W of Cartagena, Chile",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjs",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T02:43:05.904000+00:00",
+     "ts": 1785638585904,
+     "count": 1
+    },
+    {
+     "title": "M 4.2 - 7 km S of El Arenal, Mexico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj0",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T02:26:47.040000+00:00",
+     "ts": 1785637607040,
+     "count": 2
     }
    ]
   },
@@ -1554,21 +1554,39 @@
    "name": "Medio Oriente",
    "items": [
     {
+     "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+     "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
+     "published": "2026-08-02T16:37:02+00:00",
+     "ts": 1785688622000,
+     "count": 1
+    },
+    {
+     "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+     "link": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/644a3d991ac481989ea97a3977c47e2f3677c714/0_0_3862_3088/master/3862.jpg?width=140&quality=85&auto=format&fit=max&s=da5b0b0fd643f7a0f8f8e7ed21b565dd",
+     "published": "2026-08-02T16:06:37+00:00",
+     "ts": 1785686797000,
+     "count": 1
+    },
+    {
+     "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+     "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+     "published": "2026-08-02T15:50:59+00:00",
+     "ts": 1785685859000,
+     "count": 1
+    },
+    {
      "title": "US, Israel to hold off on Iran strikes",
      "link": "https://www.france24.com/en/us-israel-to-hold-off-on-iran-strikes",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/33651e7a-8e84-11f1-9ac2-005056bfb2b6/w:1024/p:16x9/EN-20260802-160131-160613-CS.jpg",
      "published": "2026-08-02T15:11:30+00:00",
      "ts": 1785683490000,
-     "count": 1
-    },
-    {
-     "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-     "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
-     "published": "2026-08-02T15:02:56+00:00",
-     "ts": 1785682976000,
      "count": 1
     },
     {
@@ -1596,15 +1614,6 @@
      "image": "https://i.guim.co.uk/img/media/4bc10d92ee5f8365eb68e10fd5612beb021b9182/695_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=df2de16dd3b291d3ea947a234f77e053",
      "published": "2026-08-02T11:31:49+00:00",
      "ts": 1785670309000,
-     "count": 1
-    },
-    {
-     "title": "Trump climbs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-     "link": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/644a3d991ac481989ea97a3977c47e2f3677c714/0_0_3862_3088/master/3862.jpg?width=140&quality=85&auto=format&fit=max&s=da5b0b0fd643f7a0f8f8e7ed21b565dd",
-     "published": "2026-08-02T11:22:04+00:00",
-     "ts": 1785669724000,
      "count": 1
     },
     {
@@ -1795,15 +1804,6 @@
      "published": "2026-07-31T16:00:56+00:00",
      "ts": 1785513656000,
      "count": 1
-    },
-    {
-     "title": "Gaza Strip: Will Hamas really disarm?",
-     "link": "https://www.france24.com/en/video/20260731-gaza-strip-will-hamas-really-disarm",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/25bf04b2-8cf8-11f1-8bb8-005056a90284/w:1024/p:16x9/title-2.png",
-     "published": "2026-07-31T16:00:52+00:00",
-     "ts": 1785513652000,
-     "count": 1
     }
    ]
   },
@@ -1812,7 +1812,16 @@
    "name": "China",
    "items": [
     {
-     "title": "Greece firefighting helicopters collide as battle to contain wildfires continues",
+     "title": "At least 14 dead in suicide bomb attack at anti-militant rally in Pakistan",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3362726/least-14-dead-suicide-bomb-attack-anti-militant-rally-pakistan?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/f57de60c-22e5-4042-8498-7dfffe4aacba_e5e0d136.jpg?itok=KsXgZwqw&v=1785688217",
+     "published": "2026-08-02T16:31:28+00:00",
+     "ts": 1785688288000,
+     "count": 1
+    },
+    {
+     "title": "2 crew members dead, 2 found alive after firefighting helicopters collide in Greece",
      "link": "https://www.scmp.com/news/world/europe/article/3362725/greece-firefighting-helicopters-collide-battle-contain-wildfires-continues?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/afb100d3-e4c4-4509-9e00-cc35e6868a03_ec51e760.jpg?itok=lLkzzMpP&v=1785683761",
@@ -1839,7 +1848,7 @@
      "count": 1
     },
     {
-     "title": "Israeli strikes kill 9 in Gaza, cabinet minister says no deal to stop",
+     "title": "Israel says military will not yet withdraw from Gaza, as strikes kill 9",
      "link": "https://www.scmp.com/news/world/middle-east/article/3362722/israeli-strikes-kill-9-gaza-cabinet-minister-says-no-deal-stop?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/2b0414a4-0e7a-4dc5-91e5-124a13071298_e8d0c3a4.jpg?itok=5a-bhwXy&v=1785679471",
@@ -2052,15 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/2acf609f-91df-48e5-a0d5-fffe2efeb611_e36f3c3d.jpg?itok=KcuTaYic&v=1785665003",
      "published": "2026-08-02T06:06:55+00:00",
      "ts": 1785650815000,
-     "count": 1
-    },
-    {
-     "title": "Will Philippine Sea be the main battlefield for PLA carriers in a Taiwan war?",
-     "link": "https://www.scmp.com/news/china/military/article/3362656/will-philippine-sea-be-main-battlefield-pla-carriers-taiwan-war?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/01/c044ce8e-209a-4ad2-a2d4-c68d73828dda_4cd5eb42.jpg?itok=2U8fSqHn&v=1785596883",
-     "published": "2026-08-02T06:00:21+00:00",
-     "ts": 1785650421000,
      "count": 1
     }
    ]
