@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T21:12:44.521013+00:00",
+ "updated": "2026-08-02T22:13:03.434449+00:00",
  "beats": [
   {
    "id": "musica",
@@ -111,7 +111,7 @@
      "image": "https://media.pitchfork.com/photos/6a6f592a7df2a931718f063b/master/pass/MixCollage-02-Aug-2026-10-50-AM-6963.jpg",
      "published": "2026-08-02T15:25:13+00:00",
      "ts": 1785684313000,
-     "count": 2
+     "count": 3
     },
     {
      "title": "Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays",
@@ -156,6 +156,15 @@
      "image": "https://consequence.net/wp-content/uploads/2024/01/Barbie.jpeg?quality=80",
      "published": "2026-08-02T13:22:33+00:00",
      "ts": 1785676953000,
+     "count": 1
+    },
+    {
+     "title": "Rush’s 4-show Madison Square Garden run is underway (night 2 pics, video, setlist)",
+     "link": "https://www.brooklynvegan.com/rushs-4-show-madison-square-garden-run-is-underway-night-2-pics-video-setlist/",
+     "source": "BrooklynVegan",
+     "image": "https://media.brooklynvegan.com/xxrzsfjkyw/uploads/2026/07/31/rush-msg-27.jpg",
+     "published": "2026-08-01T22:35:16+00:00",
+     "ts": 1785623716000,
      "count": 1
     },
     {
@@ -246,15 +255,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/08/Jim-Root-Instagram-Story.jpg?quality=80",
      "published": "2026-08-01T13:35:18+00:00",
      "ts": 1785591318000,
-     "count": 1
-    },
-    {
-     "title": "Behind the Silhouette: Ado’s Journey to Lollapalooza",
-     "link": "https://consequence.net/2026/07/ado-journey-to-lollapalooza/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/07/Ado.jpeg?quality=80",
-     "published": "2026-07-31T20:45:56+00:00",
-     "ts": 1785530756000,
      "count": 1
     }
    ]
@@ -522,21 +522,30 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+     "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-02T21:53:15+00:00",
+     "ts": 1785707595000,
+     "count": 1
+    },
+    {
+     "title": "The global memory shortage hits the MacBook Air",
+     "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-08-02T21:33:59+00:00",
+     "ts": 1785706439000,
+     "count": 1
+    },
+    {
      "title": "Sam Altman and AI’s decel debate",
      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
      "source": "TechCrunch",
      "image": "",
      "published": "2026-08-02T20:54:22+00:00",
      "ts": 1785704062000,
-     "count": 1
-    },
-    {
-     "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-     "link": "https://github.com/0xchasercat/draco/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T20:48:45+00:00",
-     "ts": 1785703725000,
      "count": 1
     },
     {
@@ -549,12 +558,21 @@
      "count": 1
     },
     {
-     "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
-     "link": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
+     "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+     "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-02T20:36:21+00:00",
-     "ts": 1785702981000,
+     "published": "2026-08-02T20:44:24+00:00",
+     "ts": 1785703464000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Make your Framework 12 sound like a creaky door",
+     "link": "https://github.com/ArcaEge/creakwork12",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T20:33:01+00:00",
+     "ts": 1785702781000,
      "count": 1
     },
     {
@@ -567,12 +585,39 @@
      "count": 1
     },
     {
-     "title": "Let the Machines In",
+     "title": "Let the machines in",
      "link": "https://blog.semenzin.com/let-the-machines-in/",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-02T20:17:16+00:00",
      "ts": 1785701836000,
+     "count": 1
+    },
+    {
+     "title": "Adding Go's Defer to the TypeScript Compiler",
+     "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T20:12:39+00:00",
+     "ts": 1785701559000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+     "link": "https://github.com/paoloanzn/microcodex",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T20:11:35+00:00",
+     "ts": 1785701495000,
+     "count": 1
+    },
+    {
+     "title": "TinyNES Review – A Super Niche NES Console",
+     "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-02T20:01:37+00:00",
+     "ts": 1785700897000,
      "count": 1
     },
     {
@@ -594,24 +639,6 @@
      "count": 1
     },
     {
-     "title": "EU rules on AI models become enforceable. What's going to change?",
-     "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T19:40:19+00:00",
-     "ts": 1785699619000,
-     "count": 1
-    },
-    {
-     "title": "German carmakers flood jobs market with managers after wielding axe",
-     "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T19:24:18+00:00",
-     "ts": 1785698658000,
-     "count": 1
-    },
-    {
      "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
      "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
      "source": "Hacker News: Front Page",
@@ -627,15 +654,6 @@
      "image": "",
      "published": "2026-08-02T19:19:24+00:00",
      "ts": 1785698364000,
-     "count": 1
-    },
-    {
-     "title": "Effective HTML",
-     "link": "https://www.effectivehtml.com/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T18:53:49+00:00",
-     "ts": 1785696829000,
      "count": 1
     },
     {
@@ -754,24 +772,6 @@
      "published": "2026-08-02T12:31:16+00:00",
      "ts": 1785673876000,
      "count": 1
-    },
-    {
-     "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-     "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-02T12:01:00+00:00",
-     "ts": 1785672060000,
-     "count": 1
-    },
-    {
-     "title": "Pixel 11 specs and price leak with no surprises",
-     "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-01T21:31:24+00:00",
-     "ts": 1785619884000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,51 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "Australia news live: Chalmers asks regulator to watch service stations ‘like a hawk’ as fuel excise cut ends",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/68e48dbf6ff4a029f52fa286a4d9e3ec44e6cfb8/619_0_6188_4950/master/6188.jpg?width=140&quality=85&auto=format&fit=max&s=598b994229d7c5d32d9e89af609bff39",
+     "published": "2026-08-02T22:01:53+00:00",
+     "ts": 1785708113000,
+     "count": 1
+    },
+    {
+     "title": "Wildfires force mass evacuations across the Pacific Northwest",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T21:47:18+00:00",
+     "ts": 1785707238000,
+     "count": 1
+    },
+    {
+     "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T21:18:03+00:00",
+     "ts": 1785705483000,
+     "count": 1
+    },
+    {
+     "title": "Rupert Lowe urges Nigel Farage to work with Restore Britain",
+     "link": "https://www.theguardian.com/politics/2026/aug/02/rupert-lowe-urges-nigel-farage-to-work-with-restore-britain",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f3fe7e061d975a8bb357fa2ed86377c1ec865c69/1105_7_2767_2213/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=aa73c8c827e69eea823ba74563bbe4d4",
+     "published": "2026-08-02T21:05:52+00:00",
+     "ts": 1785704752000,
+     "count": 1
+    },
+    {
+     "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-02T20:45:01+00:00",
+     "ts": 1785703501000,
+     "count": 1
+    },
     {
      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
      "link": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
@@ -897,7 +942,7 @@
      "count": 1
     },
     {
-     "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+     "title": "Russian and Ukrainian strikes kill 14 on both sides",
      "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -985,51 +1030,6 @@
      "published": "2026-08-02T17:21:18+00:00",
      "ts": 1785691278000,
      "count": 1
-    },
-    {
-     "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
-     "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T17:15:56+00:00",
-     "ts": 1785690956000,
-     "count": 1
-    },
-    {
-     "title": "Ukraine hits targets deep inside Russia, killing eight",
-     "link": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-02T17:15:00+00:00",
-     "ts": 1785690900000,
-     "count": 1
-    },
-    {
-     "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T17:06:30+00:00",
-     "ts": 1785690390000,
-     "count": 1
-    },
-    {
-     "title": "Deadly floods and landslide hit India’s Kerala",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-02T16:55:39+00:00",
-     "ts": 1785689739000,
-     "count": 1
-    },
-    {
-     "title": "Britain could face food shortages as drought continues, farmers warn",
-     "link": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/264f6a189017278348b832a55d6ac2782e8a91cf/807_0_4607_3686/master/4607.jpg?width=140&quality=85&auto=format&fit=max&s=428eb6cdeed7fb59d20919c9f75fddaf",
-     "published": "2026-08-02T16:54:07+00:00",
-     "ts": 1785689647000,
-     "count": 1
     }
    ]
   },
@@ -1038,12 +1038,48 @@
    "name": "Panamá · LatAm",
    "items": [
     {
-     "title": "Atención: se reporta atentado sicarial contra el diputado del Valle, Yesid Sandoval",
+     "title": "Ariana Grande se baja de un musical para tomarse un descanso del escrutinio \"constante\" al que se siente sometida",
+     "link": "https://www.bbc.com/mundo/articles/c3v0z6pw4x7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20eb/live/f8bc6960-8eb8-11f1-a782-577ce30c5eae.jpg",
+     "published": "2026-08-02T22:06:37+00:00",
+     "ts": 1785708397000,
+     "count": 1
+    },
+    {
+     "title": "Vozinha toma vuelo rumbo a Chile, anuncia Colo Colo",
+     "link": "https://www.prensa.com/deportes/vozinha-toma-vuelo-rumbo-a-chile-anuncia-colo-colo/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/44E66JWGVNFYXMKQS6UTI4XHW4.jpg?auth=63875906032af097d0b0b1f8a8540a0f664feb3f08836647f9e7d636e34164fa&smart=true&width=1920&height=1280",
+     "published": "2026-08-02T21:46:35+00:00",
+     "ts": 1785707195000,
+     "count": 1
+    },
+    {
+     "title": "La nueva fórmula de Trump para rentabilizar la presidencia: Truth Social ofrecerá antes sus mensajes por 100.000 dólares al mes",
+     "link": "https://elpais.com/us/2026-08-02/la-nueva-formula-de-trump-para-rentabilizar-la-presidencia-truth-social-ofrecera-antes-sus-mensajes-por-100000-dolares-al-mes.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/YTOWMIDXS5MCFNEJELPPN7MBXY.jpg?auth=9e9afd2c08525e4fdfd3290aa45ad2d0297da994f01ddc8e26098a4004000965",
+     "published": "2026-08-02T21:44:52+00:00",
+     "ts": 1785707092000,
+     "count": 1
+    },
+    {
+     "title": "Atención: se reporta atentado sicarial contra el diputado del Valle Yesid Sandoval, miembro del Pacto Histórico",
      "link": "https://www.eltiempo.com/colombia/atencion-se-reporta-atentado-sicarial-contra-el-diputado-del-valle-yesid-sandoval-3575624",
      "source": "EL TIEMPO.COM -Colombia",
      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/02/6a6fad6d3987d.jpeg",
-     "published": "2026-08-02T20:55:57+00:00",
-     "ts": 1785704157000,
+     "published": "2026-08-02T21:01:29+00:00",
+     "ts": 1785704489000,
+     "count": 1
+    },
+    {
+     "title": "Aeropuerto Ernesto Cortissoz quedó por fuera del Conpes 4205 pese a estar en riesgo crítico; Atlántico exige plan urgente para modernizarlo ya",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-quedo-por-fuera-del-conpes-4205-pese-a-estar-en-riesgo-critico-atlantico-exige-plan-urgente-para-modernizarlo-ya-3575587",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/01/17/696bda06e2faf.r_d.600-267-0.png",
+     "published": "2026-08-02T21:01:00+00:00",
+     "ts": 1785704460000,
      "count": 1
     },
     {
@@ -1218,6 +1254,15 @@
      "count": 1
     },
     {
+     "title": "Negociación del TMEC: reajuste estratégico",
+     "link": "https://elpais.com/mexico/opinion/2026-08-02/negociacion-del-tmec-reajuste-estrategico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/T26BEFDQTFNWVKMNMNJBQDEPME.jpg?auth=767f999574f0964b24f0b5ff7c11b0815b95241a3c77056c945042521a33aece",
+     "published": "2026-08-02T18:39:59+00:00",
+     "ts": 1785695999000,
+     "count": 1
+    },
+    {
      "title": "El Niño dibuja tres escenarios para el agro panameño",
      "link": "https://www.prensa.com/economia/el-nino-dibuja-tres-escenarios-para-el-agro-panameno/",
      "source": "La Prensa",
@@ -1243,51 +1288,6 @@
      "published": "2026-08-02T18:12:17+00:00",
      "ts": 1785694337000,
      "count": 1
-    },
-    {
-     "title": "Atentado suicida durante una manifestación en Pakistán",
-     "link": "https://www.dw.com/es/atentado-suicida-durante-una-manifestación-en-pakistán/a-78209306?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-02T18:11:00+00:00",
-     "ts": 1785694260000,
-     "count": 1
-    },
-    {
-     "title": "Cómo la crisis migratoria en Ceuta desató una tormenta política, avivada por las redes sociales",
-     "link": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-     "published": "2026-08-02T18:10:52+00:00",
-     "ts": 1785694252000,
-     "count": 1
-    },
-    {
-     "title": "A partir de hoy, el aeropuerto Camilo Daza de Cúcuta suspende el ingreso de acompañantes tras atentado con carro bomba",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/a-partir-de-hoy-el-aeropuerto-camilo-daza-de-cucuta-suspende-el-ingreso-de-acompanantes-tras-atentado-con-carro-bomba-3575600",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/01/6a6e80a451edc.jpeg",
-     "published": "2026-08-02T18:10:28+00:00",
-     "ts": 1785694228000,
-     "count": 1
-    },
-    {
-     "title": "José Fajardo anota tres goles y la Católica se consolida como segunda en Ecuador",
-     "link": "https://www.prensa.com/deportes/jose-fajardo-anota-tres-goles-y-la-catolica-se-consolida-como-segunda-en-ecuador/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/AYISGZIZ6VA7TIROTSFMSEEUVQ.jpeg?auth=430f35af8d1a7a00a7d66ac9d084d342b7da3eff6ba534b7fbb0550a41aa1cef&smart=true&width=2728&height=2714",
-     "published": "2026-08-02T18:10:07+00:00",
-     "ts": 1785694207000,
-     "count": 1
-    },
-    {
-     "title": "Banco Nacional reporta utilidades por $248.7 millones y presenta su Informe de Sostenibilidad 2025",
-     "link": "https://www.prensa.com/economia/banco-nacional-reporta-utilidades-por-2487-millones-y-presenta-su-informe-de-sostenibilidad-2025/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/FIW5XPNO5BC4PMFZDVTC7V2OFA.jpeg?auth=e28e649f9f65d11da4394bea61c6ed986e232ae7788d834ad07a9c3eb93d7069&smart=true&width=1280&height=720",
-     "published": "2026-08-02T18:03:18+00:00",
-     "ts": 1785693798000,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,15 @@
    "id": "desastres",
    "name": "Desastres Naturales",
    "items": [
+    {
+     "title": "M 3.5 - 85 km ENE of Chignik, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfcuob",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-02T22:08:00.413000+00:00",
+     "ts": 1785708480413,
+     "count": 2
+    },
     {
      "title": "M 4.5 - 7 km SSW of Yumare, Venezuela",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
@@ -1321,6 +1330,24 @@
      "published": "2026-08-02T20:05:04.623000+00:00",
      "ts": 1785701104623,
      "count": 1
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029952",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-02T20:01:33+00:00",
+     "ts": 1785700893000,
+     "count": 25
+    },
+    {
+     "title": "Green forest fire notification in Australia",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029968",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-02T20:00:38+00:00",
+     "ts": 1785700838000,
+     "count": 209
     },
     {
      "title": "M 4.3 - 229 km ESE of Attu Station, Alaska",
@@ -1350,6 +1377,24 @@
      "count": 1
     },
     {
+     "title": "Green forest fire notification in Russian Federation",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030034",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-02T19:06:41+00:00",
+     "ts": 1785697601000,
+     "count": 23
+    },
+    {
+     "title": "Green forest fire notification in South Africa",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030037",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-02T19:02:41+00:00",
+     "ts": 1785697361000,
+     "count": 1
+    },
+    {
      "title": "M 5.0 - 16 km NW of Changning, China",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1365,15 +1410,6 @@
      "image": "",
      "published": "2026-08-02T18:21:18.534000+00:00",
      "ts": 1785694878534,
-     "count": 1
-    },
-    {
-     "title": "M 3.6 - 15 km NNW of Chignik Lagoon, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pecwkt",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T17:21:48.979000+00:00",
-     "ts": 1785691308979,
      "count": 1
     },
     {
@@ -1510,42 +1546,6 @@
      "published": "2026-08-02T11:01:29.070000+00:00",
      "ts": 1785668489070,
      "count": 1
-    },
-    {
-     "title": "M 5.3 - 265 km S of ‘Ohonua, Tonga",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T10:53:14.040000+00:00",
-     "ts": 1785667994040,
-     "count": 1
-    },
-    {
-     "title": "M 4.6 - 73 km W of San Antonio de los Cobres, Argentina",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T09:24:08.040000+00:00",
-     "ts": 1785662648040,
-     "count": 1
-    },
-    {
-     "title": "M 4.9 - 149 km S of Severo-Kuril’sk, Russia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T08:38:02.040000+00:00",
-     "ts": 1785659882040,
-     "count": 2
-    },
-    {
-     "title": "M 4.9 - 36 km SSW of Mendi, Papua New Guinea",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-02T05:53:06.040000+00:00",
-     "ts": 1785649986040,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,15 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "Live: Trump says new talks with Iran to begin Monday after calling off strikes",
+     "link": "https://www.france24.com/en/middle-east/20260802-live-trump-says-new-talks-with-iran-to-begin-monday-after-calling-off-strikes",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/7a377b2e-8e28-11f1-9022-005056a97e36/w:1024/p:16x9/90a7b0d53a6e2097ee082365bf579abb295bbae0.jpg",
+     "published": "2026-08-02T22:11:19+00:00",
+     "ts": 1785708679000,
+     "count": 1
+    },
     {
      "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
      "link": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
@@ -1795,15 +1804,6 @@
      "published": "2026-07-31T16:05:38+00:00",
      "ts": 1785513938000,
      "count": 1
-    },
-    {
-     "title": "What's in the Gaza peace deal roadmap?",
-     "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cd/live/e63e0bc0-8cf8-11f1-adaf-fb8940306590.jpg",
-     "published": "2026-07-31T16:00:56+00:00",
-     "ts": 1785513656000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,24 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "China’s military goal is to stand neck and neck with the US: ex-PLA colonel Zhou Bo",
+     "link": "https://www.scmp.com/news/china/military/article/3362704/chinas-military-goal-stand-neck-and-neck-us-ex-pla-colonel-zhou-bo?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/bb0ff31b-91a9-4704-8dca-d9f7235e5bda_b7ad565c.jpg?itok=txcgKgxr&v=1785662491",
+     "published": "2026-08-02T22:00:11+00:00",
+     "ts": 1785708011000,
+     "count": 1
+    },
+    {
+     "title": "Legco-executive dialogue must deliver more than novelty for Hong Kong",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362534/legco-executive-dialogue-must-deliver-more-novelty-hong-kong?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/31/8a7ad969-ca20-4049-8e91-bed0c7e4c75e_3ccb61f4.jpg?itok=aoIdbXeC&v=1785496959",
+     "published": "2026-08-02T21:30:05+00:00",
+     "ts": 1785706205000,
+     "count": 1
+    },
     {
      "title": "Jailed ex-leader Maduro welcomes ‘any path to dialogue’ in Venezuela ahead of US talks",
      "link": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
@@ -2043,24 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/f93d1665-2c43-4f1c-a210-2c99393bd2e9_59f23a1b.jpg?itok=yT66QVKF&v=1785638749",
      "published": "2026-08-02T08:00:15+00:00",
      "ts": 1785657615000,
-     "count": 1
-    },
-    {
-     "title": "3 more suspects arrested over murder of businessman in Hong Kong bar fight",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362699/3-more-suspects-arrested-over-murder-businessman-hong-kong-bar-fight?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/610e1176-d6e1-4f35-b4b6-ddcda77e7664_22550769.jpg?itok=_c_z3jhQ&v=1785662286",
-     "published": "2026-08-02T07:47:40+00:00",
-     "ts": 1785656860000,
-     "count": 1
-    },
-    {
-     "title": "Ukraine strikes kill 9 in Russia, Moscow says, another Wildberries warehouse hit",
-     "link": "https://www.scmp.com/news/world/europe/article/3362698/ukrainian-drone-strikes-kill-2-russia-hit-another-wildberries-warehouse?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/fefeff88-3c17-442f-826b-086e99266311_a4041c6e.jpg?itok=5xTmI3kq&v=1785673450",
-     "published": "2026-08-02T07:42:05+00:00",
-     "ts": 1785656525000,
      "count": 1
     }
    ]
