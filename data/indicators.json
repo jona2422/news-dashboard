@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T08:44:07.299636+00:00",
+ "updated": "2026-08-03T12:38:05.646411+00:00",
  "series": [
   {
    "indicator": "FP.CPI.TOTL.ZG",
@@ -138,6 +138,72 @@
      ]
     },
     {
+     "code": "CHN",
+     "name": "China",
+     "points": [
+      {
+       "year": 2010,
+       "value": 3.18
+      },
+      {
+       "year": 2011,
+       "value": 5.55
+      },
+      {
+       "year": 2012,
+       "value": 2.62
+      },
+      {
+       "year": 2013,
+       "value": 2.62
+      },
+      {
+       "year": 2014,
+       "value": 1.92
+      },
+      {
+       "year": 2015,
+       "value": 1.44
+      },
+      {
+       "year": 2016,
+       "value": 2.0
+      },
+      {
+       "year": 2017,
+       "value": 1.59
+      },
+      {
+       "year": 2018,
+       "value": 2.07
+      },
+      {
+       "year": 2019,
+       "value": 2.9
+      },
+      {
+       "year": 2020,
+       "value": 2.42
+      },
+      {
+       "year": 2021,
+       "value": 0.98
+      },
+      {
+       "year": 2022,
+       "value": 1.97
+      },
+      {
+       "year": 2023,
+       "value": 0.23
+      },
+      {
+       "year": 2024,
+       "value": 0.22
+      }
+     ]
+    },
+    {
      "code": "PAN",
      "name": "Panamá",
      "points": [
@@ -209,72 +275,6 @@
    "indicator": "NY.GDP.MKTP.KD.ZG",
    "label": "Crecimiento PIB (%)",
    "countries": [
-    {
-     "code": "WLD",
-     "name": "Mundo",
-     "points": [
-      {
-       "year": 2010,
-       "value": 4.52
-      },
-      {
-       "year": 2011,
-       "value": 3.31
-      },
-      {
-       "year": 2012,
-       "value": 2.75
-      },
-      {
-       "year": 2013,
-       "value": 2.89
-      },
-      {
-       "year": 2014,
-       "value": 3.17
-      },
-      {
-       "year": 2015,
-       "value": 3.13
-      },
-      {
-       "year": 2016,
-       "value": 2.79
-      },
-      {
-       "year": 2017,
-       "value": 3.45
-      },
-      {
-       "year": 2018,
-       "value": 3.29
-      },
-      {
-       "year": 2019,
-       "value": 2.68
-      },
-      {
-       "year": 2020,
-       "value": -2.89
-      },
-      {
-       "year": 2021,
-       "value": 6.49
-      },
-      {
-       "year": 2022,
-       "value": 3.44
-      },
-      {
-       "year": 2023,
-       "value": 2.86
-      },
-      {
-       "year": 2024,
-       "value": 2.9
-      }
-     ]
-    },
     {
      "code": "USA",
      "name": "EE.UU.",
@@ -404,6 +404,72 @@
       {
        "year": 2024,
        "value": 4.96
+      }
+     ]
+    },
+    {
+     "code": "PAN",
+     "name": "Panamá",
+     "points": [
+      {
+       "year": 2010,
+       "value": 6.07
+      },
+      {
+       "year": 2011,
+       "value": 11.91
+      },
+      {
+       "year": 2012,
+       "value": 9.63
+      },
+      {
+       "year": 2013,
+       "value": 6.32
+      },
+      {
+       "year": 2014,
+       "value": 4.63
+      },
+      {
+       "year": 2015,
+       "value": 5.27
+      },
+      {
+       "year": 2016,
+       "value": 4.57
+      },
+      {
+       "year": 2017,
+       "value": 5.74
+      },
+      {
+       "year": 2018,
+       "value": 3.92
+      },
+      {
+       "year": 2019,
+       "value": 3.1
+      },
+      {
+       "year": 2020,
+       "value": -17.82
+      },
+      {
+       "year": 2021,
+       "value": 16.47
+      },
+      {
+       "year": 2022,
+       "value": 11.04
+      },
+      {
+       "year": 2023,
+       "value": 7.17
+      },
+      {
+       "year": 2024,
+       "value": 2.75
       }
      ]
     }
