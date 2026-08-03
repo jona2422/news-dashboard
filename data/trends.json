@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T15:56:37.139100+00:00",
+ "updated": "2026-08-03T18:11:16.968650+00:00",
  "terms": [
   {
    "term": "trump",
@@ -7,22 +7,30 @@
   },
   {
    "term": "iran",
-   "count": 15
+   "count": 18
   },
   {
-   "term": "china",
+   "term": "deal",
    "count": 10
+  },
+  {
+   "term": "crisis",
+   "count": 9
+  },
+  {
+   "term": "ceuta",
+   "count": 8
   },
   {
    "term": "talks",
    "count": 8
   },
   {
-   "term": "fire",
+   "term": "hong",
    "count": 7
   },
   {
-   "term": "israel",
+   "term": "kong",
    "count": 7
   },
   {
@@ -30,11 +38,23 @@
    "count": 7
   },
   {
-   "term": "deal",
+   "term": "china",
+   "count": 7
+  },
+  {
+   "term": "tour",
    "count": 6
   },
   {
-   "term": "forest",
+   "term": "2026",
+   "count": 6
+  },
+  {
+   "term": "years",
+   "count": 6
+  },
+  {
+   "term": "time",
    "count": 6
   },
   {
@@ -42,31 +62,19 @@
    "count": 6
   },
   {
-   "term": "hong",
+   "term": "fire",
    "count": 6
   },
   {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "public",
+   "term": "lollapalooza",
    "count": 5
   },
   {
-   "term": "years",
+   "term": "record",
    "count": 5
   },
   {
-   "term": "russia",
-   "count": 5
-  },
-  {
-   "term": "crisis",
-   "count": 5
-  },
-  {
-   "term": "gaza",
+   "term": "forest",
    "count": 5
   },
   {
@@ -74,11 +82,11 @@
    "count": 5
   },
   {
-   "term": "2026",
-   "count": 4
+   "term": "israel",
+   "count": 5
   },
   {
-   "term": "record",
+   "term": "summer",
    "count": 4
   },
   {
@@ -86,40 +94,32 @@
    "count": 4
   },
   {
-   "term": "politics",
+   "term": "power",
    "count": 4
   },
   {
-   "term": "summer",
+   "term": "general",
    "count": 4
   },
   {
-   "term": "denies",
+   "term": "blanche",
    "count": 4
   },
   {
-   "term": "ceuta",
+   "term": "middle",
    "count": 4
   },
   {
-   "term": "violence",
+   "term": "east",
    "count": 4
   },
   {
-   "term": "south",
-   "count": 4
-  },
-  {
-   "term": "cali",
+   "term": "surrender",
    "count": 4
   },
   {
    "term": "israeli",
    "count": 4
-  },
-  {
-   "term": "sample",
-   "count": 3
   }
  ],
  "entities": [
@@ -129,11 +129,11 @@
   },
   {
    "name": "Iran",
-   "count": 15
+   "count": 18
   },
   {
-   "name": "China",
-   "count": 8
+   "name": "Ceuta",
+   "count": 7
   },
   {
    "name": "Green",
@@ -144,47 +144,63 @@
    "count": 6
   },
   {
-   "name": "Russia",
+   "name": "China",
+   "count": 6
+  },
+  {
+   "name": "Lollapalooza",
    "count": 5
-  },
-  {
-   "name": "Israel",
-   "count": 5
-  },
-  {
-   "name": "Gaza",
-   "count": 5
-  },
-  {
-   "name": "Ceuta",
-   "count": 4
-  },
-  {
-   "name": "Cali",
-   "count": 4
-  },
-  {
-   "name": "August",
-   "count": 3
-  },
-  {
-   "name": "Middle East",
-   "count": 3
-  },
-  {
-   "name": "Irán",
-   "count": 3
-  },
-  {
-   "name": "Israeli",
-   "count": 3
-  },
-  {
-   "name": "Singapore",
-   "count": 2
   },
   {
    "name": "Years",
+   "count": 4
+  },
+  {
+   "name": "Middle East",
+   "count": 4
+  },
+  {
+   "name": "Israeli",
+   "count": 4
+  },
+  {
+   "name": "Israel",
+   "count": 4
+  },
+  {
+   "name": "Europe",
+   "count": 3
+  },
+  {
+   "name": "Russia",
+   "count": 3
+  },
+  {
+   "name": "Senate",
+   "count": 3
+  },
+  {
+   "name": "Todd Blanche",
+   "count": 3
+  },
+  {
+   "name": "Oman",
+   "count": 3
+  },
+  {
+   "name": "Alaska",
+   "count": 3
+  },
+  {
+   "name": "Gaza",
+   "count": 3
+  },
+  {
+   "name": "ScHoolboy",
+   "count": 2
+  },
+  {
+   "name": "Seal",
    "count": 2
   },
   {
@@ -196,27 +212,11 @@
    "count": 2
   },
   {
-   "name": "Samsung",
+   "name": "August",
    "count": 2
   },
   {
-   "name": "Farage",
-   "count": 2
-  },
-  {
-   "name": "Holdouts",
-   "count": 2
-  },
-  {
-   "name": "Senate",
-   "count": 2
-  },
-  {
-   "name": "Australia",
-   "count": 2
-  },
-  {
-   "name": "AstraZeneca",
+   "name": "Show HN",
    "count": 2
   }
  ]
