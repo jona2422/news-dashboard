@@ -1,10 +1,76 @@
 {
- "updated": "2026-08-04T23:29:23.915357+00:00",
+ "updated": "2026-08-05T03:38:03.759843+00:00",
  "series": [
   {
    "indicator": "FP.CPI.TOTL.ZG",
    "label": "Inflación anual (%)",
    "countries": [
+    {
+     "code": "WLD",
+     "name": "Mundo",
+     "points": [
+      {
+       "year": 2010,
+       "value": 3.33
+      },
+      {
+       "year": 2011,
+       "value": 4.8
+      },
+      {
+       "year": 2012,
+       "value": 3.73
+      },
+      {
+       "year": 2013,
+       "value": 2.65
+      },
+      {
+       "year": 2014,
+       "value": 2.39
+      },
+      {
+       "year": 2015,
+       "value": 1.44
+      },
+      {
+       "year": 2016,
+       "value": 1.6
+      },
+      {
+       "year": 2017,
+       "value": 2.22
+      },
+      {
+       "year": 2018,
+       "value": 2.44
+      },
+      {
+       "year": 2019,
+       "value": 2.21
+      },
+      {
+       "year": 2020,
+       "value": 1.91
+      },
+      {
+       "year": 2021,
+       "value": 3.48
+      },
+      {
+       "year": 2022,
+       "value": 8.08
+      },
+      {
+       "year": 2023,
+       "value": 5.8
+      },
+      {
+       "year": 2024,
+       "value": 3.01
+      }
+     ]
+    },
     {
      "code": "USA",
      "name": "EE.UU.",
@@ -68,6 +134,72 @@
       {
        "year": 2024,
        "value": 2.95
+      }
+     ]
+    },
+    {
+     "code": "CHN",
+     "name": "China",
+     "points": [
+      {
+       "year": 2010,
+       "value": 3.18
+      },
+      {
+       "year": 2011,
+       "value": 5.55
+      },
+      {
+       "year": 2012,
+       "value": 2.62
+      },
+      {
+       "year": 2013,
+       "value": 2.62
+      },
+      {
+       "year": 2014,
+       "value": 1.92
+      },
+      {
+       "year": 2015,
+       "value": 1.44
+      },
+      {
+       "year": 2016,
+       "value": 2.0
+      },
+      {
+       "year": 2017,
+       "value": 1.59
+      },
+      {
+       "year": 2018,
+       "value": 2.07
+      },
+      {
+       "year": 2019,
+       "value": 2.9
+      },
+      {
+       "year": 2020,
+       "value": 2.42
+      },
+      {
+       "year": 2021,
+       "value": 0.98
+      },
+      {
+       "year": 2022,
+       "value": 1.97
+      },
+      {
+       "year": 2023,
+       "value": 0.23
+      },
+      {
+       "year": 2024,
+       "value": 0.22
       }
      ]
     },
@@ -143,6 +275,72 @@
    "indicator": "NY.GDP.MKTP.KD.ZG",
    "label": "Crecimiento PIB (%)",
    "countries": [
+    {
+     "code": "WLD",
+     "name": "Mundo",
+     "points": [
+      {
+       "year": 2010,
+       "value": 4.52
+      },
+      {
+       "year": 2011,
+       "value": 3.31
+      },
+      {
+       "year": 2012,
+       "value": 2.75
+      },
+      {
+       "year": 2013,
+       "value": 2.89
+      },
+      {
+       "year": 2014,
+       "value": 3.17
+      },
+      {
+       "year": 2015,
+       "value": 3.13
+      },
+      {
+       "year": 2016,
+       "value": 2.79
+      },
+      {
+       "year": 2017,
+       "value": 3.45
+      },
+      {
+       "year": 2018,
+       "value": 3.29
+      },
+      {
+       "year": 2019,
+       "value": 2.68
+      },
+      {
+       "year": 2020,
+       "value": -2.89
+      },
+      {
+       "year": 2021,
+       "value": 6.49
+      },
+      {
+       "year": 2022,
+       "value": 3.44
+      },
+      {
+       "year": 2023,
+       "value": 2.86
+      },
+      {
+       "year": 2024,
+       "value": 2.9
+      }
+     ]
+    },
     {
      "code": "USA",
      "name": "EE.UU.",
