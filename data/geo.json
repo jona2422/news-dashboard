@@ -1,113 +1,50 @@
 {
- "updated": "2026-08-05T03:37:41.710326+00:00",
- "total": 99,
+ "updated": "2026-08-05T06:45:09.313699+00:00",
+ "total": 106,
  "countries": [
-  {
-   "name": "United States",
-   "es": "Estados Unidos",
-   "lat": 39.8,
-   "lon": -98.6,
-   "count": 22,
-   "items": [
-    {
-     "title": "US revokes visa of Brazil’s ambassador to Washington in escalating row",
-     "link": "https://www.scmp.com/news/world/americas/article/3362990/us-revokes-visa-brazils-ambassador-washington-escalating-row?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/8cba6f10-1fd5-4392-8b02-f7123169dbf9_cc4139f7.jpg?itok=KOsW6ZKN&v=1785898157",
-     "ts": 1785898164000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Arrestan a hombre armado en campo de golf de Trump en EE.UU.",
-     "link": "https://www.dw.com/es/arrestan-a-hombre-armado-en-campo-de-golf-de-trump-en-ee-uu/a-78238726?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785897480000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
-     "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785895746000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Man with gun in car arrested at Trump golf course before US president’s visit",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3362989/man-gun-car-arrested-trump-golf-course-us-presidents-visit?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/59b36610-441f-43b8-878b-bafb518d455c_05056809.jpg?itok=pBKkih-1&v=1785895344",
-     "ts": 1785895347000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Singapore’s Lee Kuan Yew’s fountain pen valued at US$23,000-US$39,000 up for auction",
-     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3362963/singapores-lee-kuan-yews-fountain-pen-valued-us23000-us39000-auction?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/afcb47ed-eb5e-4529-a57c-bb263151a0e1_3cb93819.jpg?itok=P1hs8dQz&v=1785848177",
-     "ts": 1785895265000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
-     "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/261cc5d09071f07757bc324bf14ad434f575ede5/186_0_3728_2982/master/3728.jpg?width=140&quality=85&auto=format&fit=max&s=924f830b0155736a84b6e5200e6e1b6c",
-     "ts": 1785894067000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states",
-     "link": "https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7b3d68270e2adc17e06223fbabc96d0aa780f336/132_0_4790_3832/master/4790.jpg?width=140&quality=85&auto=format&fit=max&s=71a97f16e39b194e6193abe403c55aa2",
-     "ts": 1785893350000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005f/live/621eea00-9007-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1785890423000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US says Iran Hormuz deal could come 'today or tomorrow' as oil prices plunge",
-     "link": "https://www.france24.com/en/middle-east/20260805-us-says-iran-hormuz-deal-could-come-today-or-tomorrow-as-oil-prices-plunge",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/5088a0ca-8f16-11f1-b50f-005056bf30b7/w:1024/p:16x9/2026-08-03T073412Z-770587991-RC2RQMAX5JLL-RTRMADP-3-IRAN-CRISIS-SHIPPING.jpg",
-     "ts": 1785888578000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
-     "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785886887000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
   {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 17,
+   "count": 18,
    "items": [
+    {
+     "title": "Trump amenaza a Irán si retrocede en las negociaciones",
+     "link": "https://www.dw.com/es/trump-amenaza-a-irán-si-retrocede-en-las-negociaciones/a-78239816?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785908520000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Most Americans say US has not achieved war goals in Iran, survey finds",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3362985/most-americans-say-us-has-not-achieved-war-goals-iran-survey-finds?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/1a2b2bec-f192-41db-a368-862edc83ecdb_f4694643.jpg?itok=t13sIEzf&v=1785892563",
+     "ts": 1785906013000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1518/live/b0431a30-907f-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1785901470000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1518/live/b0431a30-907f-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1785901470000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
     {
      "title": "US says Iran Hormuz deal could come 'today or tomorrow' as oil prices plunge",
      "link": "https://www.france24.com/en/middle-east/20260805-us-says-iran-hormuz-deal-could-come-today-or-tomorrow-as-oil-prices-plunge",
@@ -116,15 +53,6 @@
      "ts": 1785888578000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785888000000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
@@ -170,33 +98,105 @@
      "ts": 1785834554000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "United States",
+   "es": "Estados Unidos",
+   "lat": 39.8,
+   "lon": -98.6,
+   "count": 16,
+   "items": [
+    {
+     "title": "Most Americans say US has not achieved war goals in Iran, survey finds",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3362985/most-americans-say-us-has-not-achieved-war-goals-iran-survey-finds?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/1a2b2bec-f192-41db-a368-862edc83ecdb_f4694643.jpg?itok=t13sIEzf&v=1785892563",
+     "ts": 1785906013000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "US hopeful Hormuz strait deal with Iran will be done 'very shortly'",
-     "link": "https://www.france24.com/en/middle-east/20260804-middle-east-live-cargo-ship-hit-by-unknown-projectile-in-strait-of-hormuz",
+     "title": "Has a US court just set the grounds for another January 6 insurrection?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785904663000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Estados Unidos y Brasil escenifican un duelo diplomático entre gigantes",
+     "link": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DSFAXG7UENF6VGPZPWTSURFT5U.jpg?auth=44769fcf9436986d6882af750625d7708a2d303a8089cdc982a25b4daf5cfe70",
+     "ts": 1785903668000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "US revokes visa of Brazil’s ambassador to Washington in escalating row",
+     "link": "https://www.scmp.com/news/world/americas/article/3362990/us-revokes-visa-brazils-ambassador-washington-escalating-row?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/8cba6f10-1fd5-4392-8b02-f7123169dbf9_cc4139f7.jpg?itok=KOsW6ZKN&v=1785898157",
+     "ts": 1785898164000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Man with gun in car arrested at Trump golf course before US president’s visit",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3362989/man-gun-car-arrested-trump-golf-course-us-presidents-visit?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/59b36610-441f-43b8-878b-bafb518d455c_05056809.jpg?itok=pBKkih-1&v=1785895344",
+     "ts": 1785895347000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Singapore’s Lee Kuan Yew’s fountain pen valued at US$23,000-US$39,000 up for auction",
+     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3362963/singapores-lee-kuan-yews-fountain-pen-valued-us23000-us39000-auction?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/afcb47ed-eb5e-4529-a57c-bb263151a0e1_3cb93819.jpg?itok=P1hs8dQz&v=1785848177",
+     "ts": 1785895265000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "US says Iran Hormuz deal could come 'today or tomorrow' as oil prices plunge",
+     "link": "https://www.france24.com/en/middle-east/20260805-us-says-iran-hormuz-deal-could-come-today-or-tomorrow-as-oil-prices-plunge",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/e46f0168-8abf-11f1-91e2-005056bf30b7/w:1024/p:16x9/2026-07-22T064712Z-30428312-RC2QEMAZJ3CI-RTRMADP-3-IRAN-CRISIS-OIL-REFINERIES.jpg",
-     "ts": 1785813258000,
+     "image": "https://s.france24.com/media/display/5088a0ca-8f16-11f1-b50f-005056bf30b7/w:1024/p:16x9/2026-08-03T073412Z-770587991-RC2RQMAX5JLL-RTRMADP-3-IRAN-CRISIS-SHIPPING.jpg",
+     "ts": 1785888578000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
-     "link": "https://www.france24.com/en/video/20260804-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/f40e3e8a-8f7f-11f1-8ccc-005056a90284/w:1024/p:16x9/2026-08-03T185319Z-684638-RC22RMA599HN-RTRMADP-3-USA-TRUMP.jpg",
-     "ts": 1785806305000,
+     "title": "China’s sovereign bond sale in Hong Kong draws global interest, raising over US$2 billion",
+     "link": "https://www.scmp.com/business/banking-finance/article/3362961/why-chinas-new-sovereign-bond-sale-hong-kong-drawing-global-interest?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/1b689770-65a4-4751-bee8-fb5934bc948e_65023f11.jpg?itok=hQmktvfQ&v=1785845857",
+     "ts": 1785888018000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/72031e496c582f965cb485cc185a39b9a505cfb5/34_0_3251_2601/master/3251.jpg?width=140&quality=85&auto=format&fit=max&s=8bf953cc3d072a984bbce3b2eabcb0b4",
+     "ts": 1785881638000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Trump says new talks are Iran's 'last chance' to make deal before 'decapitation'",
-     "link": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/f40e3e8a-8f7f-11f1-8ccc-005056a90284/w:1024/p:16x9/2026-08-03T185319Z-684638-RC22RMA599HN-RTRMADP-3-USA-TRUMP.jpg",
-     "ts": 1785797853000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+     "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg",
+     "ts": 1785878825000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
     }
    ]
   },
@@ -207,6 +207,42 @@
    "lon": 104.2,
    "count": 8,
    "items": [
+    {
+     "title": "Narrow escape: how ANA flight from Shanghai avoided a collision at Tokyo airport",
+     "link": "https://www.scmp.com/news/china/politics/article/3363017/narrow-escape-how-ana-flight-shanghai-avoided-collision-tokyo-airport?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/cb1d1c0a-67c5-4268-ac10-959193385bb3_d49fe0ff.jpg?itok=cH-_Wggb&v=1785909718",
+     "ts": 1785909829000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong ship crews stranded in Strait of Hormuz ‘safe and offered counselling’",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363016/hong-kong-ship-crews-stranded-strait-hormuz-safe-and-offered-counselling?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/22c7177e-1d27-41c8-8842-315751371af6_fe736175.jpg?itok=knl-juiY&v=1785909580",
+     "ts": 1785909587000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Taiwán inicia ejercicios militares ante creciente presión de China",
+     "link": "https://www.dw.com/es/taiwán-inicia-ejercicios-militares-ante-creciente-presión-de-china/a-78239445?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785904200000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Typhoon signal unlikely in Hong Kong over weekend but at least 22 flights to Japan axed",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363005/typhoon-signal-unlikely-hong-kong-over-weekend-least-18-flights-japan-axed?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/19172303-d252-4c29-813e-2164f962ac2a_5ef0bf6d.jpg?itok=4Bzjoh9S&v=1785903969",
+     "ts": 1785903971000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "34% of Hong Kong students win university, diploma spots under admissions system",
      "link": "https://www.scmp.com/news/hong-kong/education/article/3362970/34-hong-kong-students-win-university-diploma-spots-under-admissions-system?utm_source=rss_feed",
@@ -235,103 +271,130 @@
      "beatName": "China"
     },
     {
-     "title": "Why China’s new sovereign bond sale in Hong Kong is drawing global interest",
+     "title": "China’s sovereign bond sale in Hong Kong draws global interest, raising over US$2 billion",
      "link": "https://www.scmp.com/business/banking-finance/article/3362961/why-chinas-new-sovereign-bond-sale-hong-kong-drawing-global-interest?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/1b689770-65a4-4751-bee8-fb5934bc948e_65023f11.jpg?itok=hQmktvfQ&v=1785845857",
      "ts": 1785888018000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Why China’s military is laser-focused on ‘disruptive’ technologies",
-     "link": "https://www.scmp.com/news/china/military/article/3362909/why-chinas-military-laser-focused-disruptive-technologies?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/a7f37812-448f-427c-a422-cebe56138212_6c36fa66.jpg?itok=DhJAaf3K&v=1785829075",
-     "ts": 1785880817000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Bachelet-led panel urges Latin America not to choose sides in US-China rivalry",
-     "link": "https://www.scmp.com/news/china/article/3362979/bachelet-led-panel-urges-latin-america-not-choose-sides-us-china-rivalry?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/566c1888-118a-424c-9e20-06d70735cfc0_19edefe9.jpg?itok=rVHniY0s&v=1785878890",
-     "ts": 1785869412000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Water dispenser linked to legionnaires’ disease case in private Hong Kong hospital",
-     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362975/water-dispenser-linked-legionnaires-disease-case-private-hong-kong-hospital?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/64625799-e2b5-446e-baf1-a13357dc4f3f_9bb2f935.jpg?itok=deWdjYTb&v=1785862367",
-     "ts": 1785862942000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "VIP, APP, PPT: Are English abbreviations harming China’s cultural confidence?",
-     "link": "https://www.scmp.com/news/china/politics/article/3362958/vip-app-ppt-are-english-abbreviations-harming-chinas-cultural-confidence?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/619544e4-3dca-4464-b9bd-a6ff4028068b_7e0775d3.jpg?itok=38q7sWal&v=1785843372",
-     "ts": 1785855606000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
   {
-   "name": "Israel",
-   "es": "Israel",
-   "lat": 31.0,
-   "lon": 34.9,
-   "count": 5,
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 6,
    "items": [
     {
-     "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
-     "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785899999000,
+     "title": "Russian attack on Kyiv region kills at least 14 people, say Ukrainian authorities",
+     "link": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/af8e876887f2113b76013bb343d402e242adbfd7/0_0_6778_5424/master/6778.jpg?width=140&quality=85&auto=format&fit=max&s=f0ef72a4ad0a6f9edd077c4e21af78c8",
+     "ts": 1785909218000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
-     "link": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
-     "ts": 1785854030000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Russian strikes kill 15 in Kyiv region in expanding long-range war",
+     "link": "https://www.scmp.com/news/world/europe/article/3363015/least-15-killed-russian-strikes-around-kyiv-both-sides-intensify-long-range-attacks?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/073fbee0-57e0-474a-8554-6dc9c414eab5_97de5ff0.jpg?itok=W2mi7qxQ&v=1785908437",
+     "ts": 1785908453000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Jerusalem’s most important Muslim religious site facing ‘imminent’ threat of Israeli takeover, says Jordan",
-     "link": "https://www.theguardian.com/world/2026/aug/04/jordan-convenes-emergency-meeting-israel-religious-conflict-jerusalem",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a6d444e9564511fa1a879b531aaff4271caaea93/326_0_6361_5088/master/6361.jpg?width=140&quality=85&auto=format&fit=max&s=ed15345ee4d40cc4b7922e7168566df3",
-     "ts": 1785849334000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
+     "ts": 1785906523000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Trump's announced breakthrough with Hamas fuels growing discord with Israel",
-     "link": "https://www.france24.com/en/trump-s-announced-breakthrough-with-hamas-fuels-growing-discord-with-israel",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
-     "ts": 1785838463000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "A 30 se elevó el número de panameños que participan en la guerra entre Rusia y Ucrania",
+     "link": "https://www.prensa.com/judiciales/a-30-se-elevo-el-numero-de-panamenos-que-participan-en-la-guerra-entre-rusia-y-ucrania/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/T7UWL6IRW5FMXOQFPDTQTVUSSA.jpg?auth=206e82fc1f6ec3fac0b39d735225afb256733c91204b648db741dc925312e65d&smart=true&width=888&height=605",
+     "ts": 1785906180000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "How Israel reduced Iran’s historic Rafi-Nia synagogue to rubble (1/2)",
-     "link": "https://www.france24.com/en/middle-east/20260804-how-israel-reduced-iran-historic-rafi-nia-synagogue-rubble-1-2",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/cb026994-8fe3-11f1-8644-005056a90284/w:1024/p:16x9/msefn419.png",
-     "ts": 1785834554000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785904680000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 15",
+     "link": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-15/a-78238963?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785902880000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 5,
+   "items": [
+    {
+     "title": "Narrow escape: how ANA flight from Shanghai avoided a collision at Tokyo airport",
+     "link": "https://www.scmp.com/news/china/politics/article/3363017/narrow-escape-how-ana-flight-shanghai-avoided-collision-tokyo-airport?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/cb1d1c0a-67c5-4268-ac10-959193385bb3_d49fe0ff.jpg?itok=cH-_Wggb&v=1785909718",
+     "ts": 1785909829000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Typhoon signal unlikely in Hong Kong over weekend but at least 22 flights to Japan axed",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363005/typhoon-signal-unlikely-hong-kong-over-weekend-least-18-flights-japan-axed?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/19172303-d252-4c29-813e-2164f962ac2a_5ef0bf6d.jpg?itok=4Bzjoh9S&v=1785903969",
+     "ts": 1785903971000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+     "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785901701000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "North Korea vows to teach ‘war criminal state’ Japan lesson over missile test",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3362988/north-korea-vows-teach-war-criminal-state-japan-lesson-over-missile-test?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/58ad7234-16e9-43a4-ace2-aad724b4cbd1_e21630d3.jpg?itok=aATKOa3l&v=1785895091",
+     "ts": 1785897007000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Palais de Tokyo’s Hunt for a Temporary Home Rankles French Art Collective",
+     "link": "https://news.artnet.com/art-world/palais-de-tokyo-renovation-relocation-le-generale-2793713",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1785864167000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -343,11 +406,11 @@
    "count": 5,
    "items": [
     {
-     "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
-     "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
+     "title": "Return of goods to markets in Gaza doesn’t mean people can afford them",
+     "link": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1785899999000,
+     "ts": 1785908773000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -390,48 +453,39 @@
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 3,
-   "items": [
-    {
-     "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg",
-     "ts": 1785898558000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
-     "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785885883000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ukraine slams Russian ‘drone safari’ after video shows vegetable seller being chased down",
-     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3362978/ukraine-slams-russian-drone-safari-after-video-shows-vegetable-seller-being-chased-down?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/191fde8e-8f66-40cc-8870-344afd57e7bc_b2aa9312.jpg?itok=R9aNYcPc&v=1785866472",
-     "ts": 1785866481000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Brazil",
    "es": "Brasil",
    "lat": -14.2,
    "lon": -51.9,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads",
+     "link": "https://www.scmp.com/business/china-evs/article/3362896/byds-first-humanoid-robots-brazil-named-biggest-buyer-chinese-cars-7-ev-reads?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/2938a65f-1cf6-4d7b-8490-e3f5a46b540e_66e9d47b.jpg?itok=53TSEwIi&v=1785826242",
+     "ts": 1785911408000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Estados Unidos y Brasil escenifican un duelo diplomático entre gigantes",
+     "link": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DSFAXG7UENF6VGPZPWTSURFT5U.jpg?auth=44769fcf9436986d6882af750625d7708a2d303a8089cdc982a25b4daf5cfe70",
+     "ts": 1785903668000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "La diversidad de la literatura que se hace en España, invitada de honor en la Bienal del Libro de São Paulo",
+     "link": "https://elpais.com/america/2026-08-05/la-diversidad-de-la-literatura-que-se-hace-en-espana-invitada-de-honor-en-la-bienal-del-libro-de-sao-paulo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DNGH2QOA3FDMVEREEJRGCGVID4.jpg?auth=da5768de40afd3a1ffb65a3e82994fc07f15c5b55f819002f96282a2d085b790",
+     "ts": 1785902400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "US revokes visa of Brazil’s ambassador to Washington in escalating row",
      "link": "https://www.scmp.com/news/world/americas/article/3362990/us-revokes-visa-brazils-ambassador-washington-escalating-row?utm_source=rss_feed",
@@ -440,60 +494,87 @@
      "ts": 1785898164000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
-     "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/261cc5d09071f07757bc324bf14ad434f575ede5/186_0_3728_2982/master/3728.jpg?width=140&quality=85&auto=format&fit=max&s=924f830b0155736a84b6e5200e6e1b6c",
-     "ts": 1785894067000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Brasil retira a su embajador en Argentina en rechazo a los insultos de Milei contra Lula",
-     "link": "https://elpais.com/argentina/2026-08-05/brasil-retira-a-su-embajador-en-argentina-en-rechazo-a-los-insultos-de-milei-contra-lula.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/BQ46GCXMDVDP3JQCE3SB4MIJSQ.jpg?auth=109dd096fce04b5c0c902d63a4bd0f13c164f52428e70b46466d174570ecfe3d",
-     "ts": 1785891206000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
+   "name": "Israel",
+   "es": "Israel",
+   "lat": 31.0,
+   "lon": 34.9,
+   "count": 4,
+   "items": [
+    {
+     "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
+     "link": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
+     "ts": 1785854030000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Jerusalem’s most important Muslim religious site facing ‘imminent’ threat of Israeli takeover, says Jordan",
+     "link": "https://www.theguardian.com/world/2026/aug/04/jordan-convenes-emergency-meeting-israel-religious-conflict-jerusalem",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/a6d444e9564511fa1a879b531aaff4271caaea93/326_0_6361_5088/master/6361.jpg?width=140&quality=85&auto=format&fit=max&s=ed15345ee4d40cc4b7922e7168566df3",
+     "ts": 1785849334000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Trump's announced breakthrough with Hamas fuels growing discord with Israel",
+     "link": "https://www.france24.com/en/trump-s-announced-breakthrough-with-hamas-fuels-growing-discord-with-israel",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
+     "ts": 1785838463000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "How Israel reduced Iran’s historic Rafi-Nia synagogue to rubble (1/2)",
+     "link": "https://www.france24.com/en/middle-east/20260804-how-israel-reduced-iran-historic-rafi-nia-synagogue-rubble-1-2",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/cb026994-8fe3-11f1-8644-005056a90284/w:1024/p:16x9/msefn419.png",
+     "ts": 1785834554000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
    "count": 3,
    "items": [
     {
-     "title": "Panamá vence a Cuba y queda a un paso de disputar el oro en Santo Domingo 2026",
-     "link": "https://www.prensa.com/deportes/panama-vence-a-cuba-y-queda-a-un-paso-de-disputar-el-oro-en-santo-domingo-2026/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LSHYU4VWDVHUBHOH6XMSVBGNRI.jpeg?auth=cc55248351506c5de4cc5b2035a1ff409cabb60e5e6f94460960415082fdb133&smart=true&width=2048&height=1977",
-     "ts": 1785897000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts",
+     "link": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/aaf5189c67e251323127d9b89a7b88172b2852f8/972_297_4713_3773/master/4713.jpg?width=140&quality=85&auto=format&fit=max&s=ab60dadb20cd242b3f534fb120a79f83",
+     "ts": 1785906009000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Pizza Hut regresa a Panamá y prepara la apertura de sus primeros restaurantes",
-     "link": "https://www.prensa.com/economia/pizza-hut-regresa-a-panama-y-prepara-la-apertura-de-sus-primeros-restaurantes/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/F2C3DUZTWRDQDOPYJWNMTGGEFI.jpg?auth=490086b0ef6840302a4371df07d7d7cc47b213932073bc20974c3eb0174855a8&smart=true&width=3504&height=2336",
-     "ts": 1785892174000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Calls to ban ‘toxic’ pet flea treatments that harm UK wildlife and environment",
+     "link": "https://www.theguardian.com/lifeandstyle/2026/aug/05/calls-ban-toxic-pet-flea-treatments-harm-uk-wildlife-environment",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/45fd5e12c2735508002e145dd59232b75566bb6c/0_0_4401_3520/master/4401.jpg?width=140&quality=85&auto=format&fit=max&s=bd4126e2e1c206f9c36aebf6b8e98f31",
+     "ts": 1785906009000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Penta Summit 2026 reunirá en Panamá a más de 20 expertos en liderazgo, IA y negocios",
-     "link": "https://www.prensa.com/economia/penta-summit-2026-reunira-en-panama-a-mas-de-20-expertos-en-liderazgo-ia-y-negocios/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/C66QZUSMSJHFHHQASROBWI6KSU.jpg?auth=d66f7431d14bc0a3ebec2cd2ea8c608b53f4b5b87684a1a5d38f8b64f2b380ae&smart=true&width=3456&height=2304",
-     "ts": 1785890579000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "London Mayor Defends Free Entry to Museums, UK’s National Gallery Criticized, and More: Morning Links for August 4, 2026",
+     "link": "https://www.artnews.com/art-news/news/london-mayor-defends-free-entry-to-museums-morning-links-1234794277/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1785860689000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -525,120 +606,21 @@
    ]
   },
   {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "North Korea vows to teach ‘war criminal state’ Japan lesson over missile test",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3362988/north-korea-vows-teach-war-criminal-state-japan-lesson-over-missile-test?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/58ad7234-16e9-43a4-ace2-aad724b4cbd1_e21630d3.jpg?itok=aATKOa3l&v=1785895091",
-     "ts": 1785897007000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Palais de Tokyo’s Hunt for a Temporary Home Rankles French Art Collective",
-     "link": "https://news.artnet.com/art-world/palais-de-tokyo-renovation-relocation-le-generale-2793713",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1785864167000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Philippines",
-   "es": "Filipinas",
-   "lat": 12.9,
-   "lon": 121.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "France offers nuclear expertise as Philippines weighs energy security options",
-     "link": "https://www.scmp.com/week-asia/politics/article/3362969/france-offers-nuclear-expertise-philippines-weighs-energy-security-options?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/dbbedfac-fb9d-48fd-9d75-474206c045af_c3c164ba.jpg?itok=ANE2YYlS&v=1785854148",
-     "ts": 1785898806000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win",
-     "link": "https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b371112b4eb2d29274854a7f8cef208aea6373df/308_0_3082_2467/master/3082.jpg?width=140&quality=85&auto=format&fit=max&s=6198c7b9b507581101ad841a478114cf",
-     "ts": 1785895817000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Cuba",
-   "es": "Cuba",
-   "lat": 21.5,
-   "lon": -77.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Panamá vence a Cuba y queda a un paso de disputar el oro en Santo Domingo 2026",
-     "link": "https://www.prensa.com/deportes/panama-vence-a-cuba-y-queda-a-un-paso-de-disputar-el-oro-en-santo-domingo-2026/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LSHYU4VWDVHUBHOH6XMSVBGNRI.jpeg?auth=cc55248351506c5de4cc5b2035a1ff409cabb60e5e6f94460960415082fdb133&smart=true&width=2048&height=1977",
-     "ts": 1785897000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Crisis energética en Cuba: aumenta la frustración pese al restablecimiento del servicio",
-     "link": "https://www.france24.com/es/video/20260805-crisis-energ%C3%A9tica-en-cuba-aumenta-la-frustraci%C3%B3n-pese-al-restablecimiento-del-servicio",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/4598f61c-905e-11f1-affc-005056a90284/w:1024/p:16x9/ES-20260804-181019-181212-CS.jpg",
-     "ts": 1785894857000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 2,
-   "items": [
-    {
-     "title": "Argentina desactiva la protesta que paralizó más de 150 buques por un polémico decreto presidencial",
-     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260805-argentina-desactiva-la-protesta-que-paraliz%C3%B3-m%C3%A1s-de-150-buques-por-un-pol%C3%A9mico-decreto-presidencial",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/7fa75862-906d-11f1-9485-005056bfb2b6/w:1024/p:16x9/AP02100304713.jpg",
-     "ts": 1785894446000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Brasil retira a su embajador en Argentina en rechazo a los insultos de Milei contra Lula",
-     "link": "https://elpais.com/argentina/2026-08-05/brasil-retira-a-su-embajador-en-argentina-en-rechazo-a-los-insultos-de-milei-contra-lula.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/BQ46GCXMDVDP3JQCE3SB4MIJSQ.jpg?auth=109dd096fce04b5c0c902d63a4bd0f13c164f52428e70b46466d174570ecfe3d",
-     "ts": 1785891206000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Yemen",
    "es": "Yemen",
    "lat": 15.6,
    "lon": 48.0,
    "count": 2,
    "items": [
+    {
+     "title": "The yearly mild weather spell that brings Yemen’s coast back to life",
+     "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785908922000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
      "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
@@ -647,15 +629,114 @@
      "ts": 1785878690000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Egypt",
+   "es": "Egipto",
+   "lat": 26.8,
+   "lon": 30.8,
+   "count": 2,
+   "items": [
+    {
+     "title": "Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor",
+     "link": "https://www.aljazeera.com/sports/2026/8/5/salah-in-with-trabzonspor-as-egypt-forward-set-for-turkiye-move?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785908427000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Indian ship sinks in Red Sea after attack near Yemen",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3362980/indian-ship-sinks-red-sea-after-attack-near-yemen?utm_source=rss_feed",
+     "title": "Arrests in Egypt after people allegedly impersonate judges",
+     "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4c/live/9c6ba2a0-9027-11f1-b783-f784376ffc11.png",
+     "ts": 1785871500000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Morocco",
+   "es": "Marruecos",
+   "lat": 31.8,
+   "lon": -7.1,
+   "count": 2,
+   "items": [
+    {
+     "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+     "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b9834d5e78f263199e25c43a2124980bef411155/391_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=018b63802adaa00cfa4fcfe5e7c4b178",
+     "ts": 1785902408000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+     "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b9834d5e78f263199e25c43a2124980bef411155/391_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=018b63802adaa00cfa4fcfe5e7c4b178",
+     "ts": 1785902408000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Dem. Rep. Korea",
+   "es": "Corea del Norte",
+   "lat": 40.3,
+   "lon": 127.5,
+   "count": 2,
+   "items": [
+    {
+     "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+     "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785901701000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "North Korea vows to teach ‘war criminal state’ Japan lesson over missile test",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3362988/north-korea-vows-teach-war-criminal-state-japan-lesson-over-missile-test?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/80444a4e-442f-4217-a0db-c41c6ff0e95c_9320ccbc.jpg?itok=ECc57PoU&v=1785872086",
-     "ts": 1785872091000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/58ad7234-16e9-43a4-ace2-aad724b4cbd1_e21630d3.jpg?itok=aATKOa3l&v=1785895091",
+     "ts": 1785897007000,
      "beat": "china",
      "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 2,
+   "items": [
+    {
+     "title": "Abandonado y vandalizado, así permanece el Hospital Panamá Solidario",
+     "link": "https://www.prensa.com/politica/abandonado-y-vandalizado-asi-permanece-el-hospital-panama-solidario/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/G4GK6BVG4FENZPI75JBORXZR4I.jpeg?auth=bcfe1cab8a5e46ecb92554013758b487332c7aa72bb783680761cf1a58fe60c8&smart=true&width=3781&height=2997",
+     "ts": 1785906360000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Multan con más de 1 millón de dólares a Industrias Panamá Boston por contaminar la bahía",
+     "link": "https://www.prensa.com/sociedad/multan-con-mas-de-1-millon-de-dolares-a-industrias-panama-boston-por-contaminar-la-bahia-de-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/HLXO6MRYWJC5VO4QDRJORU6YLE.jpeg?auth=5d7a5dc6450cc0d7c70fa7cf62228e436c89259e606b09712bdd87d158e9dae4&smart=true&width=1280&height=720",
+     "ts": 1785905400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -705,24 +786,6 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 1,
-   "items": [
-    {
-     "title": "London Mayor Defends Free Entry to Museums, UK’s National Gallery Criticized, and More: Morning Links for August 4, 2026",
-     "link": "https://www.artnews.com/art-news/news/london-mayor-defends-free-entry-to-museums-morning-links-1234794277/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1785860689000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
    "name": "Germany",
    "es": "Alemania",
    "lat": 51.2,
@@ -748,85 +811,49 @@
    "count": 1,
    "items": [
     {
-     "title": "Australia news live: Bowen says nuclear advocates living in ‘fantasy world’; Leeser says funding won’t improve Naplan results",
+     "title": "Australia news live: Queensland’s deputy premier says meetings with Gina Rinehart were ‘about the weather’, not mining legislation",
      "link": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5ede36b1c18942c00b3667923d96d48c7a06114f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=be872acaf42849e99e57285ad37802da",
-     "ts": 1785900607000,
+     "image": "https://i.guim.co.uk/img/media/0099f7ab30752ed81645c9d2c7e27f9cca500f89/185_142_4014_3212/master/4014.jpg?width=140&quality=85&auto=format&fit=max&s=134630ff9ef2dbdfa0482339a4cc34d1",
+     "ts": 1785911339000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "New Zealand",
-   "es": "Nueva Zelanda",
-   "lat": -40.9,
-   "lon": 174.9,
+   "name": "Bangladesh",
+   "es": "Bangladés",
+   "lat": 23.7,
+   "lon": 90.4,
    "count": 1,
    "items": [
     {
-     "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street",
-     "link": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
+     "title": "Bangladesh Truth Seeker",
+     "link": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785906000000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
+     "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6956befa7782607fef2eac3b435eff652f9d556c/404_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=47c8b4e6069e9e2526d529cf44b2da6c",
-     "ts": 1785900457000,
+     "image": "https://i.guim.co.uk/img/media/0f0d88169adc4966cc29ea6d710a594af5b4e8e1/746_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=17bbe049ff75195248567ca96e7cf6a0",
+     "ts": 1785902410000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Kenya",
-   "es": "Kenia",
-   "lat": -0.02,
-   "lon": 37.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-     "link": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a9e/live/76921b10-900c-11f1-aabc-c3c7aa714117.jpg",
-     "ts": 1785885184000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Murió mujer en Medellín tras caer al vacío mientras parqueaba su camioneta: esta es la identidad de la víctima y la principal hipótesis",
-     "link": "https://www.eltiempo.com/colombia/medellin/murio-mujer-en-medellin-tras-caer-al-vacio-mientras-parqueaba-su-camioneta-esta-es-la-identidad-de-la-victima-y-la-principal-hipotesis-3576255",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a72aa4c557e1.r_d.97-174-0.jpeg",
-     "ts": 1785900200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Dominican Rep.",
-   "es": "Rep. Dominicana",
-   "lat": 18.7,
-   "lon": -70.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Panamá vence a Cuba y queda a un paso de disputar el oro en Santo Domingo 2026",
-     "link": "https://www.prensa.com/deportes/panama-vence-a-cuba-y-queda-a-un-paso-de-disputar-el-oro-en-santo-domingo-2026/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LSHYU4VWDVHUBHOH6XMSVBGNRI.jpeg?auth=cc55248351506c5de4cc5b2035a1ff409cabb60e5e6f94460960415082fdb133&smart=true&width=2048&height=1977",
-     "ts": 1785897000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -838,65 +865,137 @@
    "count": 1,
    "items": [
     {
-     "title": "Bolivia: Santa Cruz enfrenta ola de violencia por disputas entre grupos criminales brasileños",
-     "link": "https://www.france24.com/es/video/20260805-bolivia-santa-cruz-enfrenta-ola-de-violencia-por-disputas-entre-grupos-criminales-brasile%C3%B1os",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d78365d0-9068-11f1-b795-005056bf30b7/w:1024/p:16x9/ES-20260804-190856-191028-CS.jpg",
-     "ts": 1785895242000,
+     "title": "Bolivia sends troops to stop Brazilian gang violence along border",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785902292000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 1,
+   "items": [
+    {
+     "title": "A 30 se elevó el número de panameños que participan en la guerra entre Rusia y Ucrania",
+     "link": "https://www.prensa.com/judiciales/a-30-se-elevo-el-numero-de-panamenos-que-participan-en-la-guerra-entre-rusia-y-ucrania/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/T7UWL6IRW5FMXOQFPDTQTVUSSA.jpg?auth=206e82fc1f6ec3fac0b39d735225afb256733c91204b648db741dc925312e65d&smart=true&width=888&height=605",
+     "ts": 1785906180000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Ecuador",
-   "es": "Ecuador",
-   "lat": -1.8,
-   "lon": -78.2,
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
    "count": 1,
    "items": [
     {
-     "title": "¿Cuál es el panorama en Ecuador en medio el despliegue de policías y militares en Quito?",
-     "link": "https://www.france24.com/es/video/20260805-cu%C3%A1l-es-el-panorama-en-ecuador-en-medio-el-despliegue-de-polic%C3%ADas-y-militares-en-quito",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/29508600-9068-11f1-adc3-005056a90284/w:1024/p:16x9/ES-20260804-190208-190818-CS.jpg",
-     "ts": 1785894925000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Chile",
-   "es": "Chile",
-   "lat": -35.7,
-   "lon": -71.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Chile: Senado aprobó megarreforma tributaria impulsada por José Antonio Kast",
-     "link": "https://www.france24.com/es/video/20260805-chile-senado-aprob%C3%B3-megareforma-tributaria-impulsada-por-jos%C3%A9-antonio-kast",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/8b202b0a-9069-11f1-a157-005056a97e36/w:1024/p:16x9/ES-20260804-191104-191252-CS.jpg",
-     "ts": 1785893774000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Peru",
-   "es": "Perú",
-   "lat": -9.2,
-   "lon": -75.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ola de indignación en Perú por una agresión sexual contra una cantante de cumbia",
-     "link": "https://elpais.com/america/2026-08-05/ola-de-indignacion-en-peru-por-una-agresion-sexual-contra-una-cantante-de-cumbia.html",
+     "title": "Milei cede y modifica el proyecto de ley de extranjerización de tierras",
+     "link": "https://elpais.com/argentina/2026-08-05/milei-cede-y-modifica-el-proyecto-de-ley-de-extranjerizacion-de-tierras.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/5G3RRTMH6ZAW3C3FCU5EGHVHDM.jpg?auth=5f47be17f06d4efb7682582f39151d1baca9b8a2bc4e000515c237a94f36853f",
-     "ts": 1785890382000,
+     "image": "https://imagenes.elpais.com/resizer/v2/3DJUB3NYRZHXHJ5MEETFVENBLI.jpg?auth=4f062018bb08bd55f7309974d4e6acedfd37b1d7b6dda520cabbd0a0964581ca",
+     "ts": 1785902400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 1,
+   "items": [
+    {
+     "title": "“Hay que poner a Dios en el centro de cada decisión”: la llegada de De la Espriella al poder desata un debate sobre la laicidad en Colombia",
+     "link": "https://elpais.com/america-colombia/2026-08-05/hay-que-poner-a-dios-en-el-centro-de-cada-decision-la-llegada-de-de-la-espriella-al-poder-desata-un-debate-sobre-la-laicidad-en-colombia.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/HIBOLLW5JBDOHK4DW62X7W4MLM.jpg?auth=fb99ff6571934ed361836a4132c3a41ab364f2b315abf29fbc791b138f159e1f",
+     "ts": 1785902400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "es": "Venezuela",
+   "lat": 6.4,
+   "lon": -66.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "En busca del cadáver de “la señora de las uñas bonitas”, rescatada con vida tras los terremotos en Venezuela",
+     "link": "https://elpais.com/america/2026-08-05/en-busca-del-cadaver-de-la-senora-de-las-unas-bonitas-rescatada-con-vida-tras-los-terremotos-en-venezuela.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/OZXE7YAFSBAE3B4UKPGKQ4R7TM.jpg?auth=42afa8445feaac3d682ef01223a8fcbf55ffda689cc1825d15a9fd1012edc1d0",
+     "ts": 1785902400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Cuba",
+   "es": "Cuba",
+   "lat": 21.5,
+   "lon": -77.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Ric Prado, exsuperior de la CIA: “Cuba es la próxima manzana que va a caer del árbol”",
+     "link": "https://elpais.com/us/2026-08-05/ric-prado-exsuperior-de-la-cia-cuba-es-la-proxima-manzana-que-va-a-caer-del-arbol.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/JDW7JDMJAFA35HA5UG72NKR324.jpg?auth=0b0fe7a61918484b035e687bcbcb11da7968ad736d5505e89a80b5be5f4e089b",
+     "ts": 1785902400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "es": "Puerto Rico",
+   "lat": 18.2,
+   "lon": -66.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "El racismo en Puerto Rico: un problema cotidiano sin apenas datos que lo respalden",
+     "link": "https://elpais.com/america-futura/2026-08-05/el-racismo-en-puerto-rico-un-problema-cotidiano-sin-apenas-datos-que-lo-respalden.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/3D4KKCME3FH6PFQIAQBI2P5M5E.jpg?auth=6ff00dd7b64f4f11740d3ade3e88fab641c23b4afa31212e1b10afaf9316f295",
+     "ts": 1785902400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 1,
+   "items": [
+    {
+     "title": "La diversidad de la literatura que se hace en España, invitada de honor en la Bienal del Libro de São Paulo",
+     "link": "https://elpais.com/america/2026-08-05/la-diversidad-de-la-literatura-que-se-hace-en-espana-invitada-de-honor-en-la-bienal-del-libro-de-sao-paulo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DNGH2QOA3FDMVEREEJRGCGVID4.jpg?auth=da5768de40afd3a1ffb65a3e82994fc07f15c5b55f819002f96282a2d085b790",
+     "ts": 1785902400000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -921,20 +1020,110 @@
    ]
   },
   {
-   "name": "Morocco",
-   "es": "Marruecos",
-   "lat": 31.8,
-   "lon": -7.1,
+   "name": "Korea",
+   "es": "Corea del Sur",
+   "lat": 35.9,
+   "lon": 127.8,
    "count": 1,
    "items": [
     {
-     "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-     "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/627df0859f4b87862448d1d2a1071cdb1861ff74/569_0_3388_2710/master/3388.jpg?width=140&quality=85&auto=format&fit=max&s=43ad1f825aacd0f09cd3d38da29a2965",
-     "ts": 1785766381000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Flying to South Korea? Brace for 80-minute wait at Incheon airport immigration",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3363018/flying-south-korea-brace-80-minute-wait-incheon-airport-immigration?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/01c3315f-b7f7-4a12-9e82-c76467b9a89d_16c00867.jpg?itok=NL2vfrxZ&v=1785910015",
+     "ts": 1785911412000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Kazakhstan",
+   "es": "Kazajistán",
+   "lat": 48.0,
+   "lon": 66.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Peter Lee’s family office signs Kazakhstan deal on green energy projects",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363010/peter-lees-family-office-signs-kazakhstan-deal-green-energy-projects?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/cf9443ec-522c-43e5-ab40-397f882b832c_7f47f23c.jpg?itok=XQZLucBC&v=1785905164",
+     "ts": 1785905174000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "es": "Birmania",
+   "lat": 21.9,
+   "lon": 95.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Hated in Myanmar, feted abroad? President inches towards normality with Thailand trip",
+     "link": "https://www.scmp.com/week-asia/politics/article/3363002/hated-myanmar-feted-abroad-president-inches-towards-normality-thailand-trip?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/3d4fc29c-419c-46b5-ac5f-a36128410ad8_8b680867.jpg?itok=wZkV6wEp&v=1785903562",
+     "ts": 1785903566000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Thailand",
+   "es": "Tailandia",
+   "lat": 15.9,
+   "lon": 100.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Hated in Myanmar, feted abroad? President inches towards normality with Thailand trip",
+     "link": "https://www.scmp.com/week-asia/politics/article/3363002/hated-myanmar-feted-abroad-president-inches-towards-normality-thailand-trip?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/3d4fc29c-419c-46b5-ac5f-a36128410ad8_8b680867.jpg?itok=wZkV6wEp&v=1785903562",
+     "ts": 1785903566000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Guatemala",
+   "es": "Guatemala",
+   "lat": 15.8,
+   "lon": -90.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "Guatemala on volcano alert after Fuego erupts",
+     "link": "https://www.scmp.com/news/world/americas/article/3363001/guatemala-volcano-alert-after-fuego-erupts?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/6b79bdff-b01a-4184-9423-122eed94909c_22b8c846.jpg?itok=xBlMy5xX&v=1785903030",
+     "ts": 1785903037000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Philippines",
+   "es": "Filipinas",
+   "lat": 12.9,
+   "lon": 121.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "France offers nuclear expertise as Philippines weighs energy security options",
+     "link": "https://www.scmp.com/week-asia/politics/article/3362969/france-offers-nuclear-expertise-philippines-weighs-energy-security-options?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/dbbedfac-fb9d-48fd-9d75-474206c045af_c3c164ba.jpg?itok=ANE2YYlS&v=1785854148",
+     "ts": 1785898806000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -951,24 +1140,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/dbbedfac-fb9d-48fd-9d75-474206c045af_c3c164ba.jpg?itok=ANE2YYlS&v=1785854148",
      "ts": 1785898806000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Dem. Rep. Korea",
-   "es": "Corea del Norte",
-   "lat": 40.3,
-   "lon": 127.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "North Korea vows to teach ‘war criminal state’ Japan lesson over missile test",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3362988/north-korea-vows-teach-war-criminal-state-japan-lesson-over-missile-test?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/58ad7234-16e9-43a4-ace2-aad724b4cbd1_e21630d3.jpg?itok=aATKOa3l&v=1785895091",
-     "ts": 1785897007000,
      "beat": "china",
      "beatName": "China"
     }
@@ -1005,24 +1176,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/5317b6ba-1888-4fe3-8136-707f3a9bafc5_9031c1a1.jpg?itok=7eUckL2e&v=1785859052",
      "ts": 1785888024000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
-   "count": 1,
-   "items": [
-    {
-     "title": "Deadly migrant rush to Spain’s Ceuta was sparked by runaway online rumours",
-     "link": "https://www.scmp.com/news/world/europe/article/3362977/deadly-migrant-rush-spains-ceuta-was-sparked-runaway-online-rumours?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/07683eff-e50b-4d7b-8686-701e29d72f6c_d9a02ae5.jpg?itok=NjAZOkoO&v=1785864434",
-     "ts": 1785864436000,
      "beat": "china",
      "beatName": "China"
     }
