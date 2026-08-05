@@ -1,31 +1,157 @@
 {
- "updated": "2026-08-05T17:56:03.409716+00:00",
- "total": 105,
+ "updated": "2026-08-05T19:58:08.237327+00:00",
+ "total": 111,
  "countries": [
+  {
+   "name": "United States",
+   "es": "Estados Unidos",
+   "lat": 39.8,
+   "lon": -98.6,
+   "count": 21,
+   "items": [
+    {
+     "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+     "link": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785959160000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "The Louvre Lends Islamic ‘Masterpieces’ to the Smithsonian in Washington, D.C.",
+     "link": "https://www.artnews.com/art-news/news/louvre-lends-islamic-masterpieces-to-smithsonian-1234794343/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1785957712000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+     "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/488_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=e951340e079dde5983e6c08d64721b28",
+     "ts": 1785957628000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+     "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/488_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=e951340e079dde5983e6c08d64721b28",
+     "ts": 1785957628000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Estados Unidos frena la exportación de aguacate desde México por la violencia en Michoacán",
+     "link": "https://elpais.com/mexico/economia/2026-08-05/estados-unidos-frena-la-exportacion-de-aguacate-desde-mexico-por-la-violencia-en-michoacan.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/HH2RLNLHN5B7FB5IQEN6GWUTWM.jpg?auth=1602edd463b018bbcc5e81c45c7dff5e49bb1132c0fccde63dbbf579d030d8e0",
+     "ts": 1785955574000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "China competition looms large in 2027 US defence bill",
+     "link": "https://www.scmp.com/news/us/politics/article/3363095/china-competition-looms-large-2027-us-defence-bill?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/96018e0e-a6c6-4975-8f5e-e96c50936c0c_b45ce7c3.jpg?itok=ScDGgNHi&v=1785954805",
+     "ts": 1785954810000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "US authorities report deadly mass shooting in Prospect Hill, North Carolina",
+     "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785954307000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Crisis diplomática Brasil- EE. UU.: Lula endurece el tono y promete frenar cualquier “injerencia” en las elecciones",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260805-crisis-diplom%C3%A1tica-brasil-ee-uu-lula-endurece-el-tono-y-promete-frenar-cualquier-injerencia-en-las-elecciones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/47ed2980-90f7-11f1-8184-005056a90284/w:1024/p:16x9/2026-07-30T110815Z-2094149650-RC26JMA3WEJE-RTRMADP-3-USA-TRUMP-BRAZIL.jpg",
+     "ts": 1785953008000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "US hawks push Trump on multibillion-dollar Taiwan arms deal ahead of Xi summit",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3363085/us-hawks-push-trump-multibillion-dollar-taiwan-arms-deal-ahead-xi-summit?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/2b446c44-18e9-423b-b826-88ebc29b419a_351840a3.jpg?itok=mnLJu-4c&v=1785939946",
+     "ts": 1785942010000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China jails retired defence tech overseer for 10 years in US$6.3m corruption case",
+     "link": "https://www.scmp.com/news/china/politics/article/3363082/china-jails-retired-defence-tech-overseer-10-years-us63m-corruption-case?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/b100f283-51f3-40f4-ac8e-ae223184dcb8_85876bea.jpg?itok=BscysBEA&v=1785937687",
+     "ts": 1785937696000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
   {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 16,
+   "count": 17,
    "items": [
     {
-     "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
+     "title": "Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry – as it happened",
      "link": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/6e2ee9f55cd41bd4dc7427609b9c127e7f87dbc0/414_0_2834_2268/master/2834.jpg?width=140&quality=85&auto=format&fit=max&s=1fadec3c2d993e6f78db4d2bbd81aa10",
-     "ts": 1785951543000,
+     "ts": 1785958476000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
+     "title": "Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry – as it happened",
      "link": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/6e2ee9f55cd41bd4dc7427609b9c127e7f87dbc0/414_0_2834_2268/master/2834.jpg?width=140&quality=85&auto=format&fit=max&s=1fadec3c2d993e6f78db4d2bbd81aa10",
-     "ts": 1785951543000,
+     "ts": 1785958476000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Understanding reached on coordinates for shipping route through Hormuz, Iran says",
+     "link": "https://www.theguardian.com/world/2026/aug/05/iran-oman-reach-hormuz-route-coordinates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4670416ea3d234fd2ef6553686b1124658379840/249_0_2112_1690/master/2112.jpg?width=140&quality=85&auto=format&fit=max&s=1c4ae9c19f3ab0b7717aa275844eb8bb",
+     "ts": 1785958263000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Understanding reached on coordinates for shipping route through Hormuz, Iran says",
+     "link": "https://www.theguardian.com/world/2026/aug/05/iran-oman-reach-hormuz-route-coordinates",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4670416ea3d234fd2ef6553686b1124658379840/249_0_2112_1690/master/2112.jpg?width=140&quality=85&auto=format&fit=max&s=1c4ae9c19f3ab0b7717aa275844eb8bb",
+     "ts": 1785958263000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Irán dice que ha acordado con Omán una nueva ruta de navegación en Ormuz",
+     "link": "https://www.dw.com/es/irán-dice-que-ha-acordado-con-omán-una-nueva-ruta-de-navegación-en-ormuz/a-78258312?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1785953760000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Iran and Oman agree on new Hormuz route, Tehran says",
@@ -35,15 +161,6 @@
      "ts": 1785950865000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Irán insiste en mantener el control del estrecho de Ormuz mientras Trump amenaza con abrirlo por la fuerza",
-     "link": "https://elpais.com/internacional/2026-08-05/iran-insiste-en-mantener-el-control-del-estrecho-de-ormuz-mientras-trump-amenaza-con-abrirlo-por-la-fuerza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JMQEXREN3ZCWFK7NBVXGINZFSY.JPG?auth=4056d260d65c99cedb7628e115528e0749d54624814585c09b0534ad42955200",
-     "ts": 1785946151000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "UN rights chief alarmed by rise in Iran executions since March",
@@ -80,123 +197,6 @@
      "ts": 1785888578000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/72031e496c582f965cb485cc185a39b9a505cfb5/34_0_3251_2601/master/3251.jpg?width=140&quality=85&auto=format&fit=max&s=8bf953cc3d072a984bbce3b2eabcb0b4",
-     "ts": 1785881638000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran’s president denies threatening to resign during talks over strait of Hormuz",
-     "link": "https://www.theguardian.com/world/2026/aug/04/irans-president-denies-threatening-to-resign-during-talks-over-strait-of-hormuz",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b11d26d7d61c7930c27e4e57dc4a1656237d8a34/1035_244_1163_930/master/1163.jpg?width=140&quality=85&auto=format&fit=max&s=dd6141e2708c390b9a5a48e4e95e88d2",
-     "ts": 1785867875000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "United States",
-   "es": "Estados Unidos",
-   "lat": 39.8,
-   "lon": -98.6,
-   "count": 16,
-   "items": [
-    {
-     "title": "Estados Unidos ofrece más de 100 millones de dólares en recompensa por información de los líderes del Cartel Jalisco Nueva Generación",
-     "link": "https://elpais.com/mexico/2026-08-05/estados-unidos-ofrece-mas-de-100-millones-de-dolares-en-recompensa-por-informacion-de-los-lideres-del-cartel-jalisco-nueva-generacion.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/Y2HMTE67MFGYDPKKBOBATE6TRM.jpg?auth=afc7b2a2e210ba92f4dce912155e29c86944fd050c96d4961f9f2e8cdf3a5b0b",
-     "ts": 1785950334000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Suspect in Washington state wildfire was questioned about blazes last year",
-     "link": "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a80b9d693ea6efb7c0e25c5e83fc0249fb0063eb/658_0_6594_5274/master/6594.jpg?width=140&quality=85&auto=format&fit=max&s=912de477dc17068c30fd540324653cac",
-     "ts": 1785950122000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Nuevas tensiones EE. UU.-Brasil: Gobierno Trump revoca visa de embajadora brasileña",
-     "link": "https://www.france24.com/es/video/20260805-nuevas-tensiones-ee-uu-brasil-gobierno-trump-revoca-visa-de-embajadora-brasile%C3%B1a",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/39ec32b8-90d9-11f1-a5dc-005056bfb2b6/w:1024/p:16x9/ES-20260805-073800-073955-CS.jpg",
-     "ts": 1785947278000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "US hawks push Trump on multibillion-dollar Taiwan arms deal ahead of Xi summit",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3363085/us-hawks-push-trump-multibillion-dollar-taiwan-arms-deal-ahead-xi-summit?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/2b446c44-18e9-423b-b826-88ebc29b419a_351840a3.jpg?itok=mnLJu-4c&v=1785939946",
-     "ts": 1785942010000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China jails retired defence tech overseer for 10 years in US$6.3m corruption case",
-     "link": "https://www.scmp.com/news/china/politics/article/3363082/china-jails-retired-defence-tech-overseer-10-years-us63m-corruption-case?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/b100f283-51f3-40f4-ac8e-ae223184dcb8_85876bea.jpg?itok=BscysBEA&v=1785937687",
-     "ts": 1785937696000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Chinese optical-module stocks rebound as analysts downplay ‘mild’ AI curbs proposed by US",
-     "link": "https://www.scmp.com/tech/article/3363079/chinese-optical-module-stocks-rebound-analysts-downplay-mild-ai-curbs-proposed-us?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/d310f1ff-f70e-404b-9357-c2962e3e9ca7_756291a5.jpg?itok=Pn9PFztc&v=1785933032",
-     "ts": 1785933040000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Netanyahu says Israel didn’t agree to US-backed Gaza plan as far-right pressure grows",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3363077/netanyahu-says-israel-didnt-agree-us-backed-gaza-plan-far-right-pressure-grows?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/64339737-7f96-4337-8491-eed2ac1d96f0_e1809964.jpg?itok=0gl4_LeO&v=1785931978",
-     "ts": 1785931981000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Copper floods US as traders try to get the jump on Trump tariffs, but ‘Taco’ trend looms",
-     "link": "https://www.scmp.com/economy/global-economy/article/3363056/copper-floods-us-traders-try-get-jump-trump-tariffs-taco-trend-looms?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/17d6c36f-3f6d-404e-801f-feae91709892_edb5feca.jpg?itok=EqZ3QkTk&v=1785924121",
-     "ts": 1785929406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
-     "link": "https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/9844f173-4872-495f-b38a-85892b3d58ed_bc244f41.jpg?itok=wKJYMXLB&v=1785924535",
-     "ts": 1785925819000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US-Japan trade thaw driven by shared yen for stronger currency",
-     "link": "https://www.scmp.com/week-asia/economics/article/3363053/us-japan-trade-thaw-driven-shared-yen-stronger-currency?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/c2afe94c-ca59-479e-b54a-b60c875ecde9_47b811fb.jpg?itok=CJKPtpUw&v=1785923189",
-     "ts": 1785925815000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -205,8 +205,44 @@
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 10,
+   "count": 13,
    "items": [
+    {
+     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+     "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/488_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=e951340e079dde5983e6c08d64721b28",
+     "ts": 1785957628000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+     "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/488_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=e951340e079dde5983e6c08d64721b28",
+     "ts": 1785957628000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Brazil to become regular borrower in China, treasury official says",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3363096/brazil-become-regular-borrower-china-treasury-official-says?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/0b4068cc-49b6-4329-9fb8-292fc34c0e82_f2ec03f4.jpg?itok=6xcnewi1&v=1785954879",
+     "ts": 1785954882000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China competition looms large in 2027 US defence bill",
+     "link": "https://www.scmp.com/news/us/politics/article/3363095/china-competition-looms-large-2027-us-defence-bill?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/96018e0e-a6c6-4975-8f5e-e96c50936c0c_b45ce7c3.jpg?itok=ScDGgNHi&v=1785954805",
+     "ts": 1785954810000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Singapore court jails Hong Kong mother, adult son for violent Changi clash",
      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363089/singapore-court-jails-hong-kong-mother-adult-son-violent-changi-clash?utm_source=rss_feed",
@@ -229,7 +265,7 @@
      "title": "Hong Kong urged to be ‘super partner’ in businesses’ overseas expansion push",
      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363088/hong-kong-urged-be-super-partner-businesses-overseas-expansion-push?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/3fd630c2-b9cb-4a22-8509-935d01f77767_af92f2b4.jpg?itok=AV3Vcd7t&v=1785940688",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/3fd630c2-b9cb-4a22-8509-935d01f77767_7fb93023.jpg?itok=OwxUiqwK&v=1785953416",
      "ts": 1785940690000,
      "beat": "china",
      "beatName": "China"
@@ -260,42 +296,6 @@
      "ts": 1785934810000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Hong Kong woman swindles landlords out of HK$4.3m in crypto investment scam",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363074/hong-kong-woman-swindles-landlords-out-hk43m-crypto-investment-scam?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/5c895557-1096-41a9-8449-a301ed9b22b8_737e5049.jpg?itok=V8jF_6Ww&v=1785931247",
-     "ts": 1785931260000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "‘Savage abuse’: Hong Kong mother gets 22 years for starving boy, 5, to death",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363069/savage-abuse-hong-kong-mother-gets-22-years-starving-boy-5-death?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/5970a479-0dd4-400d-b469-166900a43e87_1cf32a80.jpg?itok=MfkyjRCQ&v=1785928213",
-     "ts": 1785928429000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
-     "link": "https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/9844f173-4872-495f-b38a-85892b3d58ed_bc244f41.jpg?itok=wKJYMXLB&v=1785924535",
-     "ts": 1785925819000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Amid slowing hotpot growth in China, Haidilao takes on biggest American burger brands",
-     "link": "https://www.scmp.com/business/companies/article/3363051/amid-slowing-hotpot-growth-china-haidilao-takes-biggest-american-burger-brands?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/cbc3335a-e03f-4794-83db-5fdacf6a24f3_bdfdf9f2.jpg?itok=_QHgsv6g&v=1785922918",
-     "ts": 1785924013000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -307,13 +307,13 @@
    "count": 9,
    "items": [
     {
-     "title": "Israel strikes southern Lebanon killing one and injuring 11",
-     "link": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/64d8991f49e1d23d8c6b1a18d0295b0069f950d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5e14f5eeda5cb348ecef9e96eb2ce105",
-     "ts": 1785947698000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Segundo día de negociaciones Líbano - Israel con zonas piloto en foco de las conversaciones",
+     "link": "https://www.france24.com/es/video/20260805-segundo-d%C3%ADa-de-negociaciones-l%C3%ADbano-israel-con-zonas-piloto-en-foco-de-las-conversaciones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/bfbf0402-90f6-11f1-8366-005056a90284/w:1024/p:16x9/ES-20260805-113823-114020-CS.jpg",
+     "ts": 1785953548000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Israel strikes southern Lebanon killing one and injuring 11",
@@ -394,8 +394,17 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+     "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785951684000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Netanyahu pushes back against Gaza deal, saying will not withdraw from enclave",
      "link": "https://www.france24.com/en/netanyahu-pushes-back-against-gaza-deal-saying-will-not-withdraw-from-enclave",
@@ -460,20 +469,20 @@
    "count": 5,
    "items": [
     {
+     "title": "Segundo día de negociaciones Líbano - Israel con zonas piloto en foco de las conversaciones",
+     "link": "https://www.france24.com/es/video/20260805-segundo-d%C3%ADa-de-negociaciones-l%C3%ADbano-israel-con-zonas-piloto-en-foco-de-las-conversaciones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/bfbf0402-90f6-11f1-8366-005056a90284/w:1024/p:16x9/ES-20260805-113823-114020-CS.jpg",
+     "ts": 1785953548000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
      "link": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1785949954000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel strikes southern Lebanon killing one and injuring 11",
-     "link": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/64d8991f49e1d23d8c6b1a18d0295b0069f950d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5e14f5eeda5cb348ecef9e96eb2ce105",
-     "ts": 1785947698000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -514,11 +523,20 @@
    "count": 4,
    "items": [
     {
-     "title": "Woman arrested after four men stabbed in London’s Covent Garden",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/05/woman-arrested-three-stabbed-london-covent-garden",
+     "title": "London’s National Gallery Convened a Citizens Assembly to Help Chart Its Future. It Made People Mad",
+     "link": "https://news.artnet.com/art-world/london-national-gallery-citizens-assembly-2794057",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1785956245000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "More than 1,100 people convicted of illegal arrival in UK since 2022",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/05/convicted-illegal-arrival-migration-asylum-channel",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4600a8693e3409cf08118f3175e2a1a17c58e6dd/108_0_2510_2008/master/2510.jpg?width=140&quality=85&auto=format&fit=max&s=9f06dda0241693c628c3a2e7792f033d",
-     "ts": 1785948179000,
+     "image": "https://i.guim.co.uk/img/media/d040cd5529fef684c4844bb2c0b71dfdfeba3421/271_0_5576_4463/master/5576.jpg?width=140&quality=85&auto=format&fit=max&s=7de292fec509860c93af24fe54a9e9ec",
+     "ts": 1785952484000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -539,60 +557,51 @@
      "ts": 1785940259000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "London Mayor Defends Free Entry to Museums, UK’s National Gallery Criticized, and More: Morning Links for August 4, 2026",
-     "link": "https://www.artnews.com/art-news/news/london-mayor-defends-free-entry-to-museums-morning-links-1234794277/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1785860689000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
+   "name": "Brazil",
+   "es": "Brasil",
+   "lat": -14.2,
+   "lon": -51.9,
    "count": 4,
    "items": [
     {
-     "title": "Ley de Integración en Alemania: ¿funcionó el \"apoyar y exigir\" de Merkel?",
-     "link": "https://www.dw.com/es/ley-de-integración-en-alemania-¿funcionó-el-apoyar-y-exigir-de-merkel/a-78253810?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1785950280000,
+     "title": "Brasil confirma que su embajador no regresará a Argentina hasta que cesen “los reiterados insultos y agresiones” de Milei",
+     "link": "https://elpais.com/argentina/2026-08-05/brasil-confirma-que-su-embajador-no-regresara-a-argentina-hasta-que-cesen-los-reiterados-insultos-y-agresiones-de-milei.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/VUCWIDOBXBINPLSWKOLEYGYI7Y.jpg?auth=fcd7850be91415b2ce380bb1c20983f73da97551c2615fc8493320a4a14e7384",
+     "ts": 1785958631000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Alemania y sus planes para un nuevo servicio civil obligatorio",
-     "link": "https://www.dw.com/es/alemania-y-sus-planes-para-un-nuevo-servicio-civil-obligatorio/a-78257372?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
+     "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+     "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1785950220000,
+     "ts": 1785957726000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Brazil to become regular borrower in China, treasury official says",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3363096/brazil-become-regular-borrower-china-treasury-official-says?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/0b4068cc-49b6-4329-9fb8-292fc34c0e82_f2ec03f4.jpg?itok=6xcnewi1&v=1785954879",
+     "ts": 1785954882000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Crisis diplomática Brasil- EE. UU.: Lula endurece el tono y promete frenar cualquier “injerencia” en las elecciones",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260805-crisis-diplom%C3%A1tica-brasil-ee-uu-lula-endurece-el-tono-y-promete-frenar-cualquier-injerencia-en-las-elecciones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/47ed2980-90f7-11f1-8184-005056a90284/w:1024/p:16x9/2026-07-30T110815Z-2094149650-RC26JMA3WEJE-RTRMADP-3-USA-TRUMP-BRAZIL.jpg",
+     "ts": 1785953008000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Germany: Court jails far-right youth terror cell members",
-     "link": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785949740000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Germany news: Explosive drone defused at Leipzig airport",
-     "link": "https://www.dw.com/en/germany-news-explosive-drone-defused-at-leipzig-airport/live-78241747?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1785947160000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -604,40 +613,76 @@
    "count": 4,
    "items": [
     {
-     "title": "Drones, misiles y guerra electrónica: cómo la invasión rusa a Ucrania se decide en los cielos",
-     "link": "https://www.france24.com/es/europa/20260805-drones-misiles-y-guerra-electr%C3%B3nica-c%C3%B3mo-la-invasi%C3%B3n-rusa-a-ucrania-se-decide-en-los-cielos",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/89d9b494-90ed-11f1-8675-005056bfb2b6/w:1024/p:16x9/2026-08-05T032746Z-1969586776-RC22SMA34ZXS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-     "ts": 1785948958000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785948144000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
-     "link": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/af8e876887f2113b76013bb343d402e242adbfd7/0_0_6778_5424/master/6778.jpg?width=140&quality=85&auto=format&fit=max&s=f0ef72a4ad0a6f9edd077c4e21af78c8",
-     "ts": 1785948062000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "La UE dará a Ucrania otros 1.400 millones en beneficios de los activos rusos sancionados",
-     "link": "https://www.dw.com/es/la-ue-dará-a-ucrania-otros-1-400-millones-en-beneficios-de-los-activos-rusos-sancionados/a-78256995?maca=spa-rss-sp-all-1122-rdf",
+     "title": "¿Es posible que Ucrania nunca se incorpore a la OTAN?",
+     "link": "https://www.dw.com/es/¿es-posible-que-ucrania-nunca-se-incorpore-a-la-otan/a-78258317?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1785946380000,
+     "ts": 1785956700000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+     "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a61/live/d355ecc0-90ff-11f1-b8ee-9b3c26ad07bb.jpg",
+     "ts": 1785956432000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+     "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664e/live/11968cf0-9101-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1785953991000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Is the conflict between Russia and Ukraine deepening?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785953763000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Turkey",
+   "es": "Turquía",
+   "lat": 38.9,
+   "lon": 35.2,
+   "count": 3,
+   "items": [
+    {
+     "title": "Mohamed Salah llega a Turquía para fichar por el Trabzonspor",
+     "link": "https://www.prensa.com/deportes/mohamed-salah-llega-a-turquia-para-fichar-por-el-trabzonspor/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/VMOC4L6H4JCN7G43BSXZRAVQDU.jpg?auth=eeca85de4d6cc03d0055917265794306c8cd9aff0596c7ab93f48da1a0ef87cb&smart=true&width=6289&height=4364",
+     "ts": 1785957002000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Turquía: Gobierno de Erdogan presenta proyecto de amnistía para militantes condenados del PKK",
+     "link": "https://www.france24.com/es/video/20260805-turqu%C3%ADa-gobierno-de-erdogan-presenta-proyecto-de-amnist%C3%ADa-para-militantes-condenados-del-pkk",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/1cecacd6-90f9-11f1-ac2b-005056bf30b7/w:1024/p:16x9/ES-20260805-123534-123733-CS.jpg",
+     "ts": 1785953641000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "A Colossal Ancient Marble Statue Emerges at a UNESCO Site in Turkey",
+     "link": "https://www.artnews.com/art-news/news/colossal-ancient-marble-statue-emerges-unesco-site-turkey-1234794286/",
+     "source": "ARTnews.com",
+     "image": "https://www.artnews.com/wp-content/uploads/2026/08/marble-statue-turkey-head.jpg?w=400",
+     "ts": 1785868290000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -678,96 +723,6 @@
    ]
   },
   {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 3,
-   "items": [
-    {
-     "title": "Lo buscaban en Argentina y estaba escondido en Bucaramanga: tenía circular roja de la Interpol y fue capturado en un bus intermunicipal",
-     "link": "https://www.eltiempo.com/colombia/santander/lo-buscaban-en-argentina-y-estaba-escondido-en-bucaramanga-tenia-circular-roja-de-la-interpol-y-fue-capturado-en-un-bus-intermunicipal-3576380",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/05/6a736810cd0ff.jpeg",
-     "ts": 1785948382000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Fans de Rosalía cantan que ‘la patria no se vende’ en su concierto en Buenos Aires",
-     "link": "https://www.prensa.com/mundo/fans-de-rosalia-cantan-que-la-patria-no-se-vende-en-su-concierto-en-buenos-aires/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/JSUOV34LINBYBEXAJ5J4OF4RAI.jpg?auth=c4ce4b32f1dada6f03197393cca78c84bc7863f4bea3c083bc55b9e9e2044f2e&smart=true&width=1920&height=1280",
-     "ts": 1785947100000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
-     "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785945958000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "United Arab Emirates",
-   "es": "Emiratos Árabes",
-   "lat": 23.4,
-   "lon": 53.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Valerie Hillings Named Inaugural Director of Guggenheim Abu Dhabi",
-     "link": "https://hyperallergic.com/valerie-hillings-named-inaugural-director-of-guggenheim-abu-dhabi/",
-     "source": "Hyperallergic",
-     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/vhcut.jpeg",
-     "ts": 1785873163000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Guggenheim Abu Dhabi Appoints Inaugural Director",
-     "link": "https://news.artnet.com/art-world/guggenheim-abu-dhabi-first-director-2793701",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1785856633000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Turkey",
-   "es": "Turquía",
-   "lat": 38.9,
-   "lon": 35.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "Sorprenden en Panamá a pasajero con casi $2 millones en oro sin declarar con destino a Turquía",
-     "link": "https://www.prensa.com/judiciales/sorprenden-en-panama-a-pasajero-con-casi-2-millones-en-oro-sin-declarar-con-destino-a-turquia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/QRXGFQXBONAJVMPDTBTZJT3744.jpg?auth=4558a0dde7ceda8e179ad5a66a6254b06bf6e20f4942fd23d759b7be2fc9639f&smart=true&width=1200&height=585",
-     "ts": 1785950979000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "A Colossal Ancient Marble Statue Emerges at a UNESCO Site in Turkey",
-     "link": "https://www.artnews.com/art-news/news/colossal-ancient-marble-statue-emerges-unesco-site-turkey-1234794286/",
-     "source": "ARTnews.com",
-     "image": "https://www.artnews.com/wp-content/uploads/2026/08/marble-statue-turkey-head.jpg?w=400",
-     "ts": 1785868290000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
    "name": "Russia",
    "es": "Rusia",
    "lat": 61.5,
@@ -775,49 +730,49 @@
    "count": 2,
    "items": [
     {
-     "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Will Russia start a fresh mobilization drive?",
+     "link": "https://www.dw.com/en/will-russia-start-a-fresh-mobilization-drive/a-78253252?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
      "image": "",
-     "ts": 1785948144000,
+     "ts": 1785958980000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Head of drone manufacturer critically injured in car bomb in Russia",
-     "link": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d975e901f38a56a1273b4f8fc561cd84bc392e3a/720_0_5192_4154/master/5192.jpg?width=140&quality=85&auto=format&fit=max&s=33841e53e88822a0ca22cc980d880f82",
-     "ts": 1785947200000,
+     "title": "Is the conflict between Russia and Ukraine deepening?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785953763000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
+   "name": "Malaysia",
+   "es": "Malasia",
+   "lat": 4.2,
+   "lon": 102.0,
    "count": 2,
    "items": [
     {
-     "title": "Sorprenden en Panamá a pasajero con casi $2 millones en oro sin declarar con destino a Turquía",
-     "link": "https://www.prensa.com/judiciales/sorprenden-en-panama-a-pasajero-con-casi-2-millones-en-oro-sin-declarar-con-destino-a-turquia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/QRXGFQXBONAJVMPDTBTZJT3744.jpg?auth=4558a0dde7ceda8e179ad5a66a6254b06bf6e20f4942fd23d759b7be2fc9639f&smart=true&width=1200&height=585",
-     "ts": 1785950979000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+     "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785955206000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Panamá capta $369.2 millones en Letras del Tesoro con menor costo frente al alza de tasas internacionales",
-     "link": "https://www.prensa.com/economia/panama-capta-3692-millones-en-letras-del-tesoro-con-menor-costo-frente-al-alza-de-tasas-internacionales/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/O5NUZCYGYVFI3FSOE5M4NIK4BE.jpg?auth=19d1396eef2c8ea185e3cc1bb9a9837703c92634dae819f2a3b276485f039884&smart=true&width=3840&height=2160",
-     "ts": 1785947244000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Malaysia vows to tighten airport security after pilot’s drug arrest in Indonesia",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363070/malaysia-vows-tighten-airport-security-after-pilots-drug-arrest-indonesia?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/96ac1502-47de-4d3d-b99b-defcaa8d809d_57732e6f.jpg?itok=dXRIai1U&v=1785928357",
+     "ts": 1785928366000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -849,6 +804,24 @@
    ]
   },
   {
+   "name": "United Arab Emirates",
+   "es": "Emiratos Árabes",
+   "lat": 23.4,
+   "lon": 53.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Valerie Hillings Named Inaugural Director of Guggenheim Abu Dhabi",
+     "link": "https://hyperallergic.com/valerie-hillings-named-inaugural-director-of-guggenheim-abu-dhabi/",
+     "source": "Hyperallergic",
+     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/vhcut.jpeg",
+     "ts": 1785873163000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
    "name": "Australia",
    "es": "Australia",
    "lat": -25.3,
@@ -867,6 +840,96 @@
    ]
   },
   {
+   "name": "Dem. Rep. Congo",
+   "es": "RD Congo",
+   "lat": -4.0,
+   "lon": 21.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "WHO's Tedros vists DR Congo as Ebola outbreak accelerates",
+     "link": "https://www.dw.com/en/who-s-tedros-vists-dr-congo-as-ebola-outbreak-accelerates/a-78258054?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785958560000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "es": "Birmania",
+   "lat": 21.9,
+   "lon": 95.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+     "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1785955206000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Bangladesh",
+   "es": "Bangladés",
+   "lat": 23.7,
+   "lon": 90.4,
+   "count": 1,
+   "items": [
+    {
+     "title": "Exiled PM vows to return to Bangladesh despite execution threat",
+     "link": "https://www.theguardian.com/world/2026/aug/05/exiled-pm-vows-to-return-sheikh-hasina-bangladesh-despite-execution-threat",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/524b1856d32d9a123c1084acb6af3e433092264b/577_0_5782_4625/master/5782.jpg?width=140&quality=85&auto=format&fit=max&s=5def407b9e18a9d4407d8ffe8407a6de",
+     "ts": 1785951917000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "Germany: Court jails far-right youth terror cell members",
+     "link": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1785949740000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "Brasil confirma que su embajador no regresará a Argentina hasta que cesen “los reiterados insultos y agresiones” de Milei",
+     "link": "https://elpais.com/argentina/2026-08-05/brasil-confirma-que-su-embajador-no-regresara-a-argentina-hasta-que-cesen-los-reiterados-insultos-y-agresiones-de-milei.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/VUCWIDOBXBINPLSWKOLEYGYI7Y.jpg?auth=fcd7850be91415b2ce380bb1c20983f73da97551c2615fc8493320a4a14e7384",
+     "ts": 1785958631000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
    "name": "Mexico",
    "es": "México",
    "lat": 23.6,
@@ -874,101 +937,11 @@
    "count": 1,
    "items": [
     {
-     "title": "New Mexico sues justice department for ‘stonewalling’ Epstein investigation",
-     "link": "https://www.theguardian.com/us-news/2026/aug/05/new-mexico-sues-doj-epstein-investigation",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7a98dfc5dea29f5b4349895b281f4c2f7213e26e/1_0_2887_2309/master/2887.jpg?width=140&quality=85&auto=format&fit=max&s=ae2cda554f786ce244c7d3cb87903abe",
-     "ts": 1785948494000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Pakistan",
-   "es": "Pakistán",
-   "lat": 30.4,
-   "lon": 69.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-     "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3536x2357+0+0/resize/3536x2357!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2F3b%2Fe64f49f1474299197a0afd8ddcbc%2Fap26213600617480.jpg",
-     "ts": 1785945966000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Peru",
-   "es": "Perú",
-   "lat": -9.2,
-   "lon": -75.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
-     "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785945958000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Uruguay",
-   "es": "Uruguay",
-   "lat": -32.5,
-   "lon": -55.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
-     "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1785945958000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Guatemala",
-   "es": "Guatemala",
-   "lat": 15.8,
-   "lon": -90.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Al menos 1.700 evacuados en Guatemala por erupción explosiva del volcán de Fuego",
-     "link": "https://www.france24.com/es/video/20260805-al-menos-1-700-evacuados-en-guatemala-por-erupci%C3%B3n-explosiva-del-volc%C3%A1n-de-fuego",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/42bf221c-90e1-11f1-b3ee-005056bfb2b6/w:1024/p:16x9/ES-20260805-074014-074210-CS.jpg",
-     "ts": 1785949419000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Brazil",
-   "es": "Brasil",
-   "lat": -14.2,
-   "lon": -51.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Nuevas tensiones EE. UU.-Brasil: Gobierno Trump revoca visa de embajadora brasileña",
-     "link": "https://www.france24.com/es/video/20260805-nuevas-tensiones-ee-uu-brasil-gobierno-trump-revoca-visa-de-embajadora-brasile%C3%B1a",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/39ec32b8-90d9-11f1-a5dc-005056bfb2b6/w:1024/p:16x9/ES-20260805-073800-073955-CS.jpg",
-     "ts": 1785947278000,
+     "title": "Estados Unidos frena la exportación de aguacate desde México por la violencia en Michoacán",
+     "link": "https://elpais.com/mexico/economia/2026-08-05/estados-unidos-frena-la-exportacion-de-aguacate-desde-mexico-por-la-violencia-en-michoacan.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/HH2RLNLHN5B7FB5IQEN6GWUTWM.jpg?auth=1602edd463b018bbcc5e81c45c7dff5e49bb1132c0fccde63dbbf579d030d8e0",
+     "ts": 1785955574000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1087,24 +1060,6 @@
    "es": "Indonesia",
    "lat": -0.8,
    "lon": 113.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Malaysia vows to tighten airport security after pilot’s drug arrest in Indonesia",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363070/malaysia-vows-tighten-airport-security-after-pilots-drug-arrest-indonesia?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/96ac1502-47de-4d3d-b99b-defcaa8d809d_57732e6f.jpg?itok=dXRIai1U&v=1785928357",
-     "ts": 1785928366000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
    "count": 1,
    "items": [
     {
