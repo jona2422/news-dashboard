@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-07T17:11:07.363057+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-07T18:05:46.032918+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -45,6 +45,14 @@
   }
  ],
  "feeds": [
+  {
+   "beat": "desastres",
+   "url": "https://www.gdacs.org/xml/rss.xml",
+   "source": "gdacs.org",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error timed out>"
+  },
   {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
@@ -175,14 +183,6 @@
   },
   {
    "beat": "desastres",
-   "url": "https://www.gdacs.org/xml/rss.xml",
-   "source": "GDACS RSS information",
-   "ok": true,
-   "count": 314,
-   "error": ""
-  },
-  {
-   "beat": "desastres",
    "url": "https://www.theguardian.com/world/natural-disasters/rss",
    "source": "Natural disasters and extreme weather | The Guardian",
    "ok": true,
@@ -306,7 +306,7 @@
    "url": "https://www.france24.com/es/rss",
    "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": ""
   },
   {
