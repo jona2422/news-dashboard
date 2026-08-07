@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-07T04:04:26.204298+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-07T05:52:41.595840+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -62,11 +62,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
+   "beat": "tech",
+   "url": "https://www.technologyreview.com/feed/",
+   "source": "technologyreview.com",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 40,
+   "count": 39,
    "error": ""
   },
   {
@@ -194,7 +202,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 39,
+   "count": 33,
    "error": ""
   },
   {
@@ -323,14 +331,6 @@
    "source": "Ars Technica - All content",
    "ok": true,
    "count": 20,
-   "error": ""
-  },
-  {
-   "beat": "tech",
-   "url": "https://www.technologyreview.com/feed/",
-   "source": "MIT Technology Review",
-   "ok": true,
-   "count": 10,
    "error": ""
   },
   {
