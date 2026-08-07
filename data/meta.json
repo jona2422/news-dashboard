@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-07T21:58:17.237258+00:00",
- "sources_ok": 35,
+ "updated": "2026-08-07T22:57:04.633252+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -60,14 +60,6 @@
    "ok": false,
    "count": 0,
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "beat": "musica",
-   "url": "https://consequence.net/feed/",
-   "source": "consequence.net",
-   "ok": false,
-   "count": 0,
-   "error": "The read operation timed out"
   },
   {
    "beat": "actualidad",
@@ -186,7 +178,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 339,
+   "count": 295,
    "error": ""
   },
   {
@@ -249,6 +241,14 @@
    "beat": "musica",
    "url": "https://www.brooklynvegan.com/feed/",
    "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
+   "error": ""
+  },
+  {
+   "beat": "musica",
+   "url": "https://consequence.net/feed/",
+   "source": "Consequence",
    "ok": true,
    "count": 15,
    "error": ""
