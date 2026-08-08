@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08T15:49:02.799727+00:00",
- "total": 121,
+ "updated": "2026-08-08T16:55:25.144536+00:00",
+ "total": 123,
  "countries": [
   {
    "name": "United States",
@@ -14,7 +14,25 @@
      "link": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/9929feb6f224df63c95a1032463f390dd8b086fb/680_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=5ae35ec9670d6ced26dabc8c40c8b4bc",
-     "ts": 1786200558000,
+     "ts": 1786207271000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+     "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+     "ts": 1786206858000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+     "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
+     "ts": 1786204599000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -46,29 +64,11 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-     "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-     "ts": 1786196949000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
      "link": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
      "ts": 1786195980000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-     "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
-     "ts": 1786195396000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -106,8 +106,17 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 13,
+   "count": 14,
    "items": [
+    {
+     "title": "Omán califica de \"positivas\" las negociaciones con Irán",
+     "link": "https://www.dw.com/es/omán-califica-de-positivas-las-negociaciones-con-irán/a-78290427?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786204320000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
      "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
@@ -186,15 +195,6 @@
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/636bbed858110f0ae16e7427aa28a757460c79c8/1_0_2664_2132/master/2664.jpg?width=140&quality=85&auto=format&fit=max&s=cf9a5800e8077a2787185c48e53250c0",
      "ts": 1786179643000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "From Tehran’s walls to the world: Iran’s visual propaganda as an art of war (2/2)",
-     "link": "https://www.france24.com/en/middle-east/20260808-from-tehran-s-walls-to-the-world-iran-s-visual-propaganda-as-an-art-of-war-2-2",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/84bd5450-9045-11f1-98c8-005056a97e36/w:1024/p:16x9/msf4fjcx.png",
-     "ts": 1786174563000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -300,146 +300,146 @@
    ]
   },
   {
-   "name": "Italy",
-   "es": "Italia",
-   "lat": 41.9,
-   "lon": 12.6,
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
    "count": 7,
    "items": [
     {
-     "title": "España impone controles fronterizos a viajeros de Italia en represalia por crisis de Ceuta",
-     "link": "https://www.france24.com/es/video/20260808-espa%C3%B1a-impone-controles-fronterizos-a-viajeros-de-italia-en-represalia-por-crisis-de-ceuta",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/08105120-9336-11f1-a2cd-005056a90284/w:1024/p:16x9/ES-20260808-070350-070546-CS.jpg",
-     "ts": 1786201175000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+     "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+     "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918c/live/9be54310-9331-11f1-8c55-af7610e137d7.jpg",
-     "ts": 1786199119000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+     "ts": 1786206858000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "España comienza a controlar a viajeros procedentes de Italia",
-     "link": "https://www.dw.com/es/españa-comienza-a-controlar-a-viajeros-procedentes-de-italia/a-78289373?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786194420000,
+     "title": "Nueva era política en Colombia: ¿Qué esperar del Gobierno de Abelardo de la Espriella?",
+     "link": "https://www.france24.com/es/video/20260808-nueva-era-pol%C3%ADtica-en-colombia-qu%C3%A9-esperar-del-gobierno-de-abelardo-de-la-espriella",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/6e9d2148-9345-11f1-a37c-005056a97e36/w:1024/p:16x9/ES-20260807-210410-211011-CS.jpg",
+     "ts": 1786206367000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
-     "link": "https://www.scmp.com/news/world/europe/article/3363403/spain-start-italy-border-controls-air-and-sea-travel-amid-ceuta-migrant-row?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/c169b011-c626-4446-b777-8f0d14d066f5_cb7fb510.jpg?itok=dGBG2eDS&v=1786188029",
-     "ts": 1786188039000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Abelardo de la Espriella asume la Presidencia de Colombia y presenta la hoja de ruta de su Gobierno",
+     "link": "https://www.france24.com/es/video/20260808-abelardo-de-la-espriella-asume-la-presidencia-de-colombia-y-presenta-la-hoja-de-ruta-de-su-gobierno",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/5468d9f4-9343-11f1-89d8-005056a97e36/w:1024/p:16x9/ES-20260808-090848-091020-CS.jpg",
+     "ts": 1786206157000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Spain to introduce temporary border checks on visitors from Italy",
-     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
-     "ts": 1786139078000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Seguridad y descentralización: De la Espriella en su primer discurso como presidente de Colombia",
+     "link": "https://www.france24.com/es/video/20260808-seguridad-y-descentralizaci%C3%B3n-de-la-espriella-en-su-primer-discurso-como-presidente-de-colombia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/0bfe56f0-933c-11f1-8572-005056a97e36/w:1024/p:16x9/ES-20260808-070634-070823-CS.jpg",
+     "ts": 1786206068000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "All-Night Art Heist in Italy Suspected to Be ‘Some Sort of Revenge’",
-     "link": "https://www.artnews.com/art-news/news/was-unusual-all-night-italian-heist-a-work-of-revenge-1234794571/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1786136046000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
+     "title": "Tras investidura del presidente De la Espriella atacan peaje con explosivos en Colombia",
+     "link": "https://www.prensa.com/mundo/tras-investidura-del-presidente-de-la-espriella-atacan-peaje-con-explosivos-en-colombia/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/ONLBMWACEFHIVILCWIJZBW2TDU.jpg?auth=2449a2266be1abba6b01865aad982c61f109fe4deb5771bde562ff0bc559a7e8&smart=true&width=507&height=351",
+     "ts": 1786204418000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Sprawling Nuclear Bunker in Italy Will Soon Be a Cold War Museum",
-     "link": "https://www.artnews.com/art-news/news/nuclear-bunker-italy-museum-1234794544/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1786127101000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
+     "title": "'Fin de la catedral 2.0': autoridades de Medellín y Antioquia reaccionaron al traslado de más de un centenar de presos de la cárcel de Itagüí",
+     "link": "https://www.eltiempo.com/colombia/medellin/fin-de-la-catedral-2-0-autoridades-de-medellin-y-antioquia-reaccionaron-al-traslado-de-mas-de-un-centenar-de-presos-de-la-carcel-de-itaguei-3577002",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a774c3408442.r_d.927-506-0.png",
+     "ts": 1786204222000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "De la Espriella y el avance de la derecha: ¿qué cambia en Colombia y América Latina?",
+     "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260808-de-la-espriella-y-el-avance-de-la-derecha-qu%C3%A9-cambia-en-colombia-y-am%C3%A9rica-latina",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4413afc4-92a4-11f1-ae3d-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-SEM-07AGO.png",
+     "ts": 1786203863000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Israel",
-   "es": "Israel",
-   "lat": 31.0,
-   "lon": 34.9,
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
    "count": 7,
    "items": [
     {
-     "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
-     "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786196526000,
+     "title": "Child among three killed in Russian missile attacks near Kyiv",
+     "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+     "ts": 1786204181000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
-     "link": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786195860000,
+     "title": "Zelenski visita por primera vez Serbia, aliada tradicional de Rusia y candidata a ingresar en la UE",
+     "link": "https://www.france24.com/es/europa/20260808-zelenski-visita-por-primera-vez-serbia-aliada-tradicional-de-rusia-y-candidata-a-ingresar-en-la-ue",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/850c9c8e-9330-11f1-b11b-005056a90284/w:1024/p:16x9/2026-08-08T112103Z-1269296120-RC2BUMATKRWU-RTRMADP-3-UKRAINE-CRISIS-SERBIA-ZELENSKIY.jpg",
+     "ts": 1786202839000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ataques cruzados entre Rusia y Ucrania impactan Kiev y refinerías en Rusia",
+     "link": "https://www.france24.com/es/video/20260808-ataques-cruzados-entre-rusia-y-ucrania-impactan-kiev-y-refiner%C3%ADas-en-rusia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8ebc0178-9332-11f1-b87a-005056a97e36/w:1024/p:16x9/ES-20260808-070143-070325-CS.jpg",
+     "ts": 1786201168000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "En directo: ataques rusos dejan cuatro muertos cerca de Kiev durante la primera visita de Zelenski a Serbia",
+     "link": "https://www.france24.com/es/europa/20260808-en-directo-ataques-rusos-dejan-cuatro-muertos-cerca-de-kiev-durante-la-primera-visita-de-zelenski-a-serbia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/512dbeb8-92ed-11f1-bc9f-005056bfb2b6/w:1024/p:16x9/000-C48T99E.jpg",
+     "ts": 1786196484000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
+     "link": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cf66c14695c54ab16692a04eee41f66b379b3e14/0_0_7506_6009/master/7506.jpg?width=140&quality=85&auto=format&fit=max&s=c740d906d0c2c66584a959c765b3f0b2",
+     "ts": 1786194046000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Travelling through Iran reveals no single narrative about the US-Israel war",
-     "link": "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/59338bc0c4cd11737f88e637c6ba7b585bae4835/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b068c0be17b8f2f7c5209cc13b786791",
-     "ts": 1786165239000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
+     "link": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5a76e26f5af14c84a3300c543f5c83643ca0e48b/457_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=8cecfd9321919e8b146cec7cbe5d8be4",
+     "ts": 1786186844000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Israel indicts settler over death of Palestinian activist who worked on No Other Land",
-     "link": "https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/378b33aad444e6c1b0901fcc8d8745ab9e0cacf4/300_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=a0301ca33a3e422ca71a2f48adc54e40",
-     "ts": 1786110558000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-     "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/189f/live/7dfa7080-91bc-11f1-bab9-173de0e7d358.png",
-     "ts": 1786041432000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-     "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
-     "ts": 1786027907000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel charges settler for killing Palestinian activist Awdah Hathaleen in occupied West Bank",
-     "link": "https://www.france24.com/en/middle-east/20260806-israel-charges-settler-killing-palestinian-activist-awdah-hathaleen-occupied-west-bank",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/41ec5f56-9188-11f1-89a2-005056a97e36/w:1024/p:16x9/AP25219325533081.jpg",
-     "ts": 1786016510000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Russian attacks kill 4 in Ukraine, including 3-year-old, as defences fall short",
+     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363397/russian-attacks-kill-4-ukraine-including-3-year-old-defences-fall-short?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/75e76762-a754-4a35-9048-475d8ff36c4b_38681635.jpg?itok=efH5dKh9&v=1786183216",
+     "ts": 1786183217000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -516,82 +516,10 @@
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 7,
-   "items": [
-    {
-     "title": "Zelenski visita por primera vez Serbia, aliada tradicional de Rusia y candidata a ingresar en la UE",
-     "link": "https://www.france24.com/es/europa/20260808-zelenski-visita-por-primera-vez-serbia-aliada-tradicional-de-rusia-y-candidata-a-ingresar-en-la-ue",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/850c9c8e-9330-11f1-b11b-005056a90284/w:1024/p:16x9/2026-08-08T112103Z-1269296120-RC2BUMATKRWU-RTRMADP-3-UKRAINE-CRISIS-SERBIA-ZELENSKIY.jpg",
-     "ts": 1786202839000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Ataques cruzados entre Rusia y Ucrania impactan Kiev y refinerías en Rusia",
-     "link": "https://www.france24.com/es/video/20260808-ataques-cruzados-entre-rusia-y-ucrania-impactan-kiev-y-refiner%C3%ADas-en-rusia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/8ebc0178-9332-11f1-b87a-005056a97e36/w:1024/p:16x9/ES-20260808-070143-070325-CS.jpg",
-     "ts": 1786201168000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "En directo: ataques rusos dejan cuatro muertos cerca de Kiev durante la primera visita de Zelenski a Serbia",
-     "link": "https://www.france24.com/es/europa/20260808-en-directo-ataques-rusos-dejan-cuatro-muertos-cerca-de-kiev-durante-la-primera-visita-de-zelenski-a-serbia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/512dbeb8-92ed-11f1-bc9f-005056bfb2b6/w:1024/p:16x9/000-C48T99E.jpg",
-     "ts": 1786196484000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Child among three killed in Russian missile attacks near Kyiv",
-     "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-     "ts": 1786195778000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
-     "link": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/cf66c14695c54ab16692a04eee41f66b379b3e14/0_0_7506_6009/master/7506.jpg?width=140&quality=85&auto=format&fit=max&s=c740d906d0c2c66584a959c765b3f0b2",
-     "ts": 1786194046000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
-     "link": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5a76e26f5af14c84a3300c543f5c83643ca0e48b/457_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=8cecfd9321919e8b146cec7cbe5d8be4",
-     "ts": 1786186844000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Russian attacks kill 4 in Ukraine, including 3-year-old, as defences fall short",
-     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363397/russian-attacks-kill-4-ukraine-including-3-year-old-defences-fall-short?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/75e76762-a754-4a35-9048-475d8ff36c4b_38681635.jpg?itok=efH5dKh9&v=1786183216",
-     "ts": 1786183217000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
    "count": 6,
    "items": [
     {
@@ -613,24 +541,6 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "España comienza a controlar a viajeros procedentes de Italia",
-     "link": "https://www.dw.com/es/españa-comienza-a-controlar-a-viajeros-procedentes-de-italia/a-78289373?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786194420000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786190477000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
      "link": "https://www.scmp.com/news/world/europe/article/3363403/spain-start-italy-border-controls-air-and-sea-travel-amid-ceuta-migrant-row?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -645,6 +555,87 @@
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
      "ts": 1786139078000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "All-Night Art Heist in Italy Suspected to Be ‘Some Sort of Revenge’",
+     "link": "https://www.artnews.com/art-news/news/was-unusual-all-night-italian-heist-a-work-of-revenge-1234794571/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1786136046000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Sprawling Nuclear Bunker in Italy Will Soon Be a Cold War Museum",
+     "link": "https://www.artnews.com/art-news/news/nuclear-bunker-italy-museum-1234794544/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1786127101000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Israel",
+   "es": "Israel",
+   "lat": 31.0,
+   "lon": 34.9,
+   "count": 6,
+   "items": [
+    {
+     "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
+     "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786196526000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
+     "link": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786195860000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Travelling through Iran reveals no single narrative about the US-Israel war",
+     "link": "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/59338bc0c4cd11737f88e637c6ba7b585bae4835/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b068c0be17b8f2f7c5209cc13b786791",
+     "ts": 1786165239000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel indicts settler over death of Palestinian activist who worked on No Other Land",
+     "link": "https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/378b33aad444e6c1b0901fcc8d8745ab9e0cacf4/300_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=a0301ca33a3e422ca71a2f48adc54e40",
+     "ts": 1786110558000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+     "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/189f/live/7dfa7080-91bc-11f1-bab9-173de0e7d358.png",
+     "ts": 1786041432000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+     "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
+     "ts": 1786027907000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -714,6 +705,60 @@
    ]
   },
   {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 5,
+   "items": [
+    {
+     "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786206396000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "España impone controles fronterizos a viajeros de Italia en represalia por crisis de Ceuta",
+     "link": "https://www.france24.com/es/video/20260808-espa%C3%B1a-impone-controles-fronterizos-a-viajeros-de-italia-en-represalia-por-crisis-de-ceuta",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/08105120-9336-11f1-a2cd-005056a90284/w:1024/p:16x9/ES-20260808-070350-070546-CS.jpg",
+     "ts": 1786201175000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918c/live/9be54310-9331-11f1-8c55-af7610e137d7.jpg",
+     "ts": 1786199119000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
+     "link": "https://www.scmp.com/news/world/europe/article/3363403/spain-start-italy-border-controls-air-and-sea-travel-amid-ceuta-migrant-row?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/c169b011-c626-4446-b777-8f0d14d066f5_cb7fb510.jpg?itok=dGBG2eDS&v=1786188029",
+     "ts": 1786188039000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Spain to introduce temporary border checks on visitors from Italy",
+     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
+     "ts": 1786139078000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
    "name": "Yemen",
    "es": "Yemen",
    "lat": 15.6,
@@ -772,7 +817,7 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
@@ -809,51 +854,42 @@
      "ts": 1786017647000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel charges settler for killing Palestinian activist Awdah Hathaleen in occupied West Bank",
-     "link": "https://www.france24.com/en/middle-east/20260806-israel-charges-settler-killing-palestinian-activist-awdah-hathaleen-occupied-west-bank",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/41ec5f56-9188-11f1-89a2-005056a97e36/w:1024/p:16x9/AP25219325533081.jpg",
-     "ts": 1786016510000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
    "count": 3,
    "items": [
     {
-     "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-     "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
-     "ts": 1786202117000,
+     "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+     "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786203723000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "10 de las casas diseñadas con mayor ingenio y simplicidad en Japón",
-     "link": "https://www.prensa.com/vivir/10-de-las-casas-disenadas-con-mayor-ingenio-y-simplicidad-en-japon/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GMUQIG57F5GOFOKNSR3WIB3JAE.jpg?auth=8b988ccf39fa4ccfcda1719562ff67d60723cd20d6bb24d7a77ffca97bc0c21a&smart=true&width=1024&height=576",
-     "ts": 1786195322000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Concerts of pro-Assad singers cancelled after protests in Syria",
+     "link": "https://www.france24.com/en/middle-east/20260807-concerts-pro-assad-singers-cancelled-syrian-public-protests",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/d2ae57bc-9000-11f1-983f-005056bfb2b6/w:1024/p:16x9/1-54.jpg",
+     "ts": 1786115254000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Typhoon Dolphin grounds Hong Kong flights, disrupts trips and business in Japan",
-     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363405/typhoon-dolphin-grounds-hong-kong-flights-disrupts-trips-and-business-japan?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/be3d6b39-0122-4448-96a3-fc7cd38375db_97a8473e.jpg?itok=El9XVmOp&v=1786188357",
-     "ts": 1786188357000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Minibus explosion in Damascus suburb wounds 14 people",
+     "link": "https://www.france24.com/en/middle-east/20260806-damascus-bus-explosion-kills-two",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/a294f016-91ce-11f1-93f6-005056a90284/w:1024/p:16x9/2026-08-06T193416Z-1537537069-RC24TMAIA2RX-RTRMADP-3-SYRIA-SECURITY.jpg",
+     "ts": 1786053258000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -894,38 +930,110 @@
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 3,
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 2,
    "items": [
     {
-     "title": "De la Espriella y el avance de la derecha: ¿qué cambia en Colombia y América Latina?",
-     "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260808-de-la-espriella-y-el-avance-de-la-derecha-qu%C3%A9-cambia-en-colombia-y-am%C3%A9rica-latina",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/4413afc4-92a4-11f1-ae3d-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-SEM-07AGO.png",
-     "ts": 1786203863000,
+     "title": "Mulino se opone a la Policía Municipal de Mizrachi: ‘Ojalá se tumbe eso’",
+     "link": "https://www.prensa.com/politica/mulino-se-opone-a-la-policia-municipal-de-mizrachi-ojala-se-tumbe-eso/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/3OGLVAKP4VF5LGVXRDEZ3PCILI.jpg?auth=f4a88ac2d8c531c6be17fa70cc193d07b65b2196c16db1ba71bddffb476eb603&smart=true&width=1920&height=1080",
+     "ts": 1786205429000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-     "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-     "ts": 1786196949000,
+     "title": "Watch 22 Different Versions of ‘Panama’ by Van Halen and Their Many Lead Singers",
+     "link": "https://www.rollingstone.com/music/music-lists/van-halen-panama-david-lee-roth-sammy-hagar-1235603269/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "ts": 1786197600000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 2,
+   "items": [
+    {
+     "title": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
+     "link": "https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c8dc76fa6d9188b10098600f39f54f5660cdff8c/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=b9b59b2c4a6c2ce5289c2addd252b6de",
+     "ts": 1786204802000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "¿Dejará de funcionar el Centro Cultural de Cali al convertirse en sede alternativa de la Presidencia de Colombia?",
-     "link": "https://www.eltiempo.com/colombia/cali/se-acaba-el-centro-cultural-de-cali-por-ser-sede-alternativa-de-la-presidencia-de-la-republica-de-colombia-3576989",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/07/6a76b6fc71ff5.jpeg",
-     "ts": 1786193779000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Where in the UK will get the best view of the solar eclipse?",
+     "link": "https://www.theguardian.com/science/2026/aug/08/when-where-how-uk-best-view-of-the-solar-eclipse",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/46b7e1a59fbb0ae612813dac37c0dd575e0ac0ba/1538_639_3236_2588/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=155f983f258b1eb8ee9efd135fe7c613",
+     "ts": 1786201711000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "es": "Líbano",
+   "lat": 33.9,
+   "lon": 35.9,
+   "count": 2,
+   "items": [
+    {
+     "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+     "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786203723000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+     "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
+     "ts": 1786027907000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+     "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
+     "ts": 1786202117000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Typhoon Dolphin grounds Hong Kong flights, disrupts trips and business in Japan",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363405/typhoon-dolphin-grounds-hong-kong-flights-disrupts-trips-and-business-japan?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/be3d6b39-0122-4448-96a3-fc7cd38375db_97a8473e.jpg?itok=El9XVmOp&v=1786188357",
+     "ts": 1786188357000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -984,33 +1092,6 @@
    ]
   },
   {
-   "name": "Thailand",
-   "es": "Tailandia",
-   "lat": 15.9,
-   "lon": 100.9,
-   "count": 2,
-   "items": [
-    {
-     "title": "Girl, 12, dies in Thailand after school shooting, bringing death toll to 9",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363409/girl-12-dies-thailand-after-school-shooting-bringing-death-toll-9?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/f0ade32e-8a87-46e1-979d-8979f36ef2b8_3a44d97f.jpg?itok=cLpzQqE3&v=1786196321",
-     "ts": 1786196323000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Elevan a nueve los muertos por tiroteo en escuela en Tailandia",
-     "link": "https://www.dw.com/es/elevan-a-nueve-los-muertos-por-tiroteo-en-escuela-en-tailandia/a-78289391?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786194840000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Saudi Arabia",
    "es": "Arabia Saudita",
    "lat": 23.9,
@@ -1034,51 +1115,6 @@
      "ts": 1786107630000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 2,
-   "items": [
-    {
-     "title": "Concerts of pro-Assad singers cancelled after protests in Syria",
-     "link": "https://www.france24.com/en/middle-east/20260807-concerts-pro-assad-singers-cancelled-syrian-public-protests",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/d2ae57bc-9000-11f1-983f-005056bfb2b6/w:1024/p:16x9/1-54.jpg",
-     "ts": 1786115254000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Minibus explosion in Damascus suburb wounds 14 people",
-     "link": "https://www.france24.com/en/middle-east/20260806-damascus-bus-explosion-kills-two",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/a294f016-91ce-11f1-93f6-005056a90284/w:1024/p:16x9/2026-08-06T193416Z-1537537069-RC24TMAIA2RX-RTRMADP-3-SYRIA-SECURITY.jpg",
-     "ts": 1786053258000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Watch 22 Different Versions of ‘Panama’ by Van Halen and Their Many Lead Singers",
-     "link": "https://www.rollingstone.com/music/music-lists/van-halen-panama-david-lee-roth-sammy-hagar-1235603269/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "ts": 1786197600000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
     }
    ]
   },
@@ -1119,24 +1155,6 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 1,
-   "items": [
-    {
-     "title": "Where in the UK will get the best view of the solar eclipse?",
-     "link": "https://www.theguardian.com/science/2026/aug/08/when-where-how-uk-best-view-of-the-solar-eclipse",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/46b7e1a59fbb0ae612813dac37c0dd575e0ac0ba/1538_639_3236_2588/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=155f983f258b1eb8ee9efd135fe7c613",
-     "ts": 1786201711000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Iraq",
    "es": "Irak",
    "lat": 33.2,
@@ -1173,24 +1191,6 @@
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-     "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786192252000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Brazil",
    "es": "Brasil",
    "lat": -14.2,
@@ -1199,10 +1199,10 @@
    "items": [
     {
      "title": "¿Cómo el sistema Pix pasó de ser orgullo en Brasil a motivo de enojo para Trump?",
-     "link": "https://www.france24.com/es/video/20260808-c%C3%B3mo-el-sistema-pix-pas%C3%B3-de-ser-orgullo-en-brasil-a-motivo-de-enojo-para-trump",
+     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260808-c%C3%B3mo-el-sistema-pix-pas%C3%B3-de-ser-orgullo-en-brasil-a-motivo-de-enojo-para-trump",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/9db32e9e-933d-11f1-a49b-005056bf30b7/w:1024/p:16x9/2026-07-21t180753z-1706137281-rc2fimaviulp-rtrmadp-3-usa-trump-brazil-pix.jpg",
-     "ts": 1786203169000,
+     "image": "https://s.france24.com/media/display/5abdc626-929d-11f1-a03f-005056a97e36/w:1024/p:16x9/2026-07-21T180753Z-1706137281-RC2FIMAVIULP-RTRMADP-3-USA-TRUMP-BRAZIL-PIX.jpg",
+     "ts": 1786205930000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1227,20 +1227,20 @@
    ]
   },
   {
-   "name": "Lebanon",
-   "es": "Líbano",
-   "lat": 33.9,
-   "lon": 35.9,
+   "name": "Thailand",
+   "es": "Tailandia",
+   "lat": 15.9,
+   "lon": 100.9,
    "count": 1,
    "items": [
     {
-     "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-     "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
-     "ts": 1786027907000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Girl, 12, dies in Thailand after school shooting, bringing death toll to 9",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363409/girl-12-dies-thailand-after-school-shooting-bringing-death-toll-9?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/f0ade32e-8a87-46e1-979d-8979f36ef2b8_3a44d97f.jpg?itok=cLpzQqE3&v=1786196321",
+     "ts": 1786196323000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
