@@ -1,16 +1,20 @@
 {
- "updated": "2026-08-08T11:46:54.230182+00:00",
+ "updated": "2026-08-08T13:15:09.433323+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 11
+   "count": 10
   },
   {
    "term": "green",
-   "count": 8
+   "count": 9
   },
   {
    "term": "world",
+   "count": 7
+  },
+  {
+   "term": "pakistan",
    "count": 7
   },
   {
@@ -18,7 +22,19 @@
    "count": 7
   },
   {
+   "term": "hong",
+   "count": 7
+  },
+  {
+   "term": "kong",
+   "count": 7
+  },
+  {
    "term": "year",
+   "count": 6
+  },
+  {
+   "term": "attack",
    "count": 6
   },
   {
@@ -26,23 +42,19 @@
    "count": 6
   },
   {
-   "term": "pakistan",
+   "term": "alaska",
    "count": 6
   },
   {
-   "term": "hong",
+   "term": "saudi",
    "count": 6
   },
   {
-   "term": "kong",
+   "term": "turkey",
    "count": 6
   },
   {
-   "term": "italy",
-   "count": 5
-  },
-  {
-   "term": "bank",
+   "term": "song",
    "count": 5
   },
   {
@@ -58,23 +70,7 @@
    "count": 5
   },
   {
-   "term": "alaska",
-   "count": 5
-  },
-  {
-   "term": "saudi",
-   "count": 5
-  },
-  {
-   "term": "turkey",
-   "count": 5
-  },
-  {
-   "term": "attack",
-   "count": 5
-  },
-  {
-   "term": "song",
+   "term": "show",
    "count": 4
   },
   {
@@ -90,7 +86,7 @@
    "count": 4
   },
   {
-   "term": "announces",
+   "term": "death",
    "count": 4
   },
   {
@@ -98,7 +94,23 @@
    "count": 4
   },
   {
-   "term": "data",
+   "term": "italy",
+   "count": 4
+  },
+  {
+   "term": "bank",
+   "count": 4
+  },
+  {
+   "term": "good",
+   "count": 4
+  },
+  {
+   "term": "blanche",
+   "count": 4
+  },
+  {
+   "term": "general",
    "count": 4
   },
   {
@@ -108,48 +120,36 @@
   {
    "term": "yemen",
    "count": 4
-  },
-  {
-   "term": "japan",
-   "count": 4
-  },
-  {
-   "term": "typhoon",
-   "count": 4
-  },
-  {
-   "term": "dolphin",
-   "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Trump",
+   "name": "Green",
    "count": 8
   },
   {
-   "name": "Green",
+   "name": "Trump",
    "count": 7
+  },
+  {
+   "name": "Pakistan",
+   "count": 7
+  },
+  {
+   "name": "Hong Kong",
+   "count": 7
+  },
+  {
+   "name": "Alaska",
+   "count": 6
+  },
+  {
+   "name": "Turkey",
+   "count": 6
   },
   {
    "name": "Iran",
    "count": 6
-  },
-  {
-   "name": "Pakistan",
-   "count": 6
-  },
-  {
-   "name": "Hong Kong",
-   "count": 6
-  },
-  {
-   "name": "Alaska",
-   "count": 5
-  },
-  {
-   "name": "Turkey",
-   "count": 5
   },
   {
    "name": "Israel",
@@ -164,27 +164,15 @@
    "count": 4
   },
   {
-   "name": "Japan",
-   "count": 4
-  },
-  {
-   "name": "Typhoon Dolphin",
-   "count": 4
-  },
-  {
-   "name": "China",
-   "count": 4
-  },
-  {
    "name": "Panamá",
    "count": 4
   },
   {
-   "name": "Houthi",
+   "name": "Saudi",
    "count": 4
   },
   {
-   "name": "West Bank",
+   "name": "Houthi",
    "count": 4
   },
   {
@@ -196,11 +184,31 @@
    "count": 3
   },
   {
-   "name": "Italy",
+   "name": "OpenAI",
    "count": 3
   },
   {
-   "name": "Saudi",
+   "name": "Europe",
+   "count": 3
+  },
+  {
+   "name": "Todd Blanche",
+   "count": 3
+  },
+  {
+   "name": "Colombia",
+   "count": 3
+  },
+  {
+   "name": "Ukraine",
+   "count": 3
+  },
+  {
+   "name": "Cali",
+   "count": 3
+  },
+  {
+   "name": "China",
    "count": 3
   },
   {
@@ -208,16 +216,8 @@
    "count": 3
   },
   {
-   "name": "Israeli",
+   "name": "West Bank",
    "count": 3
-  },
-  {
-   "name": "Karol",
-   "count": 2
-  },
-  {
-   "name": "Chappell Roan Announces Two",
-   "count": 2
   }
  ]
 }
