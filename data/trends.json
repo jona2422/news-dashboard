@@ -1,28 +1,32 @@
 {
- "updated": "2026-08-09T13:18:20.116440+00:00",
+ "updated": "2026-08-09T14:55:02.056698+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 12
+   "count": 14
   },
   {
    "term": "iran",
    "count": 11
   },
   {
-   "term": "saudi",
-   "count": 11
+   "term": "gaza",
+   "count": 10
+  },
+  {
+   "term": "israel",
+   "count": 9
   },
   {
    "term": "plan",
    "count": 9
   },
   {
-   "term": "pakistan",
-   "count": 9
+   "term": "saudi",
+   "count": 8
   },
   {
-   "term": "gaza",
+   "term": "china",
    "count": 8
   },
   {
@@ -34,7 +38,11 @@
    "count": 8
   },
   {
-   "term": "israel",
+   "term": "pakistan",
+   "count": 8
+  },
+  {
+   "term": "netanyahu",
    "count": 7
   },
   {
@@ -46,63 +54,43 @@
    "count": 6
   },
   {
-   "term": "year",
-   "count": 6
-  },
-  {
-   "term": "world",
-   "count": 6
-  },
-  {
-   "term": "rejects",
-   "count": 6
-  },
-  {
-   "term": "yemen",
-   "count": 6
-  },
-  {
-   "term": "attack",
-   "count": 6
-  },
-  {
    "term": "pact",
    "count": 6
   },
   {
-   "term": "china",
+   "term": "deal",
    "count": 6
   },
   {
-   "term": "tour",
+   "term": "green",
+   "count": 6
+  },
+  {
+   "term": "york",
    "count": 5
   },
   {
-   "term": "other",
+   "term": "year",
    "count": 5
   },
   {
-   "term": "kill",
+   "term": "years",
    "count": 5
   },
   {
-   "term": "middle",
+   "term": "world",
    "count": 5
   },
   {
-   "term": "east",
+   "term": "chinese",
    "count": 5
   },
   {
-   "term": "netanyahu",
+   "term": "rejects",
    "count": 5
   },
   {
-   "term": "defence",
-   "count": 5
-  },
-  {
-   "term": "arabia",
+   "term": "yemen",
    "count": 5
   },
   {
@@ -114,12 +102,24 @@
    "count": 5
   },
   {
-   "term": "green",
+   "term": "forest",
    "count": 5
   },
   {
-   "term": "forest",
+   "term": "notification",
    "count": 5
+  },
+  {
+   "term": "song",
+   "count": 4
+  },
+  {
+   "term": "italy",
+   "count": 4
+  },
+  {
+   "term": "attack",
+   "count": 4
   }
  ],
  "entities": [
@@ -128,7 +128,15 @@
    "count": 11
   },
   {
-   "name": "Pakistan",
+   "name": "Trump",
+   "count": 10
+  },
+  {
+   "name": "Gaza",
+   "count": 10
+  },
+  {
+   "name": "Israel",
    "count": 9
   },
   {
@@ -140,31 +148,23 @@
    "count": 8
   },
   {
-   "name": "Gaza",
+   "name": "Pakistan",
+   "count": 8
+  },
+  {
+   "name": "Netanyahu",
    "count": 7
   },
   {
-   "name": "Israel",
-   "count": 7
-  },
-  {
-   "name": "Trump",
-   "count": 7
-  },
-  {
-   "name": "Saudi",
+   "name": "China",
    "count": 7
   },
   {
    "name": "Yemen",
-   "count": 6
-  },
-  {
-   "name": "Middle East",
    "count": 5
   },
   {
-   "name": "Netanyahu",
+   "name": "Saudi",
    "count": 5
   },
   {
@@ -176,15 +176,7 @@
    "count": 5
   },
   {
-   "name": "China",
-   "count": 5
-  },
-  {
-   "name": "Houthis",
-   "count": 4
-  },
-  {
-   "name": "Houthi",
+   "name": "Estados Unidos",
    "count": 4
   },
   {
@@ -192,15 +184,15 @@
    "count": 3
   },
   {
-   "name": "Yemeni",
+   "name": "Irán",
    "count": 3
   },
   {
-   "name": "Saudi Arabia",
+   "name": "Hormuz",
    "count": 3
   },
   {
-   "name": "Estados Unidos",
+   "name": "Houthi",
    "count": 3
   },
   {
@@ -217,6 +209,14 @@
   },
   {
    "name": "Aspen",
+   "count": 2
+  },
+  {
+   "name": "Show HN",
+   "count": 2
+  },
+  {
+   "name": "Chinese EV",
    "count": 2
   }
  ]
