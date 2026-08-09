@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-09T22:53:31.613292+00:00",
- "sources_ok": 34,
+ "updated": "2026-08-09T23:50:05.580893+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -47,14 +47,6 @@
  "feeds": [
   {
    "beat": "desastres",
-   "url": "https://www.gdacs.org/xml/rss.xml",
-   "source": "gdacs.org",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
-  },
-  {
-   "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
    "ok": false,
@@ -68,14 +60,6 @@
    "ok": false,
    "count": 0,
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
   },
   {
    "beat": "actualidad",
@@ -191,6 +175,14 @@
   },
   {
    "beat": "desastres",
+   "url": "https://www.gdacs.org/xml/rss.xml",
+   "source": "GDACS RSS information",
+   "ok": true,
+   "count": 311,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
    "url": "https://www.theguardian.com/world/natural-disasters/rss",
    "source": "Natural disasters and extreme weather | The Guardian",
    "ok": true,
@@ -202,7 +194,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 47,
+   "count": 45,
    "error": ""
   },
   {
@@ -243,6 +235,14 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
    "error": ""
   },
   {
