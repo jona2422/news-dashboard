@@ -1,14 +1,23 @@
 {
- "updated": "2026-08-09T19:04:37.886106+00:00",
- "total": 132,
+ "updated": "2026-08-09T19:50:45.749526+00:00",
+ "total": 127,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 17,
+   "count": 18,
    "items": [
+    {
+     "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+     "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1786301517000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
     {
      "title": "Trump says US is ‘low-keying it’ with Iran, stresses economic pain",
      "link": "https://www.scmp.com/news/world/middle-east/article/3363467/trump-says-us-low-keying-it-iran-stresses-economic-pain?utm_source=rss_feed",
@@ -89,15 +98,6 @@
      "ts": 1786289799000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran says Oman deal is in ‘final stages’ but US must act to open Hormuz",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3363457/iran-says-oman-deal-final-stages-us-must-act-open-hormuz?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/02a2cb02-0dec-4c1c-9704-5592cd437846_8cc0db0c.jpg?itok=tGOe5CNo&v=1786286380",
-     "ts": 1786286381000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -106,16 +106,25 @@
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 16,
+   "count": 15,
    "items": [
     {
      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
      "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786301742000,
+     "ts": 1786304830000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+     "ts": 1786301742000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
@@ -134,15 +143,6 @@
      "ts": 1786300506000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786300362000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
@@ -190,13 +190,112 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Netanyahu anuncia el rechazo de Israel al plan de 15 puntos para Gaza propuesto por Trump",
-     "link": "https://www.prensa.com/mundo/netanyahu-anuncia-el-rechazo-de-israel-al-plan-de-15-puntos-para-gaza-propuesto-por-trump/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Z6V2OB2MFVBIHFMA2Y4OVHPURI.jpg?auth=fe06dcd12961004f4cd41cba368007d80cf7dfa4895c4ca0c25c2837dc78bd1a&smart=true&width=1024&height=576",
-     "ts": 1786290152000,
+     "title": "Netanyahu rejects Gaza plan in new break from Trump",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/7b13321c-4bcf-417f-8310-2877ce309258_f96a9be1.jpg?itok=4osbUbyG&v=1786288020",
+     "ts": 1786288027000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Palestine",
+   "es": "Palestina",
+   "lat": 31.9,
+   "lon": 35.2,
+   "count": 13,
+   "items": [
+    {
+     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+     "ts": 1786304830000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+     "ts": 1786301742000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
+     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
+     "ts": 1786300506000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
+     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
+     "ts": 1786300506000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+     "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4441x2961+0+0/resize/4441x2961!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F68%2F193b68e74e048932d77c41dfeff7%2Fap26208782971465.jpg",
+     "ts": 1786299705000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Netanyahu, en tono electoral, rechaza el plan de Trump para el desarme de Hamás en Gaza",
+     "link": "https://www.france24.com/es/video/20260809-netanyahu-en-tono-electoral-rechaza-el-plan-de-trump-para-el-desarme-de-ham%C3%A1s-en-gaza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/ac798b14-9417-11f1-b537-005056a97e36/w:1024/p:16x9/ES-20260809-120146-120342-CS.jpg",
+     "ts": 1786296677000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Netanyahu rechaza el \"plan de paz\" de Donald Trump para la Franja de Gaza",
+     "link": "https://www.france24.com/es/video/20260809-netanyahu-rechaza-el-plan-de-paz-de-donald-trump-para-la-franja-de-gaza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/85072e46-9413-11f1-b2f9-005056bfb2b6/w:1024/p:16x9/ES-20260809-100143-100413-CS.jpg",
+     "ts": 1786296495000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Hamás mantiene \"firme compromiso\" con el plan de Trump",
+     "link": "https://www.dw.com/es/hamás-mantiene-firme-compromiso-con-el-plan-de-trump/a-78297597?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786295340000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+     "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786291699000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Netanyahu rejects Gaza plan in new break from Trump",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/7b13321c-4bcf-417f-8310-2877ce309258_f96a9be1.jpg?itok=4osbUbyG&v=1786288020",
+     "ts": 1786288027000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -205,7 +304,7 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 14,
+   "count": 13,
    "items": [
     {
      "title": "Trump says US is ‘low-keying it’ with Iran, stresses economic pain",
@@ -222,15 +321,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1786301068000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "War on Iran: Phase II: Day 29",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786290369000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -296,105 +386,15 @@
      "ts": 1786222888000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Palestine",
-   "es": "Palestina",
-   "lat": 31.9,
-   "lon": 35.2,
-   "count": 14,
-   "items": [
+    },
     {
-     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786301742000,
+     "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+     "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+     "ts": 1786193556000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
-     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-     "ts": 1786300506000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
-     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-     "ts": 1786300506000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786300362000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4441x2961+0+0/resize/4441x2961!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F68%2F193b68e74e048932d77c41dfeff7%2Fap26208782971465.jpg",
-     "ts": 1786299705000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu, en tono electoral, rechaza el plan de Trump para el desarme de Hamás en Gaza",
-     "link": "https://www.france24.com/es/video/20260809-netanyahu-en-tono-electoral-rechaza-el-plan-de-trump-para-el-desarme-de-ham%C3%A1s-en-gaza",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/ac798b14-9417-11f1-b537-005056a97e36/w:1024/p:16x9/ES-20260809-120146-120342-CS.jpg",
-     "ts": 1786296677000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Netanyahu rechaza el \"plan de paz\" de Donald Trump para la Franja de Gaza",
-     "link": "https://www.france24.com/es/video/20260809-netanyahu-rechaza-el-plan-de-paz-de-donald-trump-para-la-franja-de-gaza",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/85072e46-9413-11f1-b2f9-005056bfb2b6/w:1024/p:16x9/ES-20260809-100143-100413-CS.jpg",
-     "ts": 1786296495000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Hamás mantiene \"firme compromiso\" con el plan de Trump",
-     "link": "https://www.dw.com/es/hamás-mantiene-firme-compromiso-con-el-plan-de-trump/a-78297597?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786295340000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-     "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786291699000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu anuncia el rechazo de Israel al plan de 15 puntos para Gaza propuesto por Trump",
-     "link": "https://www.prensa.com/mundo/netanyahu-anuncia-el-rechazo-de-israel-al-plan-de-15-puntos-para-gaza-propuesto-por-trump/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Z6V2OB2MFVBIHFMA2Y4OVHPURI.jpg?auth=fe06dcd12961004f4cd41cba368007d80cf7dfa4895c4ca0c25c2837dc78bd1a&smart=true&width=1024&height=576",
-     "ts": 1786290152000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -876,33 +876,6 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 2,
-   "items": [
-    {
-     "title": "London mayor orders council to drop plan to ban new pubs and bars in Soho and West End",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/03613f8c7ee3464153270403fdaa1f03ca89b6e9/230_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=e98d33f2b090196e967ff782783a462f",
-     "ts": 1786294820000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Pakistani grooming gang suspect ‘refuses to give date for return to UK’",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/09/rukhsar-ahmed-pakistan-grooming-gang-suspect-refuses-date-return-uk",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/96ad613a42d517a29d428310e8dd7925e10bfd85/0_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=0eeef7bb2dd157c54e8fb2f4eafb4625",
-     "ts": 1786290091000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Germany",
    "es": "Alemania",
    "lat": 51.2,
@@ -924,60 +897,6 @@
      "source": "Deutsche Welle",
      "image": "",
      "ts": 1786291500000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "United Arab Emirates",
-   "es": "Emiratos Árabes",
-   "lat": 23.4,
-   "lon": 53.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Suspected Irish crime boss lands in Dublin after being extradited from Dubai",
-     "link": "https://www.scmp.com/news/world/europe/article/3363466/suspected-irish-crime-boss-lands-dublin-after-being-extradited-dubai?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/bcb066a5-4f85-4b9f-925c-286b88ff2724_aede2be4.jpg?itok=Rpds5q67&v=1786299144",
-     "ts": 1786299456000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
-     "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786291250000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Ireland",
-   "es": "Irlanda",
-   "lat": 53.4,
-   "lon": -8.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "Suspected Irish crime boss lands in Dublin after being extradited from Dubai",
-     "link": "https://www.scmp.com/news/world/europe/article/3363466/suspected-irish-crime-boss-lands-dublin-after-being-extradited-dubai?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/bcb066a5-4f85-4b9f-925c-286b88ff2724_aede2be4.jpg?itok=Rpds5q67&v=1786299144",
-     "ts": 1786299456000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
-     "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786291250000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -1110,6 +1029,24 @@
    ]
   },
   {
+   "name": "Qatar",
+   "es": "Catar",
+   "lat": 25.3,
+   "lon": 51.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "Can the Doha Framework end the conflict in eastern DRC?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786302455000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Canada",
    "es": "Canadá",
    "lat": 56.1,
@@ -1122,6 +1059,24 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
      "ts": 1786298635000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 1,
+   "items": [
+    {
+     "title": "London mayor orders council to drop plan to ban new pubs and bars in Soho and West End",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/03613f8c7ee3464153270403fdaa1f03ca89b6e9/230_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=e98d33f2b090196e967ff782783a462f",
+     "ts": 1786294820000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -1214,6 +1169,24 @@
      "ts": 1786300049000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Ireland",
+   "es": "Irlanda",
+   "lat": 53.4,
+   "lon": -8.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "Alleged Irish crime boss charged in Dublin with directing criminal organisation",
+     "link": "https://www.scmp.com/news/world/europe/article/3363466/suspected-irish-crime-boss-lands-dublin-after-being-extradited-dubai?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/bcb066a5-4f85-4b9f-925c-286b88ff2724_aede2be4.jpg?itok=Rpds5q67&v=1786299144",
+     "ts": 1786299456000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
