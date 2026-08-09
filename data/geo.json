@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-09T16:57:39.134574+00:00",
- "total": 134,
+ "updated": "2026-08-09T17:50:05.282658+00:00",
+ "total": 133,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 17,
+   "count": 16,
    "items": [
     {
      "title": "Alexandria Ocasio-Cortez no descarta postularse a la Presidencia de EE. UU.",
@@ -17,6 +17,15 @@
      "ts": 1786293120000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "FCC moves to ban Lidar-equipped foreign drones from US",
+     "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1786292699000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
     },
     {
      "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
@@ -89,15 +98,105 @@
      "ts": 1786281642000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Israel",
+   "es": "Israel",
+   "lat": 31.0,
+   "lon": 34.9,
+   "count": 14,
+   "items": [
+    {
+     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+     "ts": 1786296962000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Matter of pure force: US, Israeli physicists hail China’s glueball discovery as ‘triumph’",
-     "link": "https://www.scmp.com/news/china/science/article/3363444/matter-pure-force-us-israeli-physicists-hail-chinas-glueball-discovery-triumph?utm_source=rss_feed",
+     "title": "Netanyahu, en tono electoral, rechaza el plan de Trump para el desarme de Hamás en Gaza",
+     "link": "https://www.france24.com/es/video/20260809-netanyahu-en-tono-electoral-rechaza-el-plan-de-trump-para-el-desarme-de-ham%C3%A1s-en-gaza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/ac798b14-9417-11f1-b537-005056a97e36/w:1024/p:16x9/ES-20260809-120146-120342-CS.jpg",
+     "ts": 1786296677000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Netanyahu rechaza el \"plan de paz\" de Donald Trump para la Franja de Gaza",
+     "link": "https://www.france24.com/es/video/20260809-netanyahu-rechaza-el-plan-de-paz-de-donald-trump-para-la-franja-de-gaza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/85072e46-9413-11f1-b2f9-005056bfb2b6/w:1024/p:16x9/ES-20260809-100143-100413-CS.jpg",
+     "ts": 1786296495000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+     "ts": 1786295859000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "How Israel’s occupation fuels resistance",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786292374000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+     "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786291699000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Netanyahu anuncia el rechazo de Israel al plan de 15 puntos para Gaza propuesto por Trump",
+     "link": "https://www.prensa.com/mundo/netanyahu-anuncia-el-rechazo-de-israel-al-plan-de-15-puntos-para-gaza-propuesto-por-trump/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/Z6V2OB2MFVBIHFMA2Y4OVHPURI.jpg?auth=fe06dcd12961004f4cd41cba368007d80cf7dfa4895c4ca0c25c2837dc78bd1a&smart=true&width=1024&height=576",
+     "ts": 1786290152000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Concerns mount over integrity of Israel’s upcoming October elections",
+     "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786288818000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Netanyahu rejects Gaza plan in new break from Trump",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/253c1b0b-23e1-4893-9a1e-dbc944b9f907_59900823.jpg?itok=ri4Wo2Ul&v=1786269946",
-     "ts": 1786269954000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/7b13321c-4bcf-417f-8310-2877ce309258_f96a9be1.jpg?itok=4osbUbyG&v=1786288020",
+     "ts": 1786288027000,
      "beat": "china",
      "beatName": "China"
+    },
+    {
+     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
+     "ts": 1786285090000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -106,7 +205,7 @@
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 15,
+   "count": 14,
    "items": [
     {
      "title": "China waits in wings as Mecca pact signals Gulf shift away from US security umbrella",
@@ -201,110 +300,11 @@
    ]
   },
   {
-   "name": "Israel",
-   "es": "Israel",
-   "lat": 31.0,
-   "lon": 34.9,
-   "count": 14,
-   "items": [
-    {
-     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786294007000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786294007000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "How Israel’s occupation fuels resistance",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786292374000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-     "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786291699000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu anuncia el rechazo de Israel al plan de 15 puntos para Gaza propuesto por Trump",
-     "link": "https://www.prensa.com/mundo/netanyahu-anuncia-el-rechazo-de-israel-al-plan-de-15-puntos-para-gaza-propuesto-por-trump/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Z6V2OB2MFVBIHFMA2Y4OVHPURI.jpg?auth=fe06dcd12961004f4cd41cba368007d80cf7dfa4895c4ca0c25c2837dc78bd1a&smart=true&width=1024&height=576",
-     "ts": 1786290152000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-     "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786288818000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu rejects Gaza plan in new break from Trump",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/7b13321c-4bcf-417f-8310-2877ce309258_f96a9be1.jpg?itok=4osbUbyG&v=1786288020",
-     "ts": 1786288027000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Netanyahu rechaza el plan de 15 puntos de Trump para el fin de la guerra en la Franja de Gaza",
-     "link": "https://www.france24.com/es/medio-oriente/20260809-netanyahu-rechaza-el-plan-de-15-puntos-de-trump-para-el-fin-de-la-guerra-en-la-franja-de-gaza",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/60f845c6-90e4-11f1-9ac4-005056a90284/w:1024/p:16x9/WEB-PORTADA-EXP-04AGO.png",
-     "ts": 1786287884000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-     "link": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786285590000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
-     "ts": 1786285090000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 14,
+   "count": 13,
    "items": [
     {
      "title": "War on Iran: Phase II: Day 29",
@@ -361,15 +361,6 @@
      "beatName": "China"
     },
     {
-     "title": "¿Qué influencia tiene el príncipe heredero Reza Pahlavi en Irán?",
-     "link": "https://www.dw.com/es/¿qué-influencia-tiene-el-príncipe-heredero-reza-pahlavi-en-irán/a-78296923?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786286040000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
      "title": "Iran, Oman near deal on Strait of Hormuz",
      "link": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
@@ -395,6 +386,15 @@
      "ts": 1786222888000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+     "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+     "ts": 1786193556000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -408,20 +408,47 @@
     {
      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
      "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "World news | The Guardian",
+     "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786294007000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "ts": 1786296962000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Netanyahu, en tono electoral, rechaza el plan de Trump para el desarme de Hamás en Gaza",
+     "link": "https://www.france24.com/es/video/20260809-netanyahu-en-tono-electoral-rechaza-el-plan-de-trump-para-el-desarme-de-ham%C3%A1s-en-gaza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/ac798b14-9417-11f1-b537-005056a97e36/w:1024/p:16x9/ES-20260809-120146-120342-CS.jpg",
+     "ts": 1786296677000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Netanyahu rechaza el \"plan de paz\" de Donald Trump para la Franja de Gaza",
+     "link": "https://www.france24.com/es/video/20260809-netanyahu-rechaza-el-plan-de-paz-de-donald-trump-para-la-franja-de-gaza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/85072e46-9413-11f1-b2f9-005056bfb2b6/w:1024/p:16x9/ES-20260809-100143-100413-CS.jpg",
+     "ts": 1786296495000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
      "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "Middle East and north Africa | The Guardian",
+     "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786294007000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "ts": 1786295859000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Hamás mantiene \"firme compromiso\" con el plan de Trump",
+     "link": "https://www.dw.com/es/hamás-mantiene-firme-compromiso-con-el-plan-de-trump/a-78297597?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786295340000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
@@ -451,15 +478,6 @@
      "beatName": "China"
     },
     {
-     "title": "Netanyahu rechaza el plan de 15 puntos de Trump para el fin de la guerra en la Franja de Gaza",
-     "link": "https://www.france24.com/es/medio-oriente/20260809-netanyahu-rechaza-el-plan-de-15-puntos-de-trump-para-el-fin-de-la-guerra-en-la-franja-de-gaza",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/60f845c6-90e4-11f1-9ac4-005056a90284/w:1024/p:16x9/WEB-PORTADA-EXP-04AGO.png",
-     "ts": 1786287884000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
      "title": "Gaza’s children still struggling with hunger as another famine threatens",
      "link": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -469,155 +487,11 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Gaza engineer builds animal shelters out of empty cans",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786285714000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-     "link": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786285590000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
      "ts": 1786285090000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Turkey",
-   "es": "Turquía",
-   "lat": 38.9,
-   "lon": 35.2,
-   "count": 6,
-   "items": [
-    {
-     "title": "How Saudi Arabia-Turkey-Pakistan defence pact acts as ‘insurance’ over US disengagement",
-     "link": "https://www.scmp.com/week-asia/politics/article/3363383/how-saudi-arabia-turkey-pakistan-defence-pact-acts-insurance-over-us-disengagement?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/698d6070-7ed2-4ba9-a420-ded434400cea_72880ee3.jpg?itok=gwccHpEP&v=1786170911",
-     "ts": 1786262406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-     "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
-     "ts": 1786193556000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
-     "link": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/63dc6672-9301-11f1-8fc7-005056bfb2b6/w:1024/p:16x9/EN-20260808-091259-091446-CS.jpg",
-     "ts": 1786177613000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-     "ts": 1786124574000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
-     "link": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/87c20be2-926f-11f1-84f3-005056a97e36/w:1024/p:16x9/EN-20260807-160339-160645-CS-01.jpg",
-     "ts": 1786115386000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact amid deadly Houthi strikes in Yemen",
-     "link": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
-     "ts": 1786107630000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Pakistan",
-   "es": "Pakistán",
-   "lat": 30.4,
-   "lon": 69.3,
-   "count": 6,
-   "items": [
-    {
-     "title": "How Saudi Arabia-Turkey-Pakistan defence pact acts as ‘insurance’ over US disengagement",
-     "link": "https://www.scmp.com/week-asia/politics/article/3363383/how-saudi-arabia-turkey-pakistan-defence-pact-acts-insurance-over-us-disengagement?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/698d6070-7ed2-4ba9-a420-ded434400cea_72880ee3.jpg?itok=gwccHpEP&v=1786170911",
-     "ts": 1786262406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-     "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
-     "ts": 1786193556000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
-     "link": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/63dc6672-9301-11f1-8fc7-005056bfb2b6/w:1024/p:16x9/EN-20260808-091259-091446-CS.jpg",
-     "ts": 1786177613000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-     "ts": 1786124574000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
-     "link": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/87c20be2-926f-11f1-84f3-005056a97e36/w:1024/p:16x9/EN-20260807-160339-160645-CS-01.jpg",
-     "ts": 1786115386000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact amid deadly Houthi strikes in Yemen",
-     "link": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
-     "ts": 1786107630000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -732,111 +606,21 @@
    ]
   },
   {
-   "name": "Saudi Arabia",
-   "es": "Arabia Saudita",
-   "lat": 23.9,
-   "lon": 45.1,
-   "count": 5,
-   "items": [
-    {
-     "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-     "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
-     "ts": 1786288288000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-     "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
-     "ts": 1786288288000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "How Saudi Arabia-Turkey-Pakistan defence pact acts as ‘insurance’ over US disengagement",
-     "link": "https://www.scmp.com/week-asia/politics/article/3363383/how-saudi-arabia-turkey-pakistan-defence-pact-acts-insurance-over-us-disengagement?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/698d6070-7ed2-4ba9-a420-ded434400cea_72880ee3.jpg?itok=gwccHpEP&v=1786170911",
-     "ts": 1786262406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-     "ts": 1786124574000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact amid deadly Houthi strikes in Yemen",
-     "link": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
-     "ts": 1786107630000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 4,
-   "items": [
-    {
-     "title": "Panamá cierra con 10 medallas el Regional Norteamericano de powerlifting",
-     "link": "https://www.prensa.com/deportes/panama-cierra-con-10-medallas-el-regional-norteamericano-de-powerlifting/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/XMXVN6C7EFHPFKGWJYWIPUYKJY.JPG?auth=ef6820e7fb5eeca356ba199dfc07a9226f434c81bc2bef567da7faef0a736e52&smart=true&width=1279&height=959",
-     "ts": 1786290879000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Aduanas aplaza hasta el 22 de septiembre obligatoriedad de declaración de reexportación en la Zona Libre de Colón",
-     "link": "https://www.prensa.com/economia/aduanas-aplaza-hasta-el-22-de-septiembre-obligatoriedad-de-declaracion-de-reexportacion-en-la-zona-libre-de-colon/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/CZ4P7AIVGNFJBLDVQN2LQIB4FY.jpg?auth=9b80ac69d4484758233b27ca62f5e17648ef728d70c10ef5a4916a7ffa52af30&smart=true&width=3648&height=2432",
-     "ts": 1786287773000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Polvo del Sahara afectará a Panamá con mayor intensidad este domingo",
-     "link": "https://www.prensa.com/sociedad/polvo-del-sahara-afectara-a-panama-con-mayor-intensidad-este-domingo/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/MQ3FOGFJXBFBNAOCHXVTHMNZ6A.jpg?auth=21188ada52892b100ce473bcebfcf90f003245a67053995c8c5eb6ee479fafcc&smart=true&width=1898&height=1330",
-     "ts": 1786287638000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Watch 22 Different Versions of ‘Panama’ by Van Halen and Their Many Lead Singers",
-     "link": "https://www.rollingstone.com/music/music-lists/van-halen-panama-david-lee-roth-sammy-hagar-1235603269/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "ts": 1786197600000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
-    }
-   ]
-  },
-  {
    "name": "Yemen",
    "es": "Yemen",
    "lat": 15.6,
    "lon": 48.0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3363465/yemens-houthis-attack-saudi-refinery-after-kingdom-signs-defence-pact?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/e6c8d3c9-622e-4381-a14e-8134961520b7_242619d8.jpg?itok=e5XMXs2M&v=1786297433",
+     "ts": 1786297515000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
      "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
@@ -870,6 +654,276 @@
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
      "ts": 1786107630000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Turkey",
+   "es": "Turquía",
+   "lat": 38.9,
+   "lon": 35.2,
+   "count": 5,
+   "items": [
+    {
+     "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+     "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+     "ts": 1786193556000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
+     "link": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/63dc6672-9301-11f1-8fc7-005056bfb2b6/w:1024/p:16x9/EN-20260808-091259-091446-CS.jpg",
+     "ts": 1786177613000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+     "ts": 1786124574000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
+     "link": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/87c20be2-926f-11f1-84f3-005056a97e36/w:1024/p:16x9/EN-20260807-160339-160645-CS-01.jpg",
+     "ts": 1786115386000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact amid deadly Houthi strikes in Yemen",
+     "link": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
+     "ts": 1786107630000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "es": "Pakistán",
+   "lat": 30.4,
+   "lon": 69.3,
+   "count": 5,
+   "items": [
+    {
+     "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+     "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+     "ts": 1786193556000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
+     "link": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/63dc6672-9301-11f1-8fc7-005056bfb2b6/w:1024/p:16x9/EN-20260808-091259-091446-CS.jpg",
+     "ts": 1786177613000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+     "ts": 1786124574000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
+     "link": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/87c20be2-926f-11f1-84f3-005056a97e36/w:1024/p:16x9/EN-20260807-160339-160645-CS-01.jpg",
+     "ts": 1786115386000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact amid deadly Houthi strikes in Yemen",
+     "link": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
+     "ts": 1786107630000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 4,
+   "items": [
+    {
+     "title": "Syria says deal agreed with Russia on future of military bases",
+     "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786295940000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "\"Hasta 50.000 soldados norcoreanos han sido desplegados en Rusia\", denuncia Volodímir Zelenski",
+     "link": "https://www.france24.com/es/europa/20260809-hasta-50-000-soldados-norcoreanos-han-sido-desplegados-en-rusia-denuncia-volod%C3%ADmir-zelenski",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/33771678-93fe-11f1-8eb9-005056a90284/w:1024/p:16x9/000-98YT8CQ.jpg",
+     "ts": 1786293746000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Syria, Russia agree to end military use of key Mediterranean bases",
+     "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/b9478836-9409-11f1-b6c6-005056bfb2b6/w:1024/p:16x9/2026-08-09T130436Z-699510682-RC2AMBABI4JU-RTRMADP-3-SYRIA-RUSSIA.jpg",
+     "ts": 1786291101000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Desde Járkiv: ataques cruzados entre Rusia y Ucrania afectan infraestructura civil",
+     "link": "https://www.france24.com/es/video/20260809-informe-desde-j%C3%A1rkiv-ataques-cruzados-entre-rusia-y-ucrania-afectan-infraestructura-civil",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/f0bba800-9405-11f1-8116-005056bfb2b6/w:1024/p:16x9/ES-20260809-080138-080311-CS.jpg",
+     "ts": 1786289160000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Saudi Arabia",
+   "es": "Arabia Saudita",
+   "lat": 23.9,
+   "lon": 45.1,
+   "count": 4,
+   "items": [
+    {
+     "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+     "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
+     "ts": 1786288288000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+     "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
+     "ts": 1786288288000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+     "ts": 1786124574000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact amid deadly Houthi strikes in Yemen",
+     "link": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/54f99ff60769d476cf501d37d79b51e1f0d8ef47/341_155_2022_1617/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=f9f168ac2720c517b719ed1636e3c7ad",
+     "ts": 1786107630000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 3,
+   "items": [
+    {
+     "title": "Un legado de vida a la investigación agropecuaria en Panamá",
+     "link": "https://www.prensa.com/opinion/un-legado-de-vida-a-la-investigacion-agropecuaria-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/Z57VZRSUCBB7RAOKRWI5IY5UEM.jpg?auth=7d4592e50708e8cfadbc3dcefe5b0d9a0bd8dcea3628be8c610218ee9052873d&smart=true&width=1139&height=755",
+     "ts": 1786294800000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Panamá cierra con 10 medallas el Regional Norteamericano de powerlifting",
+     "link": "https://www.prensa.com/deportes/panama-cierra-con-10-medallas-el-regional-norteamericano-de-powerlifting/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/XMXVN6C7EFHPFKGWJYWIPUYKJY.JPG?auth=ef6820e7fb5eeca356ba199dfc07a9226f434c81bc2bef567da7faef0a736e52&smart=true&width=1279&height=959",
+     "ts": 1786290879000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Watch 22 Different Versions of ‘Panama’ by Van Halen and Their Many Lead Singers",
+     "link": "https://www.rollingstone.com/music/music-lists/van-halen-panama-david-lee-roth-sammy-hagar-1235603269/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "ts": 1786197600000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    }
+   ]
+  },
+  {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 3,
+   "items": [
+    {
+     "title": "Syria says deal agreed with Russia on future of military bases",
+     "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786295940000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Syria, Russia agree to end military use of key Mediterranean bases",
+     "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/b9478836-9409-11f1-b6c6-005056bfb2b6/w:1024/p:16x9/2026-08-09T130436Z-699510682-RC2AMBABI4JU-RTRMADP-3-SYRIA-RUSSIA.jpg",
+     "ts": 1786291101000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Concerts of pro-Assad singers cancelled after protests in Syria",
+     "link": "https://www.france24.com/en/middle-east/20260807-concerts-pro-assad-singers-cancelled-syrian-public-protests",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/d2ae57bc-9000-11f1-983f-005056bfb2b6/w:1024/p:16x9/1-54.jpg",
+     "ts": 1786115254000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -912,38 +966,110 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 3,
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 2,
    "items": [
     {
-     "title": "\"Hasta 50.000 soldados norcoreanos han sido desplegados en Rusia\", denuncia Volodímir Zelenski",
-     "link": "https://www.france24.com/es/europa/20260809-hasta-50-000-soldados-norcoreanos-han-sido-desplegados-en-rusia-denuncia-volod%C3%ADmir-zelenski",
+     "title": "London mayor orders council to drop plan to ban new pubs and bars in Soho and West End",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/03613f8c7ee3464153270403fdaa1f03ca89b6e9/230_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=e98d33f2b090196e967ff782783a462f",
+     "ts": 1786294820000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Pakistani grooming gang suspect ‘refuses to give date for return to UK’",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/09/rukhsar-ahmed-pakistan-grooming-gang-suspect-refuses-date-return-uk",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/96ad613a42d517a29d428310e8dd7925e10bfd85/0_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=0eeef7bb2dd157c54e8fb2f4eafb4625",
+     "ts": 1786290091000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
+   "count": 2,
+   "items": [
+    {
+     "title": "Cologne marches for queer community after Berlin Pride attack",
+     "link": "https://www.scmp.com/news/world/europe/article/3363463/cologne-marches-queer-community-after-berlin-pride-attack?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/415ab426-a103-454c-b7f8-e5ce113625b6_c2f1aff8.jpg?itok=meyLm1Mr&v=1786294600",
+     "ts": 1786294654000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Germany news: Berlin to step up drone security research",
+     "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786291500000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Colombia: fumigación de cultivos genera incertidumbre entre pueblos indígenas del Putumayo",
+     "link": "https://www.france24.com/es/video/20260809-colombia-fumigaci%C3%B3n-de-cultivos-genera-incertidumbre-entre-pueblos-ind%C3%ADgenas-del-putumayo",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/33771678-93fe-11f1-8eb9-005056a90284/w:1024/p:16x9/000-98YT8CQ.jpg",
-     "ts": 1786293746000,
+     "image": "https://s.france24.com/media/display/660f8d46-9416-11f1-bda4-005056a90284/w:1024/p:16x9/ES-20260809-081143-081353-CS.jpg",
+     "ts": 1786296631000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Syria, Russia agree to end military use of key Mediterranean bases",
-     "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/b9478836-9409-11f1-b6c6-005056bfb2b6/w:1024/p:16x9/2026-08-09T130436Z-699510682-RC2AMBABI4JU-RTRMADP-3-SYRIA-RUSSIA.jpg",
-     "ts": 1786291101000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Desde Járkiv: ataques cruzados entre Rusia y Ucrania afectan infraestructura civil",
-     "link": "https://www.france24.com/es/video/20260809-informe-desde-j%C3%A1rkiv-ataques-cruzados-entre-rusia-y-ucrania-afectan-infraestructura-civil",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/f0bba800-9405-11f1-8116-005056bfb2b6/w:1024/p:16x9/ES-20260809-080138-080311-CS.jpg",
-     "ts": 1786289160000,
+     "title": "Este lunes comienza el periodo sancionatorio para la nueva rotación del pico y placa en Medellín: esto es lo que debe saber",
+     "link": "https://www.eltiempo.com/colombia/medellin/este-lunes-comienza-el-periodo-sancionatorio-para-la-nueva-rotacion-del-pico-y-placa-en-medellin-esto-es-lo-que-debe-saber-3577118",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a789d087a062.r_d.810-129-0.png",
+     "ts": 1786290376000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "La neerlandesa Demi Vollering gana el Tour de Francia Femenino",
+     "link": "https://www.france24.com/es/deportes/20260809-la-neerlandesa-demi-vollering-gana-el-tour-de-francia-femenino",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/e353675c-9414-11f1-b0fe-005056a90284/w:1024/p:16x9/2026-08-09T170508Z-1693649089-UP1EM891BGJSH-RTRMADP-3-CYCLING-FRANCE.jpg",
+     "ts": 1786295760000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Over 200 firefighters battle blaze in southern France",
+     "link": "https://www.scmp.com/news/world/europe/article/3363464/over-200-firefighters-battle-blaze-southern-france?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/f591d9cf-0409-4226-9cba-2c1950ae22d0_8e123391.jpg?itok=VjeDnuf_&v=1786295534",
+     "ts": 1786295625000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -952,7 +1078,7 @@
    "es": "Ucrania",
    "lat": 48.4,
    "lon": 31.2,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "\"Hasta 50.000 soldados norcoreanos han sido desplegados en Rusia\", denuncia Volodímir Zelenski",
@@ -971,69 +1097,6 @@
      "ts": 1786289160000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Un ataque ruso destruye un almacén humanitario de la OMS en Ucrania",
-     "link": "https://www.dw.com/es/un-ataque-ruso-destruye-un-almacén-humanitario-de-la-oms-en-ucrania/a-78297009?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786287900000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Canadá: evacuaciones masivas por incendio forestal en Columbia Británica",
-     "link": "https://www.france24.com/es/video/20260809-canad%C3%A1-evacuaciones-masivas-por-incendio-forestal-en-columbia-brit%C3%A1nica",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1e45a59c-9405-11f1-9f1c-005056bf30b7/w:1024/p:16x9/ES-20260809-070419-070547-CS.jpg",
-     "ts": 1786289124000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Canada: British Columbia wildfires burning out of control",
-     "link": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786285500000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 2,
-   "items": [
-    {
-     "title": "Syria, Russia agree to end military use of key Mediterranean bases",
-     "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/b9478836-9409-11f1-b6c6-005056bfb2b6/w:1024/p:16x9/2026-08-09T130436Z-699510682-RC2AMBABI4JU-RTRMADP-3-SYRIA-RUSSIA.jpg",
-     "ts": 1786291101000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Concerts of pro-Assad singers cancelled after protests in Syria",
-     "link": "https://www.france24.com/en/middle-east/20260807-concerts-pro-assad-singers-cancelled-syrian-public-protests",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/d2ae57bc-9000-11f1-983f-005056bfb2b6/w:1024/p:16x9/1-54.jpg",
-     "ts": 1786115254000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -1110,24 +1173,6 @@
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Germany news: Berlin to step up drone security research",
-     "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786291500000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Algeria",
    "es": "Argelia",
    "lat": 28.0,
@@ -1182,24 +1227,6 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 1,
-   "items": [
-    {
-     "title": "Pakistani grooming gang suspect ‘refuses to give date for return to UK’",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/09/rukhsar-ahmed-pakistan-grooming-gang-suspect-refuses-date-return-uk",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/96ad613a42d517a29d428310e8dd7925e10bfd85/0_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=0eeef7bb2dd157c54e8fb2f4eafb4625",
-     "ts": 1786290091000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Ecuador",
    "es": "Ecuador",
    "lat": -1.8,
@@ -1218,18 +1245,18 @@
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
+   "name": "Canada",
+   "es": "Canadá",
+   "lat": 56.1,
+   "lon": -106.3,
    "count": 1,
    "items": [
     {
-     "title": "Este lunes comienza el periodo sancionatorio para la nueva rotación del pico y placa en Medellín: esto es lo que debe saber",
-     "link": "https://www.eltiempo.com/colombia/medellin/este-lunes-comienza-el-periodo-sancionatorio-para-la-nueva-rotacion-del-pico-y-placa-en-medellin-esto-es-lo-que-debe-saber-3577118",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a789d087a062.r_d.810-129-0.png",
-     "ts": 1786290376000,
+     "title": "Canadá: evacuaciones masivas por incendio forestal en Columbia Británica",
+     "link": "https://www.france24.com/es/video/20260809-canad%C3%A1-evacuaciones-masivas-por-incendio-forestal-en-columbia-brit%C3%A1nica",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/1e45a59c-9405-11f1-9f1c-005056bf30b7/w:1024/p:16x9/ES-20260809-070419-070547-CS.jpg",
+     "ts": 1786289124000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
