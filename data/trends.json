@@ -1,12 +1,16 @@
 {
- "updated": "2026-08-09T09:04:50.313885+00:00",
+ "updated": "2026-08-09T09:59:04.951539+00:00",
  "terms": [
   {
    "term": "iran",
-   "count": 13
+   "count": 12
   },
   {
    "term": "saudi",
+   "count": 9
+  },
+  {
+   "term": "trump",
    "count": 8
   },
   {
@@ -18,15 +22,15 @@
    "count": 8
   },
   {
-   "term": "trump",
-   "count": 7
-  },
-  {
    "term": "alaska",
    "count": 7
   },
   {
    "term": "year",
+   "count": 6
+  },
+  {
+   "term": "arabia",
    "count": 6
   },
   {
@@ -42,7 +46,7 @@
    "count": 5
   },
   {
-   "term": "arabia",
+   "term": "china",
    "count": 5
   },
   {
@@ -66,10 +70,6 @@
    "count": 4
   },
   {
-   "term": "show",
-   "count": 4
-  },
-  {
    "term": "turns",
    "count": 4
   },
@@ -78,11 +78,11 @@
    "count": 4
   },
   {
-   "term": "south",
+   "term": "other",
    "count": 4
   },
   {
-   "term": "china",
+   "term": "south",
    "count": 4
   },
   {
@@ -125,7 +125,7 @@
  "entities": [
   {
    "name": "Iran",
-   "count": 13
+   "count": 12
   },
   {
    "name": "Turkey",
@@ -144,6 +144,14 @@
    "count": 5
   },
   {
+   "name": "Saudi Arabia",
+   "count": 4
+  },
+  {
+   "name": "Trump",
+   "count": 4
+  },
+  {
    "name": "Green",
    "count": 4
   },
@@ -160,7 +168,11 @@
    "count": 3
   },
   {
-   "name": "Saudi Arabia",
+   "name": "Yemen",
+   "count": 3
+  },
+  {
+   "name": "China",
    "count": 3
   },
   {
@@ -169,10 +181,6 @@
   },
   {
    "name": "Hormuz",
-   "count": 3
-  },
-  {
-   "name": "Trump",
    "count": 3
   },
   {
@@ -196,27 +204,19 @@
    "count": 2
   },
   {
+   "name": "Aramco",
+   "count": 2
+  },
+  {
+   "name": "Middle East",
+   "count": 2
+  },
+  {
    "name": "Indonesia",
    "count": 2
   },
   {
    "name": "South Africa",
-   "count": 2
-  },
-  {
-   "name": "China",
-   "count": 2
-  },
-  {
-   "name": "Typhoon Dolphin",
-   "count": 2
-  },
-  {
-   "name": "India",
-   "count": 2
-  },
-  {
-   "name": "Jetstar",
    "count": 2
   }
  ]
