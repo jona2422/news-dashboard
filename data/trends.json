@@ -1,9 +1,13 @@
 {
- "updated": "2026-08-09T10:54:55.368879+00:00",
+ "updated": "2026-08-09T11:48:27.583669+00:00",
  "terms": [
   {
    "term": "iran",
    "count": 11
+  },
+  {
+   "term": "trump",
+   "count": 9
   },
   {
    "term": "saudi",
@@ -20,10 +24,6 @@
   {
    "term": "pakistan",
    "count": 8
-  },
-  {
-   "term": "trump",
-   "count": 7
   },
   {
    "term": "fire",
@@ -50,11 +50,15 @@
    "count": 5
   },
   {
-   "term": "years",
+   "term": "israel",
    "count": 5
   },
   {
-   "term": "israel",
+   "term": "plan",
+   "count": 5
+  },
+  {
+   "term": "deal",
    "count": 5
   },
   {
@@ -62,7 +66,19 @@
    "count": 5
   },
   {
+   "term": "hong",
+   "count": 5
+  },
+  {
+   "term": "kong",
+   "count": 5
+  },
+  {
    "term": "song",
+   "count": 4
+  },
+  {
+   "term": "show",
    "count": 4
   },
   {
@@ -74,11 +90,19 @@
    "count": 4
   },
   {
-   "term": "other",
+   "term": "years",
    "count": 4
   },
   {
-   "term": "plan",
+   "term": "russian",
+   "count": 4
+  },
+  {
+   "term": "kill",
+   "count": 4
+  },
+  {
+   "term": "attack",
    "count": 4
   },
   {
@@ -94,38 +118,14 @@
    "count": 4
   },
   {
-   "term": "deal",
-   "count": 4
-  },
-  {
    "term": "houthi",
    "count": 4
-  },
-  {
-   "term": "defence",
-   "count": 4
-  },
-  {
-   "term": "hong",
-   "count": 4
-  },
-  {
-   "term": "kong",
-   "count": 4
-  },
-  {
-   "term": "historic",
-   "count": 3
-  },
-  {
-   "term": "wears",
-   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 10
+   "count": 11
   },
   {
    "name": "Alaska",
@@ -141,6 +141,14 @@
   },
   {
    "name": "Israel",
+   "count": 5
+  },
+  {
+   "name": "Trump",
+   "count": 5
+  },
+  {
+   "name": "Hong Kong",
    "count": 5
   },
   {
@@ -164,15 +172,19 @@
    "count": 4
   },
   {
-   "name": "Hong Kong",
-   "count": 4
-  },
-  {
    "name": "Year",
    "count": 3
   },
   {
-   "name": "West Bank",
+   "name": "Gaza",
+   "count": 3
+  },
+  {
+   "name": "Russian",
+   "count": 3
+  },
+  {
+   "name": "Yemeni",
    "count": 3
   },
   {
@@ -180,11 +192,15 @@
    "count": 3
   },
   {
-   "name": "Trump",
+   "name": "Typhoon Dolphin",
    "count": 3
   },
   {
    "name": "Hormuz",
+   "count": 3
+  },
+  {
+   "name": "Chinese",
    "count": 3
   },
   {
@@ -201,22 +217,6 @@
   },
   {
    "name": "The Devil Wears Prada",
-   "count": 2
-  },
-  {
-   "name": "Aspen",
-   "count": 2
-  },
-  {
-   "name": "Aramco",
-   "count": 2
-  },
-  {
-   "name": "Middle East",
-   "count": 2
-  },
-  {
-   "name": "Indonesia",
    "count": 2
   }
  ]
