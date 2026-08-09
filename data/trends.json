@@ -1,17 +1,29 @@
 {
- "updated": "2026-08-09T11:48:27.583669+00:00",
+ "updated": "2026-08-09T13:18:20.116440+00:00",
  "terms": [
+  {
+   "term": "trump",
+   "count": 12
+  },
   {
    "term": "iran",
    "count": 11
   },
   {
-   "term": "trump",
+   "term": "saudi",
+   "count": 11
+  },
+  {
+   "term": "plan",
    "count": 9
   },
   {
-   "term": "saudi",
+   "term": "pakistan",
    "count": 9
+  },
+  {
+   "term": "gaza",
+   "count": 8
   },
   {
    "term": "alaska",
@@ -22,12 +34,16 @@
    "count": 8
   },
   {
-   "term": "pakistan",
-   "count": 8
+   "term": "israel",
+   "count": 7
   },
   {
    "term": "fire",
    "count": 7
+  },
+  {
+   "term": "show",
+   "count": 6
   },
   {
    "term": "year",
@@ -38,7 +54,19 @@
    "count": 6
   },
   {
-   "term": "arabia",
+   "term": "rejects",
+   "count": 6
+  },
+  {
+   "term": "yemen",
+   "count": 6
+  },
+  {
+   "term": "attack",
+   "count": 6
+  },
+  {
+   "term": "pact",
    "count": 6
   },
   {
@@ -50,19 +78,31 @@
    "count": 5
   },
   {
-   "term": "israel",
+   "term": "other",
    "count": 5
   },
   {
-   "term": "plan",
+   "term": "kill",
    "count": 5
   },
   {
-   "term": "deal",
+   "term": "middle",
    "count": 5
   },
   {
-   "term": "pact",
+   "term": "east",
+   "count": 5
+  },
+  {
+   "term": "netanyahu",
+   "count": 5
+  },
+  {
+   "term": "defence",
+   "count": 5
+  },
+  {
+   "term": "arabia",
    "count": 5
   },
   {
@@ -74,58 +114,22 @@
    "count": 5
   },
   {
-   "term": "song",
-   "count": 4
-  },
-  {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "turns",
-   "count": 4
-  },
-  {
-   "term": "york",
-   "count": 4
-  },
-  {
-   "term": "years",
-   "count": 4
-  },
-  {
-   "term": "russian",
-   "count": 4
-  },
-  {
-   "term": "kill",
-   "count": 4
-  },
-  {
-   "term": "attack",
-   "count": 4
-  },
-  {
    "term": "green",
-   "count": 4
+   "count": 5
   },
   {
    "term": "forest",
-   "count": 4
-  },
-  {
-   "term": "notification",
-   "count": 4
-  },
-  {
-   "term": "houthi",
-   "count": 4
+   "count": 5
   }
  ],
  "entities": [
   {
    "name": "Iran",
    "count": 11
+  },
+  {
+   "name": "Pakistan",
+   "count": 9
   },
   {
    "name": "Alaska",
@@ -136,15 +140,31 @@
    "count": 8
   },
   {
-   "name": "Pakistan",
-   "count": 8
+   "name": "Gaza",
+   "count": 7
   },
   {
    "name": "Israel",
-   "count": 5
+   "count": 7
   },
   {
    "name": "Trump",
+   "count": 7
+  },
+  {
+   "name": "Saudi",
+   "count": 7
+  },
+  {
+   "name": "Yemen",
+   "count": 6
+  },
+  {
+   "name": "Middle East",
+   "count": 5
+  },
+  {
+   "name": "Netanyahu",
    "count": 5
   },
   {
@@ -152,19 +172,15 @@
    "count": 5
   },
   {
-   "name": "Saudi Arabia",
-   "count": 4
+   "name": "Green",
+   "count": 5
   },
   {
    "name": "China",
-   "count": 4
+   "count": 5
   },
   {
-   "name": "Green",
-   "count": 4
-  },
-  {
-   "name": "Saudi",
+   "name": "Houthis",
    "count": 4
   },
   {
@@ -176,27 +192,15 @@
    "count": 3
   },
   {
-   "name": "Gaza",
-   "count": 3
-  },
-  {
-   "name": "Russian",
-   "count": 3
-  },
-  {
    "name": "Yemeni",
    "count": 3
   },
   {
-   "name": "Yemen",
+   "name": "Saudi Arabia",
    "count": 3
   },
   {
-   "name": "Typhoon Dolphin",
-   "count": 3
-  },
-  {
-   "name": "Hormuz",
+   "name": "Estados Unidos",
    "count": 3
   },
   {
@@ -204,19 +208,15 @@
    "count": 3
   },
   {
-   "name": "TikTok",
-   "count": 2
-  },
-  {
-   "name": "Karol",
-   "count": 2
-  },
-  {
    "name": "New York City",
    "count": 2
   },
   {
    "name": "The Devil Wears Prada",
+   "count": 2
+  },
+  {
+   "name": "Aspen",
    "count": 2
   }
  ]
