@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T02:37:13.127353+00:00",
+ "updated": "2026-08-10T04:57:35.251120+00:00",
  "total": 126,
  "countries": [
   {
@@ -7,8 +7,35 @@
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 20,
+   "count": 17,
    "items": [
+    {
+     "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+     "link": "https://www.nber.org/papers/w35560",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1786334770000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Trump names Will Scharf as White House counsel ahead of midterms",
+     "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786334421000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "El futuro de Venezuela se dirime en una nueva negociación bajo el control de Estados Unidos",
+     "link": "https://elpais.com/america/2026-08-10/el-futuro-de-venezuela-se-dirime-en-una-nueva-negociacion-bajo-el-control-de-estados-unidos.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/LACIY4S4QBOGZAOSCY25EHEMPU.jpg?auth=3fee2ad657bad84c13d121078411365d21786b3289c3c64c632043bd0933bb9e",
+     "ts": 1786334400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
@@ -19,28 +46,10 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Trump designa a secretario personal de la Casa Blanca como su nuevo asistente",
-     "link": "https://www.prensa.com/mundo/trump-designa-a-secretario-personal-de-la-casa-blanca-como-su-nuevo-asistente/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/MUTLHHDBWFAGFALQMB55W6ZVDQ.png?auth=863ebe7dca408117fa24044e1365cc088d13edcca0896b7f2625a03addd261fc&smart=true&width=539&height=261",
-     "ts": 1786320000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Trump dice que EE.UU. está bajando la tensión con Irán",
-     "link": "https://www.dw.com/es/trump-dice-que-ee-uu-está-bajando-la-tensión-con-irán/a-78298290?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786318080000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
+     "title": "Trump taps loyal aide Scharf as new White House counsel",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3363471/trump-announces-staff-secretary-will-scharf-will-be-his-new-white-house-counsel?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/e7113eea-a4f0-4236-8969-e56aefacb348_8b72d945.jpg?itok=2nba5m_r&v=1786315859",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/5e0a34a0-b3c4-4e36-866c-e0d3f2c57785_8a82b11a.jpg?itok=lOg6SR9g&v=1786337504",
      "ts": 1786315929000,
      "beat": "china",
      "beatName": "China"
@@ -51,15 +60,6 @@
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/9c35e64e0b4daef2926f3caaeadeb3452ebd4f07/351_0_4303_3443/master/4303.jpg?width=140&quality=85&auto=format&fit=max&s=7bcfefd5283a0214531bb143e327fc42",
      "ts": 1786314511000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Crews battle wildfires in western U.S. and Canada",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1365+0+0/resize/2048x1365!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F1a%2F25dff22e4b5abfd60761833e67dd%2Fap26219766371487.jpg",
-     "ts": 1786312989000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -84,20 +84,119 @@
     {
      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
      "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-     "ts": 1786305648000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
      "ts": 1786305648000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Trump says US ‘low-keying it’ with Iran, playing down urgency over Hormuz",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3363467/trump-says-us-low-keying-it-iran-stresses-economic-pain?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/fdf0c6f8-e356-4bac-b067-0865ddfbeb72_1ff736f9.jpg?itok=SJlDoyqB&v=1786329847",
+     "ts": 1786301157000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "China",
+   "es": "China",
+   "lat": 35.9,
+   "lon": 104.2,
+   "count": 16,
+   "items": [
+    {
+     "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+     "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=140&quality=85&auto=format&fit=max&s=53b956814ed93fcd1cec473cc614d243",
+     "ts": 1786337718000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Beijing urged to win Indian hearts, Hong Kong’s hottest day: 5 weekend reads you missed",
+     "link": "https://www.scmp.com/news/world/article/3363474/beijing-urged-win-indian-hearts-hong-kongs-hottest-day-5-weekend-reads-you-missed?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/5642f3ec-bf71-446d-8c98-350d586ccc2d_76ef3d99.jpg?itok=EBB2FtOi&v=1786330451",
+     "ts": 1786336206000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "40% of flights grounded in Shanghai as long-lived Typhoon Dolphin moves north",
+     "link": "https://www.scmp.com/news/china/politics/article/3363486/40-flights-grounded-shanghai-long-lived-typhoon-dolphin-moves-north?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/13ed1def-cf71-4051-b367-a9678fb6fe5a_de01ad0d.jpg?itok=-8oSOvt3&v=1786336121",
+     "ts": 1786336199000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China releases powerful DNA-screening AI tool for free to help fight rare diseases",
+     "link": "https://www.scmp.com/news/china/science/article/3363246/china-releases-powerful-dna-screening-ai-tool-free-help-fight-rare-diseases?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/4b1f0d5f-e4ab-46fe-8a9e-be777bafee6b_cdf61c53.jpg?itok=k3wo5JWj&v=1786073916",
+     "ts": 1786334417000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong heatwave to persist before showers bring relief later this week",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3363483/hong-kong-heatwave-persist-showers-bring-relief-later-week?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/51f4d205-5a18-4799-b0e1-b4aa487191e2_6f7070ba.jpg?itok=79Wzd7vg&v=1786333841",
+     "ts": 1786333844000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+     "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=140&quality=85&auto=format&fit=max&s=53b956814ed93fcd1cec473cc614d243",
+     "ts": 1786333596000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Man with knife arrested after allegedly injuring 2 at Hong Kong housing estate",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363477/man-knife-arrested-after-allegedly-injuring-2-hong-kong-housing-estate?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/f5467384-e0d7-4f11-bce1-343dbc0b772f_3f6db874.jpg?itok=SNVbkM0W&v=1786332572",
+     "ts": 1786332574000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China’s civil aviation ambitions gain some lift",
+     "link": "https://www.scmp.com/plus/economy/china-economy/article/3363473/chinas-civil-aviation-ambitions-gain-some-lift?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/62e1e03a-a742-401b-8406-f673ed027226_65088a0d.jpg?itok=Mb8EO5Rj&v=1786330226",
+     "ts": 1786331660000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?",
+     "link": "https://www.scmp.com/business/banking-finance/article/3363352/china-tightens-its-tax-rules-can-hong-kong-remain-magnet-billionaires?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/a607a65e-5382-4eaf-9980-b14d537d6c7c_f2db8723.jpg?itok=-ol0pmFb&v=1786106723",
+     "ts": 1786327219000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China is using AI facial ID to track migrating fish in Tibet’s largest river",
+     "link": "https://www.scmp.com/news/china/science/article/3363112/china-using-ai-facial-id-track-migrating-fish-tibets-largest-river?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/bd425b93-6fc9-43f7-aaa8-8ece7967a489_0476888a.jpg?itok=LdbgI7JH&v=1785984289",
+     "ts": 1786327214000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -106,8 +205,35 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 14,
+   "count": 15,
    "items": [
+    {
+     "title": "Iran War:  Is Iran’s middle class being pushed into poverty?",
+     "link": "https://www.dw.com/en/iran-war-is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786337160000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump signals shift to economic pressure on Iran over new military strikes",
+     "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786333699000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+     "link": "https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DJOLVCOW55DXNBBVQSUCTM2RYE.jpg?auth=f1c63b9bdf400a9a9986b1fcd584539bc2c49f1f13c95c9c6f5cad586fc4572f",
+     "ts": 1786333500000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
@@ -116,15 +242,6 @@
      "ts": 1786320000000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump dice que EE.UU. está bajando la tensión con Irán",
-     "link": "https://www.dw.com/es/trump-dice-que-ee-uu-está-bajando-la-tensión-con-irán/a-78298290?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786318080000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Iran vows to keep Strait of Hormuz closed until US meets demands",
@@ -136,10 +253,10 @@
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Trump says US is ‘low-keying it’ with Iran, stresses economic pain",
+     "title": "Trump says US ‘low-keying it’ with Iran, playing down urgency over Hormuz",
      "link": "https://www.scmp.com/news/world/middle-east/article/3363467/trump-says-us-low-keying-it-iran-stresses-economic-pain?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/fc9c052d-59e0-4fb4-b8ce-d0e5e905e93a_2d55a24f.jpg?itok=SJCSxyMa&v=1786301091",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/fdf0c6f8-e356-4bac-b067-0865ddfbeb72_1ff736f9.jpg?itok=SJlDoyqB&v=1786329847",
      "ts": 1786301157000,
      "beat": "china",
      "beatName": "China"
@@ -163,15 +280,6 @@
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Iran says Oman deal is in ‘final stages’ but US must act to open Hormuz",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3363457/iran-says-oman-deal-final-stages-us-must-act-open-hormuz?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/02a2cb02-0dec-4c1c-9704-5592cd437846_8cc0db0c.jpg?itok=tGOe5CNo&v=1786286380",
-     "ts": 1786286381000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
      "title": "Iran, Oman near deal on Strait of Hormuz",
      "link": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
@@ -188,15 +296,6 @@
      "ts": 1786259210000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
-     "link": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9a2dd4d056c3cea5b1abce300c89805025bdd516/526_0_6002_4800/master/6002.jpg?width=140&quality=85&auto=format&fit=max&s=3d29fb4e31cea34b37d559f21a1b0e75",
-     "ts": 1786222888000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -205,8 +304,17 @@
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 13,
+   "count": 10,
    "items": [
+    {
+     "title": "Israel confirms death of Palestinian detainee, nearly two years late",
+     "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786330785000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
@@ -231,35 +339,8 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
      "ts": 1786310704000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
-     "ts": 1786310704000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786305777000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-     "ts": 1786305648000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
@@ -278,204 +359,6 @@
      "ts": 1786305293000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel’s Netanyahu rejects Trump’s Gaza plan endorsed by Hamas",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/7b13321c-4bcf-417f-8310-2877ce309258_bd0ce419.jpg?itok=I3rgYlh-&v=1786326442",
-     "ts": 1786288027000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Israel, US spar over Gaza withdrawal",
-     "link": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/ac58584a-93f4-11f1-a977-005056bfb2b6/w:1024/p:16x9/EN-20260809-140406-140556-CS.jpg",
-     "ts": 1786281642000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "China",
-   "es": "China",
-   "lat": 35.9,
-   "lon": 104.2,
-   "count": 11,
-   "items": [
-    {
-     "title": "As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?",
-     "link": "https://www.scmp.com/business/banking-finance/article/3363352/china-tightens-its-tax-rules-can-hong-kong-remain-magnet-billionaires?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/a607a65e-5382-4eaf-9980-b14d537d6c7c_f2db8723.jpg?itok=-ol0pmFb&v=1786106723",
-     "ts": 1786327219000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China is using AI facial ID to track migrating fish in Tibet’s largest river",
-     "link": "https://www.scmp.com/news/china/science/article/3363112/china-using-ai-facial-id-track-migrating-fish-tibets-largest-river?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/bd425b93-6fc9-43f7-aaa8-8ece7967a489_0476888a.jpg?itok=LdbgI7JH&v=1785984289",
-     "ts": 1786327214000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
-     "link": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7f3f1905457238e55fd967408caade46fd2ee195/458_0_4584_3669/master/4584.jpg?width=140&quality=85&auto=format&fit=max&s=748e278c68783aae8810664756726067",
-     "ts": 1786325053000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "\"Dolphin\" se debilita tras dejar 215.000 evacuados en China",
-     "link": "https://www.dw.com/es/dolphin-se-debilita-tras-dejar-215-000-evacuados-en-china/a-78298484?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786324560000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "China experts explain why hugging winter melons for cooling in summer can cause explosions",
-     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3363449/china-experts-explain-why-hugging-winter-melons-cooling-summer-can-cause-explosions?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/5b299da8-7546-4811-adf4-ae9f1ece3d87_954f6acf.jpg?itok=qDzSBe4x&v=1786275767",
-     "ts": 1786323614000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Youth membership in Hong Kong uniformed groups drops 8% over 5 years",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3363447/youth-membership-hong-kong-uniformed-groups-drops-8-over-5-years?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/29558f65-4376-4bb8-9833-699e0782f6e2_9fc6e584.jpg?itok=eDgWS0hR&v=1786273573",
-     "ts": 1786321812000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Historian Wang Gungwu on US credibility and why Xi thinks ‘only the party can save China’",
-     "link": "https://www.scmp.com/news/china/politics/article/3363431/historian-wang-gungwu-us-credibility-and-why-xi-thinks-only-party-can-save-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/df791095-f71d-4be6-8509-42e335271bc0_4f85eaf2.jpg?itok=OJCN4jeL&v=1786256505",
-     "ts": 1786312813000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Why Malaysia’s political turmoil matters to Beijing",
-     "link": "https://www.scmp.com/opinion/asia-opinion/article/3363000/why-malaysias-political-turmoil-matters-beijing?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/d20458ee-3b13-4050-8a9b-bf9db03b8788_dda95ad8.jpg?itok=TbiM9Sgi&v=1785902715",
-     "ts": 1786311006000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
-     "link": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3e8c6be8fd658a84e9988f87ef3012e3ac4d67ec/401_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c932cef553625465d51c20516ef83f91",
-     "ts": 1786299237000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China waits in wings as Mecca pact signals Gulf shift away from US security umbrella",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3363452/china-waits-wings-mecca-pact-signals-gulf-shift-away-us-security-umbrella?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/ca6e845a-4af0-413a-99e4-fa7b784d5d4d_80ddb66c.jpg?itok=7eieQOfr&v=1786277501",
-     "ts": 1786291209000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Palestine",
-   "es": "Palestina",
-   "lat": 31.9,
-   "lon": 35.2,
-   "count": 11,
-   "items": [
-    {
-     "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786320000000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu rejects Trump-backed Gaza peace plan",
-     "link": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786317060000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
-     "ts": 1786310704000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
-     "ts": 1786310704000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-     "ts": 1786305648000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-     "ts": 1786305648000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-     "ts": 1786305293000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel’s Netanyahu rejects Trump’s Gaza plan endorsed by Hamas",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/7b13321c-4bcf-417f-8310-2877ce309258_bd0ce419.jpg?itok=I3rgYlh-&v=1786326442",
-     "ts": 1786288027000,
-     "beat": "china",
-     "beatName": "China"
     },
     {
      "title": "Israel, US spar over Gaza withdrawal",
@@ -492,6 +375,114 @@
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/abdd7f34-93e6-11f1-a0c3-005056a90284/w:1024/p:16x9/AP26146678560200.jpg",
      "ts": 1786251689000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+     "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
+     "ts": 1786232624000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Travelling through Iran reveals mixed narratives about the US-Israel war",
+     "link": "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/59338bc0c4cd11737f88e637c6ba7b585bae4835/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b068c0be17b8f2f7c5209cc13b786791",
+     "ts": 1786165239000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Palestine",
+   "es": "Palestina",
+   "lat": 31.9,
+   "lon": 35.2,
+   "count": 9,
+   "items": [
+    {
+     "title": "Revisited: Andy Burnham apologises for Labour’s stance on Gaza – podcast",
+     "link": "https://www.theguardian.com/politics/audio/2026/aug/10/revisited-andy-burnham-apologises-for-labours-stance-on-gaza-podcast",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8e68db2a912eb234425cf078eefd8128a70f9b3b/0_0_3538_2828/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=e28d11c1cfcc7b2d0bf214f2ae9b17cd",
+     "ts": 1786334434000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786320000000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Netanyahu rejects Trump-backed Gaza peace plan",
+     "link": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786317060000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
+     "ts": 1786310704000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
+     "ts": 1786305648000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+     "ts": 1786305293000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel, US spar over Gaza withdrawal",
+     "link": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/ac58584a-93f4-11f1-a977-005056bfb2b6/w:1024/p:16x9/EN-20260809-140406-140556-CS.jpg",
+     "ts": 1786281642000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Netanyahu rejects US-backed Gaza plan as Trump board head calls it 'only way forward'",
+     "link": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/abdd7f34-93e6-11f1-a0c3-005056a90284/w:1024/p:16x9/AP26146678560200.jpg",
+     "ts": 1786251689000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+     "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
+     "ts": 1786232624000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -514,7 +505,7 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+     "title": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha",
      "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -548,6 +539,60 @@
      "ts": 1786135965000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 5,
+   "items": [
+    {
+     "title": "Reconfiguración de circuitos vuelve a la Asamblea: San Miguelito perdería una curul y Panamá Oeste ganaría dos",
+     "link": "https://www.prensa.com/politica/reconfiguracion-de-circuitos-vuelve-a-la-asamblea-san-miguelito-perderia-una-curul-y-panama-oeste-ganaria-dos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/MNVPTOPSCFFQBJGJHLRY4JLQNI.JPG?auth=faf40838ef185d363f050a48a5bf42c91520bcf286ff648da61e741f105a6666&smart=true&width=3984&height=2656",
+     "ts": 1786338240000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Panamá tiene 4.5 médicos intensivistas por cada 100,000 habitantes: necesita hasta 10",
+     "link": "https://www.prensa.com/sociedad/panama-tiene-45-medicos-intensivistas-por-cada-100000-habitantes-necesita-hasta-10/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/TG67VRL3BVD4ZLJ6WHUXTA74H4.JPG?auth=377c1846679ab17159dd087e0174675918f22125aa7711d1332c1a21ae7d4b4c&smart=true&width=6048&height=4032",
+     "ts": 1786338180000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "El camino que abrió el café geisha a Panamá",
+     "link": "https://www.prensa.com/economia/el-camino-que-abrio-el-cafe-geisha-a-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/Y4GBMXEIX5CCLHAQFNUDNOVUUQ.JPG?auth=b66996d80e8453eb34585cc1b2fe4cdc6a44dc37fbebb0ace933719b269e44db&smart=true&width=6720&height=4480",
+     "ts": 1786338000000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Cobre Panamá Y FEDHUPA ya siembran el futuro de más de 1,000 estudiantes panameños",
+     "link": "https://www.prensa.com/contenido-de-marcas/cobre-panama-y-fedhupa-ya-siembran-el-futuro-de-mas-de-1000-estudiantes-panamenos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/2A54DHO27JHFRISGX2YDG5O43A.jpg?auth=e8692d019ebce9789ae468c5dc43efab6477d55f333b72200817488deffe99af&smart=true&width=1920&height=1080",
+     "ts": 1786337340000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ocho empresas entran en la carrera por rehabilitar cuatro piscinas municipales en el distrito de Panamá",
+     "link": "https://www.prensa.com/sociedad/ocho-empresas-entran-en-la-carrera-por-rehabilitar-cuatro-piscinas-municipales-en-el-distrito-de-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/4PTECOOZNJBUHBX3DBGJZDL2O4.webp?auth=5cf3e2438fdffdf285f0f44ece9642481d738a33259b6ba0bf00f11354b6996e&smart=true&width=1280&height=768",
+     "ts": 1786337100000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -606,47 +651,47 @@
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
    "count": 4,
    "items": [
     {
-     "title": "Panamax 2026: Panamá y países aliados simulan asaltos aéreo y marítimo para proteger el Canal",
-     "link": "https://www.prensa.com/politica/panamax-2026-panama-y-paises-aliados-simulan-asaltos-aereo-y-maritimo-para-proteger-el-canal/",
+     "title": "España impone controles fronterizos a Italia y se agudiza la tensión entre Sánchez y Meloni por la llegada de migrantes a Ceuta",
+     "link": "https://www.prensa.com/mundo/espana-impone-controles-fronterizos-a-italia-y-se-agudiza-la-tension-entre-sanchez-y-meloni-por-la-llegada-de-migrantes-a-ceuta/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/QNX324PGGRBRZG2RWHTCZ2XX3M.jpg?auth=af44144b006450d6a9d0f957534ceeb500ce03bf12deb77ce7378ce8de4132d1&smart=true&width=1280&height=854",
-     "ts": 1786320600000,
+     "image": "https://www.prensa.com/resizer/v2/JSZOETGBDBHNBMZYJ6SR6APBQQ.jpg?auth=78431f50c3402ffcab5337ce677e67d2fd946f7e8d0af1b8fcd6767f84134c96&smart=true&width=1024&height=576",
+     "ts": 1786338060000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Panamá celebra su regreso al octavo lugar en los Juegos Centroamericanos y del Caribe",
-     "link": "https://www.prensa.com/deportes/panama-celebra-su-regreso-al-octavo-lugar-en-centroamericanos-y-del-caribe-60-anos-despues/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TWGP4CBAINHPBOGWVXUXYP66IE.JPG?auth=74c67345bb52dcb7dc9bad49a028d3e65c77eb39d4c30e1336276bf8a771e7d3&smart=true&width=1937&height=1229",
-     "ts": 1786315562000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Spain to introduce temporary border checks on visitors from Italy",
+     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
+     "ts": 1786139078000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Panamá activa la Operación ‘Escudo de Acero’ para reforzar la seguridad en la frontera con Colombia",
-     "link": "https://www.prensa.com/judiciales/panama-activa-la-operacion-escudo-de-acero-para-reforzar-la-seguridad-en-la-frontera-con-colombia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Q7HRVR7JERFHDORMSTJLONH7PM.jpg?auth=8817ab27f7b3f4e2852161e7ce8f42eb40893cd1a2f0a92f9c9711a576822102&smart=true&width=1600&height=900",
-     "ts": 1786311900000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "All-Night Art Heist in Italy Suspected to Be ‘Some Sort of Revenge’",
+     "link": "https://www.artnews.com/art-news/news/was-unusual-all-night-italian-heist-a-work-of-revenge-1234794571/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1786136046000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     },
     {
-     "title": "Maersk advierte que Panamá pierde terreno logístico y urge avanzar con Río Indio",
-     "link": "https://www.prensa.com/economia/maersk-advierte-que-panama-pierde-terreno-logistico-y-urge-avanzar-con-rio-indio/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/FJNFG5HYJVGLJDUV6ZM5F66SKQ.jpeg?auth=2b4d8c7b702c9e4e4fdddb2b08e92ad2aca6c99ac171a44ac72aa956412c1590&smart=true&width=3869&height=2176",
-     "ts": 1786311019000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Sprawling Nuclear Bunker in Italy Will Soon Be a Cold War Museum",
+     "link": "https://www.artnews.com/art-news/news/nuclear-bunker-italy-museum-1234794544/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1786127101000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -696,92 +741,29 @@
    ]
   },
   {
-   "name": "Italy",
-   "es": "Italia",
-   "lat": 41.9,
-   "lon": 12.6,
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
    "count": 3,
    "items": [
     {
-     "title": "Spain to introduce temporary border checks on visitors from Italy",
-     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
-     "ts": 1786139078000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "All-Night Art Heist in Italy Suspected to Be ‘Some Sort of Revenge’",
-     "link": "https://www.artnews.com/art-news/news/was-unusual-all-night-italian-heist-a-work-of-revenge-1234794571/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1786136046000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Sprawling Nuclear Bunker in Italy Will Soon Be a Cold War Museum",
-     "link": "https://www.artnews.com/art-news/news/nuclear-bunker-italy-museum-1234794544/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1786127101000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 3,
-   "items": [
-    {
-     "title": "Ejército desmiente a falso soldado viral en redes sociales que fue exaltado por el expresidente Gustavo Petro: 'No pertenece a la institución'",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/ejercito-desmiente-a-falso-soldado-viral-en-redes-sociales-que-fue-exaltado-por-el-expresidente-gustavo-petro-no-pertenece-a-la-institucion-3577180",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a7912b57a530.r_d.241-205-0.png",
-     "ts": 1786323750000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Panamá activa la Operación ‘Escudo de Acero’ para reforzar la seguridad en la frontera con Colombia",
-     "link": "https://www.prensa.com/judiciales/panama-activa-la-operacion-escudo-de-acero-para-reforzar-la-seguridad-en-la-frontera-con-colombia/",
+     "title": "Tres años bajo fuego: la vida de un panameño en la guerra entre Rusia y Ucrania",
+     "link": "https://www.prensa.com/politica/tres-anos-bajo-fuego-la-vida-de-un-panameno-en-la-guerra-entre-rusia-y-ucrania/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/Q7HRVR7JERFHDORMSTJLONH7PM.jpg?auth=8817ab27f7b3f4e2852161e7ce8f42eb40893cd1a2f0a92f9c9711a576822102&smart=true&width=1600&height=900",
-     "ts": 1786311900000,
+     "image": "https://www.prensa.com/resizer/v2/H6267EU7SNGIPGEIFGZHIFHI7U.jpg?auth=a1d6a19a846f4798c2d9b32e9a2a3a0fa912b0f6909f91b2df6be92ad19acd41&smart=true&width=866&height=633",
+     "ts": 1786338300000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Temblor hoy 9 de agosto en Colombia: epicentro, profundidad y detalles del sismo reportado esta tarde en Chocó",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-9-de-agosto-en-colombia-epicentro-profundidad-y-detalles-del-sismo-reportado-esta-tarde-en-choco-3577160",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/09/6a78df70d4b1d.png",
-     "ts": 1786307724000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 3,
-   "items": [
-    {
-     "title": "Siria anuncia un acuerdo sobre el destino de las bases rusas ubicadas en la costa mediterránea",
-     "link": "https://www.france24.com/es/medio-oriente/20260809-siria-anuncia-un-acuerdo-sobre-el-destino-de-las-bases-rusas-ubicadas-en-la-costa-mediterr%C3%A1nea",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5d714a1a-be1d-11ef-8a85-005056bfb2b6/w:1024/p:16x9/000_36QA282.jpg",
-     "ts": 1786313041000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Russia and Ukraine exchange strikes, leaving 7 dead and dozens injured",
+     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363468/russia-and-ukraine-exchange-overnight-strikes-leave-7-dead-many-injured?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/a8dd262b-89a6-483a-ac7c-1e29671d1eb0_95075be0.jpg?itok=I9QH_Zu8&v=1786331287",
+     "ts": 1786306053000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
      "title": "Syria, Russia agree to end military use of key Mediterranean bases",
@@ -791,13 +773,76 @@
      "ts": 1786291101000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 3,
+   "items": [
+    {
+     "title": "España impone controles fronterizos a Italia y se agudiza la tensión entre Sánchez y Meloni por la llegada de migrantes a Ceuta",
+     "link": "https://www.prensa.com/mundo/espana-impone-controles-fronterizos-a-italia-y-se-agudiza-la-tension-entre-sanchez-y-meloni-por-la-llegada-de-migrantes-a-ceuta/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/JSZOETGBDBHNBMZYJ6SR6APBQQ.jpg?auth=78431f50c3402ffcab5337ce677e67d2fd946f7e8d0af1b8fcd6767f84134c96&smart=true&width=1024&height=576",
+     "ts": 1786338060000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Concerts of pro-Assad singers cancelled after protests in Syria",
-     "link": "https://www.france24.com/en/middle-east/20260807-concerts-pro-assad-singers-cancelled-syrian-public-protests",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/d2ae57bc-9000-11f1-983f-005056bfb2b6/w:1024/p:16x9/1-54.jpg",
-     "ts": 1786115254000,
+     "title": "Firefighters battle raging wildfires in parts of France and Spain",
+     "link": "https://www.scmp.com/news/world/europe/article/3363464/over-200-firefighters-battle-blaze-southern-france?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/f591d9cf-0409-4226-9cba-2c1950ae22d0_8e123391.jpg?itok=VjeDnuf_&v=1786295534",
+     "ts": 1786295625000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Spain to introduce temporary border checks on visitors from Italy",
+     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
+     "ts": 1786139078000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Saudi Arabia",
+   "es": "Arabia Saudita",
+   "lat": 23.9,
+   "lon": 45.1,
+   "count": 3,
+   "items": [
+    {
+     "title": "Los prisioneros desesperados que llaman a la BBC desde el corredor de la muerte en Arabia Saudita",
+     "link": "https://www.bbc.com/mundo/articles/c79g7y28vrzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f06/live/74ae3130-8a6c-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1786334360000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+     "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
+     "ts": 1786288288000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+     "ts": 1786124574000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -811,20 +856,47 @@
    "count": 2,
    "items": [
     {
-     "title": "Australia news live: Malcolm Turnbull says trusting Aukus is ‘stark staring bonkers’; Laneway festival to skip two cities next year",
+     "title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Icac witness says his wife is having contractions",
      "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c9694e61baccae3ecbf96c90922c72abf160b040/744_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=dafe30ffbcdf7a70ea8ef8d380c7020b",
-     "ts": 1786329173000,
+     "image": "https://i.guim.co.uk/img/media/8cada91fc66730d41f73d5404006b5d61ba2d2f3/13_0_1033_826/master/1033.jpg?width=140&quality=85&auto=format&fit=max&s=8a7954e27a622c08a7cda57c2909f1c1",
+     "ts": 1786336572000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fd9a9ef5603a1a8b1cb43452ae04657f38c22e5b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=77bfc17fbe81de5a3f0c4be157d70bad",
-     "ts": 1786287618000,
+     "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+     "link": "https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/DJOLVCOW55DXNBBVQSUCTM2RYE.jpg?auth=f1c63b9bdf400a9a9986b1fcd584539bc2c49f1f13c95c9c6f5cad586fc4572f",
+     "ts": 1786333500000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Canada",
+   "es": "Canadá",
+   "lat": 56.1,
+   "lon": -106.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+     "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1786332831000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Canada’s British Columbia gets federal help as wildfire forces evacuations",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3363470/canadian-province-get-federal-help-wildfire-forces-evacuations?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/47ff57d7-5308-4f9c-93e7-46f3603665c4_b0a64b61.jpg?itok=4lX8pCes&v=1786314097",
+     "ts": 1786314164000,
      "beat": "china",
      "beatName": "China"
     }
@@ -858,114 +930,6 @@
    ]
   },
   {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-     "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1786321066000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Crews battle wildfires in western U.S. and Canada",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1365+0+0/resize/2048x1365!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F1a%2F25dff22e4b5abfd60761833e67dd%2Fap26219766371487.jpg",
-     "ts": 1786312989000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "Demi Vollering wins Tour de France for the 2nd time",
-     "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5685x3790+0+0/resize/5685x3790!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F7d%2Fa2e10c5d4ecc8b97a9c5b36a048d%2Fap26221641613588.jpg",
-     "ts": 1786312852000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Over 200 firefighters battle blaze in southern France",
-     "link": "https://www.scmp.com/news/world/europe/article/3363464/over-200-firefighters-battle-blaze-southern-france?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/f591d9cf-0409-4226-9cba-2c1950ae22d0_8e123391.jpg?itok=VjeDnuf_&v=1786295534",
-     "ts": 1786295625000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Ireland",
-   "es": "Irlanda",
-   "lat": 53.4,
-   "lon": -8.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-     "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537f/live/d4535820-9437-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1786310816000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Alleged Irish crime boss charged in Dublin after extradition from Dubai",
-     "link": "https://www.scmp.com/news/world/europe/article/3363466/suspected-irish-crime-boss-lands-dublin-after-being-extradited-dubai?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/aee045b3-e773-4ec4-90f8-d86ca0598e7e_55311914.jpg?itok=zeXY8b6r&v=1786322978",
-     "ts": 1786299456000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 2,
-   "items": [
-    {
-     "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-     "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786308025000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Cologne marches for queer community after Berlin Pride attack",
-     "link": "https://www.scmp.com/news/world/europe/article/3363463/cologne-marches-queer-community-after-berlin-pride-attack?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/415ab426-a103-454c-b7f8-e5ce113625b6_c2f1aff8.jpg?itok=meyLm1Mr&v=1786294600",
-     "ts": 1786294654000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Ukraine",
    "es": "Ucrania",
    "lat": 48.4,
@@ -973,19 +937,19 @@
    "count": 2,
    "items": [
     {
-     "title": "Perú anuncia la muerte de once connacionales que luchaban en el Ejército ruso contra Ucrania",
-     "link": "https://www.prensa.com/mundo/peru-anuncia-la-muerte-de-once-connacionales-que-luchaban-en-el-ejercito-ruso-contra-ucrania/",
+     "title": "Tres años bajo fuego: la vida de un panameño en la guerra entre Rusia y Ucrania",
+     "link": "https://www.prensa.com/politica/tres-anos-bajo-fuego-la-vida-de-un-panameno-en-la-guerra-entre-rusia-y-ucrania/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ZWLGR7WO7ZB6NACHQGFA2X2HIM.jpg?auth=64d429f36cde672cde127223b1ee735af39c1688828ff2ffefe8463bbc1fe369&smart=true&width=1920&height=1280",
-     "ts": 1786311060000,
+     "image": "https://www.prensa.com/resizer/v2/H6267EU7SNGIPGEIFGZHIFHI7U.jpg?auth=a1d6a19a846f4798c2d9b32e9a2a3a0fa912b0f6909f91b2df6be92ad19acd41&smart=true&width=866&height=633",
+     "ts": 1786338300000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Russia and Ukraine exchange overnight strikes that leave 7 dead, many injured",
+     "title": "Russia and Ukraine exchange strikes, leaving 7 dead and dozens injured",
      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363468/russia-and-ukraine-exchange-overnight-strikes-leave-7-dead-many-injured?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/7f13dec4-2505-4dbb-8aaf-6c1dcbf22996_db8dc335.jpg?itok=fukWUUF9&v=1786305988",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/a8dd262b-89a6-483a-ac7c-1e29671d1eb0_95075be0.jpg?itok=I9QH_Zu8&v=1786331287",
      "ts": 1786306053000,
      "beat": "china",
      "beatName": "China"
@@ -993,56 +957,56 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
+   "name": "Malaysia",
+   "es": "Malasia",
+   "lat": 4.2,
+   "lon": 102.0,
    "count": 2,
    "items": [
     {
-     "title": "Russia and Ukraine exchange overnight strikes that leave 7 dead, many injured",
-     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363468/russia-and-ukraine-exchange-overnight-strikes-leave-7-dead-many-injured?utm_source=rss_feed",
+     "title": "Haze returns to Malaysia’s Sarawak, Selangor as Indonesian wildfires burn out of control",
+     "link": "https://www.scmp.com/week-asia/health-environment/article/3363488/haze-returns-malaysias-sarawak-selangor-indonesian-wildfires-burn-out-control?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/7f13dec4-2505-4dbb-8aaf-6c1dcbf22996_db8dc335.jpg?itok=fukWUUF9&v=1786305988",
-     "ts": 1786306053000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/3e678884-efcc-40d0-b6fc-b3e72152d869_57d25bd3.jpg?itok=uIZ4i2TV&v=1786337015",
+     "ts": 1786337022000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Syria, Russia agree to end military use of key Mediterranean bases",
-     "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/b9478836-9409-11f1-b6c6-005056bfb2b6/w:1024/p:16x9/2026-08-09T130436Z-699510682-RC2AMBABI4JU-RTRMADP-3-SYRIA-RUSSIA.jpg",
-     "ts": 1786291101000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Why Malaysia’s political turmoil matters to Beijing",
+     "link": "https://www.scmp.com/opinion/asia-opinion/article/3363000/why-malaysias-political-turmoil-matters-beijing?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/d20458ee-3b13-4050-8a9b-bf9db03b8788_dda95ad8.jpg?itok=TbiM9Sgi&v=1785902715",
+     "ts": 1786311006000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
   {
-   "name": "Saudi Arabia",
-   "es": "Arabia Saudita",
-   "lat": 23.9,
-   "lon": 45.1,
+   "name": "Indonesia",
+   "es": "Indonesia",
+   "lat": -0.8,
+   "lon": 113.9,
    "count": 2,
    "items": [
     {
-     "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-     "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
-     "ts": 1786288288000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Indonesia’s Mount Bromo wildfire put out but new fires threaten in unusually dry season",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363481/indonesias-mount-bromo-wildfire-put-out-new-fires-threaten-unusually-dry-season?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/f858b60c-7e23-4abf-9045-27a7d5e20f22_f0a538b0.jpg?itok=_63G5oR2&v=1786333324",
+     "ts": 1786333328000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-     "ts": 1786124574000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Indonesia’s strong GDP data prompts ‘resilient but uneven’ growth forecasts",
+     "link": "https://www.scmp.com/week-asia/economics/article/3363276/indonesias-strong-gdp-data-prompts-resilient-uneven-growth-forecasts?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/5a579c79-f9c2-4bf3-8f36-1a0742cada4a_99654ed0.jpg?itok=OMT_My-1&v=1786088908",
+     "ts": 1786320019000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -1083,6 +1047,24 @@
    ]
   },
   {
+   "name": "Iraq",
+   "es": "Irak",
+   "lat": 33.2,
+   "lon": 43.7,
+   "count": 1,
+   "items": [
+    {
+     "title": "Clashes in Iraq’s Kut city during protests over power shortages",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786331039000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Morocco",
    "es": "Marruecos",
    "lat": 31.8,
@@ -1101,54 +1083,72 @@
    ]
   },
   {
-   "name": "Ecuador",
-   "es": "Ecuador",
-   "lat": -1.8,
-   "lon": -78.2,
+   "name": "Cuba",
+   "es": "Cuba",
+   "lat": 21.5,
+   "lon": -77.8,
    "count": 1,
    "items": [
     {
-     "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
-     "link": "https://www.prensa.com/mundo/ecuador-imputa-a-un-exministro-y-otras-6-personas-en-el-caso-del-asesinato-del-candidato-presidencial-fernando-villavicencio/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/CWHXLMBF6VA37G7ZISI675J2LY.jpg?auth=824677e6edcfe481a3511240eebff4f1ad114b46fd3b6972580cfbbd8c62366a&smart=true&width=4953&height=2787",
-     "ts": 1786324685000,
+     "title": "Capitalismo a lo castrista: La Habana promete cambios económicos, sin ceder el control político",
+     "link": "https://elpais.com/us/2026-08-10/capitalismo-a-lo-castrista-la-habana-promete-cambios-economicos-sin-ceder-el-control-politico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/OD6BXV65XRPRFJDXWVLP5FWXEM.jpg?auth=6a44d9bd7aab7169236e0baab5259b0b054b349fef2a23cb1e3ee47db2403ea2",
+     "ts": 1786334400000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Lebanon",
-   "es": "Líbano",
-   "lat": 33.9,
-   "lon": 35.9,
+   "name": "Venezuela",
+   "es": "Venezuela",
+   "lat": 6.4,
+   "lon": -66.6,
    "count": 1,
    "items": [
     {
-     "title": "Líbano suma 4.335 muertos desde inicio de ofensiva israelí",
-     "link": "https://www.dw.com/es/líbano-suma-4-335-muertos-desde-inicio-de-ofensiva-israelí/a-78298310?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786320300000,
+     "title": "El futuro de Venezuela se dirime en una nueva negociación bajo el control de Estados Unidos",
+     "link": "https://elpais.com/america/2026-08-10/el-futuro-de-venezuela-se-dirime-en-una-nueva-negociacion-bajo-el-control-de-estados-unidos.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/LACIY4S4QBOGZAOSCY25EHEMPU.jpg?auth=3fee2ad657bad84c13d121078411365d21786b3289c3c64c632043bd0933bb9e",
+     "ts": 1786334400000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Puerto Rico",
-   "es": "Puerto Rico",
-   "lat": 18.2,
-   "lon": -66.5,
+   "name": "El Salvador",
+   "es": "El Salvador",
+   "lat": 13.8,
+   "lon": -88.9,
    "count": 1,
    "items": [
     {
-     "title": "Puerto Rico raciona el suministro de agua en medio de una intensa sequía",
-     "link": "https://www.bbc.com/mundo/articles/c5ydjegg35xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
-     "ts": 1786314715000,
+     "title": "Juicios masivos sin garantías en El Salvador: “Los jueces tienen miedo, los están condenando a todos”",
+     "link": "https://elpais.com/america/2026-08-10/juicios-masivos-sin-garantias-en-el-salvador-los-jueces-tienen-miedo-los-estan-condenando-a-todos.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/ZBG6MN5HLJGNNOULLHU3NILIS4.jpg?auth=f14f96f9c82f306b642c4c3b08c5d1bbc55199c0ad42b405d53f09993da02ba2",
+     "ts": 1786334400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Mexico",
+   "es": "México",
+   "lat": 23.6,
+   "lon": -102.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "El escándalo de la UNAM exhibe las grietas del sistema de educación superior de México",
+     "link": "https://elpais.com/mexico/2026-08-10/el-escandalo-de-la-unam-exhibe-las-grietas-del-sistema-de-educacion-superior-de-mexico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/VSE7FW725FKTBPC5GVMQELB5VY.jpg?auth=d5437a63ea196d2c4b49853bc231c4f51388f0777e88143c478d451194c872f9",
+     "ts": 1786334400000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1162,49 +1162,49 @@
    "count": 1,
    "items": [
     {
-     "title": "Perú anuncia la muerte de once connacionales que luchaban en el Ejército ruso contra Ucrania",
-     "link": "https://www.prensa.com/mundo/peru-anuncia-la-muerte-de-once-connacionales-que-luchaban-en-el-ejercito-ruso-contra-ucrania/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ZWLGR7WO7ZB6NACHQGFA2X2HIM.jpg?auth=64d429f36cde672cde127223b1ee735af39c1688828ff2ffefe8463bbc1fe369&smart=true&width=1920&height=1280",
-     "ts": 1786311060000,
+     "title": "El museo de la memoria de Perú se llena ante el regreso del fujimorismo al poder",
+     "link": "https://elpais.com/america/2026-08-10/el-museo-de-la-memoria-de-peru-se-llena-ante-el-regreso-del-fujimorismo-al-poder.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/6XXDUPDN5BHUVERFR6YOHQLRVE.JPG?auth=37fdc31f105e46dc6156d9e63b1b7ac319e8f3adc62431f3ad6de8f217112f56",
+     "ts": 1786334400000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
    "count": 1,
    "items": [
     {
-     "title": "Spain to introduce temporary border checks on visitors from Italy",
-     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d9d12ea053a60daef93690c6b69b1cdb",
-     "ts": 1786139078000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Menos anticoncepción, Estado ausente: el costo humano del ajuste de Milei",
+     "link": "https://elpais.com/actualidad/newsletter-americanas/2026-08-10/menos-anticoncepcion-estado-ausente-el-costo-humano-del-ajuste-de-milei.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/RMDIY55SXLHYO5ZDVSHPWN7JCA.jpg?auth=fc7dff8bc7b87f1c98df75f808531640737b5e38835acea32be79a96d58977c1",
+     "ts": 1786334400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
    "count": 1,
    "items": [
     {
-     "title": "Indonesia’s strong GDP data prompts ‘resilient but uneven’ growth forecasts",
-     "link": "https://www.scmp.com/week-asia/economics/article/3363276/indonesias-strong-gdp-data-prompts-resilient-uneven-growth-forecasts?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/5a579c79-f9c2-4bf3-8f36-1a0742cada4a_99654ed0.jpg?itok=OMT_My-1&v=1786088908",
-     "ts": 1786320019000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Syria, Russia agree to end military use of key Mediterranean bases",
+     "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/b9478836-9409-11f1-b6c6-005056bfb2b6/w:1024/p:16x9/2026-08-09T130436Z-699510682-RC2AMBABI4JU-RTRMADP-3-SYRIA-RUSSIA.jpg",
+     "ts": 1786291101000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -1216,10 +1216,10 @@
    "count": 1,
    "items": [
     {
-     "title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
+     "title": "UK’s Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
      "link": "https://www.scmp.com/news/world/europe/article/3363469/uk-pm-burnham-vows-end-subscription-traps-amid-cost-living-crisis?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/94294fe0-4d56-4638-8d69-2c3f8c341645_7ce85210.jpg?itok=6OZxOnRV&v=1786313273",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/94294fe0-4d56-4638-8d69-2c3f8c341645_1d3df158.jpg?itok=b24MxtvF&v=1786335675",
      "ts": 1786313326000,
      "beat": "china",
      "beatName": "China"
@@ -1227,36 +1227,54 @@
    ]
   },
   {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
+   "name": "Ireland",
+   "es": "Irlanda",
+   "lat": 53.4,
+   "lon": -8.2,
    "count": 1,
    "items": [
     {
-     "title": "Why Malaysia’s political turmoil matters to Beijing",
-     "link": "https://www.scmp.com/opinion/asia-opinion/article/3363000/why-malaysias-political-turmoil-matters-beijing?utm_source=rss_feed",
+     "title": "Alleged Irish crime boss charged in Dublin after extradition from Dubai",
+     "link": "https://www.scmp.com/news/world/europe/article/3363466/suspected-irish-crime-boss-lands-dublin-after-being-extradited-dubai?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/d20458ee-3b13-4050-8a9b-bf9db03b8788_dda95ad8.jpg?itok=TbiM9Sgi&v=1785902715",
-     "ts": 1786311006000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/aee045b3-e773-4ec4-90f8-d86ca0598e7e_55311914.jpg?itok=zeXY8b6r&v=1786322978",
+     "ts": 1786299456000,
      "beat": "china",
      "beatName": "China"
     }
    ]
   },
   {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
    "count": 1,
    "items": [
     {
-     "title": "Air India pilot undergoes ‘confirmatory’ drug test after flight plunge",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3363459/air-india-pilot-undergoes-confirmatory-drug-test-after-flight-plunge?utm_source=rss_feed",
+     "title": "Firefighters battle raging wildfires in parts of France and Spain",
+     "link": "https://www.scmp.com/news/world/europe/article/3363464/over-200-firefighters-battle-blaze-southern-france?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/a024f641-b843-4d8d-8164-62be72a2b361_0e7a3b68.jpg?itok=Hg6Xprqx&v=1786288590",
-     "ts": 1786288592000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/f591d9cf-0409-4226-9cba-2c1950ae22d0_8e123391.jpg?itok=VjeDnuf_&v=1786295534",
+     "ts": 1786295625000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "Cologne marches for queer community after Berlin Pride attack",
+     "link": "https://www.scmp.com/news/world/europe/article/3363463/cologne-marches-queer-community-after-berlin-pride-attack?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/415ab426-a103-454c-b7f8-e5ce113625b6_c2f1aff8.jpg?itok=meyLm1Mr&v=1786294600",
+     "ts": 1786294654000,
      "beat": "china",
      "beatName": "China"
     }
