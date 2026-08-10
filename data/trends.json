@@ -1,48 +1,48 @@
 {
- "updated": "2026-08-10T15:18:32.962235+00:00",
+ "updated": "2026-08-10T17:11:41.895528+00:00",
  "terms": [
   {
    "term": "colombia",
-   "count": 18
+   "count": 20
   },
   {
-   "term": "iran",
-   "count": 13
+   "term": "terremoto",
+   "count": 18
   },
   {
    "term": "trump",
    "count": 12
   },
   {
-   "term": "terremoto",
+   "term": "iran",
    "count": 12
-  },
-  {
-   "term": "gaza",
-   "count": 10
   },
   {
    "term": "china",
    "count": 10
   },
   {
-   "term": "plan",
+   "term": "gaza",
    "count": 9
   },
   {
-   "term": "netanyahu",
-   "count": 8
+   "term": "2026",
+   "count": 7
+  },
+  {
+   "term": "other",
+   "count": 7
   },
   {
    "term": "earthquake",
    "count": 7
   },
   {
-   "term": "sismo",
+   "term": "plan",
    "count": 7
   },
   {
-   "term": "show",
+   "term": "years",
    "count": 6
   },
   {
@@ -50,15 +50,27 @@
    "count": 6
   },
   {
-   "term": "years",
-   "count": 5
-  },
-  {
-   "term": "2026",
-   "count": 5
-  },
-  {
    "term": "russia",
+   "count": 6
+  },
+  {
+   "term": "israel",
+   "count": 6
+  },
+  {
+   "term": "netanyahu",
+   "count": 6
+  },
+  {
+   "term": "tour",
+   "count": 5
+  },
+  {
+   "term": "show",
+   "count": 5
+  },
+  {
+   "term": "least",
    "count": 5
   },
   {
@@ -66,15 +78,19 @@
    "count": 5
   },
   {
+   "term": "muertos",
+   "count": 5
+  },
+  {
    "term": "green",
    "count": 5
   },
   {
-   "term": "other",
+   "term": "launch",
    "count": 4
   },
   {
-   "term": "song",
+   "term": "latest",
    "count": 4
   },
   {
@@ -82,35 +98,11 @@
    "count": 4
   },
   {
-   "term": "hits",
+   "term": "drone",
    "count": 4
   },
   {
-   "term": "open",
-   "count": 4
-  },
-  {
-   "term": "least",
-   "count": 4
-  },
-  {
-   "term": "point",
-   "count": 4
-  },
-  {
-   "term": "muertos",
-   "count": 4
-  },
-  {
-   "term": "fuerte",
-   "count": 4
-  },
-  {
-   "term": "panamá",
-   "count": 4
-  },
-  {
-   "term": "alaska",
+   "term": "personas",
    "count": 4
   },
   {
@@ -120,36 +112,52 @@
   {
    "term": "fire",
    "count": 4
+  },
+  {
+   "term": "notification",
+   "count": 4
+  },
+  {
+   "term": "deal",
+   "count": 4
   }
  ],
  "entities": [
   {
    "name": "Colombia",
-   "count": 18
+   "count": 20
   },
   {
    "name": "Iran",
-   "count": 13
+   "count": 12
   },
   {
-   "name": "Gaza",
-   "count": 10
+   "name": "China",
+   "count": 9
   },
   {
    "name": "Trump",
    "count": 9
   },
   {
-   "name": "China",
+   "name": "Gaza",
+   "count": 9
+  },
+  {
+   "name": "Terremoto",
    "count": 8
   },
   {
-   "name": "Netanyahu",
-   "count": 7
+   "name": "Russia",
+   "count": 6
   },
   {
-   "name": "Russia",
-   "count": 5
+   "name": "Israel",
+   "count": 6
+  },
+  {
+   "name": "Netanyahu",
+   "count": 6
   },
   {
    "name": "Hormuz",
@@ -160,31 +168,27 @@
    "count": 5
   },
   {
-   "name": "Panamá",
-   "count": 4
-  },
-  {
-   "name": "Alaska",
-   "count": 4
-  },
-  {
-   "name": "Israel",
-   "count": 4
-  },
-  {
    "name": "Hong Kong",
    "count": 4
   },
   {
-   "name": "Cali",
+   "name": "Magnitude",
    "count": 3
   },
   {
-   "name": "Terremoto",
+   "name": "Valle",
+   "count": 3
+  },
+  {
+   "name": "Cauca",
    "count": 3
   },
   {
    "name": "Pereira",
+   "count": 3
+  },
+  {
+   "name": "Alaska",
    "count": 3
   },
   {
@@ -204,19 +208,15 @@
    "count": 3
   },
   {
+   "name": "Open",
+   "count": 2
+  },
+  {
    "name": "The Devil Wears Prada",
    "count": 2
   },
   {
-   "name": "Steam",
-   "count": 2
-  },
-  {
-   "name": "India",
-   "count": 2
-  },
-  {
-   "name": "Ukraine",
+   "name": "Show HN",
    "count": 2
   }
  ]
