@@ -1,8 +1,17 @@
 {
- "updated": "2026-08-11T17:15:47.544054+00:00",
- "count": 235,
- "max": 4.8,
+ "updated": "2026-08-11T18:11:01.009358+00:00",
+ "count": 238,
+ "max": 5,
  "items": [
+  {
+   "mag": 5,
+   "place": "107 km WNW of Kerema, Papua New Guinea",
+   "time": 1786467978902,
+   "lon": 144.8583,
+   "lat": -7.6341,
+   "depth": 10,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0a"
+  },
   {
    "mag": 4.8,
    "place": "Pulau Pulau Tanimbar, Indonesia",
@@ -20,6 +29,15 @@
    "lat": -4.4801,
    "depth": 61.94,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
+  },
+  {
+   "mag": 4.6,
+   "place": "7 km W of Lunca Jariștei, Romania",
+   "time": 1786468875884,
+   "lon": 26.1598,
+   "lat": 45.487,
+   "depth": 140.003,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0c"
   },
   {
    "mag": 4.6,
@@ -148,15 +166,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjuw"
   },
   {
-   "mag": 3.6,
-   "place": "Rat Islands, Aleutian Islands, Alaska",
-   "time": 1786385368875,
-   "lon": 177.528,
-   "lat": 50.102,
-   "depth": 26.5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptpegj"
-  },
-  {
    "mag": 3.4,
    "place": "41 km SSW of Karluk, Alaska",
    "time": 1786458494346,
@@ -184,22 +193,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148271"
   },
   {
-   "mag": 3.2,
+   "mag": 3.1,
    "place": "5 km WSW of Harrah, Washington",
-   "time": 1786465432590,
-   "lon": -120.613,
-   "lat": 46.392,
-   "depth": 11.21,
+   "time": 1786465432580,
+   "lon": -120.609,
+   "lat": 46.3901666666667,
+   "depth": 11.81,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714075502"
-  },
-  {
-   "mag": 3.2,
-   "place": "134 km ESE of Atka, Alaska",
-   "time": 1786385328684,
-   "lon": -172.274,
-   "lat": 51.955,
-   "depth": 5.2,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptpead"
   },
   {
    "mag": 3.1,
@@ -329,6 +329,15 @@
   },
   {
    "mag": 2.4,
+   "place": "6 km NW of The Geysers, CA",
+   "time": 1786468852600,
+   "lon": -122.805999755859,
+   "lat": 38.8196678161621,
+   "depth": 2.90000009536743,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415997"
+  },
+  {
+   "mag": 2.4,
    "place": "Gulf of Alaska",
    "time": 1786449546365,
    "lon": -143.08,
@@ -362,15 +371,6 @@
    "lat": 19.219165802002,
    "depth": 28.4099998474121,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017471"
-  },
-  {
-   "mag": 2.4,
-   "place": "85 km SE of Ugashik, Alaska",
-   "time": 1786382482585,
-   "lon": -156.402,
-   "lat": 56.971,
-   "depth": 73.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptnonn"
   },
   {
    "mag": 2.3,
@@ -524,15 +524,6 @@
    "lat": 19.3063335418701,
    "depth": 26.6700000762939,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017416"
-  },
-  {
-   "mag": 2.0,
-   "place": "45 km ESE of Naalehu, Hawaii",
-   "time": 1786384426310,
-   "lon": -155.201171875,
-   "lat": 18.863000869751,
-   "depth": 42.4599990844727,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017371"
   },
   {
    "mag": 1.9,
@@ -695,6 +686,15 @@
    "lat": 19.1459999084473,
    "depth": 28.9899997711182,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017876"
+  },
+  {
+   "mag": 1.8,
+   "place": "10 km W of Pyote, Texas",
+   "time": 1786447922856,
+   "lon": -103.237,
+   "lat": 31.545,
+   "depth": 1.8958,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pskdsl"
   },
   {
    "mag": 1.8,
@@ -1076,6 +1076,15 @@
   },
   {
    "mag": 1.4,
+   "place": "8 km ESE of Cloverdale, CA",
+   "time": 1786468767740,
+   "lon": -122.932830810547,
+   "lat": 38.7770004272461,
+   "depth": 4.40999984741211,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415992"
+  },
+  {
+   "mag": 1.4,
    "place": "94 km S of McCarthy, Alaska",
    "time": 1786465683949,
    "lon": -142.645,
@@ -1130,21 +1139,21 @@
   },
   {
    "mag": 1.4,
-   "place": "5 km SSE of Home Gardens, CA",
-   "time": 1786391185670,
-   "lon": -117.498833333333,
-   "lat": 33.841,
-   "depth": 2.47,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670050"
-  },
-  {
-   "mag": 1.4,
    "place": "17 km NNW of Westmorland, CA",
    "time": 1786387082980,
    "lon": -115.721833333333,
    "lat": 33.1633333333333,
    "depth": 3.13,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669986"
+  },
+  {
+   "mag": 1.3,
+   "place": "7 km ESE of Big Spring, Texas",
+   "time": 1786468923848,
+   "lon": -101.409,
+   "lat": 32.227,
+   "depth": 3.3838,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psvtjf"
   },
   {
    "mag": 1.3,
@@ -1190,15 +1199,6 @@
    "lat": 35.5485,
    "depth": 6.26,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ppov"
-  },
-  {
-   "mag": 1.3,
-   "place": "25 km SW of Garden City, Texas",
-   "time": 1786399838822,
-   "lon": -101.695,
-   "lat": 31.724,
-   "depth": 8.2764,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prjpcs"
   },
   {
    "mag": 1.3,
@@ -1463,6 +1463,15 @@
   },
   {
    "mag": 1.1,
+   "place": "4 km SE of Home Gardens, CA",
+   "time": 1786391185530,
+   "lon": -117.491666666667,
+   "lat": 33.8486666666667,
+   "depth": -0.52,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670050"
+  },
+  {
+   "mag": 1.1,
    "place": "13 km NW of The Geysers, CA",
    "time": 1786388944900,
    "lon": -122.87483215332,
@@ -1478,6 +1487,15 @@
    "lat": 36.0923333333333,
    "depth": 4.01,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669970"
+  },
+  {
+   "mag": 1.0,
+   "place": "18 km ESE of Anza, CA",
+   "time": 1786471446340,
+   "lon": -116.491500854492,
+   "lat": 33.5029983520508,
+   "depth": 14.1999998092651,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670634"
   },
   {
    "mag": 1.0,
@@ -1532,15 +1550,6 @@
    "lat": 60.118,
    "depth": 5,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pttmfh"
-  },
-  {
-   "mag": 1.0,
-   "place": "11 km ENE of Pāhala, Hawaii",
-   "time": 1786385222860,
-   "lon": -155.382166666667,
-   "lat": 19.2535,
-   "depth": 2.89,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017386"
   },
   {
    "mag": 0.9,
@@ -1631,6 +1640,15 @@
    "lat": 19.2503333333333,
    "depth": 3.83,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017466"
+  },
+  {
+   "mag": 0.8,
+   "place": "6 km NW of The Geysers, CA",
+   "time": 1786469781090,
+   "lon": -122.802665710449,
+   "lat": 38.8181648254395,
+   "depth": 2.70000004768372,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416012"
   },
   {
    "mag": 0.8,
@@ -1739,6 +1757,15 @@
    "lat": 38.8233337402344,
    "depth": 3.08999991416931,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415382"
+  },
+  {
+   "mag": 0.7,
+   "place": "6 km NW of The Geysers, CA",
+   "time": 1786469089670,
+   "lon": -122.805999755859,
+   "lat": 38.8173332214355,
+   "depth": 3.4300000667572,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416002"
   },
   {
    "mag": 0.7,
@@ -1885,15 +1912,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415362"
   },
   {
-   "mag": 0.7,
-   "place": "9 km ENE of Ocotillo Wells, CA",
-   "time": 1786382340440,
-   "lon": -116.038666666667,
-   "lat": 33.1778333333333,
-   "depth": 3.84,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669922"
-  },
-  {
    "mag": 0.6,
    "place": "1 km ENE of Borrego Springs, CA",
    "time": 1786412733280,
@@ -1910,6 +1928,15 @@
    "lat": 33.2718333333333,
    "depth": 2.91,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670194"
+  },
+  {
+   "mag": 0.5,
+   "place": "87 km ESE of Egegik, Alaska",
+   "time": 1786470860181,
+   "lon": -155.972,
+   "lat": 57.964,
+   "depth": 19.3,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvkrrt"
   },
   {
    "mag": 0.5,
