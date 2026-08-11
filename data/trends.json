@@ -1,17 +1,21 @@
 {
- "updated": "2026-08-11T06:07:10.099882+00:00",
+ "updated": "2026-08-11T07:40:57.428646+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 21
+   "count": 19
   },
   {
    "term": "iran",
-   "count": 16
+   "count": 15
   },
   {
    "term": "colombia",
-   "count": 14
+   "count": 13
+  },
+  {
+   "term": "terremoto",
+   "count": 10
   },
   {
    "term": "gaza",
@@ -19,11 +23,7 @@
   },
   {
    "term": "china",
-   "count": 9
-  },
-  {
-   "term": "terremoto",
-   "count": 9
+   "count": 8
   },
   {
    "term": "turkey",
@@ -54,19 +54,7 @@
    "count": 6
   },
   {
-   "term": "strait",
-   "count": 6
-  },
-  {
-   "term": "hormuz",
-   "count": 6
-  },
-  {
-   "term": "world",
-   "count": 5
-  },
-  {
-   "term": "demands",
+   "term": "secret",
    "count": 5
   },
   {
@@ -74,19 +62,15 @@
    "count": 5
   },
   {
-   "term": "south",
-   "count": 5
-  },
-  {
    "term": "rejects",
    "count": 5
   },
   {
-   "term": "hong",
+   "term": "strait",
    "count": 5
   },
   {
-   "term": "kong",
+   "term": "hormuz",
    "count": 5
   },
   {
@@ -94,11 +78,7 @@
    "count": 4
   },
   {
-   "term": "earthquake",
-   "count": 4
-  },
-  {
-   "term": "secret",
+   "term": "world",
    "count": 4
   },
   {
@@ -106,11 +86,27 @@
    "count": 4
   },
   {
-   "term": "ancient",
+   "term": "home",
    "count": 4
   },
   {
    "term": "museum",
+   "count": 4
+  },
+  {
+   "term": "attacks",
+   "count": 4
+  },
+  {
+   "term": "zuckerberg",
+   "count": 4
+  },
+  {
+   "term": "climate",
+   "count": 4
+  },
+  {
+   "term": "deal",
    "count": 4
   },
   {
@@ -120,20 +116,24 @@
   {
    "term": "forest",
    "count": 4
+  },
+  {
+   "term": "notification",
+   "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 19
-  },
-  {
-   "name": "Iran",
    "count": 16
   },
   {
+   "name": "Iran",
+   "count": 15
+  },
+  {
    "name": "Colombia",
-   "count": 14
+   "count": 13
   },
   {
    "name": "Gaza",
@@ -141,7 +141,7 @@
   },
   {
    "name": "China",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Netanyahu",
@@ -152,15 +152,11 @@
    "count": 6
   },
   {
-   "name": "Hormuz",
-   "count": 6
-  },
-  {
-   "name": "Strait",
+   "name": "Green",
    "count": 5
   },
   {
-   "name": "Green",
+   "name": "Hormuz",
    "count": 5
   },
   {
@@ -168,11 +164,27 @@
    "count": 4
   },
   {
-   "name": "Hong Kong",
+   "name": "Israel",
+   "count": 4
+  },
+  {
+   "name": "Strait",
    "count": 4
   },
   {
    "name": "Mark Zuckerberg",
+   "count": 3
+  },
+  {
+   "name": "India",
+   "count": 3
+  },
+  {
+   "name": "Houthis",
+   "count": 3
+  },
+  {
+   "name": "Cali",
    "count": 3
   },
   {
@@ -184,7 +196,11 @@
    "count": 3
   },
   {
-   "name": "Israel",
+   "name": "Chinese",
+   "count": 3
+  },
+  {
+   "name": "Hong Kong",
    "count": 3
   },
   {
@@ -201,22 +217,6 @@
   },
   {
    "name": "Show HN",
-   "count": 2
-  },
-  {
-   "name": "OpenAI",
-   "count": 2
-  },
-  {
-   "name": "Coalition",
-   "count": 2
-  },
-  {
-   "name": "Japan",
-   "count": 2
-  },
-  {
-   "name": "Libya",
    "count": 2
   }
  ]
