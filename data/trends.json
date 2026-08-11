@@ -1,33 +1,29 @@
 {
- "updated": "2026-08-11T07:40:57.428646+00:00",
+ "updated": "2026-08-11T09:16:15.978610+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 19
-  },
-  {
-   "term": "iran",
    "count": 15
   },
   {
-   "term": "colombia",
+   "term": "iran",
    "count": 13
-  },
-  {
-   "term": "terremoto",
-   "count": 10
   },
   {
    "term": "gaza",
    "count": 10
   },
   {
-   "term": "china",
+   "term": "colombia",
    "count": 8
   },
   {
-   "term": "turkey",
-   "count": 7
+   "term": "terremoto",
+   "count": 8
+  },
+  {
+   "term": "china",
+   "count": 8
   },
   {
    "term": "plan",
@@ -42,19 +38,23 @@
    "count": 6
   },
   {
-   "term": "2026",
-   "count": 6
-  },
-  {
    "term": "year",
    "count": 6
   },
   {
-   "term": "fire",
+   "term": "alaska",
    "count": 6
   },
   {
-   "term": "secret",
+   "term": "2026",
+   "count": 5
+  },
+  {
+   "term": "early",
+   "count": 5
+  },
+  {
+   "term": "point",
    "count": 5
   },
   {
@@ -78,11 +78,11 @@
    "count": 4
   },
   {
-   "term": "world",
+   "term": "secret",
    "count": 4
   },
   {
-   "term": "long",
+   "term": "world",
    "count": 4
   },
   {
@@ -94,7 +94,7 @@
    "count": 4
   },
   {
-   "term": "attacks",
+   "term": "power",
    "count": 4
   },
   {
@@ -102,7 +102,15 @@
    "count": 4
   },
   {
-   "term": "climate",
+   "term": "syria",
+   "count": 4
+  },
+  {
+   "term": "bashar",
+   "count": 4
+  },
+  {
+   "term": "assad",
    "count": 4
   },
   {
@@ -110,34 +118,26 @@
    "count": 4
   },
   {
-   "term": "puerto",
-   "count": 4
-  },
-  {
-   "term": "forest",
-   "count": 4
-  },
-  {
-   "term": "notification",
+   "term": "cali",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 16
+   "count": 14
   },
   {
    "name": "Iran",
-   "count": 15
-  },
-  {
-   "name": "Colombia",
    "count": 13
   },
   {
    "name": "Gaza",
    "count": 10
+  },
+  {
+   "name": "Colombia",
+   "count": 8
   },
   {
    "name": "China",
@@ -148,7 +148,7 @@
    "count": 7
   },
   {
-   "name": "Turkey",
+   "name": "Alaska",
    "count": 6
   },
   {
@@ -160,7 +160,11 @@
    "count": 5
   },
   {
-   "name": "Alaska",
+   "name": "Syria",
+   "count": 4
+  },
+  {
+   "name": "Cali",
    "count": 4
   },
   {
@@ -180,35 +184,19 @@
    "count": 3
   },
   {
-   "name": "Houthis",
+   "name": "Bashar",
    "count": 3
   },
   {
-   "name": "Cali",
+   "name": "Assad",
    "count": 3
-  },
-  {
-   "name": "Panamá",
-   "count": 3
-  },
-  {
-   "name": "Puerto Rico",
-   "count": 3
-  },
-  {
-   "name": "Chinese",
-   "count": 3
-  },
-  {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
-   "name": "Balvin",
-   "count": 2
   },
   {
    "name": "Outside Lands",
+   "count": 2
+  },
+  {
+   "name": "Other Art World Matters",
    "count": 2
   },
   {
@@ -217,6 +205,18 @@
   },
   {
    "name": "Show HN",
+   "count": 2
+  },
+  {
+   "name": "OpenAI",
+   "count": 2
+  },
+  {
+   "name": "As AI",
+   "count": 2
+  },
+  {
+   "name": "Claude",
    "count": 2
   }
  ]
