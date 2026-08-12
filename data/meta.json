@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-12T05:07:15.877418+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-12T06:45:35.799120+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -62,11 +62,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
+   "beat": "tech",
+   "url": "https://hnrss.org/frontpage",
+   "source": "hnrss.org",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error timed out>"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 25,
+   "count": 21,
    "error": ""
   },
   {
@@ -178,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 349,
+   "count": 351,
    "error": ""
   },
   {
@@ -337,14 +345,6 @@
    "beat": "tech",
    "url": "https://techcrunch.com/feed/",
    "source": "TechCrunch",
-   "ok": true,
-   "count": 20,
-   "error": ""
-  },
-  {
-   "beat": "tech",
-   "url": "https://hnrss.org/frontpage",
-   "source": "Hacker News: Front Page",
    "ok": true,
    "count": 20,
    "error": ""
