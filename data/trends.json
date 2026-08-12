@@ -1,17 +1,21 @@
 {
- "updated": "2026-08-12T00:02:22.642281+00:00",
+ "updated": "2026-08-12T02:47:34.966740+00:00",
  "terms": [
   {
    "term": "trump",
    "count": 17
   },
   {
-   "term": "gaza",
+   "term": "terremoto",
    "count": 11
   },
   {
-   "term": "terremoto",
-   "count": 11
+   "term": "plan",
+   "count": 10
+  },
+  {
+   "term": "colombia",
+   "count": 10
   },
   {
    "term": "alaska",
@@ -19,26 +23,30 @@
   },
   {
    "term": "iran",
-   "count": 8
+   "count": 9
   },
   {
-   "term": "plan",
+   "term": "gaza",
+   "count": 9
+  },
+  {
+   "term": "israel",
    "count": 7
   },
   {
-   "term": "colombia",
+   "term": "year",
+   "count": 7
+  },
+  {
+   "term": "attack",
+   "count": 7
+  },
+  {
+   "term": "china",
    "count": 7
   },
   {
    "term": "death",
-   "count": 7
-  },
-  {
-   "term": "israel",
-   "count": 6
-  },
-  {
-   "term": "russia",
    "count": 6
   },
   {
@@ -46,39 +54,7 @@
    "count": 6
   },
   {
-   "term": "show",
-   "count": 5
-  },
-  {
-   "term": "google",
-   "count": 5
-  },
-  {
-   "term": "deadly",
-   "count": 5
-  },
-  {
-   "term": "attack",
-   "count": 5
-  },
-  {
-   "term": "rejects",
-   "count": 5
-  },
-  {
-   "term": "china",
-   "count": 5
-  },
-  {
    "term": "tour",
-   "count": 4
-  },
-  {
-   "term": "court",
-   "count": 4
-  },
-  {
-   "term": "center",
    "count": 4
   },
   {
@@ -86,11 +62,23 @@
    "count": 4
   },
   {
-   "term": "people",
+   "term": "show",
    "count": 4
   },
   {
-   "term": "fired",
+   "term": "city",
+   "count": 4
+  },
+  {
+   "term": "russia",
+   "count": 4
+  },
+  {
+   "term": "police",
+   "count": 4
+  },
+  {
+   "term": "flight",
    "count": 4
   },
   {
@@ -98,7 +86,31 @@
    "count": 4
   },
   {
-   "term": "becomes",
+   "term": "google",
+   "count": 4
+  },
+  {
+   "term": "hong",
+   "count": 4
+  },
+  {
+   "term": "assad",
+   "count": 4
+  },
+  {
+   "term": "cali",
+   "count": 4
+  },
+  {
+   "term": "government",
+   "count": 4
+  },
+  {
+   "term": "military",
+   "count": 4
+  },
+  {
+   "term": "deadly",
    "count": 4
   },
   {
@@ -106,20 +118,8 @@
    "count": 4
   },
   {
-   "term": "kennedy",
-   "count": 3
-  },
-  {
-   "term": "fees",
-   "count": 3
-  },
-  {
-   "term": "home",
-   "count": 3
-  },
-  {
-   "term": "legal",
-   "count": 3
+   "term": "rejects",
+   "count": 4
   }
  ],
  "entities": [
@@ -128,7 +128,7 @@
    "count": 15
   },
   {
-   "name": "Gaza",
+   "name": "Colombia",
    "count": 10
   },
   {
@@ -137,15 +137,19 @@
   },
   {
    "name": "Iran",
-   "count": 8
+   "count": 9
   },
   {
-   "name": "Colombia",
-   "count": 7
+   "name": "Gaza",
+   "count": 9
   },
   {
    "name": "Israel",
-   "count": 6
+   "count": 7
+  },
+  {
+   "name": "China",
+   "count": 7
   },
   {
    "name": "Netanyahu",
@@ -153,18 +157,22 @@
   },
   {
    "name": "Google",
-   "count": 5
+   "count": 4
   },
   {
-   "name": "Russia",
-   "count": 5
+   "name": "Assad",
+   "count": 4
   },
   {
-   "name": "China",
-   "count": 5
+   "name": "Cali",
+   "count": 4
   },
   {
    "name": "Meta",
+   "count": 3
+  },
+  {
+   "name": "ChatGPT",
    "count": 3
   },
   {
@@ -176,15 +184,19 @@
    "count": 3
   },
   {
-   "name": "Pakistan",
+   "name": "Russia",
    "count": 3
   },
   {
-   "name": "Red Sea",
+   "name": "Informe",
    "count": 3
   },
   {
-   "name": "Cali",
+   "name": "Venezuela",
+   "count": 3
+  },
+  {
+   "name": "Bashar",
    "count": 3
   },
   {
@@ -196,7 +208,7 @@
    "count": 3
   },
   {
-   "name": "Lebanon",
+   "name": "Hong Kong",
    "count": 3
   },
   {
@@ -204,19 +216,7 @@
    "count": 2
   },
   {
-   "name": "Kennedy Center",
-   "count": 2
-  },
-  {
    "name": "Daughter",
-   "count": 2
-  },
-  {
-   "name": "Ukraine",
-   "count": 2
-  },
-  {
-   "name": "ChatGPT",
    "count": 2
   }
  ]
