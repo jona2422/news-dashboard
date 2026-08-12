@@ -1,64 +1,76 @@
 {
- "updated": "2026-08-12T02:47:34.966740+00:00",
+ "updated": "2026-08-12T05:07:15.877418+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 17
+   "count": 19
   },
   {
-   "term": "terremoto",
-   "count": 11
-  },
-  {
-   "term": "plan",
-   "count": 10
-  },
-  {
-   "term": "colombia",
+   "term": "china",
    "count": 10
   },
   {
    "term": "alaska",
-   "count": 10
+   "count": 8
   },
   {
-   "term": "iran",
-   "count": 9
+   "term": "plan",
+   "count": 7
   },
   {
    "term": "gaza",
-   "count": 9
+   "count": 7
   },
   {
    "term": "israel",
-   "count": 7
+   "count": 6
   },
   {
    "term": "year",
-   "count": 7
+   "count": 6
   },
   {
    "term": "attack",
-   "count": 7
+   "count": 6
   },
   {
-   "term": "china",
-   "count": 7
+   "term": "iran",
+   "count": 6
   },
   {
    "term": "death",
    "count": 6
   },
   {
-   "term": "netanyahu",
-   "count": 6
+   "term": "ahead",
+   "count": 5
   },
   {
-   "term": "tour",
+   "term": "secret",
+   "count": 5
+  },
+  {
+   "term": "netanyahu",
+   "count": 5
+  },
+  {
+   "term": "beijing",
+   "count": 5
+  },
+  {
+   "term": "primary",
+   "count": 5
+  },
+  {
+   "term": "colombia",
+   "count": 5
+  },
+  {
+   "term": "reveals",
    "count": 4
   },
   {
-   "term": "album",
+   "term": "tour",
    "count": 4
   },
   {
@@ -66,51 +78,11 @@
    "count": 4
   },
   {
-   "term": "city",
-   "count": 4
-  },
-  {
-   "term": "russia",
-   "count": 4
-  },
-  {
-   "term": "police",
-   "count": 4
-  },
-  {
-   "term": "flight",
-   "count": 4
-  },
-  {
    "term": "india",
    "count": 4
   },
   {
-   "term": "google",
-   "count": 4
-  },
-  {
-   "term": "hong",
-   "count": 4
-  },
-  {
-   "term": "assad",
-   "count": 4
-  },
-  {
-   "term": "cali",
-   "count": 4
-  },
-  {
-   "term": "government",
-   "count": 4
-  },
-  {
-   "term": "military",
-   "count": 4
-  },
-  {
-   "term": "deadly",
+   "term": "human",
    "count": 4
   },
   {
@@ -118,8 +90,36 @@
    "count": 4
   },
   {
-   "term": "rejects",
+   "term": "hong",
    "count": 4
+  },
+  {
+   "term": "progressive",
+   "count": 4
+  },
+  {
+   "term": "minnesota",
+   "count": 4
+  },
+  {
+   "term": "lebanon",
+   "count": 4
+  },
+  {
+   "term": "ship",
+   "count": 4
+  },
+  {
+   "term": "military",
+   "count": 4
+  },
+  {
+   "term": "court",
+   "count": 3
+  },
+  {
+   "term": "center",
+   "count": 3
   }
  ],
  "entities": [
@@ -128,43 +128,39 @@
    "count": 15
   },
   {
-   "name": "Colombia",
+   "name": "China",
    "count": 10
   },
   {
    "name": "Alaska",
-   "count": 10
-  },
-  {
-   "name": "Iran",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Gaza",
-   "count": 9
+   "count": 7
   },
   {
    "name": "Israel",
-   "count": 7
-  },
-  {
-   "name": "China",
-   "count": 7
-  },
-  {
-   "name": "Netanyahu",
    "count": 6
   },
   {
-   "name": "Google",
-   "count": 4
+   "name": "Iran",
+   "count": 6
   },
   {
-   "name": "Assad",
-   "count": 4
+   "name": "Netanyahu",
+   "count": 5
   },
   {
-   "name": "Cali",
+   "name": "Beijing",
+   "count": 5
+  },
+  {
+   "name": "Colombia",
+   "count": 5
+  },
+  {
+   "name": "Lebanon",
    "count": 4
   },
   {
@@ -172,39 +168,35 @@
    "count": 3
   },
   {
-   "name": "ChatGPT",
-   "count": 3
-  },
-  {
    "name": "India",
    "count": 3
   },
   {
-   "name": "Gemini",
+   "name": "ChatGPT",
    "count": 3
   },
   {
-   "name": "Russia",
+   "name": "Iranian",
    "count": 3
   },
   {
-   "name": "Informe",
+   "name": "Australia",
    "count": 3
   },
   {
-   "name": "Venezuela",
+   "name": "Typhoon Dolphin",
    "count": 3
   },
   {
-   "name": "Bashar",
+   "name": "Minnesota",
    "count": 3
   },
   {
-   "name": "Indonesia",
+   "name": "Japan",
    "count": 3
   },
   {
-   "name": "Houthis",
+   "name": "Green",
    "count": 3
   },
   {
@@ -216,7 +208,15 @@
    "count": 2
   },
   {
-   "name": "Daughter",
+   "name": "Ukraine",
+   "count": 2
+  },
+  {
+   "name": "Human",
+   "count": 2
+  },
+  {
+   "name": "Big Pharma",
    "count": 2
   }
  ]
