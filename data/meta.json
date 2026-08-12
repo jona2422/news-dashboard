@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-12T16:13:56.122046+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-12T17:17:07.865645+00:00",
+ "sources_ok": 34,
  "sources_total": 38,
  "beats": [
   {
@@ -47,6 +47,14 @@
  "feeds": [
   {
    "beat": "desastres",
+   "url": "https://www.gdacs.org/xml/rss.xml",
+   "source": "gdacs.org",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error timed out>"
+  },
+  {
+   "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
    "ok": false,
@@ -62,11 +70,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 415: Unsupported Media Type"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "error": ""
   },
   {
@@ -175,14 +191,6 @@
   },
   {
    "beat": "desastres",
-   "url": "https://www.gdacs.org/xml/rss.xml",
-   "source": "GDACS RSS information",
-   "ok": true,
-   "count": 369,
-   "error": ""
-  },
-  {
-   "beat": "desastres",
    "url": "https://www.theguardian.com/world/natural-disasters/rss",
    "source": "Natural disasters and extreme weather | The Guardian",
    "ok": true,
@@ -194,7 +202,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 51,
+   "count": 49,
    "error": ""
   },
   {
@@ -235,14 +243,6 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
-   "error": ""
-  },
-  {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
    "error": ""
   },
   {
