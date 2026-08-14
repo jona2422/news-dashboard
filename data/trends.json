@@ -1,20 +1,16 @@
 {
- "updated": "2026-08-14T15:09:38.943475+00:00",
+ "updated": "2026-08-14T16:08:07.155324+00:00",
  "terms": [
   {
-   "term": "trump",
-   "count": 11
-  },
-  {
-   "term": "china",
-   "count": 11
+   "term": "west",
+   "count": 10
   },
   {
    "term": "terremoto",
    "count": 9
   },
   {
-   "term": "west",
+   "term": "china",
    "count": 9
   },
   {
@@ -26,6 +22,14 @@
    "count": 7
   },
   {
+   "term": "michael",
+   "count": 6
+  },
+  {
+   "term": "trump",
+   "count": 6
+  },
+  {
    "term": "israeli",
    "count": 6
   },
@@ -34,19 +38,11 @@
    "count": 6
   },
   {
-   "term": "calls",
+   "term": "federal",
    "count": 5
   },
   {
-   "term": "michael",
-   "count": 5
-  },
-  {
-   "term": "world",
-   "count": 5
-  },
-  {
-   "term": "plan",
+   "term": "gaza",
    "count": 5
   },
   {
@@ -62,11 +58,19 @@
    "count": 5
   },
   {
-   "term": "album",
+   "term": "phoebe",
    "count": 4
   },
   {
-   "term": "adds",
+   "term": "bridgers",
+   "count": 4
+  },
+  {
+   "term": "music",
+   "count": 4
+  },
+  {
+   "term": "calls",
    "count": 4
   },
   {
@@ -74,11 +78,11 @@
    "count": 4
   },
   {
-   "term": "history",
+   "term": "world",
    "count": 4
   },
   {
-   "term": "apple",
+   "term": "history",
    "count": 4
   },
   {
@@ -86,23 +90,27 @@
    "count": 4
   },
   {
-   "term": "human",
+   "term": "luigi",
    "count": 4
   },
   {
-   "term": "burnham",
+   "term": "mangione",
    "count": 4
   },
   {
-   "term": "court",
+   "term": "pleads",
    "count": 4
   },
   {
-   "term": "gaza",
+   "term": "guilty",
    "count": 4
   },
   {
-   "term": "colombia",
+   "term": "south",
+   "count": 4
+  },
+  {
+   "term": "plan",
    "count": 4
   },
   {
@@ -112,25 +120,9 @@
   {
    "term": "forest",
    "count": 4
-  },
-  {
-   "term": "puerto",
-   "count": 4
-  },
-  {
-   "term": "rico",
-   "count": 4
   }
  ],
  "entities": [
-  {
-   "name": "Trump",
-   "count": 10
-  },
-  {
-   "name": "China",
-   "count": 8
-  },
   {
    "name": "West Bank",
    "count": 8
@@ -140,23 +132,31 @@
    "count": 7
   },
   {
+   "name": "China",
+   "count": 6
+  },
+  {
    "name": "Israeli",
    "count": 6
+  },
+  {
+   "name": "Trump",
+   "count": 5
   },
   {
    "name": "Alaska",
    "count": 5
   },
   {
-   "name": "Apple",
+   "name": "Phoebe Bridgers",
+   "count": 4
+  },
+  {
+   "name": "Luigi Mangione",
    "count": 4
   },
   {
    "name": "Gaza",
-   "count": 4
-  },
-  {
-   "name": "Colombia",
    "count": 4
   },
   {
@@ -180,35 +180,15 @@
    "count": 4
   },
   {
-   "name": "Freedom Bus",
+   "name": "Apple",
    "count": 3
   },
   {
-   "name": "Phoebe Bridgers",
-   "count": 3
-  },
-  {
-   "name": "Stream",
-   "count": 3
-  },
-  {
-   "name": "Europe",
-   "count": 3
-  },
-  {
-   "name": "Burnham",
-   "count": 3
-  },
-  {
-   "name": "Japan",
+   "name": "Colombia",
    "count": 3
   },
   {
    "name": "Chocó",
-   "count": 3
-  },
-  {
-   "name": "Cali",
    "count": 3
   },
   {
@@ -218,6 +198,26 @@
   {
    "name": "Chinese",
    "count": 3
+  },
+  {
+   "name": "Hong Kong",
+   "count": 3
+  },
+  {
+   "name": "Freedom Bus",
+   "count": 2
+  },
+  {
+   "name": "Lost Weekend",
+   "count": 2
+  },
+  {
+   "name": "Michael",
+   "count": 2
+  },
+  {
+   "name": "Long",
+   "count": 2
   }
  ]
 }
