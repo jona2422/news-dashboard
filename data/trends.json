@@ -1,25 +1,29 @@
 {
- "updated": "2026-08-14T10:26:10.642704+00:00",
+ "updated": "2026-08-14T11:59:38.385183+00:00",
  "terms": [
+  {
+   "term": "west",
+   "count": 11
+  },
   {
    "term": "trump",
    "count": 9
   },
   {
-   "term": "china",
-   "count": 8
-  },
-  {
-   "term": "west",
-   "count": 8
-  },
-  {
    "term": "bank",
+   "count": 9
+  },
+  {
+   "term": "china",
    "count": 7
   },
   {
    "term": "israeli",
-   "count": 6
+   "count": 7
+  },
+  {
+   "term": "settlers",
+   "count": 7
   },
   {
    "term": "homes",
@@ -30,11 +34,7 @@
    "count": 5
   },
   {
-   "term": "history",
-   "count": 5
-  },
-  {
-   "term": "farage",
+   "term": "colombia",
    "count": 5
   },
   {
@@ -42,11 +42,19 @@
    "count": 5
   },
   {
+   "term": "death",
+   "count": 5
+  },
+  {
    "term": "alaska",
    "count": 5
   },
   {
-   "term": "settlers",
+   "term": "families",
+   "count": 5
+  },
+  {
+   "term": "israel",
    "count": 5
   },
   {
@@ -54,23 +62,27 @@
    "count": 5
   },
   {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
+   "term": "song",
+   "count": 4
   },
   {
    "term": "help",
    "count": 4
   },
   {
-   "term": "colombia",
+   "term": "world",
    "count": 4
   },
   {
-   "term": "high",
+   "term": "york",
+   "count": 4
+  },
+  {
+   "term": "history",
+   "count": 4
+  },
+  {
+   "term": "europe",
    "count": 4
   },
   {
@@ -90,11 +102,15 @@
    "count": 4
   },
   {
-   "term": "europe",
+   "term": "japan",
    "count": 4
   },
   {
-   "term": "panamá",
+   "term": "terremoto",
+   "count": 4
+  },
+  {
+   "term": "agosto",
    "count": 4
   },
   {
@@ -102,41 +118,25 @@
    "count": 4
   },
   {
-   "term": "puerto",
-   "count": 4
-  },
-  {
    "term": "palestinian",
-   "count": 4
-  },
-  {
-   "term": "israel",
-   "count": 4
-  },
-  {
-   "term": "gaza",
-   "count": 4
-  },
-  {
-   "term": "lebanon",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Trump",
+   "name": "West Bank",
    "count": 8
   },
   {
-   "name": "China",
-   "count": 8
+   "name": "Trump",
+   "count": 7
   },
   {
    "name": "Israeli",
-   "count": 6
+   "count": 7
   },
   {
-   "name": "West Bank",
+   "name": "China",
    "count": 6
   },
   {
@@ -148,15 +148,15 @@
    "count": 5
   },
   {
-   "name": "Hong Kong",
+   "name": "Israel",
    "count": 5
   },
   {
-   "name": "Europe",
+   "name": "Japan",
    "count": 4
   },
   {
-   "name": "Panamá",
+   "name": "Colombia",
    "count": 4
   },
   {
@@ -168,15 +168,11 @@
    "count": 4
   },
   {
-   "name": "Israel",
-   "count": 4
-  },
-  {
-   "name": "Gaza",
-   "count": 4
-  },
-  {
    "name": "Lebanon",
+   "count": 4
+  },
+  {
+   "name": "Hong Kong",
    "count": 4
   },
   {
@@ -184,23 +180,19 @@
    "count": 4
   },
   {
+   "name": "Europe",
+   "count": 3
+  },
+  {
    "name": "Apple",
    "count": 3
   },
   {
-   "name": "Nigel Farage",
-   "count": 3
-  },
-  {
-   "name": "Colombia",
-   "count": 3
-  },
-  {
-   "name": "Estados Unidos",
-   "count": 3
-  },
-  {
    "name": "Puerto Rico",
+   "count": 3
+  },
+  {
+   "name": "Gaza",
    "count": 3
   },
   {
@@ -216,7 +208,15 @@
    "count": 2
   },
   {
-   "name": "Instagram",
+   "name": "Kennedy Center",
+   "count": 2
+  },
+  {
+   "name": "Other Art World Matters",
+   "count": 2
+  },
+  {
+   "name": "America",
    "count": 2
   }
  ]
