@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14T19:59:42.797429+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-14T20:48:31.657882+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -62,11 +62,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 415: Unsupported Media Type"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": ""
   },
   {
@@ -98,7 +106,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 141,
+   "count": 142,
    "error": ""
   },
   {
@@ -239,14 +247,6 @@
   },
   {
    "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
-   "error": ""
-  },
-  {
-   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -306,7 +306,7 @@
    "url": "https://www.france24.com/es/rss",
    "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": ""
   },
   {
