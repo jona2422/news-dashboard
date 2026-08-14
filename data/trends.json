@@ -1,9 +1,13 @@
 {
- "updated": "2026-08-14T22:43:47.109688+00:00",
+ "updated": "2026-08-14T23:40:42.945278+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 20
+   "count": 21
+  },
+  {
+   "term": "israeli",
+   "count": 10
   },
   {
    "term": "west",
@@ -14,16 +18,12 @@
    "count": 10
   },
   {
-   "term": "israeli",
+   "term": "alaska",
    "count": 9
   },
   {
-   "term": "alaska",
-   "count": 8
-  },
-  {
    "term": "china",
-   "count": 8
+   "count": 9
   },
   {
    "term": "settlers",
@@ -34,19 +34,11 @@
    "count": 6
   },
   {
-   "term": "world",
-   "count": 6
-  },
-  {
    "term": "hormuz",
    "count": 6
   },
   {
-   "term": "iran",
-   "count": 6
-  },
-  {
-   "term": "terremoto",
+   "term": "forest",
    "count": 6
   },
   {
@@ -66,11 +58,11 @@
    "count": 5
   },
   {
-   "term": "gaza",
+   "term": "court",
    "count": 5
   },
   {
-   "term": "court",
+   "term": "lincoln",
    "count": 5
   },
   {
@@ -82,15 +74,39 @@
    "count": 5
   },
   {
-   "term": "lincoln",
-   "count": 5
-  },
-  {
    "term": "strait",
    "count": 5
   },
   {
+   "term": "iran",
+   "count": 5
+  },
+  {
+   "term": "terremoto",
+   "count": 5
+  },
+  {
+   "term": "indonesia",
+   "count": 5
+  },
+  {
+   "term": "years",
+   "count": 4
+  },
+  {
+   "term": "ahead",
+   "count": 4
+  },
+  {
+   "term": "gaza",
+   "count": 4
+  },
+  {
    "term": "israel",
+   "count": 4
+  },
+  {
+   "term": "world",
    "count": 4
   },
   {
@@ -104,22 +120,6 @@
   {
    "term": "cambridge",
    "count": 4
-  },
-  {
-   "term": "wildfire",
-   "count": 4
-  },
-  {
-   "term": "joven",
-   "count": 4
-  },
-  {
-   "term": "palestinians",
-   "count": 4
-  },
-  {
-   "term": "families",
-   "count": 4
   }
  ],
  "entities": [
@@ -129,6 +129,10 @@
   },
   {
    "name": "Israeli",
+   "count": 10
+  },
+  {
+   "name": "Alaska",
    "count": 9
   },
   {
@@ -136,11 +140,7 @@
    "count": 9
   },
   {
-   "name": "Alaska",
-   "count": 8
-  },
-  {
-   "name": "Iran",
+   "name": "China",
    "count": 6
   },
   {
@@ -148,7 +148,11 @@
    "count": 5
   },
   {
-   "name": "China",
+   "name": "Iran",
+   "count": 5
+  },
+  {
+   "name": "Indonesia",
    "count": 5
   },
   {
@@ -160,7 +164,7 @@
    "count": 4
   },
   {
-   "name": "Gaza",
+   "name": "Green",
    "count": 4
   },
   {
@@ -168,7 +172,7 @@
    "count": 3
   },
   {
-   "name": "Europe",
+   "name": "Lebanon",
    "count": 3
   },
   {
@@ -188,11 +192,7 @@
    "count": 3
   },
   {
-   "name": "Estados Unidos",
-   "count": 3
-  },
-  {
-   "name": "Indonesia",
+   "name": "United States",
    "count": 3
   },
   {
@@ -204,19 +204,19 @@
    "count": 3
   },
   {
+   "name": "Gaza",
+   "count": 3
+  },
+  {
    "name": "Chinese",
    "count": 3
   },
   {
+   "name": "Years",
+   "count": 2
+  },
+  {
    "name": "Wait",
-   "count": 2
-  },
-  {
-   "name": "Syria",
-   "count": 2
-  },
-  {
-   "name": "France",
    "count": 2
   }
  ]
