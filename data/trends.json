@@ -1,12 +1,20 @@
 {
- "updated": "2026-08-14T11:59:38.385183+00:00",
+ "updated": "2026-08-14T13:47:11.565535+00:00",
  "terms": [
   {
-   "term": "west",
-   "count": 11
+   "term": "trump",
+   "count": 9
   },
   {
-   "term": "trump",
+   "term": "china",
+   "count": 9
+  },
+  {
+   "term": "israeli",
+   "count": 9
+  },
+  {
+   "term": "west",
    "count": 9
   },
   {
@@ -14,35 +22,43 @@
    "count": 9
   },
   {
-   "term": "china",
+   "term": "terremoto",
+   "count": 8
+  },
+  {
+   "term": "colombia",
    "count": 7
   },
   {
-   "term": "israeli",
-   "count": 7
+   "term": "michael",
+   "count": 6
+  },
+  {
+   "term": "help",
+   "count": 6
+  },
+  {
+   "term": "families",
+   "count": 6
+  },
+  {
+   "term": "israel",
+   "count": 6
   },
   {
    "term": "settlers",
-   "count": 7
+   "count": 6
   },
   {
    "term": "homes",
    "count": 6
   },
   {
-   "term": "michael",
+   "term": "song",
    "count": 5
   },
   {
-   "term": "colombia",
-   "count": 5
-  },
-  {
-   "term": "iran",
-   "count": 5
-  },
-  {
-   "term": "death",
+   "term": "world",
    "count": 5
   },
   {
@@ -50,31 +66,11 @@
    "count": 5
   },
   {
-   "term": "families",
-   "count": 5
-  },
-  {
-   "term": "israel",
-   "count": 5
-  },
-  {
-   "term": "chinese",
-   "count": 5
-  },
-  {
-   "term": "song",
+   "term": "calls",
    "count": 4
   },
   {
-   "term": "help",
-   "count": 4
-  },
-  {
-   "term": "world",
-   "count": 4
-  },
-  {
-   "term": "york",
+   "term": "france",
    "count": 4
   },
   {
@@ -82,11 +78,7 @@
    "count": 4
   },
   {
-   "term": "europe",
-   "count": 4
-  },
-  {
-   "term": "apple",
+   "term": "plan",
    "count": 4
   },
   {
@@ -94,23 +86,23 @@
    "count": 4
   },
   {
-   "term": "notification",
-   "count": 4
-  },
-  {
    "term": "fire",
    "count": 4
   },
   {
-   "term": "japan",
+   "term": "besieged",
    "count": 4
   },
   {
-   "term": "terremoto",
+   "term": "palestinians",
    "count": 4
   },
   {
-   "term": "agosto",
+   "term": "netanyahu",
+   "count": 4
+  },
+  {
+   "term": "republic",
    "count": 4
   },
   {
@@ -118,49 +110,53 @@
    "count": 4
   },
   {
+   "term": "iran",
+   "count": 4
+  },
+  {
    "term": "palestinian",
+   "count": 4
+  },
+  {
+   "term": "lebanon",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "West Bank",
+   "name": "Trump",
    "count": 8
   },
   {
-   "name": "Trump",
-   "count": 7
+   "name": "Israeli",
+   "count": 8
   },
   {
-   "name": "Israeli",
-   "count": 7
+   "name": "West Bank",
+   "count": 8
   },
   {
    "name": "China",
    "count": 6
   },
   {
-   "name": "Iran",
-   "count": 5
+   "name": "Colombia",
+   "count": 6
+  },
+  {
+   "name": "Israel",
+   "count": 6
   },
   {
    "name": "Alaska",
    "count": 5
   },
   {
-   "name": "Israel",
-   "count": 5
-  },
-  {
-   "name": "Japan",
-   "count": 4
-  },
-  {
-   "name": "Colombia",
-   "count": 4
-  },
-  {
    "name": "Green",
+   "count": 4
+  },
+  {
+   "name": "Iran",
    "count": 4
   },
   {
@@ -172,15 +168,19 @@
    "count": 4
   },
   {
-   "name": "Hong Kong",
-   "count": 4
-  },
-  {
    "name": "Chinese",
    "count": 4
   },
   {
-   "name": "Europe",
+   "name": "Hong Kong",
+   "count": 4
+  },
+  {
+   "name": "Stream",
+   "count": 3
+  },
+  {
+   "name": "France",
    "count": 3
   },
   {
@@ -188,36 +188,36 @@
    "count": 3
   },
   {
+   "name": "Europe",
+   "count": 3
+  },
+  {
+   "name": "Japan",
+   "count": 3
+  },
+  {
+   "name": "Ceuta",
+   "count": 3
+  },
+  {
+   "name": "Palestinians",
+   "count": 3
+  },
+  {
+   "name": "Qusra",
+   "count": 3
+  },
+  {
+   "name": "Cali",
+   "count": 3
+  },
+  {
+   "name": "Terremoto",
+   "count": 3
+  },
+  {
    "name": "Puerto Rico",
    "count": 3
-  },
-  {
-   "name": "Gaza",
-   "count": 3
-  },
-  {
-   "name": "Fallon",
-   "count": 2
-  },
-  {
-   "name": "Selena Gomez",
-   "count": 2
-  },
-  {
-   "name": "Texas",
-   "count": 2
-  },
-  {
-   "name": "Kennedy Center",
-   "count": 2
-  },
-  {
-   "name": "Other Art World Matters",
-   "count": 2
-  },
-  {
-   "name": "America",
-   "count": 2
   }
  ]
 }
