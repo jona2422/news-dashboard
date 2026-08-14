@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14T03:01:00.028375+00:00",
- "sources_ok": 35,
+ "updated": "2026-08-14T05:07:48.035604+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -62,19 +62,11 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 36,
+   "count": 28,
    "error": ""
   },
   {
@@ -247,6 +239,14 @@
   },
   {
    "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
+   "error": ""
+  },
+  {
+   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 102,
+   "count": 92,
    "error": ""
   },
   {
