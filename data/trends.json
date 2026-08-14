@@ -1,24 +1,28 @@
 {
- "updated": "2026-08-14T19:16:43.893099+00:00",
+ "updated": "2026-08-14T19:59:42.797429+00:00",
  "terms": [
   {
+   "term": "colombia",
+   "count": 10
+  },
+  {
    "term": "west",
-   "count": 11
+   "count": 10
   },
   {
    "term": "bank",
-   "count": 11
-  },
-  {
-   "term": "colombia",
-   "count": 9
+   "count": 10
   },
   {
    "term": "israeli",
-   "count": 8
+   "count": 9
   },
   {
    "term": "terremoto",
+   "count": 9
+  },
+  {
+   "term": "trump",
    "count": 8
   },
   {
@@ -26,19 +30,15 @@
    "count": 8
   },
   {
-   "term": "israel",
-   "count": 7
-  },
-  {
-   "term": "trump",
-   "count": 7
-  },
-  {
    "term": "police",
    "count": 6
   },
   {
    "term": "world",
+   "count": 6
+  },
+  {
+   "term": "forest",
    "count": 6
   },
   {
@@ -62,32 +62,24 @@
    "count": 5
   },
   {
+   "term": "stolen",
+   "count": 5
+  },
+  {
+   "term": "years",
+   "count": 5
+  },
+  {
    "term": "gaza",
    "count": 5
   },
   {
-   "term": "google",
+   "term": "israel",
    "count": 5
   },
   {
    "term": "court",
    "count": 5
-  },
-  {
-   "term": "forest",
-   "count": 5
-  },
-  {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "stolen",
-   "count": 4
-  },
-  {
-   "term": "record",
-   "count": 4
   },
   {
    "term": "palestinians",
@@ -110,42 +102,50 @@
    "count": 4
   },
   {
-   "term": "gives",
+   "term": "show",
    "count": 3
   },
   {
-   "term": "week",
+   "term": "return",
    "count": 3
   },
   {
-   "term": "does",
+   "term": "ahead",
+   "count": 3
+  },
+  {
+   "term": "italian",
+   "count": 3
+  },
+  {
+   "term": "recover",
    "count": 3
   }
  ],
  "entities": [
   {
-   "name": "West Bank",
+   "name": "Colombia",
    "count": 10
   },
   {
-   "name": "Colombia",
+   "name": "Israeli",
    "count": 9
   },
   {
-   "name": "Israeli",
-   "count": 8
-  },
-  {
-   "name": "Israel",
-   "count": 7
+   "name": "West Bank",
+   "count": 9
   },
   {
    "name": "Trump",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Alaska",
    "count": 6
+  },
+  {
+   "name": "Israel",
+   "count": 5
   },
   {
    "name": "China",
@@ -168,10 +168,6 @@
    "count": 4
   },
   {
-   "name": "France",
-   "count": 3
-  },
-  {
    "name": "Italy",
    "count": 3
   },
@@ -180,23 +176,7 @@
    "count": 3
   },
   {
-   "name": "Show HN",
-   "count": 3
-  },
-  {
-   "name": "Google",
-   "count": 3
-  },
-  {
-   "name": "Europe",
-   "count": 3
-  },
-  {
    "name": "Hawaii",
-   "count": 3
-  },
-  {
-   "name": "Luigi Mangione",
    "count": 3
   },
   {
@@ -204,7 +184,7 @@
    "count": 3
   },
   {
-   "name": "Ceuta",
+   "name": "Alemania",
    "count": 3
   },
   {
@@ -218,6 +198,26 @@
   {
    "name": "Hong Kong",
    "count": 3
+  },
+  {
+   "name": "Wait",
+   "count": 2
+  },
+  {
+   "name": "Tour",
+   "count": 2
+  },
+  {
+   "name": "Syria",
+   "count": 2
+  },
+  {
+   "name": "France",
+   "count": 2
+  },
+  {
+   "name": "Cezanne",
+   "count": 2
   }
  ]
 }

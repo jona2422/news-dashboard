@@ -1,10 +1,19 @@
 {
- "updated": "2026-08-14T19:16:43.893099+00:00",
+ "updated": "2026-08-14T19:59:42.797429+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Radiohead Teased for Tokyo’s Summer Sonic Festival 2027",
+     "link": "https://consequence.net/2026/08/radiohead-tokyo-summer-sonic-festival-2027/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/08/radiohead-tokyo-summer-sonic.jpg?quality=80",
+     "published": "2026-08-14T19:21:48+00:00",
+     "ts": 1786735308000,
+     "count": 1
+    },
     {
      "title": "California Bill Aiming to Cap Concert Ticket Resale Prices Fails",
      "link": "https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/",
@@ -247,15 +256,6 @@
      "published": "2026-08-14T14:23:35+00:00",
      "ts": 1786717415000,
      "count": 1
-    },
-    {
-     "title": "Suno’s Studio 2.0 adds an AI chatbot that can control your project, transform sounds and generate custom plugins",
-     "link": "https://www.musicradar.com/music-tech/sunos-studio-2-0-adds-an-ai-chatbot-that-can-control-your-project-transform-sounds-and-generate-custom-plugins",
-     "source": "Latest from MusicRadar",
-     "image": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV-1280-80.jpg",
-     "published": "2026-08-14T14:19:44+00:00",
-     "ts": 1786717184000,
-     "count": 1
     }
    ]
   },
@@ -263,6 +263,15 @@
    "id": "arte",
    "name": "Arte · Cultura · Educación",
    "items": [
+    {
+     "title": "A Picasso Stolen 65 Years Ago Has Resurfaced. The Guggenheim Wants It Back",
+     "link": "https://www.artnews.com/art-news/market/guggenheim-picasso-stolen-1961-lawsuit-1234795001/",
+     "source": "ARTnews.com",
+     "image": "",
+     "published": "2026-08-14T19:36:01+00:00",
+     "ts": 1786736161000,
+     "count": 1
+    },
     {
      "title": "The Met Has Put the Oldest Existing Copy of the Odyssey on Display",
      "link": "https://www.artnews.com/art-news/news/met-museum-odyssey-display-1234795015/",
@@ -426,15 +435,6 @@
      "count": 2
     },
     {
-     "title": "Fried at Last: Why Michael Fried’s Attacks on Literalism Matter As Never Before",
-     "link": "https://www.artnews.com/art-in-america/aia-reviews/michael-fried-literalism-collected-writings-bloomsbury-1234794840/",
-     "source": "ARTnews.com",
-     "image": "https://www.artnews.com/wp-content/uploads/2026/04/RF-644.jpg?w=400",
-     "published": "2026-08-14T09:00:00+00:00",
-     "ts": 1786698000000,
-     "count": 1
-    },
-    {
      "title": "Trump’s Name May Return to the Kennedy Center—and Other Art World Matters",
      "link": "https://news.artnet.com/artnet-bulletin/trump-kennedy-center-aug-14-2797538",
      "source": "Artnet News",
@@ -522,7 +522,52 @@
    "name": "Tecnología & IA",
    "items": [
     {
-     "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+     "title": "A RAMageddon guide to back-to-school laptop shopping",
+     "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-14T19:37:04+00:00",
+     "ts": 1786736224000,
+     "count": 1
+    },
+    {
+     "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+     "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-08-14T19:33:00+00:00",
+     "ts": 1786735980000,
+     "count": 1
+    },
+    {
+     "title": "Z.ai Security Disclosure",
+     "link": "https://cvd.z.ai",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-14T19:22:00+00:00",
+     "ts": 1786735320000,
+     "count": 1
+    },
+    {
+     "title": "Samsung has new Galaxy headphones in the works",
+     "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-14T19:18:45+00:00",
+     "ts": 1786735125000,
+     "count": 1
+    },
+    {
+     "title": "How Claude's text watermarking works",
+     "link": "https://www.anthropic.com/news/claude-text-watermark",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-14T19:15:51+00:00",
+     "ts": 1786734951000,
+     "count": 1
+    },
+    {
+     "title": "What we know about the alleged Iranian hacks on US water utilities",
      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
      "source": "TechCrunch",
      "image": "",
@@ -531,7 +576,7 @@
      "count": 1
     },
     {
-     "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
+     "title": "Read-it-later app Pocket shut down — here are the best alternatives",
      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
      "source": "TechCrunch",
      "image": "",
@@ -546,24 +591,6 @@
      "image": "",
      "published": "2026-08-14T18:52:48+00:00",
      "ts": 1786733568000,
-     "count": 1
-    },
-    {
-     "title": "Show HN: Embed a real Linux terminal on your website",
-     "link": "https://sandbox.bio/training/embed",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-14T18:51:27+00:00",
-     "ts": 1786733487000,
-     "count": 1
-    },
-    {
-     "title": "A RAMageddon guide to back-to-school laptop shopping",
-     "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-14T18:32:47+00:00",
-     "ts": 1786732367000,
      "count": 1
     },
     {
@@ -745,33 +772,6 @@
      "published": "2026-08-14T16:06:49+00:00",
      "ts": 1786723609000,
      "count": 1
-    },
-    {
-     "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-     "link": "https://rayforcedb.com/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-14T16:02:20+00:00",
-     "ts": 1786723340000,
-     "count": 1
-    },
-    {
-     "title": "AI by Hand",
-     "link": "https://www.byhand.ai/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-14T15:58:59+00:00",
-     "ts": 1786723139000,
-     "count": 1
-    },
-    {
-     "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-     "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
-     "published": "2026-08-14T15:46:40+00:00",
-     "ts": 1786722400000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,51 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "New aerial video reveals huge scale of oil spill off Oman",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-14T19:36:45+00:00",
+     "ts": 1786736205000,
+     "count": 1
+    },
+    {
+     "title": "Vast German wildfire forces evacuation in Eifel forest",
+     "link": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-08-14T19:32:00+00:00",
+     "ts": 1786735920000,
+     "count": 1
+    },
+    {
+     "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
+     "link": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8dc2340929bd6c90c7cfb1d3acb624bde3941b93/682_0_4071_3259/master/4071.jpg?width=140&quality=85&auto=format&fit=max&s=66102cfdd1d9bae208d4a2e9ce4db9b8",
+     "published": "2026-08-14T19:27:08+00:00",
+     "ts": 1786735628000,
+     "count": 1
+    },
+    {
+     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2251b7781f41115e466b90701ad19a4ba293a2f4/226_0_2225_1780/master/2225.jpg?width=140&quality=85&auto=format&fit=max&s=6934d33550d6da311805ef5934723f22",
+     "published": "2026-08-14T19:22:37+00:00",
+     "ts": 1786735357000,
+     "count": 1
+    },
+    {
+     "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
+     "link": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/1e1e8e07ed8e61f60e2907f7b8f5e01449b2c84f/546_0_5346_4276/master/5346.jpg?width=140&quality=85&auto=format&fit=max&s=79ddba5be1c7d4d61f4f5304d0af6188",
+     "published": "2026-08-14T19:19:48+00:00",
+     "ts": 1786735188000,
+     "count": 1
+    },
     {
      "title": "Trump asks Supreme Court to allow ballroom work to continue",
      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
@@ -807,15 +852,6 @@
      "count": 1
     },
     {
-     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2251b7781f41115e466b90701ad19a4ba293a2f4/226_0_2225_1780/master/2225.jpg?width=140&quality=85&auto=format&fit=max&s=6934d33550d6da311805ef5934723f22",
-     "published": "2026-08-14T19:00:24+00:00",
-     "ts": 1786734024000,
-     "count": 1
-    },
-    {
      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
      "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -825,7 +861,7 @@
      "count": 1
     },
     {
-     "title": "Burnham criticised for EV and North Sea drilling approach as wildfires heighten climate fears",
+     "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
      "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/02b86401dda47441867ef599b6a0a5f84e392894/1176_0_6160_4930/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=bfb61b86eafb39d41dc2f57543077929",
@@ -879,6 +915,15 @@
      "count": 1
     },
     {
+     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+     "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
+     "published": "2026-08-14T18:25:38+00:00",
+     "ts": 1786731938000,
+     "count": 1
+    },
+    {
      "title": "Hawaii braces for direct hit from Tropical Storm Lala",
      "link": "https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala",
      "source": "World news | The Guardian",
@@ -921,15 +966,6 @@
      "image": "https://i.guim.co.uk/img/media/b3ca7d7b89c8fea93d13e3268882fcc9a706ce5d/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e7d53f1056ecc53d39b3744b1c0b197b",
      "published": "2026-08-14T17:52:51+00:00",
      "ts": 1786729971000,
-     "count": 1
-    },
-    {
-     "title": "Luigi Mangione pleads guilty to causing UnitedHealthcare CEO’s death in federal case",
-     "link": "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/52b86e6b5d88b4c7ebca5b536c9b8b4938517c3d/648_0_6482_5184/master/6482.jpg?width=140&quality=85&auto=format&fit=max&s=d4b4df2f853475e4dc138e80966241ca",
-     "published": "2026-08-14T17:52:10+00:00",
-     "ts": 1786729930000,
      "count": 1
     },
     {
@@ -994,42 +1030,6 @@
      "published": "2026-08-14T16:59:41+00:00",
      "ts": 1786726781000,
      "count": 1
-    },
-    {
-     "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-     "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
-     "published": "2026-08-14T16:58:04+00:00",
-     "ts": 1786726684000,
-     "count": 1
-    },
-    {
-     "title": "As speed cameras spread to more states, so does the backlash from drivers",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2Fbd%2Feb0bbc6a4d299a609f3a54c708c5%2Fimg-1429.JPG",
-     "published": "2026-08-14T16:54:58+00:00",
-     "ts": 1786726498000,
-     "count": 1
-    },
-    {
-     "title": "In Germany record heat meets climate action fatigue",
-     "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-14T16:54:00+00:00",
-     "ts": 1786726440000,
-     "count": 1
-    },
-    {
-     "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
-     "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-14T16:46:30+00:00",
-     "ts": 1786725990000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,60 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "La tragedia de Ana María Saavedra, la joven trilliza que perdió a sus dos hermanas y a sus padres en el terremoto en Colombia",
+     "link": "https://www.bbc.com/mundo/articles/cly59kek9w9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a054/live/8e0feea0-9815-11f1-a7ea-19f04b81e9a0.png",
+     "published": "2026-08-14T19:44:01+00:00",
+     "ts": 1786736641000,
+     "count": 1
+    },
+    {
+     "title": "La ofensiva contra el crimen cruza fronteras en América Latina",
+     "link": "https://www.dw.com/es/la-ofensiva-contra-el-crimen-cruza-fronteras-en-américa-latina/a-78376998?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-08-14T19:33:00+00:00",
+     "ts": 1786735980000,
+     "count": 1
+    },
+    {
+     "title": "Exhibición de artes marciales coreanas conmemorará en Panamá el Día de la Liberación",
+     "link": "https://www.prensa.com/deportes/exhibicion-de-artes-marciales-coreanas-conmemorara-en-panama-el-dia-de-la-liberacion/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/2UUWA6UJCVHPNKAVYG6M5D4AGA.jpeg?auth=2d0106649a7665575e5397c4973983c52ea42f9ce964e21b9ef2e442e61a0425&smart=true&width=1280&height=853",
+     "published": "2026-08-14T19:22:47+00:00",
+     "ts": 1786735367000,
+     "count": 1
+    },
+    {
+     "title": "Ola de calor en Alemania: política inmóvil, ciudadanía impotente",
+     "link": "https://www.dw.com/es/ola-de-calor-en-alemania-política-inmóvil-ciudadanía-impotente/a-78377141?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-08-14T19:18:00+00:00",
+     "ts": 1786735080000,
+     "count": 1
+    },
+    {
+     "title": "Comanche es imputado y quedó detenido provisionalmente como parte de la operación Jericó",
+     "link": "https://www.prensa.com/judiciales/comanche-es-imputado-y-quedo-detenido-provisionalmente-como-parte-de-la-operacion-jerico/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/WMJPXF4DINAJNNXEQV2BZT26GA.png?auth=9347ec309e58e917f5cc87ed201b4eb1af79912531861d4b2b8ac9010fd3706d&smart=true&width=1920&height=1080",
+     "published": "2026-08-14T19:15:49+00:00",
+     "ts": 1786734949000,
+     "count": 1
+    },
+    {
+     "title": "En video: delegación israelita llegó a Cali para apoyar las labores de búsqueda y rescate",
+     "link": "https://www.eltiempo.com/colombia/cali/en-video-delegacion-israelita-llego-a-cali-para-apoyar-las-labores-de-busqueda-y-rescate-3578471",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/14/6a7f6517f4194.png",
+     "published": "2026-08-14T19:05:01+00:00",
+     "ts": 1786734301000,
+     "count": 1
+    },
     {
      "title": "Mujer de 21 años fue enviada a prisión por presuntamente agredir a su bebé de tres meses en Santa Marta: investigan violencia intrafamiliar agravada",
      "link": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-de-21-anos-fue-enviada-a-prision-por-presuntamente-agredir-a-su-bebe-de-tres-meses-en-santa-marta-investigan-violencia-intrafamiliar-agravada-3578461",
@@ -1209,15 +1263,6 @@
      "count": 1
     },
     {
-     "title": "Comanche es imputado y quedó detenido provisionalmente como parte de la operación Jericó",
-     "link": "https://www.prensa.com/judiciales/comanche-es-imputado-y-quedo-detenido-provisionalmente-como-parte-de-la-operacion-jerico/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/WMJPXF4DINAJNNXEQV2BZT26GA.png?auth=9347ec309e58e917f5cc87ed201b4eb1af79912531861d4b2b8ac9010fd3706d&smart=true&width=1920&height=1080",
-     "published": "2026-08-14T17:47:47+00:00",
-     "ts": 1786729667000,
-     "count": 1
-    },
-    {
      "title": "Lula dice que quiere conversar con Trump para decirque no se meta en las elecciones",
      "link": "https://www.prensa.com/mundo/lula-dice-que-quiere-conversar-con-trump-para-decirque-no-se-meta-en-las-elecciones/",
      "source": "La Prensa",
@@ -1243,51 +1288,6 @@
      "published": "2026-08-14T17:38:39+00:00",
      "ts": 1786729119000,
      "count": 1
-    },
-    {
-     "title": "De Trujillo a Molinar: las 15 renuncias que han marcado el gobierno de Mulino",
-     "link": "https://www.prensa.com/politica/de-trujillo-a-molinar-las-14-renuncias-que-han-marcado-el-gobierno-de-mulino/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/WNVFSEDHYRDPJLV6NWEXJXDQLA.jpeg?auth=e5250233e9fc9317fd0697e3ec04a59b1d74ea7818dffa53143cca82239dcd7a&smart=true&width=4160&height=2773",
-     "published": "2026-08-14T17:34:16+00:00",
-     "ts": 1786728856000,
-     "count": 1
-    },
-    {
-     "title": "Jeff Bezos entra como accionista minoritario en el Liverpool",
-     "link": "https://elpais.com/deportes/futbol/2026-08-14/jeff-bezos-entra-como-accionista-minoritario-en-el-liverpool.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/DAXZEVTL7JP3JAI47STEBJ6LBE.jpg?auth=e234273cbde8af1c8de5e29fd1029ac9b62f5f3e545593fc0b58b2f6357f0bed",
-     "published": "2026-08-14T17:28:39+00:00",
-     "ts": 1786728519000,
-     "count": 1
-    },
-    {
-     "title": "Lluvias, tormentas, mareas altas y más calor marcarán el fin de semana en Panamá",
-     "link": "https://www.prensa.com/sociedad/lluvias-tormentas-mareas-altas-y-mas-calor-marcaran-el-fin-de-semana-en-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/5WVULFJS3NEKROVVIMWRZXL2SM.png?auth=13337d1afb32d95df34c1e7fa6d5c824e0eca84f45e2839f5039d28099d33997&smart=true&width=1920&height=1080",
-     "published": "2026-08-14T17:28:20+00:00",
-     "ts": 1786728500000,
-     "count": 1
-    },
-    {
-     "title": "CSS abrirá sus agencias este sábado para orientar sobre el nuevo sistema de pensiones",
-     "link": "https://www.prensa.com/sociedad/css-abrira-sus-agencias-este-sabado-para-orientar-sobre-el-nuevo-sistema-de-pensiones/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/SJS4A6FOUBANRCPHJH5QOAM4TM.jpg?auth=a577f0430c68218d52d6b77f6bbbb902221903e112e1c92d4decb7f01b199be6&smart=true&width=4080&height=3060",
-     "published": "2026-08-14T17:08:50+00:00",
-     "ts": 1786727330000,
-     "count": 1
-    },
-    {
-     "title": "¿Se abrirá la frontera de Ceuta el 15 de agosto? : las noticias falsas se propagan por las redes sociales",
-     "link": "https://www.france24.com/es/europa/20260814-se-abrir%C3%A1-la-frontera-de-ceuta-el-15-de-agosto-las-noticias-falsas-se-propagan-por-las-redes-sociales",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/0487eda8-943d-11f1-8468-005056bf30b7/w:1024/p:16x9/2026-08-07T125050Z-2084180962-RC22TMADKWTO-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA-ITALY.jpg",
-     "published": "2026-08-14T17:07:55+00:00",
-     "ts": 1786727275000,
-     "count": 1
     }
    ]
   },
@@ -1296,31 +1296,31 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "Green forest fire notification in Zambia",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030505",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-14T19:14:47+00:00",
-     "ts": 1786734887000,
-     "count": 255
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030504",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-14T19:07:50+00:00",
-     "ts": 1786734470000,
-     "count": 45
-    },
-    {
      "title": "M 2.5 - 25 km SW of Anchor Point, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbavul",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-14T18:58:22.226000+00:00",
-     "ts": 1786733902226,
+     "published": "2026-08-14T19:51:05.040000+00:00",
+     "ts": 1786737065040,
      "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Indonesia",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030418",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-14T19:49:09+00:00",
+     "ts": 1786736949000,
+     "count": 254
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030480",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-14T19:44:19+00:00",
+     "ts": 1786736659000,
+     "count": 55
     },
     {
      "title": "M 4.5 - 165 km N of Sola, Vanuatu",
@@ -1626,7 +1626,7 @@
      "count": 1
     },
     {
-     "title": "Middle East live: Israel calls for police to replace military in handling West Bank settlers",
+     "title": "Mideast live: Israeli minister calls for police to replace military in handling West Bank settlers",
      "link": "https://www.france24.com/en/middle-east/20260814-middle-east-live-us-threatens-iran-with-economic-isolation-like-never-seen-before",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/9e1390d4-9808-11f1-b653-005056bf30b7/w:1024/p:16x9/AP26226460535452.jpg",
