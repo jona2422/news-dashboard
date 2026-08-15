@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-15T16:43:48.261474+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-15T17:38:39.205459+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -60,6 +60,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 415: Unsupported Media Type"
   },
   {
    "beat": "actualidad",
@@ -178,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 387,
+   "count": 388,
    "error": ""
   },
   {
@@ -235,14 +243,6 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
-   "error": ""
-  },
-  {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
    "error": ""
   },
   {
