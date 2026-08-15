@@ -1,32 +1,36 @@
 {
- "updated": "2026-08-15T17:38:39.205459+00:00",
+ "updated": "2026-08-15T18:49:58.446134+00:00",
  "terms": [
   {
    "term": "israeli",
-   "count": 15
-  },
-  {
-   "term": "west",
    "count": 14
   },
   {
+   "term": "west",
+   "count": 13
+  },
+  {
    "term": "bank",
-   "count": 12
+   "count": 11
   },
   {
    "term": "indonesia",
-   "count": 10
+   "count": 11
+  },
+  {
+   "term": "police",
+   "count": 8
   },
   {
    "term": "south",
-   "count": 8
+   "count": 7
   },
   {
-   "term": "terremoto",
-   "count": 8
+   "term": "people",
+   "count": 7
   },
   {
-   "term": "colombia",
+   "term": "trump",
    "count": 7
   },
   {
@@ -42,35 +46,11 @@
    "count": 6
   },
   {
-   "term": "trump",
+   "term": "terremoto",
    "count": 6
-  },
-  {
-   "term": "homes",
-   "count": 6
-  },
-  {
-   "term": "hong",
-   "count": 6
-  },
-  {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "years",
-   "count": 5
-  },
-  {
-   "term": "people",
-   "count": 5
   },
   {
    "term": "stolen",
-   "count": 5
-  },
-  {
-   "term": "police",
    "count": 5
   },
   {
@@ -90,7 +70,7 @@
    "count": 5
   },
   {
-   "term": "alaska",
+   "term": "homes",
    "count": 5
   },
   {
@@ -102,6 +82,18 @@
    "count": 5
   },
   {
+   "term": "iran",
+   "count": 5
+  },
+  {
+   "term": "hong",
+   "count": 5
+  },
+  {
+   "term": "kong",
+   "count": 5
+  },
+  {
    "term": "china",
    "count": 5
   },
@@ -110,7 +102,11 @@
    "count": 4
   },
   {
-   "term": "2026",
+   "term": "years",
+   "count": 4
+  },
+  {
+   "term": "colombia",
    "count": 4
   },
   {
@@ -120,23 +116,27 @@
   {
    "term": "world",
    "count": 4
+  },
+  {
+   "term": "russian",
+   "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israeli",
-   "count": 14
-  },
-  {
-   "name": "West Bank",
-   "count": 11
+   "count": 13
   },
   {
    "name": "Indonesia",
+   "count": 11
+  },
+  {
+   "name": "West Bank",
    "count": 10
   },
   {
-   "name": "Colombia",
+   "name": "Trump",
    "count": 7
   },
   {
@@ -144,19 +144,7 @@
    "count": 7
   },
   {
-   "name": "Trump",
-   "count": 6
-  },
-  {
-   "name": "Hong Kong",
-   "count": 6
-  },
-  {
    "name": "Israel",
-   "count": 5
-  },
-  {
-   "name": "Alaska",
    "count": 5
   },
   {
@@ -164,7 +152,19 @@
    "count": 5
   },
   {
-   "name": "Terremoto",
+   "name": "Iran",
+   "count": 5
+  },
+  {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
+   "name": "Colombia",
+   "count": 4
+  },
+  {
+   "name": "Middle East",
    "count": 4
   },
   {
@@ -172,11 +172,15 @@
    "count": 4
   },
   {
-   "name": "Palestinians",
+   "name": "Cambridge",
    "count": 4
   },
   {
-   "name": "Iran",
+   "name": "Alaska",
+   "count": 4
+  },
+  {
+   "name": "Palestinians",
    "count": 4
   },
   {
@@ -188,8 +192,16 @@
    "count": 3
   },
   {
-   "name": "Palestinian",
+   "name": "Ceuta",
    "count": 3
+  },
+  {
+   "name": "Panamá",
+   "count": 3
+  },
+  {
+   "name": "Dead",
+   "count": 2
   },
   {
    "name": "Almost Died",
@@ -205,18 +217,6 @@
   },
   {
    "name": "Years",
-   "count": 2
-  },
-  {
-   "name": "Syria",
-   "count": 2
-  },
-  {
-   "name": "France",
-   "count": 2
-  },
-  {
-   "name": "Brazil",
    "count": 2
   }
  ]
