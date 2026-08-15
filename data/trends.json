@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T07:46:21.048247+00:00",
+ "updated": "2026-08-15T08:47:32.557563+00:00",
  "terms": [
   {
    "term": "israeli",
@@ -15,26 +15,22 @@
   },
   {
    "term": "indonesia",
-   "count": 10
-  },
-  {
-   "term": "trump",
-   "count": 9
+   "count": 11
   },
   {
    "term": "alaska",
-   "count": 9
+   "count": 10
   },
   {
    "term": "china",
    "count": 7
   },
   {
-   "term": "talks",
+   "term": "earthquake",
    "count": 6
   },
   {
-   "term": "earthquake",
+   "term": "israel",
    "count": 6
   },
   {
@@ -42,7 +38,7 @@
    "count": 6
   },
   {
-   "term": "iran",
+   "term": "lebanon",
    "count": 6
   },
   {
@@ -58,11 +54,11 @@
    "count": 5
   },
   {
-   "term": "gaza",
+   "term": "talks",
    "count": 5
   },
   {
-   "term": "israel",
+   "term": "gaza",
    "count": 5
   },
   {
@@ -70,11 +66,15 @@
    "count": 5
   },
   {
-   "term": "lebanon",
+   "term": "trump",
    "count": 5
   },
   {
-   "term": "hormuz",
+   "term": "south",
+   "count": 5
+  },
+  {
+   "term": "iran",
    "count": 5
   },
   {
@@ -98,31 +98,35 @@
    "count": 4
   },
   {
-   "term": "know",
-   "count": 4
-  },
-  {
-   "term": "south",
-   "count": 4
-  },
-  {
-   "term": "president",
-   "count": 4
-  },
-  {
-   "term": "strait",
-   "count": 4
-  },
-  {
-   "term": "venezuela",
-   "count": 4
-  },
-  {
    "term": "palestinians",
    "count": 4
+  },
+  {
+   "term": "hong",
+   "count": 4
+  },
+  {
+   "term": "trailer",
+   "count": 3
+  },
+  {
+   "term": "album",
+   "count": 3
+  },
+  {
+   "term": "years",
+   "count": 3
+  },
+  {
+   "term": "wants",
+   "count": 3
   }
  ],
  "entities": [
+  {
+   "name": "Indonesia",
+   "count": 11
+  },
   {
    "name": "Israeli",
    "count": 11
@@ -132,31 +136,23 @@
    "count": 11
   },
   {
-   "name": "Indonesia",
+   "name": "Alaska",
    "count": 10
   },
   {
-   "name": "Alaska",
-   "count": 9
-  },
-  {
-   "name": "Trump",
-   "count": 7
-  },
-  {
-   "name": "Iran",
+   "name": "Israel",
    "count": 6
   },
   {
-   "name": "Israel",
-   "count": 5
-  },
-  {
    "name": "Lebanon",
-   "count": 5
+   "count": 6
   },
   {
    "name": "China",
+   "count": 6
+  },
+  {
+   "name": "Iran",
    "count": 5
   },
   {
@@ -168,15 +164,11 @@
    "count": 4
   },
   {
+   "name": "Trump",
+   "count": 4
+  },
+  {
    "name": "Gaza",
-   "count": 4
-  },
-  {
-   "name": "Venezuela",
-   "count": 4
-  },
-  {
-   "name": "Hormuz",
    "count": 4
   },
   {
@@ -188,7 +180,11 @@
    "count": 3
   },
   {
-   "name": "Strait",
+   "name": "Magnitude",
+   "count": 3
+  },
+  {
+   "name": "Russia",
    "count": 3
   },
   {
@@ -212,11 +208,15 @@
    "count": 3
   },
   {
-   "name": "Chinese",
-   "count": 3
+   "name": "Years",
+   "count": 2
   },
   {
-   "name": "Years",
+   "name": "Wait",
+   "count": 2
+  },
+  {
+   "name": "Syria",
    "count": 2
   }
  ]
