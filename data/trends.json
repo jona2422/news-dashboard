@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-15T20:42:07.000332+00:00",
+ "updated": "2026-08-15T21:38:23.295384+00:00",
  "terms": [
   {
-   "term": "west",
-   "count": 11
+   "term": "israeli",
+   "count": 13
   },
   {
-   "term": "israeli",
-   "count": 11
+   "term": "west",
+   "count": 10
   },
   {
    "term": "police",
@@ -15,7 +15,7 @@
   },
   {
    "term": "bank",
-   "count": 10
+   "count": 9
   },
   {
    "term": "indonesia",
@@ -23,6 +23,14 @@
   },
   {
    "term": "trump",
+   "count": 7
+  },
+  {
+   "term": "strikes",
+   "count": 7
+  },
+  {
+   "term": "lebanon",
    "count": 7
   },
   {
@@ -38,15 +46,19 @@
    "count": 6
   },
   {
-   "term": "lebanon",
-   "count": 6
-  },
-  {
    "term": "settlers",
    "count": 6
   },
   {
-   "term": "south",
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
+   "count": 6
+  },
+  {
+   "term": "years",
    "count": 5
   },
   {
@@ -54,15 +66,11 @@
    "count": 5
   },
   {
-   "term": "israel",
+   "term": "wants",
    "count": 5
   },
   {
-   "term": "year",
-   "count": 5
-  },
-  {
-   "term": "strikes",
+   "term": "hawaii",
    "count": 5
   },
   {
@@ -70,31 +78,11 @@
    "count": 5
   },
   {
-   "term": "middle",
-   "count": 5
-  },
-  {
-   "term": "east",
+   "term": "southern",
    "count": 5
   },
   {
    "term": "terremoto",
-   "count": 5
-  },
-  {
-   "term": "palestinians",
-   "count": 5
-  },
-  {
-   "term": "iran",
-   "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
    "count": 5
   },
   {
@@ -106,11 +94,7 @@
    "count": 4
   },
   {
-   "term": "years",
-   "count": 4
-  },
-  {
-   "term": "death",
+   "term": "three",
    "count": 4
   },
   {
@@ -118,14 +102,30 @@
    "count": 4
   },
   {
-   "term": "wants",
+   "term": "colombia",
+   "count": 4
+  },
+  {
+   "term": "israel",
+   "count": 4
+  },
+  {
+   "term": "test",
+   "count": 4
+  },
+  {
+   "term": "qatar",
+   "count": 4
+  },
+  {
+   "term": "iranian",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israeli",
-   "count": 11
+   "count": 12
   },
   {
    "name": "West Bank",
@@ -141,22 +141,14 @@
   },
   {
    "name": "Lebanon",
-   "count": 6
-  },
-  {
-   "name": "Israel",
-   "count": 5
-  },
-  {
-   "name": "Middle East",
-   "count": 5
-  },
-  {
-   "name": "Iran",
-   "count": 5
+   "count": 7
   },
   {
    "name": "Hong Kong",
+   "count": 6
+  },
+  {
+   "name": "Hawaii",
    "count": 5
   },
   {
@@ -164,15 +156,23 @@
    "count": 4
   },
   {
+   "name": "Israel",
+   "count": 4
+  },
+  {
+   "name": "Qatar",
+   "count": 4
+  },
+  {
+   "name": "Iranian",
+   "count": 4
+  },
+  {
    "name": "Ceuta",
    "count": 4
   },
   {
-   "name": "Hawaii",
-   "count": 4
-  },
-  {
-   "name": "Cambridge",
+   "name": "Middle East",
    "count": 4
   },
   {
@@ -184,19 +184,15 @@
    "count": 4
   },
   {
+   "name": "Iran",
+   "count": 4
+  },
+  {
    "name": "China",
    "count": 4
   },
   {
    "name": "Moroccan",
-   "count": 3
-  },
-  {
-   "name": "Panamá",
-   "count": 3
-  },
-  {
-   "name": "Alaska",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "Spanish",
+   "count": 2
+  },
+  {
+   "name": "Adam Driver",
    "count": 2
   }
  ]
