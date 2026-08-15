@@ -1,10 +1,28 @@
 {
- "updated": "2026-08-15T13:45:28.807785+00:00",
+ "updated": "2026-08-15T14:42:16.272510+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Matthew McConaughey’s Life in Songs Has Taken Him Everywhere",
+     "link": "https://www.rollingstone.com/music/music-news/matthew-mcconaughey-life-in-songs-1235609364/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-08-15T14:14:10+00:00",
+     "ts": 1786803250000,
+     "count": 1
+    },
+    {
+     "title": "Phil Collins Reveals He’s Been Sober for Three Years",
+     "link": "https://consequence.net/2026/08/phil-collins-talks-alcoholism-sobriety-health-issues/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/08/Phil-Collins-Concord.jpg?quality=80",
+     "published": "2026-08-15T14:06:48+00:00",
+     "ts": 1786802808000,
+     "count": 1
+    },
     {
      "title": "Elizabeth Cook, Rocked by the Death of Todd Snider, Finds Strength on a New Album",
      "link": "https://www.rollingstone.com/music/music-features/elizabeth-cook-great-television-album-remembers-todd-snider-1235609376/",
@@ -237,24 +255,6 @@
      "image": "",
      "published": "2026-08-14T17:54:07+00:00",
      "ts": 1786730047000,
-     "count": 1
-    },
-    {
-     "title": "William Shatner Announces First-Ever Metal Show as Warm-Up for Riot Fest",
-     "link": "https://consequence.net/2026/08/william-shatner-first-ever-metal-show-warm-up-riot-fest/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/08/William-Shatner.jpg?quality=80",
-     "published": "2026-08-14T17:43:12+00:00",
-     "ts": 1786729392000,
-     "count": 1
-    },
-    {
-     "title": "Silverada, a Honky-Tonk Band, Did the Unthinkable: Trading Pedal Steel for Keys. It’s Working",
-     "link": "https://www.rollingstone.com/music/music-features/silverada-living-proof-album-honky-tonk-1235609311/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-08-14T17:24:56+00:00",
-     "ts": 1786728296000,
      "count": 1
     }
    ]
@@ -522,12 +522,75 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+     "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_RH7_7615.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-15T14:20:33+00:00",
+     "ts": 1786803633000,
+     "count": 1
+    },
+    {
+     "title": "I finally found a magnetic phone grip I never want to remove",
+     "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-ohsnap-stand-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-15T14:16:30+00:00",
+     "ts": 1786803390000,
+     "count": 1
+    },
+    {
+     "title": "Secondhand book sales are booming. Is it because of AI?",
+     "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T14:08:55+00:00",
+     "ts": 1786802935000,
+     "count": 1
+    },
+    {
+     "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+     "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_tp1_8222-1024x683-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-15T14:03:14+00:00",
+     "ts": 1786802594000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+     "link": "https://hypnagogic-quasicrystals.github.io/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T13:48:43+00:00",
+     "ts": 1786801723000,
+     "count": 1
+    },
+    {
+     "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+     "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T13:43:46+00:00",
+     "ts": 1786801426000,
+     "count": 1
+    },
+    {
      "title": "Brazilian election filter in X For You timeline",
      "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-15T13:18:27+00:00",
      "ts": 1786799907000,
+     "count": 1
+    },
+    {
+     "title": "388 years ago, Galileo worked out why human giants can't exist",
+     "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T13:15:48+00:00",
+     "ts": 1786799748000,
      "count": 1
     },
     {
@@ -558,12 +621,30 @@
      "count": 1
     },
     {
-     "title": "Strait of Hormuz Live Traffic Tracking",
-     "link": "https://hormuz.now/",
+     "title": "Xorshift Generators",
+     "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-15T12:54:43+00:00",
-     "ts": 1786798483000,
+     "published": "2026-08-15T12:47:52+00:00",
+     "ts": 1786798072000,
+     "count": 1
+    },
+    {
+     "title": "The Problem",
+     "link": "https://intelligence.org/the-problem/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T12:14:17+00:00",
+     "ts": 1786796057000,
+     "count": 1
+    },
+    {
+     "title": "T3X/0 a Minimal Procedural Language",
+     "link": "https://t3x.org/t3x/0/index.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T12:06:24+00:00",
+     "ts": 1786795584000,
      "count": 1
     },
     {
@@ -591,15 +672,6 @@
      "image": "",
      "published": "2026-08-15T10:39:41+00:00",
      "ts": 1786790381000,
-     "count": 1
-    },
-    {
-     "title": "Debian has begun voting on the future of AI/LLM contributions",
-     "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T09:20:07+00:00",
-     "ts": 1786785607000,
      "count": 1
     },
     {
@@ -645,15 +717,6 @@
      "image": "",
      "published": "2026-08-15T01:14:05+00:00",
      "ts": 1786756445000,
-     "count": 1
-    },
-    {
-     "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-     "link": "https://arxiv.org/abs/1811.03459",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T00:15:23+00:00",
-     "ts": 1786752923000,
      "count": 1
     },
     {
@@ -709,69 +772,6 @@
      "published": "2026-08-14T20:16:35+00:00",
      "ts": 1786738595000,
      "count": 1
-    },
-    {
-     "title": "A RAMageddon guide to back-to-school laptop shopping",
-     "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-14T19:37:04+00:00",
-     "ts": 1786736224000,
-     "count": 1
-    },
-    {
-     "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-     "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-14T19:33:00+00:00",
-     "ts": 1786735980000,
-     "count": 1
-    },
-    {
-     "title": "Samsung has new Galaxy headphones in the works",
-     "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-14T19:18:45+00:00",
-     "ts": 1786735125000,
-     "count": 1
-    },
-    {
-     "title": "What we know about the alleged Iranian hacks on US water utilities",
-     "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-14T19:04:32+00:00",
-     "ts": 1786734272000,
-     "count": 1
-    },
-    {
-     "title": "Firefox is now the last major browser that still supports uBlock Origin",
-     "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-14T19:03:20+00:00",
-     "ts": 1786734200000,
-     "count": 1
-    },
-    {
-     "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-     "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-14T18:58:15+00:00",
-     "ts": 1786733895000,
-     "count": 1
-    },
-    {
-     "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-     "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
-     "published": "2026-08-14T18:32:14+00:00",
-     "ts": 1786732334000,
-     "count": 1
     }
    ]
   },
@@ -780,12 +780,75 @@
    "name": "Actualidad Global",
    "items": [
     {
+     "title": "South Korea proposes talks to officially end war with North",
+     "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-08-15T14:40:15+00:00",
+     "ts": 1786804815000,
+     "count": 1
+    },
+    {
+     "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+     "link": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4d1af1c7d6888db7ac35c6fcf0d90b70dd7a96f5/1159_0_4156_3328/master/4156.jpg?width=140&quality=85&auto=format&fit=max&s=42f651323c052d5dd01c60222e3f32f3",
+     "published": "2026-08-15T14:26:46+00:00",
+     "ts": 1786804006000,
+     "count": 1
+    },
+    {
+     "title": "Powerful earthquake kills dozens in eastern Indonesia",
+     "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
+     "published": "2026-08-15T14:03:09+00:00",
+     "ts": 1786802589000,
+     "count": 1
+    },
+    {
+     "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d7e6c4fa73cac865d990bd48e8d7788c9aa50159/516_0_3211_2571/master/3211.jpg?width=140&quality=85&auto=format&fit=max&s=7680ae30a2dd8a03426f52d15f0e5809",
+     "published": "2026-08-15T14:01:01+00:00",
+     "ts": 1786802461000,
+     "count": 1
+    },
+    {
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
+     "published": "2026-08-15T13:55:28+00:00",
+     "ts": 1786802128000,
+     "count": 1
+    },
+    {
+     "title": "Teenager pleas guilty to attacking California sea lion in viral video",
+     "link": "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/bb97b3571b1b15a4d0b6e41c4edc30dadd3ba9fb/0_0_6138_4912/master/6138.jpg?width=140&quality=85&auto=format&fit=max&s=1da409aec11d364958934b71098170b3",
+     "published": "2026-08-15T13:54:58+00:00",
+     "ts": 1786802098000,
+     "count": 1
+    },
+    {
      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg",
      "published": "2026-08-15T13:41:09+00:00",
      "ts": 1786801269000,
+     "count": 1
+    },
+    {
+     "title": "World's Ugliest Dog contest crowns 2026 winner",
+     "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
+     "published": "2026-08-15T13:41:08+00:00",
+     "ts": 1786801268000,
      "count": 1
     },
     {
@@ -804,7 +867,7 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
      "published": "2026-08-15T13:35:57+00:00",
      "ts": 1786800957000,
-     "count": 2
+     "count": 1
     },
     {
      "title": "Multiple people injured in shooting at Virginia State University",
@@ -852,7 +915,7 @@
      "count": 1
     },
     {
-     "title": "Five wounded in shooting at Virginia State University",
+     "title": "Five wounded in shooting at Virginia State University, multiple suspects",
      "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -867,15 +930,6 @@
      "image": "",
      "published": "2026-08-15T12:44:30+00:00",
      "ts": 1786797870000,
-     "count": 1
-    },
-    {
-     "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
-     "link": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4d1af1c7d6888db7ac35c6fcf0d90b70dd7a96f5/1159_0_4156_3328/master/4156.jpg?width=140&quality=85&auto=format&fit=max&s=42f651323c052d5dd01c60222e3f32f3",
-     "published": "2026-08-15T12:34:02+00:00",
-     "ts": 1786797242000,
      "count": 1
     },
     {
@@ -915,19 +969,19 @@
      "count": 1
     },
     {
-     "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
-     "link": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
+     "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a5ea4cf555e55e0f48599699f7791d0d022122e7/221_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=6b2e00513dd60cc0af4a9d3eabc34edc",
+     "image": "https://i.guim.co.uk/img/media/3ae2e65bcc2e471243121bcf231752d33e887ed2/226_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=b95023c13a88f26122a62a7934baa515",
      "published": "2026-08-15T12:00:57+00:00",
      "ts": 1786795257000,
      "count": 1
     },
     {
-     "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
+     "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
+     "link": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3ae2e65bcc2e471243121bcf231752d33e887ed2/226_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=b95023c13a88f26122a62a7934baa515",
+     "image": "https://i.guim.co.uk/img/media/a5ea4cf555e55e0f48599699f7791d0d022122e7/221_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=6b2e00513dd60cc0af4a9d3eabc34edc",
      "published": "2026-08-15T12:00:57+00:00",
      "ts": 1786795257000,
      "count": 1
@@ -976,60 +1030,6 @@
      "published": "2026-08-15T11:27:11+00:00",
      "ts": 1786793231000,
      "count": 1
-    },
-    {
-     "title": "Aftermath of deadly Indonesia earthquake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T11:19:56+00:00",
-     "ts": 1786792796000,
-     "count": 1
-    },
-    {
-     "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
-     "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T11:09:27+00:00",
-     "ts": 1786792167000,
-     "count": 1
-    },
-    {
-     "title": "What the Taliban achieved and failed to achieve in five years",
-     "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T11:07:05+00:00",
-     "ts": 1786792025000,
-     "count": 1
-    },
-    {
-     "title": "Lindsay Clancy murder trial: prosecutors revive theory of faked suicide attempt",
-     "link": "https://www.theguardian.com/us-news/2026/aug/15/lindsay-clancy-murder-trial-prosecutors",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/220c938b4aa9c6542820be0232f8f5df70e6e595/681_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=63a177b8169ea0fafdbf68ce690fe39a",
-     "published": "2026-08-15T11:00:56+00:00",
-     "ts": 1786791656000,
-     "count": 1
-    },
-    {
-     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
-     "link": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4481abefeb84092ce31ab52cf71a02aafa82b4e7/128_0_2739_2193/master/2739.jpg?width=140&quality=85&auto=format&fit=max&s=ee934ae2ce45d1d859baf975ee306475",
-     "published": "2026-08-15T11:00:55+00:00",
-     "ts": 1786791655000,
-     "count": 1
-    },
-    {
-     "title": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
-     "link": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1ebc842f555e9a252aa9f08271d730845eed33e1/881_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=d5309af0c70a9fd1f80b232daabac90a",
-     "published": "2026-08-15T11:00:54+00:00",
-     "ts": 1786791654000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,60 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Alavés vs Getafe abre LaLiga 2026-27: el Barça defiende la corona y Mourinho vuelve al Real Madrid",
+     "link": "https://www.prensa.com/deportes/alaves-vs-getafe-abre-laliga-2026-27-el-barca-defiende-la-corona-y-mourinho-vuelve-al-real-madrid/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/NJC7WPP6NJDW7MJLKT56DBKCZI.jpg?auth=bc7af9fb90f1b8362fdb59dd43bf49106162c65bbfa56f146bef3940549878b2&smart=true&width=1920&height=1297",
+     "published": "2026-08-15T14:29:31+00:00",
+     "ts": 1786804171000,
+     "count": 1
+    },
+    {
+     "title": "¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?",
+     "link": "https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg",
+     "published": "2026-08-15T14:26:44+00:00",
+     "ts": 1786804004000,
+     "count": 1
+    },
+    {
+     "title": "Panamá pone sobre la mesa una reforma profunda del SICA en medio de crisis y divisiones",
+     "link": "https://www.prensa.com/politica/panama-pone-sobre-la-mesa-una-reforma-profunda-del-sica-en-medio-de-crisis-y-divisiones/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/IQVVTPFVIBBDBC2HSBX4AWMAJQ.jpg?auth=2012aeea3ae7cc0136dcf1a0d42bcd9b83df7ca35deef52a13ac1ee93970f826&smart=true&width=1024&height=683",
+     "published": "2026-08-15T14:17:20+00:00",
+     "ts": 1786803440000,
+     "count": 1
+    },
+    {
+     "title": "Terremoto en Colombia hoy 15 de agosto: presidente Abelardo De La Espriella destaca solidaridad de los caleños y asegura que ‘hay esperanza y futuro’",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a7ff4c580090.r_d.211-215-0.png",
+     "published": "2026-08-15T14:06:50+00:00",
+     "ts": 1786802810000,
+     "count": 1
+    },
+    {
+     "title": "Colombia: ¿qué pasa con los contratos de arrendamiento y los seguros inmobiliarios tras el terremoto?",
+     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260815-colombia-qu%C3%A9-pasa-con-los-contratos-de-arrendamiento-y-los-seguros-inmobiliarios-tras-el-terremoto",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/17467b4a-9829-11f1-9e5f-005056bfb2b6/w:1024/p:16x9/2026-08-14T211913Z-1471403704-RC2DYMATLMVF-RTRMADP-3-COLOMBIA-QUAKE.jpg",
+     "published": "2026-08-15T14:06:41+00:00",
+     "ts": 1786802801000,
+     "count": 2
+    },
+    {
+     "title": "Terremoto en Colombia: ¿qué viene ahora para el nuevo Gobierno?",
+     "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260815-terremoto-en-colombia-qu%C3%A9-viene-ahora-para-el-nuevo-gobierno",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/670fd9ac-981d-11f1-88da-005056a97e36/w:1024/p:16x9/WEB-PORTADA-SEM-14AGO.png",
+     "published": "2026-08-15T13:58:46+00:00",
+     "ts": 1786802326000,
+     "count": 1
+    },
     {
      "title": "Indonesia, sacudida por dos potentes terremotos que dejan al menos 38 muertos",
      "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-indonesia-sacudida-por-dos-potentes-terremotos-que-dejan-al-menos-38-muertos",
@@ -1065,10 +1119,10 @@
      "count": 1
     },
     {
-     "title": "En directo: continúa la búsqueda de sobrevivientes cinco días después del terremoto en Colombia",
+     "title": "En directo | nuevo balance del terremoto en Colombia: 294 muertos y 3.935 heridos",
      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-en-directo-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-cinco-d%C3%ADas-despu%C3%A9s-del-terremoto-en-colombia",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/a64afa2c-98ac-11f1-a7d2-005056a97e36/w:1024/p:16x9/2026-08-15T011307Z-1713863697-RC2OYMAKT8AZ-RTRMADP-3-COLOMBIA-QUAKE.jpg",
+     "image": "https://s.france24.com/media/display/a19a1562-98b6-11f1-ad48-005056bf30b7/w:1024/p:16x9/2026-08-15T003626Z-991343521-RC2GYMA36NI1-RTRMADP-3-COLOMBIA-QUAKE.jpg",
      "published": "2026-08-15T13:27:06+00:00",
      "ts": 1786800426000,
      "count": 1
@@ -1155,15 +1209,6 @@
      "count": 1
     },
     {
-     "title": "Terremoto en Colombia hoy 15 de agosto: nuevo temblor de magnitud 2,5 en Chocó; internautas informaron haberlo sentido en varias zonas del país",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/15/6a7ff4c580090.png",
-     "published": "2026-08-15T11:47:11+00:00",
-     "ts": 1786794431000,
-     "count": 1
-    },
-    {
      "title": "\"Nunca pensamos en no lanzarla\": el relato de un científico que ayudó a fabricar la bomba atómica que arrasó Nagasaki",
      "link": "https://www.bbc.com/mundo/articles/cgr7p2z8xwwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -1243,51 +1288,6 @@
      "published": "2026-08-15T07:33:06+00:00",
      "ts": 1786779186000,
      "count": 1
-    },
-    {
-     "title": "China se queja ante Japón por visita a santuario  de Yasukuni",
-     "link": "https://www.dw.com/es/china-se-queja-ante-japón-por-visita-a-santuario-de-yasukuni/a-78378570?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-15T05:28:00+00:00",
-     "ts": 1786771680000,
-     "count": 1
-    },
-    {
-     "title": "Computadoras, renuncias y docentes separados: los problemas que recibe Ventura Vega en el Meduca",
-     "link": "https://www.prensa.com/sociedad/computadoras-renuncias-y-docentes-separados-los-problemas-que-recibe-ventura-vega-en-el-meduca/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/USLQVOXLE5BCXNXZI5YN2OL53Y.jpeg?auth=c880ba2833b09e7fc0d4e10d3c705645b9737a002b8290982304d2283c4e9cd1&smart=true&width=1024&height=576",
-     "published": "2026-08-15T05:05:00+00:00",
-     "ts": 1786770300000,
-     "count": 1
-    },
-    {
-     "title": "Comando ‘apaga y vámonos’",
-     "link": "https://www.prensa.com/opinion/comando-apaga-y-vamonos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/WWWHQ4FF7ZDPDN7E4RELZ5DWVQ.jpg?auth=36700973fddc22c746422f056180c5e9ef8b08e6ea21e666ca188f61e55e7dd8&smart=true&width=1920&height=1280",
-     "published": "2026-08-15T05:04:00+00:00",
-     "ts": 1786770240000,
-     "count": 1
-    },
-    {
-     "title": "El CEO de Panafoto: ‘el inventario es plata; tener demasiado es capital congelado’",
-     "link": "https://www.prensa.com/economia/el-ceo-de-panafoto-el-inventario-es-plata-tener-demasiado-es-capital-congelado/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/4WHDRTJPFZGQ5AOVV2KF6GAXZQ.JPG?auth=ecfa17b9652e6976a9407c1ef8d434afc95f94996b37c9f54b3014dde6e756e4&smart=true&width=1459&height=1163",
-     "published": "2026-08-15T05:04:00+00:00",
-     "ts": 1786770240000,
-     "count": 1
-    },
-    {
-     "title": "Leyes especiales presionan el gasto y reducen el margen fiscal de Panamá, advierte Moody’s",
-     "link": "https://www.prensa.com/economia/leyes-especiales-presionan-el-gasto-y-reducen-el-margen-fiscal-de-panama-advierte-moodys/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/BV6DZYTX25EYVGEY6ZPPRSTPVU.jpg?auth=de1e02da4d73b4526bad485bb815664902237dd71db3876cc27d261f3062d9b5&smart=true&width=1024&height=706",
-     "published": "2026-08-15T05:03:00+00:00",
-     "ts": 1786770180000,
-     "count": 1
     }
    ]
   },
@@ -1296,13 +1296,40 @@
    "name": "Desastres Naturales",
    "items": [
     {
+     "title": "M 3.4 - 19 km SW of Toms Place, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418367",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-15T14:41:14.040000+00:00",
+     "ts": 1786804874040,
+     "count": 1
+    },
+    {
      "title": "M 6.9 - 15 km NNW of Pematangsiantar, Indonesia",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-15T13:38:41.936000+00:00",
-     "ts": 1786801121936,
+     "published": "2026-08-15T14:29:51.788000+00:00",
+     "ts": 1786804191788,
      "count": 1
+    },
+    {
+     "title": "M 3.2 - 7 km S of Pāhala, Hawaii",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019212",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-15T14:28:07.860000+00:00",
+     "ts": 1786804087860,
+     "count": 3
+    },
+    {
+     "title": "M 7.7 - 68 km NNW of Ende, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-15T13:59:48.715000+00:00",
+     "ts": 1786802388715,
+     "count": 19
     },
     {
      "title": "M 3.2 - 8 km SW of Stella, Puerto Rico",
@@ -1330,15 +1357,6 @@
      "published": "2026-08-15T13:23:26.040000+00:00",
      "ts": 1786800206040,
      "count": 2
-    },
-    {
-     "title": "M 2.7 - 6 km SW of Pāhala, Hawaii",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019182",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-15T13:18:50.040000+00:00",
-     "ts": 1786799930040,
-     "count": 1
     },
     {
      "title": "M 5.4 - 41 km SSW of Angoram, Papua New Guinea",
@@ -1375,15 +1393,6 @@
      "published": "2026-08-15T12:58:56.040000+00:00",
      "ts": 1786798736040,
      "count": 8
-    },
-    {
-     "title": "M 4.5 - 67 km NNW of Ende, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwz",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-15T12:56:31.040000+00:00",
-     "ts": 1786798591040,
-     "count": 19
     },
     {
      "title": "M 5.2 - 1 km SW of Otura, Spain",
@@ -1521,15 +1530,6 @@
      "count": 1
     },
     {
-     "title": "M 3.4 - 19 km SW of Toms Place, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418367",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-15T05:59:42.973000+00:00",
-     "ts": 1786773582973,
-     "count": 1
-    },
-    {
      "title": "M 4.2 - 285 km WNW of Houma, Tonga",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwe",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1554,6 +1554,15 @@
    "name": "Medio Oriente",
    "items": [
     {
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
+     "published": "2026-08-15T13:55:28+00:00",
+     "ts": 1786802128000,
+     "count": 1
+    },
+    {
      "title": "Sure, ‘Woke 1’ had its issues – but we have far bigger problems on our hands | Arwa Mahdawi",
      "link": "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives",
      "source": "Middle East and north Africa | The Guardian",
@@ -1569,15 +1578,6 @@
      "image": "https://i.guim.co.uk/img/media/c1847e66c68eaec4dad7566ec02f17af259121b1/408_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=2d7b250c1f975beb1bb333d8fd78db66",
      "published": "2026-08-15T11:23:20+00:00",
      "ts": 1786793000000,
-     "count": 1
-    },
-    {
-     "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
-     "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
-     "published": "2026-08-15T10:48:33+00:00",
-     "ts": 1786790913000,
      "count": 1
     },
     {
@@ -1812,6 +1812,15 @@
    "name": "China",
    "items": [
     {
+     "title": "Taiwan drone defences fall short against Beijing’s evolving technology, audit reveals",
+     "link": "https://www.scmp.com/news/china/military/article/3364142/taiwan-drone-defences-fall-short-against-beijings-evolving-technology-audit-reveals?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/28b204ec-de49-4357-9138-18b246a71879_6d33fecb.jpg?itok=iclx7-HR&v=1786782333",
+     "published": "2026-08-15T14:00:07+00:00",
+     "ts": 1786802407000,
+     "count": 1
+    },
+    {
      "title": "Hong Kong stages first counterterrorism drill at redeveloped Huanggang crossing",
      "link": "https://www.scmp.com/news/hong-kong/society/article/3364154/hong-kong-stages-first-counterterrorism-drill-redeveloped-huanggang-crossing?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -1965,7 +1974,7 @@
      "count": 1
     },
     {
-     "title": "Contractors suspended over ‘extremely serious’ Queen Mary Hospital lift defects",
+     "title": "Hong Kong suspends contractors over Queen Mary Hospital lift defects",
      "link": "https://www.scmp.com/news/hong-kong/society/article/3364137/contractors-suspended-over-extremely-serious-queen-mary-hospital-lift-defects?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/f2e17b80-0de8-4b84-9231-a5c2bc7cfa8c_7c675887.jpg?itok=BKzN9bab&v=1786776038",
@@ -2052,15 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/9ec7e4eb-d0be-4a1c-a7a5-11fe4ea94920_5013750c.jpg?itok=pWV3t0M5&v=1786700077",
      "published": "2026-08-15T03:00:11+00:00",
      "ts": 1786762811000,
-     "count": 1
-    },
-    {
-     "title": "Chinese magnetic sensor breakthrough may help smartwatch detect submarine 500 metres deep",
-     "link": "https://www.scmp.com/news/china/science/article/3363975/chinese-magnetic-sensor-breakthrough-may-help-smartwatch-detect-submarine-500-metres-deep?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/6c84bca7-b87b-41af-9fd2-6ea1d4e1e2ae_81c3d317.jpg?itok=ant4tMi8&v=1786674960",
-     "published": "2026-08-15T03:00:08+00:00",
-     "ts": 1786762808000,
      "count": 1
     }
    ]
