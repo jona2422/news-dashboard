@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T10:42:14.545467+00:00",
+ "updated": "2026-08-15T11:37:09.921248+00:00",
  "beats": [
   {
    "id": "musica",
@@ -522,21 +522,21 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Debian has begun voting on the future of AI/LLM contributions",
+     "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-15T09:20:07+00:00",
+     "ts": 1786785607000,
+     "count": 1
+    },
+    {
      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
      "link": "https://uecker.codeberg.page/2026-07-14.html",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-15T07:59:42+00:00",
      "ts": 1786780782000,
-     "count": 1
-    },
-    {
-     "title": "Ask HN: How do you keep up with HN these days?",
-     "link": "https://news.ycombinator.com/item?id=49308059",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T05:59:12+00:00",
-     "ts": 1786773552000,
      "count": 1
     },
     {
@@ -558,30 +558,12 @@
      "count": 1
     },
     {
-     "title": "Show HN: Deltix – AI Driven Testing",
-     "link": "https://app.deltix.ai",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T02:42:14+00:00",
-     "ts": 1786761734000,
-     "count": 1
-    },
-    {
      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-15T01:14:05+00:00",
      "ts": 1786756445000,
-     "count": 1
-    },
-    {
-     "title": "The Ploopy A+ Trackball Is Here",
-     "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T00:55:31+00:00",
-     "ts": 1786755331000,
      "count": 1
     },
     {
@@ -627,6 +609,15 @@
      "image": "",
      "published": "2026-08-14T20:37:49+00:00",
      "ts": 1786739869000,
+     "count": 1
+    },
+    {
+     "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
+     "link": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ground-truth-device-field-02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-14T20:16:35+00:00",
+     "ts": 1786738595000,
      "count": 1
     },
     {
@@ -772,6 +763,15 @@
      "published": "2026-08-14T16:54:16+00:00",
      "ts": 1786726456000,
      "count": 1
+    },
+    {
+     "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+     "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-14T16:49:56+00:00",
+     "ts": 1786726196000,
+     "count": 1
     }
    ]
   },
@@ -780,13 +780,157 @@
    "name": "Actualidad Global",
    "items": [
     {
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+     "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+     "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T11:30:00+00:00",
+     "ts": 1786793400000,
+     "count": 1
+    },
+    {
+     "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+     "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T11:27:11+00:00",
+     "ts": 1786793231000,
+     "count": 1
+    },
+    {
+     "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+     "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-08-15T11:24:24+00:00",
+     "ts": 1786793064000,
+     "count": 1
+    },
+    {
+     "title": "Aftermath of deadly Indonesia earthquake",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T11:19:56+00:00",
+     "ts": 1786792796000,
+     "count": 1
+    },
+    {
+     "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
+     "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T11:09:27+00:00",
+     "ts": 1786792167000,
+     "count": 1
+    },
+    {
+     "title": "What the Taliban achieved and failed to achieve in five years",
+     "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T11:07:05+00:00",
+     "ts": 1786792025000,
+     "count": 1
+    },
+    {
+     "title": "Lindsay Clancy murder trial: prosecutors revive theory of faked suicide attempt",
+     "link": "https://www.theguardian.com/us-news/2026/aug/15/lindsay-clancy-murder-trial-prosecutors",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/220c938b4aa9c6542820be0232f8f5df70e6e595/681_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=63a177b8169ea0fafdbf68ce690fe39a",
+     "published": "2026-08-15T11:00:56+00:00",
+     "ts": 1786791656000,
+     "count": 1
+    },
+    {
+     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
+     "link": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4481abefeb84092ce31ab52cf71a02aafa82b4e7/128_0_2739_2193/master/2739.jpg?width=140&quality=85&auto=format&fit=max&s=ee934ae2ce45d1d859baf975ee306475",
+     "published": "2026-08-15T11:00:55+00:00",
+     "ts": 1786791655000,
+     "count": 1
+    },
+    {
+     "title": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
+     "link": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/1ebc842f555e9a252aa9f08271d730845eed33e1/881_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=d5309af0c70a9fd1f80b232daabac90a",
+     "published": "2026-08-15T11:00:54+00:00",
+     "ts": 1786791654000,
+     "count": 1
+    },
+    {
+     "title": "Double jeopardy could spell end of state case after Luigi Mangione’s guilty plea",
+     "link": "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/bae291bddcb1bfd24e1aa8631efadb886b8c7129/94_0_2812_2250/master/2812.jpg?width=140&quality=85&auto=format&fit=max&s=9420c3959b0ee51d8e121300c5e02455",
+     "published": "2026-08-15T11:00:54+00:00",
+     "ts": 1786791654000,
+     "count": 1
+    },
+    {
+     "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+     "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg",
+     "published": "2026-08-15T10:56:22+00:00",
+     "ts": 1786791382000,
+     "count": 1
+    },
+    {
+     "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T10:48:41+00:00",
+     "ts": 1786790921000,
+     "count": 1
+    },
+    {
+     "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+     "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
+     "published": "2026-08-15T10:48:33+00:00",
+     "ts": 1786790913000,
+     "count": 1
+    },
+    {
+     "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T10:43:09+00:00",
+     "ts": 1786790589000,
+     "count": 1
+    },
+    {
+     "title": "Heathrow passengers face disruption after flood restricts access",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/a16e30c2750960724237f15a821122ad0c41ea72/370_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=c0ac9492a46b4959e7742f12f045aac9",
+     "published": "2026-08-15T10:36:50+00:00",
+     "ts": 1786790210000,
+     "count": 1
+    },
+    {
+     "title": "Powerful earthquake kills at least 38 in eastern Indonesia",
      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
      "published": "2026-08-15T10:24:36+00:00",
      "ts": 1786789476000,
-     "count": 3
+     "count": 2
+    },
+    {
+     "title": "At scene of deadly Israeli strike on Lebanon home",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-15T10:18:40+00:00",
+     "ts": 1786789120000,
+     "count": 1
     },
     {
      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
@@ -870,15 +1014,6 @@
      "count": 1
     },
     {
-     "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-     "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-15T08:52:55+00:00",
-     "ts": 1786783975000,
-     "count": 1
-    },
-    {
      "title": "Bangladesh rock Australia as historic Test win in sight",
      "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -895,141 +1030,6 @@
      "published": "2026-08-15T08:44:36+00:00",
      "ts": 1786783476000,
      "count": 1
-    },
-    {
-     "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T08:32:07+00:00",
-     "ts": 1786782727000,
-     "count": 1
-    },
-    {
-     "title": "India: Modi promises free exam coaching, AI training for youth after protests",
-     "link": "https://www.dw.com/en/india-modi-promises-free-exam-coaching-ai-training-for-youth-after-protests/a-78378982?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-15T08:25:00+00:00",
-     "ts": 1786782300000,
-     "count": 1
-    },
-    {
-     "title": "The women India’s biggest river project forgot",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T08:22:09+00:00",
-     "ts": 1786782129000,
-     "count": 1
-    },
-    {
-     "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
-     "link": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1b0058b296e4a9f90f853ad04297d144b782201c/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=d25336c554b480075ce0783db18c9c76",
-     "published": "2026-08-15T08:01:29+00:00",
-     "ts": 1786780889000,
-     "count": 1
-    },
-    {
-     "title": "Germany news: Russia lists research body as 'undesirable'",
-     "link": "https://www.dw.com/en/germany-news-russia-lists-research-body-as-undesirable/live-78378773?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-15T07:58:00+00:00",
-     "ts": 1786780680000,
-     "count": 1
-    },
-    {
-     "title": "Arteta assures Arsenal fans over contract before Man City clash",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T07:44:35+00:00",
-     "ts": 1786779875000,
-     "count": 1
-    },
-    {
-     "title": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T07:27:59+00:00",
-     "ts": 1786778879000,
-     "count": 1
-    },
-    {
-     "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
-     "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T07:27:32+00:00",
-     "ts": 1786778852000,
-     "count": 1
-    },
-    {
-     "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-     "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T07:18:13+00:00",
-     "ts": 1786778293000,
-     "count": 1
-    },
-    {
-     "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T07:13:11+00:00",
-     "ts": 1786777991000,
-     "count": 1
-    },
-    {
-     "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
-     "link": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2b5832accfcf1f7808036fb3760525e8953c3fef/196_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=42bc3964f9eb99b2c540027444c831d8",
-     "published": "2026-08-15T07:01:50+00:00",
-     "ts": 1786777310000,
-     "count": 1
-    },
-    {
-     "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
-     "link": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0e9dbb52876f6cb9cfbc1cfedafddfe78f6dd6bc/512_0_7653_6124/master/7653.jpg?width=140&quality=85&auto=format&fit=max&s=dfd52ac1cc5d0241943934389ef6181f",
-     "published": "2026-08-15T07:00:50+00:00",
-     "ts": 1786777250000,
-     "count": 1
-    },
-    {
-     "title": "South Korea’s president wants talks with North to end Korean War",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T06:53:28+00:00",
-     "ts": 1786776808000,
-     "count": 1
-    },
-    {
-     "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-     "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-15T06:10:07+00:00",
-     "ts": 1786774207000,
-     "count": 1
-    },
-    {
-     "title": "Westminster council threatens Charing Cross soup kitchen with closure",
-     "link": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/203379320af3361e4d0b14959ef35aa834c79dc1/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2e13366b4e426af68ba4f7949a3b2cb2",
-     "published": "2026-08-15T06:00:49+00:00",
-     "ts": 1786773649000,
-     "count": 1
     }
    ]
   },
@@ -1038,12 +1038,21 @@
    "name": "Panamá · LatAm",
    "items": [
     {
-     "title": "Terremoto en Colombia hoy 15 de agosto: Karol G y Maluma liderarán un concierto solidario tras la emergencia; EE. UU. suma US$11 millones en ayuda",
+     "title": "\"Nunca pensamos en no lanzarla\": el relato de un científico que ayudó a fabricar la bomba atómica que arrasó Nagasaki",
+     "link": "https://www.bbc.com/mundo/articles/cgr7p2z8xwwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4819/live/341b6900-96b3-11f1-a6d5-c5dfabf84ab8.jpg",
+     "published": "2026-08-15T11:16:06+00:00",
+     "ts": 1786792566000,
+     "count": 1
+    },
+    {
+     "title": "Terremoto en Colombia hoy 15 de agosto: el presidente, Abelardo De La Espriella, anunció recursos para recuperar hospitales en el Valle del Cauca",
      "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
      "source": "EL TIEMPO.COM -Colombia",
      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/15/6a7ff4c580090.png",
-     "published": "2026-08-15T10:38:54+00:00",
-     "ts": 1786790334000,
+     "published": "2026-08-15T10:47:47+00:00",
+     "ts": 1786790867000,
      "count": 1
     },
     {
@@ -1279,15 +1288,6 @@
      "published": "2026-08-15T04:09:00+00:00",
      "ts": 1786766940000,
      "count": 1
-    },
-    {
-     "title": "La torturaron embarazada, perdió a su bebé y quedó en silla de ruedas: los casos de los últimos presos políticos liberados en Venezuela",
-     "link": "https://elpais.com/america/2026-08-15/la-torturaron-embarazada-perdio-a-su-bebe-y-quedo-en-silla-de-ruedas-los-casos-de-los-ultimos-presos-politicos-liberados-en-venezuela.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ICHXT2IMYJGWBOYSMCZ5OZMITQ.jpeg?auth=f1aaede1152dc6ae24456c938f00f1abaf11ccfd684727a3053c27680c97be16",
-     "published": "2026-08-15T04:00:00+00:00",
-     "ts": 1786766400000,
-     "count": 1
     }
    ]
   },
@@ -1296,22 +1296,94 @@
    "name": "Desastres Naturales",
    "items": [
     {
+     "title": "M 6.9 - 7 km NNW of Pematangsiantar, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-15T11:33:59.896000+00:00",
+     "ts": 1786793639896,
+     "count": 1
+    },
+    {
+     "title": "M 5.4 - 41 km SSW of Angoram, Papua New Guinea",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyz",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-15T11:32:05.798000+00:00",
+     "ts": 1786793525798,
+     "count": 1
+    },
+    {
+     "title": "M 3.5 - 136 km NNE of Cruz Bay, U.S. Virgin Islands",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026227000",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-15T11:30:15.503000+00:00",
+     "ts": 1786793415503,
+     "count": 4
+    },
+    {
+     "title": "Green forest fire notification in Tanzania",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030513",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-15T11:25:40+00:00",
+     "ts": 1786793140000,
+     "count": 241
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030510",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-15T11:20:53+00:00",
+     "ts": 1786792853000,
+     "count": 53
+    },
+    {
+     "title": "Green flood alert in Italy",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
+     "source": "GDACS RSS information",
+     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104053.png",
+     "published": "2026-08-15T11:17:06+00:00",
+     "ts": 1786792626000,
+     "count": 12
+    },
+    {
+     "title": "Green earthquake (Magnitude 6.9M, Depth:183.226km) in Indonesia 15/08/2026 10:54 UTC, 10 million in MMI V.",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558363",
+     "source": "GDACS RSS information",
+     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1725457_1.png",
+     "published": "2026-08-15T11:14:59+00:00",
+     "ts": 1786792499000,
+     "count": 6
+    },
+    {
+     "title": "Green forest fire notification in Russian Federation",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030526",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-15T11:11:13+00:00",
+     "ts": 1786792273000,
+     "count": 35
+    },
+    {
      "title": "M 5.2 - 1 km SW of Otura, Spain",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv2",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-15T10:40:40.199000+00:00",
-     "ts": 1786790440199,
+     "published": "2026-08-15T11:01:50.614000+00:00",
+     "ts": 1786791710614,
      "count": 1
     },
     {
-     "title": "M 2.7 - 17 km N of Cruz Bay, U.S. Virgin Islands",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528518",
+     "title": "M 5.1 - 39 km NNW of Ruteng, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-15T10:24:09.940000+00:00",
-     "ts": 1786789449940,
-     "count": 3
+     "published": "2026-08-15T10:51:12.040000+00:00",
+     "ts": 1786791072040,
+     "count": 6
     },
     {
      "title": "M 4.6 - 122 km NW of Luwuk, Indonesia",
@@ -1386,15 +1458,6 @@
      "count": 1
     },
     {
-     "title": "M 5.1 - 71 km NNE of Ruteng, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkx5",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-15T07:56:30.040000+00:00",
-     "ts": 1786780590040,
-     "count": 5
-    },
-    {
      "title": "M 3.6 - 220 km SE of Chiniak, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbishp",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1404,24 +1467,6 @@
      "count": 2
     },
     {
-     "title": "Green forest fire notification in Indonesia",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030418",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-15T07:44:54+00:00",
-     "ts": 1786779894000,
-     "count": 238
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030480",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-15T07:39:55+00:00",
-     "ts": 1786779595000,
-     "count": 53
-    },
-    {
      "title": "M 2.8 - 4 km SE of Port Lions, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbjngl",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1429,15 +1474,6 @@
      "published": "2026-08-15T07:20:01.795000+00:00",
      "ts": 1786778401795,
      "count": 1
-    },
-    {
-     "title": "Green flood alert in Italy",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104053.png",
-     "published": "2026-08-15T06:36:53+00:00",
-     "ts": 1786775813000,
-     "count": 12
     },
     {
      "title": "M 2.6 - 1 km NNW of Volcano, Hawaii",
@@ -1510,42 +1546,6 @@
      "published": "2026-08-15T00:58:24.040000+00:00",
      "ts": 1786755504040,
      "count": 1
-    },
-    {
-     "title": "M 5.5 - 49 km NE of Labuan Bajo, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-15T00:47:07.603000+00:00",
-     "ts": 1786754827603,
-     "count": 3
-    },
-    {
-     "title": "Green forest fire notification in United States",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030519",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-14T23:27:05+00:00",
-     "ts": 1786750025000,
-     "count": 9
-    },
-    {
-     "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558069",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1725124_1.png",
-     "published": "2026-08-14T22:55:53+00:00",
-     "ts": 1786748153000,
-     "count": 6
-    },
-    {
-     "title": "M 3.1 - 89 km SSE of Sand Point, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qavkmj",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-14T22:22:57.996000+00:00",
-     "ts": 1786746177996,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,24 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "The promises the Taliban made to women, then broke – video explainer",
+     "link": "https://www.theguardian.com/world/video/2026/aug/15/the-promises-the-taliban-made-to-women-then-broke-video-explainer",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c1847e66c68eaec4dad7566ec02f17af259121b1/408_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=2d7b250c1f975beb1bb333d8fd78db66",
+     "published": "2026-08-15T11:23:20+00:00",
+     "ts": 1786793000000,
+     "count": 1
+    },
+    {
+     "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+     "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
+     "published": "2026-08-15T10:48:33+00:00",
+     "ts": 1786790913000,
+     "count": 1
+    },
     {
      "title": "'We're seeing an important escalation in southern Lebanon despite the so-called truce'",
      "link": "https://www.france24.com/en/we-re-seeing-an-important-escalation-in-southern-lebanon-despite-the-so-called-truce",
@@ -1569,15 +1587,6 @@
      "image": "https://s.france24.com/media/display/90739b6a-9883-11f1-ae27-005056a90284/w:1024/p:16x9/EN-20260815-100212-100422-CS.jpg",
      "published": "2026-08-15T08:52:10+00:00",
      "ts": 1786783930000,
-     "count": 1
-    },
-    {
-     "title": "Israeli strike on southern Lebanon kills seven in worst toll since June, state media says",
-     "link": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2d6eaa727e7cc90ab033f60999dcb9d3e4b31ba8/209_0_2082_1666/master/2082.jpg?width=140&quality=85&auto=format&fit=max&s=6d1e3310fccc17e7c18dde3dd4480b90",
-     "published": "2026-08-15T06:59:07+00:00",
-     "ts": 1786777147000,
      "count": 1
     },
     {
@@ -1795,15 +1804,6 @@
      "published": "2026-08-12T17:48:46+00:00",
      "ts": 1786556926000,
      "count": 1
-    },
-    {
-     "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
-     "link": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/768b59211b73d36e593c2a99cd68cfb928ef96fb/845_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=92c4631120ee0b8cb23a3d6b8848e2ac",
-     "published": "2026-08-12T16:17:55+00:00",
-     "ts": 1786551475000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,33 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "US readies Iran penalties as Trump downplays midterms impact",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3364150/us-readies-iran-penalties-trump-downplays-midterms-impact?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/f71c2378-e067-45a3-9ff0-6814d56387e2_f7bf60a7.jpg?itok=EifQB0Ni&v=1786791546",
+     "published": "2026-08-15T10:59:08+00:00",
+     "ts": 1786791548000,
+     "count": 1
+    },
+    {
+     "title": "Northern Metropolis and AI vital to Hong Kong’s 5-year plan: business chambers",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364149/northern-metropolis-and-ai-vital-hong-kongs-5-year-plan-business-chambers?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/5548ccd0-0da1-493d-8114-00a1060c4dd5_5ef907fd.jpg?itok=MEwsARBI&v=1786791429",
+     "published": "2026-08-15T10:57:12+00:00",
+     "ts": 1786791432000,
+     "count": 1
+    },
+    {
+     "title": "Struggling families urge return of student grant after textbook prices jump",
+     "link": "https://www.scmp.com/news/hong-kong/education/article/3364138/struggling-families-urge-return-student-grant-after-textbook-prices-jump?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/aa01e0b8-d06b-497f-932c-bf8743d79062_accaf7d8.jpg?itok=Xckkmb8X&v=1786790703",
+     "published": "2026-08-15T10:45:06+00:00",
+     "ts": 1786790706000,
+     "count": 1
+    },
     {
      "title": "Why Chinese youth are turning to an 84-year-old Cambridge professor for support",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3364001/why-chinese-youth-are-turning-84-year-old-cambridge-professor-support?utm_source=rss_feed",
@@ -2028,39 +2055,12 @@
      "count": 1
     },
     {
-     "title": "Japan’s Takaichi sends offering to Yasukuni on WWII anniversary, Koizumi visits shrine",
+     "title": "Japan PM avoids Yasukuni Shrine on WWII anniversary, 4 ministers visit",
      "link": "https://www.scmp.com/news/asia/east-asia/article/3364123/japans-takaichi-sends-offering-yasukuni-wwii-anniversary-koizumi-visits-shrine?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/a3a96298-45d9-4968-9379-54bcb5a1df7e_5ce2032f.jpg?itok=BmD_O3WS&v=1786756617",
      "published": "2026-08-15T01:17:08+00:00",
      "ts": 1786756628000,
-     "count": 1
-    },
-    {
-     "title": "‘Enjoying two worlds at once’: work in Hong Kong, live and play in Greater Bay Area",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3364114/living-two-worlds-once-work-hong-kong-live-and-play-greater-bay-area?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/21f66062-7543-4d6a-adfa-9086bbeec263_89f62106.jpg?itok=G6f2KaJ9&v=1786726765",
-     "published": "2026-08-15T01:00:15+00:00",
-     "ts": 1786755615000,
-     "count": 1
-    },
-    {
-     "title": "Chinese boy abducted at 3, who inspired child trafficking film, enters direct PhD programme",
-     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3364113/chinese-boy-abducted-3-who-inspired-child-trafficking-film-enters-direct-phd-programme?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/19c2142a-3719-4a0b-a02e-0ed145a18034_c99379ce.jpg?itok=Frn-nNUK&v=1786726628",
-     "published": "2026-08-15T01:00:13+00:00",
-     "ts": 1786755613000,
-     "count": 1
-    },
-    {
-     "title": "How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios",
-     "link": "https://www.scmp.com/business/banking-finance/article/3364034/how-chinas-young-managers-grappled-billion-yuan-mandates-ai-shocks-hit-portfolios?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/cf882f2c-4b02-478d-b35a-f6d2ec9b8777_83ff9db6.jpg?itok=2MDK4sWo&v=1786695603",
-     "published": "2026-08-15T01:00:10+00:00",
-     "ts": 1786755610000,
      "count": 1
     }
    ]
