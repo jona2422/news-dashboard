@@ -1,14 +1,41 @@
 {
- "updated": "2026-08-15T03:07:19.866457+00:00",
- "total": 100,
+ "updated": "2026-08-15T03:57:05.546663+00:00",
+ "total": 103,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 18,
+   "count": 20,
    "items": [
+    {
+     "title": "Did the US really destroy Iran’s ballistic missile capability?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786765928000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US: FDA recalls 19 million eggs over Salmonella risk",
+     "link": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786765740000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+     "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786763060000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "US President Trump says he will declare Strait of Hormuz US territory",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
@@ -71,33 +98,6 @@
      "ts": 1786745640000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-     "link": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786744920000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-     "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=140&quality=85&auto=format&fit=max&s=f1935c96b4f6952f19cc53d22246976e",
-     "ts": 1786743497000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-     "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=140&quality=85&auto=format&fit=max&s=f1935c96b4f6952f19cc53d22246976e",
-     "ts": 1786743497000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -201,11 +201,101 @@
    ]
   },
   {
+   "name": "Indonesia",
+   "es": "Indonesia",
+   "lat": -0.8,
+   "lon": 113.9,
+   "count": 9,
+   "items": [
+    {
+     "title": "Al menos cinco muertos tras un terremoto de 7,7 de magnitud en Indonesia",
+     "link": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/H63RZNJTZ5ALDLDMYH7OYTOSRI.jpg?auth=4fa9cc456cbd92e38227c5c002f827967c651ac4b47020406016c7c4ebe0a7cd",
+     "ts": 1786765592000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "At least 5 killed in Indonesia after magnitude 7.7 quake hits Flores region",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364125/least-2-killed-indonesia-after-magnitude-77-quake-hits-flores-region?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/95688c10-3a07-4dfa-bdcd-902ac5b36871_4a1a8e91.jpg?itok=PU5jtMnK&v=1786762495",
+     "ts": 1786762504000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia",
+     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-al-menos-dos-muertos-y-estructuras-derrumbadas-tras-un-poderoso-sismo-de-7-7-en-indonesia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/9921f86e-984d-11f1-a805-005056a90284/w:1024/p:16x9/2026-08-15T014113Z-1023403747-RC2PYMA1SGBY-RTRMADP-3-INDONESIA-QUAKE.jpg",
+     "ts": 1786759536000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786759402000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
+     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786757764000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1786756445000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Un terremoto de magnitud 7.7 sacude la costa de Indonesia",
+     "link": "https://www.prensa.com/mundo/un-terremoto-de-magnitud-77-sacude-la-costa-de-indonesia/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/HLPJUYWF4JBKRCZTO5QVWIL3OE.jpg?auth=35ebda6736fb625d74f6071e5351253eb787a020b163874168f2d05fed66a1ee&smart=true&width=709&height=915",
+     "ts": 1786754340000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Terremoto de magnitud 7,7 en Indonesia, ordenan evacuaciones",
+     "link": "https://www.dw.com/es/terremoto-de-magnitud-7-7-en-indonesia-ordenan-evacuaciones/a-78378025?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786753020000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
+     "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786751100000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Colombia",
    "es": "Colombia",
    "lat": 4.6,
    "lon": -74.3,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Terremoto en Colombia: ¿qué pasa con los contratos de arrendamiento y seguros inmobiliarios?",
@@ -271,15 +361,6 @@
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Colombia: posible hallazgo de personas con vida bajo los escombros en Cali",
-     "link": "https://www.france24.com/es/colombia-posible-hallazgo-de-personas-con-vida-bajo-los-escombros-en-cali",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/596811ba-9837-11f1-9828-005056bfb2b6/w:1024/p:16x9/COLOMBIA-7.png",
-     "ts": 1786751350000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
      "title": "Colombia’s Museo de Arte de Pereira Closes due to Extensive Earthquake Damage",
      "link": "https://www.artnews.com/art-news/news/museo-de-arte-de-pereira-colombia-earthquake-damage-closed-1234795012/",
      "source": "ARTnews.com",
@@ -291,93 +372,21 @@
    ]
   },
   {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
-   "count": 8,
-   "items": [
-    {
-     "title": "At least 2 killed in Indonesia after magnitude 7.7 quake hits Flores region",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364125/least-2-killed-indonesia-after-magnitude-77-quake-hits-flores-region?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/95688c10-3a07-4dfa-bdcd-902ac5b36871_4a1a8e91.jpg?itok=PU5jtMnK&v=1786762495",
-     "ts": 1786762504000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia",
-     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-al-menos-dos-muertos-y-estructuras-derrumbadas-tras-un-poderoso-sismo-de-7-7-en-indonesia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/9921f86e-984d-11f1-a805-005056a90284/w:1024/p:16x9/2026-08-15T014113Z-1023403747-RC2PYMA1SGBY-RTRMADP-3-INDONESIA-QUAKE.jpg",
-     "ts": 1786759536000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786759402000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786757764000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Un terremoto de 7,7 de magnitud sacude la costa de Indonesia",
-     "link": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/H63RZNJTZ5ALDLDMYH7OYTOSRI.jpg?auth=4fa9cc456cbd92e38227c5c002f827967c651ac4b47020406016c7c4ebe0a7cd",
-     "ts": 1786757381000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1786756445000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Terremoto de magnitud 7,7 en Indonesia, ordenan evacuaciones",
-     "link": "https://www.dw.com/es/terremoto-de-magnitud-7-7-en-indonesia-ordenan-evacuaciones/a-78378025?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786753020000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
-     "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786751100000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "Did the US really destroy Iran’s ballistic missile capability?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786765928000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Trump eleva la tensión con Irán por Ormuz y pide a los hogares de EE. UU. soportar el golpe económico",
      "link": "https://www.france24.com/es/medio-oriente/20260815-trump-eleva-la-tensi%C3%B3n-con-ir%C3%A1n-por-ormuz-y-pide-a-los-hogares-de-ee-uu-soportar-el-golpe-econ%C3%B3mico",
@@ -687,42 +696,6 @@
    ]
   },
   {
-   "name": "Yemen",
-   "es": "Yemen",
-   "lat": 15.6,
-   "lon": 48.0,
-   "count": 3,
-   "items": [
-    {
-     "title": "Ocho muertos deja un ataque de rebeldes hutíes en Yemen",
-     "link": "https://www.dw.com/es/ocho-muertos-deja-un-ataque-de-rebeldes-hutíes-en-yemen/a-78377968?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786751280000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786748338000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-     "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786747519000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Japan",
    "es": "Japón",
    "lat": 36.2,
@@ -858,6 +831,33 @@
    ]
   },
   {
+   "name": "Yemen",
+   "es": "Yemen",
+   "lat": 15.6,
+   "lon": 48.0,
+   "count": 2,
+   "items": [
+    {
+     "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786748338000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+     "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786747519000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Panama",
    "es": "Panamá",
    "lat": 8.5,
@@ -921,6 +921,24 @@
    ]
   },
   {
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "India marks 80th Independence Day with military display",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786765146000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Australia",
    "es": "Australia",
    "lat": -25.3,
@@ -957,6 +975,24 @@
    ]
   },
   {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 1,
+   "items": [
+    {
+     "title": "Terremoto de magnitud 5 en España deja daños materiales",
+     "link": "https://www.dw.com/es/terremoto-de-magnitud-5-en-españa-deja-daños-materiales/a-78378360?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786763880000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
    "name": "Armenia",
    "es": "Armenia",
    "lat": 40.1,
@@ -987,24 +1023,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/2dcd00b9-f55d-4e25-8340-702f70100ba6_beac4368.jpg?itok=jZyNhW-R&v=1786758204",
      "ts": 1786758210000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Bangladesh",
-   "es": "Bangladés",
-   "lat": 23.7,
-   "lon": 90.4,
-   "count": 1,
-   "items": [
-    {
-     "title": "Toxic gas leak kills 8 at Bangladesh ship-breaking yard",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3364101/toxic-gas-leak-kills-8-bangladesh-ship-breaking-yard?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/86ee4f50-5199-48c7-96c8-a1dc6ef09614_e69f8ab1.jpg?itok=AZuudzHP&v=1786716406",
-     "ts": 1786716414000,
      "beat": "china",
      "beatName": "China"
     }
