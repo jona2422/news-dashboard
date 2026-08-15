@@ -1,14 +1,32 @@
 {
- "updated": "2026-08-15T01:52:13.040116+00:00",
- "total": 107,
+ "updated": "2026-08-15T03:07:19.866457+00:00",
+ "total": 100,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 20,
+   "count": 18,
    "items": [
+    {
+     "title": "US President Trump says he will declare Strait of Hormuz US territory",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786760709000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "The US’ future policymakers are questioning the standard ‘China threat’ playbook",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3364108/us-future-policymakers-are-questioning-standard-china-threat-playbook?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/8b3f87bb-f516-493f-95f1-4ad8b3292580_9ec351be.jpg?itok=_2rGusko&v=1786721334",
+     "ts": 1786759255000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Trump eleva la tensión con Irán por Ormuz y pide a los hogares de EE. UU. soportar el golpe económico",
      "link": "https://www.france24.com/es/medio-oriente/20260815-trump-eleva-la-tensi%C3%B3n-con-ir%C3%A1n-por-ormuz-y-pide-a-los-hogares-de-ee-uu-soportar-el-golpe-econ%C3%B3mico",
@@ -64,15 +82,6 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-     "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786744246000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
      "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
      "source": "World news | The Guardian",
@@ -89,15 +98,6 @@
      "ts": 1786743497000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Trump says he’ll soon declare Strait of Hormuz to be US territory",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3364120/trump-says-hell-soon-declare-strait-hormuz-be-us-territory?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/dc5b5943-c28d-4903-adaa-ff3f419693ad_699c1901.jpg?itok=lTdxGH71&v=1786741331",
-     "ts": 1786741333000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -201,105 +201,6 @@
    ]
   },
   {
-   "name": "China",
-   "es": "China",
-   "lat": 35.9,
-   "lon": 104.2,
-   "count": 10,
-   "items": [
-    {
-     "title": "Hong Kong’s night economy must focus on after-dark vibes, not events",
-     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363676/hong-kongs-night-economy-must-focus-after-dark-vibes-not-events?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/6a2e16c2-be52-4dff-8deb-fce4e50a9cbb_1d3528be.jpg?itok=f2hrdQvs&v=1786676942",
-     "ts": 1786757406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "‘Living in two worlds at once’: work in Hong Kong, live and play in Greater Bay Area",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3364114/living-two-worlds-once-work-hong-kong-live-and-play-greater-bay-area?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/21f66062-7543-4d6a-adfa-9086bbeec263_89f62106.jpg?itok=G6f2KaJ9&v=1786726765",
-     "ts": 1786755615000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios",
-     "link": "https://www.scmp.com/business/banking-finance/article/3364034/how-chinas-young-managers-grappled-billion-yuan-mandates-ai-shocks-hit-portfolios?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/cf882f2c-4b02-478d-b35a-f6d2ec9b8777_83ff9db6.jpg?itok=2MDK4sWo&v=1786695603",
-     "ts": 1786755610000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China rattled by Trump White House chaos weeks ahead of Xi visit. It has happened before",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3364025/china-rattled-trump-white-house-chaos-weeks-ahead-xi-visit-it-has-happened?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/124e6f3a-5cbc-436b-adb8-f56623ab8c26_497687d2.jpg?itok=q7m9Fonu&v=1786751434",
-     "ts": 1786750206000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3364122/delcy-rodriguezs-castro-tribute-tests-venezuelas-balancing-act-between-us-and-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/520ad372-8924-4db4-8460-a9c32850410c_feacf045.jpg?itok=GDbBIyrh&v=1786747549",
-     "ts": 1786747552000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Photo: CHINA – PINGYAO, by Pierre Doyen",
-     "link": "https://chinadigitaltimes.net/2026/08/photo-china-pingyao-by-pierre-doyen/",
-     "source": "China Digital Times (CDT)",
-     "image": "http://chinadigitaltimes.net/wp-content/uploads/2026/08/CHINA-PINGYAO-by-Pierre-Doyen-e1786743725587.jpg",
-     "ts": 1786743924000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America",
-     "link": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/04b971dd-5179-4d25-8a6a-21fc50d255cb_8200d0c3.jpg?itok=gLn-JcuP&v=1786602880",
-     "ts": 1786716008000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "What does the first visit to the Kuril Islands by Vladimir Putin mean for China?",
-     "link": "https://www.scmp.com/news/asia/article/3364100/what-does-first-visit-kuril-islands-vladimir-putin-mean-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/bb2b45ea-c551-4335-8d2f-31ebd7d87538_bd9ef3b0.jpg?itok=W0xgEk5d&v=1786714973",
-     "ts": 1786714975000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Philippines’ Marcos says China oil talks have ‘moved forward’ despite maritime row",
-     "link": "https://www.scmp.com/week-asia/politics/article/3364098/philippines-marcos-says-china-oil-talks-have-moved-forward-despite-south-china-sea-row?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/a86f5ef0-1020-4dff-b84c-96146102abe3_61bc9d3c.jpg?itok=n6LGpCao&v=1786713390",
-     "ts": 1786713398000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US-China AI decoupling ‘manageable’ for trade – but tech curbs a ‘wild card’: Citi",
-     "link": "https://www.scmp.com/economy/global-economy/article/3364073/us-china-ai-decoupling-manageable-trade-tech-curbs-wild-card-citi?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/8cecb1f1-6c4a-4e88-ac05-e5933e622a62_f0ad5b66.jpg?itok=sPecZzsk&v=1786703256",
-     "ts": 1786712412000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Colombia",
    "es": "Colombia",
    "lat": 4.6,
@@ -390,11 +291,92 @@
    ]
   },
   {
+   "name": "Indonesia",
+   "es": "Indonesia",
+   "lat": -0.8,
+   "lon": 113.9,
+   "count": 8,
+   "items": [
+    {
+     "title": "At least 2 killed in Indonesia after magnitude 7.7 quake hits Flores region",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364125/least-2-killed-indonesia-after-magnitude-77-quake-hits-flores-region?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/95688c10-3a07-4dfa-bdcd-902ac5b36871_4a1a8e91.jpg?itok=PU5jtMnK&v=1786762495",
+     "ts": 1786762504000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia",
+     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-al-menos-dos-muertos-y-estructuras-derrumbadas-tras-un-poderoso-sismo-de-7-7-en-indonesia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/9921f86e-984d-11f1-a805-005056a90284/w:1024/p:16x9/2026-08-15T014113Z-1023403747-RC2PYMA1SGBY-RTRMADP-3-INDONESIA-QUAKE.jpg",
+     "ts": 1786759536000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786759402000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
+     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786757764000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Un terremoto de 7,7 de magnitud sacude la costa de Indonesia",
+     "link": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/H63RZNJTZ5ALDLDMYH7OYTOSRI.jpg?auth=4fa9cc456cbd92e38227c5c002f827967c651ac4b47020406016c7c4ebe0a7cd",
+     "ts": 1786757381000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1786756445000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Terremoto de magnitud 7,7 en Indonesia, ordenan evacuaciones",
+     "link": "https://www.dw.com/es/terremoto-de-magnitud-7-7-en-indonesia-ordenan-evacuaciones/a-78378025?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786753020000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
+     "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786751100000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Trump eleva la tensión con Irán por Ormuz y pide a los hogares de EE. UU. soportar el golpe económico",
@@ -420,15 +402,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1786752000000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-     "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786744246000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -467,6 +440,78 @@
      "ts": 1786614356000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "China",
+   "es": "China",
+   "lat": 35.9,
+   "lon": 104.2,
+   "count": 7,
+   "items": [
+    {
+     "title": "The US’ future policymakers are questioning the standard ‘China threat’ playbook",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3364108/us-future-policymakers-are-questioning-standard-china-threat-playbook?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/8b3f87bb-f516-493f-95f1-4ad8b3292580_9ec351be.jpg?itok=_2rGusko&v=1786721334",
+     "ts": 1786759255000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong’s night economy must focus on after-dark vibes, not events",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363676/hong-kongs-night-economy-must-focus-after-dark-vibes-not-events?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/6a2e16c2-be52-4dff-8deb-fce4e50a9cbb_1d3528be.jpg?itok=f2hrdQvs&v=1786676942",
+     "ts": 1786757406000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "‘Enjoying two worlds at once’: work in Hong Kong, live and play in Greater Bay Area",
+     "link": "https://www.scmp.com/news/hong-kong/politics/article/3364114/living-two-worlds-once-work-hong-kong-live-and-play-greater-bay-area?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/21f66062-7543-4d6a-adfa-9086bbeec263_89f62106.jpg?itok=G6f2KaJ9&v=1786726765",
+     "ts": 1786755615000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios",
+     "link": "https://www.scmp.com/business/banking-finance/article/3364034/how-chinas-young-managers-grappled-billion-yuan-mandates-ai-shocks-hit-portfolios?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/cf882f2c-4b02-478d-b35a-f6d2ec9b8777_83ff9db6.jpg?itok=2MDK4sWo&v=1786695603",
+     "ts": 1786755610000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China rattled by Trump White House chaos weeks ahead of Xi visit. It has happened before",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3364025/china-rattled-trump-white-house-chaos-weeks-ahead-xi-visit-it-has-happened?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/124e6f3a-5cbc-436b-adb8-f56623ab8c26_497687d2.jpg?itok=q7m9Fonu&v=1786751434",
+     "ts": 1786750206000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3364122/delcy-rodriguezs-castro-tribute-tests-venezuelas-balancing-act-between-us-and-china?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/520ad372-8924-4db4-8460-a9c32850410c_feacf045.jpg?itok=GDbBIyrh&v=1786747549",
+     "ts": 1786747552000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Photo: CHINA – PINGYAO, by Pierre Doyen",
+     "link": "https://chinadigitaltimes.net/2026/08/photo-china-pingyao-by-pierre-doyen/",
+     "source": "China Digital Times (CDT)",
+     "image": "http://chinadigitaltimes.net/wp-content/uploads/2026/08/CHINA-PINGYAO-by-Pierre-Doyen-e1786743725587.jpg",
+     "ts": 1786743924000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -534,114 +579,6 @@
    ]
   },
   {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
-   "count": 6,
-   "items": [
-    {
-     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786757764000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Un terremoto de 7,7 de magnitud sacude la costa de Indonesia",
-     "link": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/H63RZNJTZ5ALDLDMYH7OYTOSRI.jpg?auth=4fa9cc456cbd92e38227c5c002f827967c651ac4b47020406016c7c4ebe0a7cd",
-     "ts": 1786757381000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1786756445000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Terremoto de magnitud 7,7 en Indonesia, ordenan evacuaciones",
-     "link": "https://www.dw.com/es/terremoto-de-magnitud-7-7-en-indonesia-ordenan-evacuaciones/a-78378025?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786753020000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
-     "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786751100000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia",
-     "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
-     "ts": 1786750998000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Brazil",
-   "es": "Brasil",
-   "lat": -14.2,
-   "lon": -51.9,
-   "count": 4,
-   "items": [
-    {
-     "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-     "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786753976000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Two Heists, Two Recoveries: Stolen Masterpieces Resurface in Italy and Brazil",
-     "link": "https://news.artnet.com/art-world/italy-brazil-stolen-art-recovered-2797930",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1786729513000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Low Salaries for the UK Arts Sector, Recovered Paintings in Brazil and Italy, and More: Morning LInks for August 14, 2026",
-     "link": "https://www.artnews.com/art-news/news/low-salaries-for-the-uk-arts-sector-morning-links-1234794991/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1786727343000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America",
-     "link": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/04b971dd-5179-4d25-8a6a-21fc50d255cb_8200d0c3.jpg?itok=gLn-JcuP&v=1786602880",
-     "ts": 1786716008000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "France",
    "es": "Francia",
    "lat": 46.2,
@@ -672,6 +609,42 @@
      "source": "ARTnews.com",
      "image": "",
      "ts": 1786731942000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Brazil",
+   "es": "Brasil",
+   "lat": -14.2,
+   "lon": -51.9,
+   "count": 3,
+   "items": [
+    {
+     "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+     "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786753976000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Two Heists, Two Recoveries: Stolen Masterpieces Resurface in Italy and Brazil",
+     "link": "https://news.artnet.com/art-world/italy-brazil-stolen-art-recovered-2797930",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1786729513000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Low Salaries for the UK Arts Sector, Recovered Paintings in Brazil and Italy, and More: Morning LInks for August 14, 2026",
+     "link": "https://www.artnews.com/art-news/news/low-salaries-for-the-uk-arts-sector-morning-links-1234794991/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1786727343000,
      "beat": "arte",
      "beatName": "Arte · Cultura · Educación"
     }
@@ -865,13 +838,13 @@
    "count": 2,
    "items": [
     {
-     "title": "Venezuela: El Gobierno interino anuncia al menos 131 excarcelaciones tras diálogos con la oposición",
-     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260814-venezuela-el-gobierno-interino-anuncia-al-menos-131-excarcelaciones-tras-di%C3%A1logos-con-la-oposici%C3%B3n",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1f903478-9836-11f1-af5a-005056a90284/w:1024/p:16x9/4a66bf2f297ff1464921f3c72fb8345aec247ca1.jpg",
-     "ts": 1786750665000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
+     "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786759682000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China",
@@ -881,6 +854,33 @@
      "ts": 1786747552000,
      "beat": "china",
      "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 2,
+   "items": [
+    {
+     "title": "Falcao descarta, por ahora, volver a las canchas en Panamá",
+     "link": "https://www.prensa.com/deportes/falcao-descarta-por-ahora-volver-a-las-canchas-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/LMLV6HVAJBDQROKE37SKQCN32I.jfif?auth=486683c632ec787992d8fe68feff57dcfb98e29e12336d9416e69e13d14d0d0c&smart=true&width=1363&height=768",
+     "ts": 1786758816000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Manglares de Panamá Viejo: el escudo natural de la capital",
+     "link": "https://www.prensa.com/opinion/manglares-de-panama-viejo-el-escudo-natural-de-la-capital/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/B3ZHKRIBTNFL3LKWYTAEDU6Y3A.jpg?auth=d9f8c32f05a478749ed174d551456923856a81fc72c2884d193b6269c4a7e979&smart=true&width=1024&height=476",
+     "ts": 1786757400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -957,42 +957,6 @@
    ]
   },
   {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-     "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ec29699c3bb39571832cedf67de78d67314ebb95/296_0_2957_2366/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=9b59925e3af7aaac03f7dd38dd46ad9b",
-     "ts": 1786741423000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Manglares de Panamá Viejo: el escudo natural de la capital",
-     "link": "https://www.prensa.com/opinion/manglares-de-panama-viejo-el-escudo-natural-de-la-capital/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/B3ZHKRIBTNFL3LKWYTAEDU6Y3A.jpg?auth=d9f8c32f05a478749ed174d551456923856a81fc72c2884d193b6269c4a7e979&smart=true&width=1024&height=476",
-     "ts": 1786757400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Armenia",
    "es": "Armenia",
    "lat": 40.1,
@@ -1041,42 +1005,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/86ee4f50-5199-48c7-96c8-a1dc6ef09614_e69f8ab1.jpg?itok=AZuudzHP&v=1786716406",
      "ts": 1786716414000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "What does the first visit to the Kuril Islands by Vladimir Putin mean for China?",
-     "link": "https://www.scmp.com/news/asia/article/3364100/what-does-first-visit-kuril-islands-vladimir-putin-mean-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/bb2b45ea-c551-4335-8d2f-31ebd7d87538_bd9ef3b0.jpg?itok=W0xgEk5d&v=1786714973",
-     "ts": 1786714975000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Philippines",
-   "es": "Filipinas",
-   "lat": 12.9,
-   "lon": 121.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Philippines’ Marcos says China oil talks have ‘moved forward’ despite maritime row",
-     "link": "https://www.scmp.com/week-asia/politics/article/3364098/philippines-marcos-says-china-oil-talks-have-moved-forward-despite-south-china-sea-row?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/a86f5ef0-1020-4dff-b84c-96146102abe3_61bc9d3c.jpg?itok=n6LGpCao&v=1786713390",
-     "ts": 1786713398000,
      "beat": "china",
      "beatName": "China"
     }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T01:52:13.040116+00:00",
+ "updated": "2026-08-15T03:07:19.866457+00:00",
  "terms": [
   {
    "term": "trump",
@@ -7,7 +7,11 @@
   },
   {
    "term": "indonesia",
-   "count": 12
+   "count": 13
+  },
+  {
+   "term": "colombia",
+   "count": 10
   },
   {
    "term": "israeli",
@@ -22,15 +26,7 @@
    "count": 10
   },
   {
-   "term": "colombia",
-   "count": 9
-  },
-  {
    "term": "alaska",
-   "count": 8
-  },
-  {
-   "term": "china",
    "count": 8
   },
   {
@@ -54,10 +50,6 @@
    "count": 6
   },
   {
-   "term": "iran",
-   "count": 6
-  },
-  {
    "term": "territory",
    "count": 6
   },
@@ -78,6 +70,10 @@
    "count": 5
   },
   {
+   "term": "magnitude",
+   "count": 5
+  },
+  {
    "term": "declare",
    "count": 5
   },
@@ -86,7 +82,15 @@
    "count": 5
   },
   {
+   "term": "iran",
+   "count": 5
+  },
+  {
    "term": "chinese",
+   "count": 5
+  },
+  {
+   "term": "china",
    "count": 5
   },
   {
@@ -94,11 +98,11 @@
    "count": 4
   },
   {
-   "term": "brazil",
+   "term": "gaza",
    "count": 4
   },
   {
-   "term": "gaza",
+   "term": "killed",
    "count": 4
   },
   {
@@ -110,34 +114,30 @@
    "count": 4
   },
   {
-   "term": "magnitude",
-   "count": 4
-  },
-  {
-   "term": "kills",
-   "count": 4
-  },
-  {
    "term": "concerns",
+   "count": 4
+  },
+  {
+   "term": "lincoln",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 15
+   "count": 14
   },
   {
    "name": "Indonesia",
-   "count": 12
+   "count": 13
+  },
+  {
+   "name": "Colombia",
+   "count": 10
   },
   {
    "name": "Israeli",
    "count": 10
-  },
-  {
-   "name": "Colombia",
-   "count": 9
   },
   {
    "name": "West Bank",
@@ -149,10 +149,6 @@
   },
   {
    "name": "Iran",
-   "count": 6
-  },
-  {
-   "name": "Hormuz",
    "count": 5
   },
   {
@@ -160,15 +156,11 @@
    "count": 5
   },
   {
-   "name": "China",
-   "count": 5
-  },
-  {
-   "name": "Brazil",
+   "name": "Israel",
    "count": 4
   },
   {
-   "name": "Israel",
+   "name": "Hormuz",
    "count": 4
   },
   {
@@ -184,6 +176,18 @@
    "count": 3
   },
   {
+   "name": "Brazil",
+   "count": 3
+  },
+  {
+   "name": "Strait",
+   "count": 3
+  },
+  {
+   "name": "Hormuz US",
+   "count": 3
+  },
+  {
    "name": "USS Abraham Lincoln",
    "count": 3
   },
@@ -193,10 +197,6 @@
   },
   {
    "name": "Yemen",
-   "count": 3
-  },
-  {
-   "name": "Strait",
    "count": 3
   },
   {
@@ -216,8 +216,8 @@
    "count": 3
   },
   {
-   "name": "Years",
-   "count": 2
+   "name": "China",
+   "count": 3
   }
  ]
 }
