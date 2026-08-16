@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T18:49:20.270952+00:00",
+ "updated": "2026-08-16T19:37:22.045078+00:00",
  "total": 103,
  "countries": [
   {
@@ -9,6 +9,15 @@
    "lon": 35.2,
    "count": 17,
    "items": [
+    {
+     "title": "Kushner se reúne con Hamás para impulsar plan de paz en Gaza",
+     "link": "https://www.dw.com/es/kushner-se-reúne-con-hamás-para-impulsar-plan-de-paz-en-gaza/a-78390076?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1786907400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "US envoy Kushner visits Hamas leader in push for Gaza road map before Netanyahu meeting",
      "link": "https://www.scmp.com/news/world/middle-east/article/3364218/us-envoy-kushner-visits-hamas-leader-push-gaza-road-map-netanyahu-meeting?utm_source=rss_feed",
@@ -62,15 +71,6 @@
      "ts": 1786891137000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Hamás inicia conversaciones cruciales con Egipto sobre el plan de paz de Trump para Gaza",
-     "link": "https://www.france24.com/es/medio-oriente/20260816-ham%C3%A1s-inicia-conversaciones-cruciales-con-egipto-sobre-el-plan-de-paz-de-trump-para-gaza",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
-     "ts": 1786889035000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
@@ -426,75 +426,21 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 6,
-   "items": [
-    {
-     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1786903465000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ucrania lanza uno de sus mayores ataques aéreos contra Rusia, que deja al menos 11 muertos",
-     "link": "https://www.france24.com/es/europa/20260816-ucrania-lanza-uno-de-sus-mayores-ataques-a%C3%A9reos-contra-rusia-que-deja-al-menos-11-muertos",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5961ce42-9957-11f1-b280-005056bf30b7/w:1024/p:16x9/2026-08-16T090834Z-1069700491-RC2EZMA4CLAH-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW.jpg",
-     "ts": 1786900625000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
-     "link": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/32117ccbd21fa32d8a2eba949e84cad036fc92aa/253_0_2820_2255/master/2820.jpg?width=140&quality=85&auto=format&fit=max&s=bcab99a0787c585fc4e360f38b6d2e7f",
-     "ts": 1786896619000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-     "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786895100000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786894553000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Moscow strikes Ukrainian steel plant as Kyiv targets Russian economy",
-     "link": "https://www.scmp.com/news/world/europe/article/3364208/moscow-strikes-ukrainian-steel-plant-kyiv-targets-russian-economy?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/5f457a04-64b8-40e9-9e4c-674734f5978d_40934c3c.jpg?itok=l29cQ9Qw&v=1786886881",
-     "ts": 1786886884000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Colombia",
    "es": "Colombia",
    "lat": 4.6,
    "lon": -74.3,
    "count": 5,
    "items": [
+    {
+     "title": "Cielo rojo en Colombia tras el terremoto: esta es la explicación científica del fenómeno que sorprendió a Galeras",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/cielo-rojo-en-colombia-tras-el-terremoto-esta-es-la-explicacion-cientifica-del-fenomeno-que-sorprendio-a-galeras-3578778",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/16/6a820b2c3703d.jpeg",
+     "ts": 1786907443000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "Antioquia y Medellín se unen tras el sismo y movilizan miles de millones para las zonas en emergencia: estas son las impresionantes cifras",
      "link": "https://www.eltiempo.com/colombia/medellin/antioquia-y-medellin-se-unen-tras-el-sismo-y-movilizan-miles-de-millones-para-las-zonas-en-emergencia-estas-son-las-impresionantes-cifras-3578770",
@@ -519,15 +465,6 @@
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/AGXZTQP3AVEZZH7AYDR4VGXZJE.jpg?auth=4dde80bed2f770e27174150765bf39e1b54794698361507893e2bed2b9cff0d6&smart=true&width=1920&height=1280",
      "ts": 1786893367000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Historias del terremoto en Colombia: abogada murió protegiendo a su perro",
-     "link": "https://www.france24.com/es/video/20260816-historias-del-terremoto-en-colombia-abogada-muri%C3%B3-protegiendo-a-su-perro",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/538f46f2-997a-11f1-9c07-005056a97e36/w:1024/p:16x9/ES-20260816-073645-073823-CS.jpg",
-     "ts": 1786889563000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
@@ -575,6 +512,105 @@
      "ts": 1786893246000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Two Heists, Two Recoveries: Stolen Masterpieces Resurface in Italy and Brazil",
+     "link": "https://news.artnet.com/art-world/italy-brazil-stolen-art-recovered-2797930",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1786729513000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Low Salaries for the UK Arts Sector, Recovered Paintings in Brazil and Italy, and More: Morning LInks for August 14, 2026",
+     "link": "https://www.artnews.com/art-news/news/low-salaries-for-the-uk-arts-sector-morning-links-1234794991/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1786727343000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 5,
+   "items": [
+    {
+     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1786906984000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Ucrania lanza uno de sus mayores ataques aéreos contra Rusia, que deja al menos 11 muertos",
+     "link": "https://www.france24.com/es/europa/20260816-ucrania-lanza-uno-de-sus-mayores-ataques-a%C3%A9reos-contra-rusia-que-deja-al-menos-11-muertos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/5961ce42-9957-11f1-b280-005056bf30b7/w:1024/p:16x9/2026-08-16T090834Z-1069700491-RC2EZMA4CLAH-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW.jpg",
+     "ts": 1786900625000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
+     "link": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/32117ccbd21fa32d8a2eba949e84cad036fc92aa/253_0_2820_2255/master/2820.jpg?width=140&quality=85&auto=format&fit=max&s=bcab99a0787c585fc4e360f38b6d2e7f",
+     "ts": 1786896619000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Ukraine attacks Wildberries, Russia's biggest online market",
+     "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786895100000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Moscow strikes Ukrainian steel plant as Kyiv targets Russian economy",
+     "link": "https://www.scmp.com/news/world/europe/article/3364208/moscow-strikes-ukrainian-steel-plant-kyiv-targets-russian-economy?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/5f457a04-64b8-40e9-9e4c-674734f5978d_40934c3c.jpg?itok=l29cQ9Qw&v=1786886881",
+     "ts": 1786886884000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
+   "count": 4,
+   "items": [
+    {
+     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+     "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786907880000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "A good – and bad – week for Italy's art police and museum security",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6549x4366+0+0/resize/6549x4366!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Fa2%2F7d3af3734da5b17a68315fbf6df3%2Fap26228358395642.jpg",
+     "ts": 1786897674000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Two Heists, Two Recoveries: Stolen Masterpieces Resurface in Italy and Brazil",
@@ -687,42 +723,6 @@
    ]
   },
   {
-   "name": "Italy",
-   "es": "Italia",
-   "lat": 41.9,
-   "lon": 12.6,
-   "count": 3,
-   "items": [
-    {
-     "title": "A good – and bad – week for Italy's art police and museum security",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6549x4366+0+0/resize/6549x4366!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Fa2%2F7d3af3734da5b17a68315fbf6df3%2Fap26228358395642.jpg",
-     "ts": 1786897674000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Two Heists, Two Recoveries: Stolen Masterpieces Resurface in Italy and Brazil",
-     "link": "https://news.artnet.com/art-world/italy-brazil-stolen-art-recovered-2797930",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1786729513000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Low Salaries for the UK Arts Sector, Recovered Paintings in Brazil and Italy, and More: Morning LInks for August 14, 2026",
-     "link": "https://www.artnews.com/art-news/news/low-salaries-for-the-uk-arts-sector-morning-links-1234794991/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1786727343000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
    "name": "Ukraine",
    "es": "Ucrania",
    "lat": 48.4,
@@ -759,38 +759,29 @@
    ]
   },
   {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
-   "count": 3,
+   "name": "Belgium",
+   "es": "Bélgica",
+   "lat": 50.5,
+   "lon": 4.5,
+   "count": 2,
    "items": [
     {
-     "title": "Más de 5.000 desplazados y 50 fallecidos por terremoto de magnitud 7,7 en Indonesia",
-     "link": "https://www.france24.com/es/video/20260816-m%C3%A1s-de-5-000-desplazados-y-50-fallecidos-por-terremoto-de-magnitud-7-7-en-indonesia",
+     "title": "Los incendios forestales no dan tregua en Europa: dos muertos en Grecia y evacuaciones en Bélgica",
+     "link": "https://www.france24.com/es/europa/20260816-los-incendios-forestales-no-dan-tregua-en-europa-dos-muertos-en-grecia-y-evacuaciones-en-b%C3%A9lgica",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/e3a1de7a-9994-11f1-a811-005056bf30b7/w:1024/p:16x9/ES-20260816-083648-083829-CS.jpg",
-     "ts": 1786901868000,
+     "image": "https://s.france24.com/media/display/68aea5dc-999d-11f1-b391-005056bfb2b6/w:1024/p:16x9/FOTO-GRECIA-INCENDIO-SALAMINA-HELICOPTERO.jpg",
+     "ts": 1786906916000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Terremoto en Indonesia: al menos 51 muertos y miles de evacuados esperan ayuda",
-     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260816-terremoto-en-indonesia-al-menos-51-muertos-y-miles-de-evacuados-esperan-ayuda",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/cf0a7d6e-9868-11f1-9a02-005056bfb2b6/w:1024/p:16x9/2026-08-15T014921Z-1153023905-RC2PYMARVDRS-RTRMADP-3-INDONESIA-QUAKE.jpg",
-     "ts": 1786891276000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Indonesia: terremoto de magnitud 7.7 deja 53 muertos y 135 heridos",
-     "link": "https://www.prensa.com/mundo/indonesia-terremoto-de-magnitud-77-deja-53-muertos-y-135-heridos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/7AMQ6C2NB5E25MPG6L662TPTUA.jpg?auth=ebd7c9c9c121bfa7424f4aa3a136214cbe9274e593e2a881b30546262b2b553b&smart=true&width=1920&height=1280",
-     "ts": 1786890872000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Belgium battles worst wildfire on record, EU allies come to aid",
+     "link": "https://www.scmp.com/news/world/europe/article/3364187/belgium-battles-worst-wildfire-record-eu-allies-come-aid?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/9c8cf206-cb9b-49e2-bb7c-bba418c1d71e_789081f5.jpg?itok=M0r4zvjk&v=1786874974",
+     "ts": 1786874980000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -822,29 +813,29 @@
    ]
   },
   {
-   "name": "Egypt",
-   "es": "Egipto",
-   "lat": 26.8,
-   "lon": 30.8,
+   "name": "Indonesia",
+   "es": "Indonesia",
+   "lat": -0.8,
+   "lon": 113.9,
    "count": 2,
    "items": [
     {
-     "title": "Hamás inicia conversaciones cruciales con Egipto sobre el plan de paz de Trump para Gaza",
-     "link": "https://www.france24.com/es/medio-oriente/20260816-ham%C3%A1s-inicia-conversaciones-cruciales-con-egipto-sobre-el-plan-de-paz-de-trump-para-gaza",
+     "title": "Más de 5.000 desplazados y 50 fallecidos por terremoto de magnitud 7,7 en Indonesia",
+     "link": "https://www.france24.com/es/video/20260816-m%C3%A1s-de-5-000-desplazados-y-50-fallecidos-por-terremoto-de-magnitud-7-7-en-indonesia",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
-     "ts": 1786889035000,
+     "image": "https://s.france24.com/media/display/e3a1de7a-9994-11f1-a811-005056bf30b7/w:1024/p:16x9/ES-20260816-083648-083829-CS.jpg",
+     "ts": 1786901868000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
-     "link": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
-     "ts": 1786880012000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Terremoto en Indonesia: al menos 51 muertos y miles de evacuados esperan ayuda",
+     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260816-terremoto-en-indonesia-al-menos-51-muertos-y-miles-de-evacuados-esperan-ayuda",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/cf0a7d6e-9868-11f1-9a02-005056bfb2b6/w:1024/p:16x9/2026-08-15T014921Z-1153023905-RC2PYMARVDRS-RTRMADP-3-INDONESIA-QUAKE.jpg",
+     "ts": 1786891276000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -966,6 +957,24 @@
    ]
   },
   {
+   "name": "Greece",
+   "es": "Grecia",
+   "lat": 39.1,
+   "lon": 21.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Los incendios forestales no dan tregua en Europa: dos muertos en Grecia y evacuaciones en Bélgica",
+     "link": "https://www.france24.com/es/europa/20260816-los-incendios-forestales-no-dan-tregua-en-europa-dos-muertos-en-grecia-y-evacuaciones-en-b%C3%A9lgica",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/68aea5dc-999d-11f1-b391-005056bfb2b6/w:1024/p:16x9/FOTO-GRECIA-INCENDIO-SALAMINA-HELICOPTERO.jpg",
+     "ts": 1786906916000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
    "name": "Ecuador",
    "es": "Ecuador",
    "lat": -1.8,
@@ -998,6 +1007,24 @@
      "ts": 1786891791000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Egypt",
+   "es": "Egipto",
+   "lat": 26.8,
+   "lon": 30.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+     "link": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
+     "ts": 1786880012000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -1122,24 +1149,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/0b8d0f9f-0404-45f6-b6fa-8ae543921d53_ceeca39e.jpg?itok=aFWAVECk&v=1786877075",
      "ts": 1786877077000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Belgium",
-   "es": "Bélgica",
-   "lat": 50.5,
-   "lon": 4.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Belgium battles worst wildfire on record, EU allies come to aid",
-     "link": "https://www.scmp.com/news/world/europe/article/3364187/belgium-battles-worst-wildfire-record-eu-allies-come-aid?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/9c8cf206-cb9b-49e2-bb7c-bba418c1d71e_789081f5.jpg?itok=M0r4zvjk&v=1786874974",
-     "ts": 1786874980000,
      "beat": "china",
      "beatName": "China"
     }

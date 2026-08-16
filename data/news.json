@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T18:49:20.270952+00:00",
+ "updated": "2026-08-16T19:37:22.045078+00:00",
  "beats": [
   {
    "id": "musica",
@@ -522,12 +522,30 @@
    "name": "Tecnología & IA",
    "items": [
     {
-     "title": "I've built a free, open-source local and remote memory system for agentw and CL",
-     "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
+     "title": "Protobuf has LSP support. You're welcome",
+     "link": "https://buf.build/blog/protobuf-lsp",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-16T18:03:09+00:00",
-     "ts": 1786903389000,
+     "published": "2026-08-16T18:48:27+00:00",
+     "ts": 1786906107000,
+     "count": 1
+    },
+    {
+     "title": "MathCode, Mathematical Coding Agent",
+     "link": "https://math-ai-org.github.io/mathcode/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-16T18:17:10+00:00",
+     "ts": 1786904230000,
+     "count": 1
+    },
+    {
+     "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+     "link": "https://news.ycombinator.com/item?id=49322107",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-16T17:49:46+00:00",
+     "ts": 1786902586000,
      "count": 1
     },
     {
@@ -702,15 +720,6 @@
      "count": 1
     },
     {
-     "title": "AI Coding Without the Vibes",
-     "link": "https://peterbloem.nl/blog/craft-coding",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-16T10:31:36+00:00",
-     "ts": 1786876296000,
-     "count": 1
-    },
-    {
      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
      "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
      "source": "Ars Technica - All content",
@@ -763,15 +772,6 @@
      "published": "2026-08-15T20:15:51+00:00",
      "ts": 1786824951000,
      "count": 1
-    },
-    {
-     "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-     "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T19:20:51+00:00",
-     "ts": 1786821651000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,51 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "At least six people dead from days of storms and record flooding in Indiana",
+     "link": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f79c786c1ea17cde32bfac3fdddffa268968cf0a/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=13f1058f8a34145ad5a741f008cb782c",
+     "published": "2026-08-16T19:27:22+00:00",
+     "ts": 1786908442000,
+     "count": 1
+    },
+    {
+     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+     "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-08-16T19:18:00+00:00",
+     "ts": 1786907880000,
+     "count": 1
+    },
+    {
+     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-08-16T19:03:04+00:00",
+     "ts": 1786906984000,
+     "count": 1
+    },
+    {
+     "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-08-16T19:00:23+00:00",
+     "ts": 1786906823000,
+     "count": 1
+    },
+    {
+     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+     "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2052+0+0/resize/3000x2052!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2F1c%2F9f706cd24418811eb016bc536473%2Fap26228651805218.jpg",
+     "published": "2026-08-16T18:58:25+00:00",
+     "ts": 1786906705000,
+     "count": 1
+    },
     {
      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -813,15 +858,6 @@
      "image": "https://i.guim.co.uk/img/media/fcd89d83052701314ee0acb9d18809a32b1953c1/593_0_5933_4746/master/5933.jpg?width=140&quality=85&auto=format&fit=max&s=39a0f6fbdf14850ba27821c65d7f8953",
      "published": "2026-08-16T18:23:26+00:00",
      "ts": 1786904606000,
-     "count": 1
-    },
-    {
-     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-16T18:04:25+00:00",
-     "ts": 1786903465000,
      "count": 1
     },
     {
@@ -994,42 +1030,6 @@
      "published": "2026-08-16T15:38:22+00:00",
      "ts": 1786894702000,
      "count": 1
-    },
-    {
-     "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-16T15:35:53+00:00",
-     "ts": 1786894553000,
-     "count": 1
-    },
-    {
-     "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-     "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg",
-     "published": "2026-08-16T15:25:38+00:00",
-     "ts": 1786893938000,
-     "count": 1
-    },
-    {
-     "title": "Teenager arrested in Virginia State University shooting that injured five",
-     "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-16T15:22:50+00:00",
-     "ts": 1786893770000,
-     "count": 1
-    },
-    {
-     "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
-     "link": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6e73fbbd0924a1f3ce3ffbcc84b0f2ee60a2ce84/643_0_6432_5148/master/6432.jpg?width=140&quality=85&auto=format&fit=max&s=b0c9c1531cf8bc554606c475cd6d9945",
-     "published": "2026-08-16T15:18:07+00:00",
-     "ts": 1786893487000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,42 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Cámara de Comercio exige transparencia en investigación por compra de laptops del MEDUCA",
+     "link": "https://www.prensa.com/economia/camara-de-comercio-exige-transparencia-en-investigacion-por-compra-de-laptops-del-meduca/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/24PPOXDIFFEEJFUPESX4KIX7YM.jpg?auth=c23c55101388f9dd5183bff68fa5f95a8b5735b15934aab38da79c740b8ec60b&smart=true&width=1152&height=927",
+     "published": "2026-08-16T19:31:36+00:00",
+     "ts": 1786908696000,
+     "count": 1
+    },
+    {
+     "title": "Cielo rojo en Colombia tras el terremoto: esta es la explicación científica del fenómeno que sorprendió a Galeras",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/cielo-rojo-en-colombia-tras-el-terremoto-esta-es-la-explicacion-cientifica-del-fenomeno-que-sorprendio-a-galeras-3578778",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/16/6a820b2c3703d.jpeg",
+     "published": "2026-08-16T19:10:43+00:00",
+     "ts": 1786907443000,
+     "count": 1
+    },
+    {
+     "title": "Kushner se reúne con Hamás para impulsar plan de paz en Gaza",
+     "link": "https://www.dw.com/es/kushner-se-reúne-con-hamás-para-impulsar-plan-de-paz-en-gaza/a-78390076?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-08-16T19:10:00+00:00",
+     "ts": 1786907400000,
+     "count": 1
+    },
+    {
+     "title": "Los incendios forestales no dan tregua en Europa: dos muertos en Grecia y evacuaciones en Bélgica",
+     "link": "https://www.france24.com/es/europa/20260816-los-incendios-forestales-no-dan-tregua-en-europa-dos-muertos-en-grecia-y-evacuaciones-en-b%C3%A9lgica",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/68aea5dc-999d-11f1-b391-005056bfb2b6/w:1024/p:16x9/FOTO-GRECIA-INCENDIO-SALAMINA-HELICOPTERO.jpg",
+     "published": "2026-08-16T19:01:56+00:00",
+     "ts": 1786906916000,
+     "count": 1
+    },
     {
      "title": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
      "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
@@ -1252,42 +1288,6 @@
      "published": "2026-08-16T14:41:16+00:00",
      "ts": 1786891276000,
      "count": 1
-    },
-    {
-     "title": "Indonesia: terremoto de magnitud 7.7 deja 53 muertos y 135 heridos",
-     "link": "https://www.prensa.com/mundo/indonesia-terremoto-de-magnitud-77-deja-53-muertos-y-135-heridos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/7AMQ6C2NB5E25MPG6L662TPTUA.jpg?auth=ebd7c9c9c121bfa7424f4aa3a136214cbe9274e593e2a881b30546262b2b553b&smart=true&width=1920&height=1280",
-     "published": "2026-08-16T14:34:32+00:00",
-     "ts": 1786890872000,
-     "count": 1
-    },
-    {
-     "title": "Video | Más de 500 viviendas dañadas y un pueblo a oscuras: así quedó el corregimiento de Casacará tras el fuerte vendaval que golpeó al Cesar",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/video-mas-de-500-viviendas-danadas-y-un-pueblo-a-oscuras-asi-quedo-el-corregimiento-de-casacara-tras-el-fuerte-vendaval-que-golpeo-al-cesar-3578735",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/16/6a81c85fed60c.png",
-     "published": "2026-08-16T14:25:00+00:00",
-     "ts": 1786890300000,
-     "count": 1
-    },
-    {
-     "title": "Historias del terremoto en Colombia: abogada murió protegiendo a su perro",
-     "link": "https://www.france24.com/es/video/20260816-historias-del-terremoto-en-colombia-abogada-muri%C3%B3-protegiendo-a-su-perro",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/538f46f2-997a-11f1-9c07-005056a97e36/w:1024/p:16x9/ES-20260816-073645-073823-CS.jpg",
-     "published": "2026-08-16T14:12:43+00:00",
-     "ts": 1786889563000,
-     "count": 1
-    },
-    {
-     "title": "Hamás inicia conversaciones cruciales con Egipto sobre el plan de paz de Trump para Gaza",
-     "link": "https://www.france24.com/es/medio-oriente/20260816-ham%C3%A1s-inicia-conversaciones-cruciales-con-egipto-sobre-el-plan-de-paz-de-trump-para-gaza",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
-     "published": "2026-08-16T14:03:55+00:00",
-     "ts": 1786889035000,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,33 @@
    "id": "desastres",
    "name": "Desastres Naturales",
    "items": [
+    {
+     "title": "Green forest fire notification in Mozambique",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030555",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-16T19:28:21+00:00",
+     "ts": 1786908501000,
+     "count": 245
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030551",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-16T19:16:22+00:00",
+     "ts": 1786907782000,
+     "count": 56
+    },
+    {
+     "title": "M 3.2 - 27 km ESE of Cruz Bay, U.S. Virgin Islands",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528693",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-16T19:11:57.030000+00:00",
+     "ts": 1786907517030,
+     "count": 1
+    },
     {
      "title": "Green flood alert in Italy",
      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
@@ -1320,7 +1347,7 @@
      "image": "",
      "published": "2026-08-16T18:00:17.040000+00:00",
      "ts": 1786903217040,
-     "count": 11
+     "count": 10
     },
     {
      "title": "M 2.8 - 10 km ENE of Coso Junction, CA",
@@ -1338,7 +1365,7 @@
      "image": "",
      "published": "2026-08-16T16:13:10.040000+00:00",
      "ts": 1786896790040,
-     "count": 2
+     "count": 1
     },
     {
      "title": "M 3.1 - 16 km WNW of Puerto Real, Puerto Rico",
@@ -1348,24 +1375,6 @@
      "published": "2026-08-16T15:54:26.760000+00:00",
      "ts": 1786895666760,
      "count": 2
-    },
-    {
-     "title": "Green forest fire notification in Angola",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030557",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-16T15:51:12+00:00",
-     "ts": 1786895472000,
-     "count": 246
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030480",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-16T15:50:57+00:00",
-     "ts": 1786895457000,
-     "count": 55
     },
     {
      "title": "M 3.1 - 57 km N of Hatillo, Puerto Rico",
@@ -1536,15 +1545,6 @@
      "image": "",
      "published": "2026-08-16T05:29:59.650000+00:00",
      "ts": 1786858199650,
-     "count": 1
-    },
-    {
-     "title": "M 2.5 - 95 km S of False Pass, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qdnfmv",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-16T05:28:25.900000+00:00",
-     "ts": 1786858105900,
      "count": 1
     }
    ]
