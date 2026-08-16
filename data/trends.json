@@ -1,44 +1,52 @@
 {
- "updated": "2026-08-16T19:37:22.045078+00:00",
+ "updated": "2026-08-16T20:41:32.120782+00:00",
  "terms": [
   {
    "term": "israeli",
-   "count": 12
+   "count": 13
   },
   {
    "term": "west",
    "count": 11
   },
   {
+   "term": "gaza",
+   "count": 10
+  },
+  {
+   "term": "trump",
+   "count": 10
+  },
+  {
    "term": "bank",
    "count": 10
   },
   {
-   "term": "terremoto",
-   "count": 7
+   "term": "kushner",
+   "count": 8
   },
   {
    "term": "lebanon",
+   "count": 8
+  },
+  {
+   "term": "dead",
    "count": 7
   },
   {
-   "term": "album",
+   "term": "people",
+   "count": 7
+  },
+  {
+   "term": "strikes",
+   "count": 7
+  },
+  {
+   "term": "hamas",
    "count": 6
   },
   {
-   "term": "police",
-   "count": 6
-  },
-  {
-   "term": "italy",
-   "count": 6
-  },
-  {
-   "term": "gaza",
-   "count": 6
-  },
-  {
-   "term": "trump",
+   "term": "plan",
    "count": 6
   },
   {
@@ -46,11 +54,7 @@
    "count": 6
   },
   {
-   "term": "strikes",
-   "count": 6
-  },
-  {
-   "term": "dead",
+   "term": "album",
    "count": 5
   },
   {
@@ -58,27 +62,23 @@
    "count": 5
   },
   {
-   "term": "people",
-   "count": 5
-  },
-  {
    "term": "stolen",
    "count": 5
   },
   {
-   "term": "2026",
+   "term": "police",
+   "count": 5
+  },
+  {
+   "term": "italy",
+   "count": 5
+  },
+  {
+   "term": "wildfire",
    "count": 5
   },
   {
    "term": "homes",
-   "count": 5
-  },
-  {
-   "term": "indonesia",
-   "count": 5
-  },
-  {
-   "term": "green",
    "count": 5
   },
   {
@@ -94,11 +94,7 @@
    "count": 5
   },
   {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "years",
+   "term": "claims",
    "count": 4
   },
   {
@@ -106,7 +102,7 @@
    "count": 4
   },
   {
-   "term": "colombia",
+   "term": "2026",
    "count": 4
   },
   {
@@ -118,21 +114,41 @@
    "count": 4
   },
   {
-   "term": "world",
+   "term": "talks",
+   "count": 4
+  },
+  {
+   "term": "meets",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israeli",
-   "count": 11
+   "count": 12
   },
   {
    "name": "West Bank",
    "count": 10
   },
   {
-   "name": "Italy",
+   "name": "Trump",
+   "count": 9
+  },
+  {
+   "name": "Gaza",
+   "count": 8
+  },
+  {
+   "name": "Kushner",
+   "count": 7
+  },
+  {
+   "name": "Hamas",
+   "count": 6
+  },
+  {
+   "name": "Lebanon",
    "count": 6
   },
   {
@@ -140,31 +156,11 @@
    "count": 6
   },
   {
-   "name": "Trump",
+   "name": "Italy",
    "count": 5
-  },
-  {
-   "name": "Indonesia",
-   "count": 5
-  },
-  {
-   "name": "Green",
-   "count": 5
-  },
-  {
-   "name": "Lebanon",
-   "count": 5
-  },
-  {
-   "name": "Colombia",
-   "count": 4
   },
   {
    "name": "Israel",
-   "count": 4
-  },
-  {
-   "name": "Hawaii",
    "count": 4
   },
   {
@@ -172,7 +168,11 @@
    "count": 4
   },
   {
-   "name": "Gaza",
+   "name": "Indonesia",
+   "count": 4
+  },
+  {
+   "name": "Green",
    "count": 4
   },
   {
@@ -188,27 +188,19 @@
    "count": 4
   },
   {
+   "name": "California",
+   "count": 3
+  },
+  {
    "name": "Brazil",
    "count": 3
   },
   {
-   "name": "Russia",
+   "name": "Netanyahu",
    "count": 3
   },
   {
-   "name": "Ukrainian",
-   "count": 3
-  },
-  {
-   "name": "Lula",
-   "count": 3
-  },
-  {
-   "name": "Ceuta",
-   "count": 3
-  },
-  {
-   "name": "Kushner",
+   "name": "Hawaii",
    "count": 3
   },
   {
@@ -217,6 +209,14 @@
   },
   {
    "name": "Dave Marsh",
+   "count": 2
+  },
+  {
+   "name": "Dead",
+   "count": 2
+  },
+  {
+   "name": "Cypress Hill",
    "count": 2
   }
  ]
