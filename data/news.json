@@ -1,10 +1,19 @@
 {
- "updated": "2026-08-16T14:42:19.117944+00:00",
+ "updated": "2026-08-16T15:40:18.494715+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Watch Noah Kahan and Surprise Guest Chappell Roan Perform ‘California’ at Rose Bowl Stadium",
+     "link": "https://www.rollingstone.com/music/music-news/noah-kahan-chappell-roan-perform-california-live-1235609738/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-08-16T15:10:29+00:00",
+     "ts": 1786893029000,
+     "count": 1
+    },
     {
      "title": "Courtney Love Recounts 2019 Health Scare: “They Told Me I Was Going To Die”",
      "link": "https://pitchfork.com/story/courtney-love-recounts-2019-health-scare-they-told-me-i-was-going-to-die/",
@@ -219,15 +228,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/08/Bluey.jpeg?quality=80",
      "published": "2026-08-15T03:44:25+00:00",
      "ts": 1786765465000,
-     "count": 1
-    },
-    {
-     "title": "Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness",
-     "link": "https://www.rollingstone.com/music/music-news/courtney-love-almost-died-new-albmum-1235609604/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-08-15T02:24:49+00:00",
-     "ts": 1786760689000,
      "count": 1
     },
     {
@@ -522,6 +522,24 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-08-16T14:57:57+00:00",
+     "ts": 1786892277000,
+     "count": 1
+    },
+    {
+     "title": "The AI Credit Resale Economy",
+     "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-16T14:44:55+00:00",
+     "ts": 1786891495000,
+     "count": 1
+    },
+    {
      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
      "source": "The Verge",
@@ -540,6 +558,15 @@
      "count": 1
     },
     {
+     "title": "Show HN: A public AI whose memory is shared across all users",
+     "link": "https://wildstatic.com/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-16T13:21:45+00:00",
+     "ts": 1786886505000,
+     "count": 1
+    },
+    {
      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
      "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
      "source": "The Verge",
@@ -549,21 +576,21 @@
      "count": 1
     },
     {
+     "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+     "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-16T13:09:41+00:00",
+     "ts": 1786885781000,
+     "count": 1
+    },
+    {
      "title": "Firefox for iOS now has a native adblocker",
      "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-16T12:58:10+00:00",
      "ts": 1786885090000,
-     "count": 1
-    },
-    {
-     "title": "US oil reserves are so low, the caverns holding them could be damaged",
-     "link": "https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-16T12:49:56+00:00",
-     "ts": 1786884596000,
      "count": 1
     },
     {
@@ -621,15 +648,6 @@
      "count": 1
     },
     {
-     "title": "What happens when an LLM never sees material beyond fifth grade?",
-     "link": "https://littlelearner-ll.github.io/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-16T07:37:53+00:00",
-     "ts": 1786865873000,
-     "count": 1
-    },
-    {
      "title": "Falstad Math and Physics Simulations",
      "link": "https://www.falstad.com/mathphysics.html",
      "source": "Hacker News: Front Page",
@@ -681,15 +699,6 @@
      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/simpsons-hit-and-run.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
      "published": "2026-08-15T21:56:13+00:00",
      "ts": 1786830973000,
-     "count": 1
-    },
-    {
-     "title": "Tracking down a Zsh history data loss bug",
-     "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-15T21:39:09+00:00",
-     "ts": 1786829949000,
      "count": 1
     },
     {
@@ -763,15 +772,6 @@
      "published": "2026-08-15T17:12:04+00:00",
      "ts": 1786813924000,
      "count": 1
-    },
-    {
-     "title": "SpaceX officially closes its Cursor acquisition",
-     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-15T16:30:00+00:00",
-     "ts": 1786811400000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,123 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+     "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690e/live/238fb440-9980-11f1-a4eb-59b79ff5ff4f.jpg",
+     "published": "2026-08-16T15:25:38+00:00",
+     "ts": 1786893938000,
+     "count": 1
+    },
+    {
+     "title": "Teenager arrested in Virginia State University shooting that injured five",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-08-16T15:22:50+00:00",
+     "ts": 1786893770000,
+     "count": 1
+    },
+    {
+     "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
+     "link": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6e73fbbd0924a1f3ce3ffbcc84b0f2ee60a2ce84/643_0_6432_5148/master/6432.jpg?width=140&quality=85&auto=format&fit=max&s=b0c9c1531cf8bc554606c475cd6d9945",
+     "published": "2026-08-16T15:18:07+00:00",
+     "ts": 1786893487000,
+     "count": 1
+    },
+    {
+     "title": "Greek island wildfire kills two people as helicopters called in to tackle Belgium forest blaze",
+     "link": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fcd89d83052701314ee0acb9d18809a32b1953c1/593_0_5933_4746/master/5933.jpg?width=140&quality=85&auto=format&fit=max&s=39a0f6fbdf14850ba27821c65d7f8953",
+     "published": "2026-08-16T15:16:45+00:00",
+     "ts": 1786893405000,
+     "count": 1
+    },
+    {
+     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+     "published": "2026-08-16T15:14:01+00:00",
+     "ts": 1786893241000,
+     "count": 1
+    },
+    {
+     "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/183a8ab5352081c5d1ebbe833f230d71a9a870c6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=55d3a7e8fd800ff4b2d8535182fdd9b1",
+     "published": "2026-08-16T15:00:30+00:00",
+     "ts": 1786892430000,
+     "count": 1
+    },
+    {
+     "title": "Australian health experts fear US vaccine scepticism is catching on as ‘anything Trump says filters through’",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/0b0dc990f6e8822c70fe0582187f82d4d7647eb7/0_340_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=13b5056976facd9b7d6c010e897d9177",
+     "published": "2026-08-16T15:00:29+00:00",
+     "ts": 1786892429000,
+     "count": 1
+    },
+    {
+     "title": "The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3c7ab8ba7b92a2403bd7b4f4c28fd0df7430d8eb/1008_0_5771_4619/master/5771.jpg?width=140&quality=85&auto=format&fit=max&s=4d7a8df7172efb2245a533199a8f0113",
+     "published": "2026-08-16T15:00:28+00:00",
+     "ts": 1786892428000,
+     "count": 1
+    },
+    {
+     "title": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
+     "link": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/58b79814d93c2adbcada3237bae289222cd981ac/1319_179_3700_2959/master/3700.jpg?width=140&quality=85&auto=format&fit=max&s=aa965a808aa83b468c8bc94e6831b5fd",
+     "published": "2026-08-16T15:00:04+00:00",
+     "ts": 1786892404000,
+     "count": 1
+    },
+    {
+     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+     "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-16T14:55:51+00:00",
+     "ts": 1786892151000,
+     "count": 1
+    },
+    {
+     "title": "‘The Mediterranean is a bridge, not a border’",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-16T14:40:38+00:00",
+     "ts": 1786891238000,
+     "count": 1
+    },
+    {
+     "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-16T14:35:15+00:00",
+     "ts": 1786890915000,
+     "count": 1
+    },
+    {
+     "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+     "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-16T14:29:18+00:00",
+     "ts": 1786890558000,
+     "count": 1
+    },
     {
      "title": "Cambridge University defends its mental health support for Jason Arday",
      "link": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
@@ -834,7 +951,7 @@
      "count": 1
     },
     {
-     "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
      "link": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/86c28cf5878430f183444c44545603edabeea737/0_28_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=c7b6077f1a9e45e0eee67ffcb4c6bd1c",
@@ -879,15 +996,6 @@
      "count": 1
     },
     {
-     "title": "Hurricane Lala skirts Hawaii’s Big Island as heavy wind and rain lash region",
-     "link": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6e73fbbd0924a1f3ce3ffbcc84b0f2ee60a2ce84/643_0_6432_5148/master/6432.jpg?width=140&quality=85&auto=format&fit=max&s=b0c9c1531cf8bc554606c475cd6d9945",
-     "published": "2026-08-16T13:09:03+00:00",
-     "ts": 1786885743000,
-     "count": 1
-    },
-    {
      "title": "Murder inquiry opens after death of man bitten by dog in West Yorkshire",
      "link": "https://www.theguardian.com/uk-news/2026/aug/16/murder-inquiry-death-man-bitten-by-dog-wakefield-west-yorkshire",
      "source": "World news | The Guardian",
@@ -922,114 +1030,6 @@
      "published": "2026-08-16T12:53:43+00:00",
      "ts": 1786884823000,
      "count": 1
-    },
-    {
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-     "published": "2026-08-16T12:37:21+00:00",
-     "ts": 1786883841000,
-     "count": 1
-    },
-    {
-     "title": "Belgium’s largest wildfire on record spreads towards German border",
-     "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-16T12:35:31+00:00",
-     "ts": 1786883731000,
-     "count": 1
-    },
-    {
-     "title": "BBC visits smouldering Kyiv market after Russian strikes",
-     "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-16T12:18:09+00:00",
-     "ts": 1786882689000,
-     "count": 1
-    },
-    {
-     "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
-     "link": "https://www.theguardian.com/environment/2026/aug/16/florida-sea-turtle-nests-endangered-species",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/14202211c76e257eb3a4ee3c131ed16b82acdf7b/29_0_3061_2448/master/3061.jpg?width=140&quality=85&auto=format&fit=max&s=67a664ff4e9d64e142f9fc73236f5969",
-     "published": "2026-08-16T12:00:25+00:00",
-     "ts": 1786881625000,
-     "count": 1
-    },
-    {
-     "title": "‘Why did it become personal?’: furore over plans to expand Kent oyster shack",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/16/whitstable-plans-to-expand-oyster-shack-kent-coast-opposition",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a9fd0850b541e339a8fa813a4e15a12495ad52c8/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=eb4ad3606a50ad6123412ccf8fafdf5a",
-     "published": "2026-08-16T12:00:24+00:00",
-     "ts": 1786881624000,
-     "count": 1
-    },
-    {
-     "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
-     "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-16T11:54:55+00:00",
-     "ts": 1786881295000,
-     "count": 1
-    },
-    {
-     "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4898x3265+0+0/resize/4898x3265!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F2e%2Fdf968958477bbc99511188a0dad6%2Fgettyimages-1257858410.jpg",
-     "published": "2026-08-16T11:54:19+00:00",
-     "ts": 1786881259000,
-     "count": 1
-    },
-    {
-     "title": "‘Limited options’ for many Iranians as war with US chokes economy",
-     "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-16T11:38:50+00:00",
-     "ts": 1786880330000,
-     "count": 1
-    },
-    {
-     "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-     "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-16T11:35:25+00:00",
-     "ts": 1786880125000,
-     "count": 1
-    },
-    {
-     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-     "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-16T11:14:23+00:00",
-     "ts": 1786878863000,
-     "count": 1
-    },
-    {
-     "title": "Bus carrying Polish pilgrims crashes in Hungary, leaving 12 dead",
-     "link": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/e3ad1c3101f4a57c1b6940e4a5f600d22ecf29a3/388_0_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=30a09c03909ca6952113032ebf6b20eb",
-     "published": "2026-08-16T11:07:55+00:00",
-     "ts": 1786878475000,
-     "count": 1
-    },
-    {
-     "title": "Hundreds flee as Belgium battles wildfire at German border",
-     "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-16T11:05:00+00:00",
-     "ts": 1786878300000,
-     "count": 1
     }
    ]
   },
@@ -1038,21 +1038,84 @@
    "name": "Panamá · LatAm",
    "items": [
     {
+     "title": "Terremoto de 7.4 en Colombia deja 289 muertos y 185,016 damnificados",
+     "link": "https://www.prensa.com/mundo/terremoto-de-74-en-colombia-deja-289-muertos-y-185016-damnificados/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/AGXZTQP3AVEZZH7AYDR4VGXZJE.jpg?auth=4dde80bed2f770e27174150765bf39e1b54794698361507893e2bed2b9cff0d6&smart=true&width=1920&height=1280",
+     "published": "2026-08-16T15:16:07+00:00",
+     "ts": 1786893367000,
+     "count": 1
+    },
+    {
+     "title": "Desde Brasil: Lula y Bolsonaro empiezan oficialmente sus campañas por la Presidencia",
+     "link": "https://www.france24.com/es/video/20260816-informe-desde-r%C3%ADo-lula-y-bolsonaro-empiezan-oficialmente-sus-campa%C3%B1as-por-la-presidencial",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/6f3688ee-9983-11f1-8c09-005056bfb2b6/w:1024/p:16x9/ES-20260816-083154-083409-CS.jpg",
+     "published": "2026-08-16T15:14:06+00:00",
+     "ts": 1786893246000,
+     "count": 1
+    },
+    {
+     "title": "Video | Cali lucha entre los escombros: detalles del antes y el después de las edificaciones que se vinieron abajo por el devastador terremoto",
+     "link": "https://www.eltiempo.com/colombia/cali/cali-lucha-entre-los-escombros-detalles-del-antes-y-el-despues-de-las-edificaciones-que-se-vinieron-abajo-por-el-devastador-terremoto-en-diez-anos-3578680",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a81084a07167.r_d.768-512-0.jpeg",
+     "published": "2026-08-16T15:02:08+00:00",
+     "ts": 1786892528000,
+     "count": 1
+    },
+    {
+     "title": "Terremoto en Colombia hoy 16 de agosto: UNGRD entrega nuevo balance nacional; SGC registró un temblor de magnitud 3,4 en Chocó",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-16-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3578723",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/15/6a80e96d2a6d6.jpeg",
+     "published": "2026-08-16T14:56:05+00:00",
+     "ts": 1786892165000,
+     "count": 1
+    },
+    {
+     "title": "Ventura Vega: de las finanzas y las 10 juntas directivas al Ministerio de Educación",
+     "link": "https://www.prensa.com/sociedad/ventura-vega-de-las-finanzas-y-las-juntas-directivas-al-ministerio-de-educacion/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/VAJUYNWWDBFQDJAMNJS3WTEEKM.jpg?auth=dfff69be00b26b518d7c9901db3926db9095a4835428917597dd9aa59ae6affd&smart=true&width=1600&height=900",
+     "published": "2026-08-16T14:51:01+00:00",
+     "ts": 1786891861000,
+     "count": 1
+    },
+    {
+     "title": "Atlántico | Roban camioneta del concejal Alexis Castillo en Santa Verónica: delincuentes se llevaron el vehículo con pertenencias de toda su familia",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/atlantico-roban-camioneta-del-concejal-alexis-castillo-en-santa-veronica-delincuentes-se-llevaron-el-vehiculo-con-pertenencias-de-toda-su-familia-3578739",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81ce20ea3e6.r_d.100-186-0.png",
+     "published": "2026-08-16T14:50:00+00:00",
+     "ts": 1786891800000,
+     "count": 1
+    },
+    {
+     "title": "Panamá nombra nuevo embajador en Guyana antes de abrir la embajada física",
+     "link": "https://www.prensa.com/politica/panama-nombra-nuevo-embajador-en-guyana-antes-de-abrir-la-embajada-fisica/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/QJZKSLK4KRDFPM6TAHCHDM2PTE.jpeg?auth=505231334c29bdcd1ffac6e0d8d23f513de3a702b8d818996c6c21e97d2adf0a&smart=true&width=1544&height=856",
+     "published": "2026-08-16T14:49:51+00:00",
+     "ts": 1786891791000,
+     "count": 1
+    },
+    {
+     "title": "Terremoto en Indonesia: al menos 51 muertos y miles de evacuados esperan ayuda",
+     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260816-terremoto-en-indonesia-al-menos-51-muertos-y-miles-de-evacuados-esperan-ayuda",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/cf0a7d6e-9868-11f1-9a02-005056bfb2b6/w:1024/p:16x9/2026-08-15T014921Z-1153023905-RC2PYMARVDRS-RTRMADP-3-INDONESIA-QUAKE.jpg",
+     "published": "2026-08-16T14:41:16+00:00",
+     "ts": 1786891276000,
+     "count": 1
+    },
+    {
      "title": "Indonesia: terremoto de magnitud 7.7 deja 53 muertos y 135 heridos",
      "link": "https://www.prensa.com/mundo/indonesia-terremoto-de-magnitud-77-deja-53-muertos-y-135-heridos/",
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/7AMQ6C2NB5E25MPG6L662TPTUA.jpg?auth=ebd7c9c9c121bfa7424f4aa3a136214cbe9274e593e2a881b30546262b2b553b&smart=true&width=1920&height=1280",
      "published": "2026-08-16T14:34:32+00:00",
      "ts": 1786890872000,
-     "count": 1
-    },
-    {
-     "title": "Terremoto en Colombia hoy 16 de agosto: SGC registró un temblor de magnitud 3,4 en Chocó; siga las últimas noticias y el balance de la emergencia",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-16-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3578723",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/15/6a8126f74c379.jpeg",
-     "published": "2026-08-16T14:34:09+00:00",
-     "ts": 1786890849000,
      "count": 1
     },
     {
@@ -1083,7 +1146,7 @@
      "count": 1
     },
     {
-     "title": "Buques de la Fuerza Marítima de Japón llegarán a Panamá: conozca cuándo y dóndo",
+     "title": "Buques de la Fuerza Marítima de Japón llegarán a Panamá: conozca cuándo y dónde",
      "link": "https://www.prensa.com/vivir/buques-de-la-fuerza-maritima-de-japon-llegaran-a-panama-conozca-cuando-y-dondo/",
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/4YKAGSMDOBCW3NGYGWOWVU5ZFY.jpeg?auth=e935b98f9cd8fe1a23a1a2adcff10f351fd1bb381ca17d1f1a376eb1d05f6bc9&smart=true&width=1600&height=1071",
@@ -1155,6 +1218,15 @@
      "count": 1
     },
     {
+     "title": "Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud",
+     "link": "https://elpais.com/internacional/2026-08-16/los-equipos-de-rescate-de-indonesia-buscan-supervivientes-tras-el-terremoto-de-77-de-magnitud.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/5N7E3LGHMVJRPJWXKYEIGMSUCY.jpg?auth=0671d91b1ce22dfae6df99245ad1d0d82796b797a8ddf1445b0778f78be51052",
+     "published": "2026-08-16T12:23:51+00:00",
+     "ts": 1786883031000,
+     "count": 1
+    },
+    {
      "title": "Doce personas mueren en accidente de autobús en Hungría",
      "link": "https://www.dw.com/es/doce-personas-mueren-en-accidente-de-autobús-en-hungría/a-78388581?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
@@ -1216,78 +1288,6 @@
      "published": "2026-08-16T10:20:11+00:00",
      "ts": 1786875611000,
      "count": 2
-    },
-    {
-     "title": "Régimen de Irán ejecuta a otro hombre por participar en protestas de enero",
-     "link": "https://www.dw.com/es/régimen-de-irán-ejecuta-a-otro-hombre-por-participar-en-protestas-de-enero/a-78387276?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-16T09:22:00+00:00",
-     "ts": 1786872120000,
-     "count": 1
-    },
-    {
-     "title": "Avión español derriba un dron sobre el espacio aéreo de Rumania",
-     "link": "https://www.dw.com/es/avión-español-derriba-un-dron-sobre-el-espacio-aéreo-de-rumania/a-78387062?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-16T09:03:00+00:00",
-     "ts": 1786870980000,
-     "count": 1
-    },
-    {
-     "title": "¿Existió Homero? El misterio que rodea al autor de \"La Odisea\"",
-     "link": "https://www.bbc.com/mundo/articles/c8en8768wzro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d0f/live/a2ff8c10-9961-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-16T08:56:49+00:00",
-     "ts": 1786870609000,
-     "count": 1
-    },
-    {
-     "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
-     "link": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d861/live/94358a00-89a2-11f1-a7ab-8b30adf0800a.jpg",
-     "published": "2026-08-16T08:01:58+00:00",
-     "ts": 1786867318000,
-     "count": 1
-    },
-    {
-     "title": "Los incendios forestales no dan tregua en Europa",
-     "link": "https://www.dw.com/es/los-incendios-forestales-no-dan-tregua-en-europa/a-78386746?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-08-16T05:20:00+00:00",
-     "ts": 1786857600000,
-     "count": 1
-    },
-    {
-     "title": "Ifarhu entrega este martes tarjetas del PASE-U: puntos y requisitos",
-     "link": "https://www.prensa.com/sociedad/ifarhu-entrega-este-martes-tarjetas-del-pase-u-puntos-y-requisitos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/E66V2P7BWRDTHBK2LL53IIQJBE.jpeg?auth=4b0c5c6f42a1780d18cb08f7954db470feaa02e814ae9e0553207a610bdc55cb&smart=true&width=1600&height=1066",
-     "published": "2026-08-16T05:01:00+00:00",
-     "ts": 1786856460000,
-     "count": 1
-    },
-    {
-     "title": "A la espera de las ballenas: un encuentro con la naturaleza en el Pacífico panameño",
-     "link": "https://www.prensa.com/vivir/a-la-espera-de-las-ballenas-un-encuentro-con-la-naturaleza-en-el-pacifico-panameno/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/F3K36PCMN5C7VHFVC2OE5STAM4.jpg?auth=14dda8b4daea631eb327b63667c674eff61bd93f8483862d26e420d5d35fe35c&smart=true&width=1264&height=842",
-     "published": "2026-08-16T05:00:00+00:00",
-     "ts": 1786856400000,
-     "count": 1
-    },
-    {
-     "title": "Intercambiador Este del Cuarto Puente espera refrendo de adenda de la Contraloría",
-     "link": "https://www.prensa.com/sociedad/intercambiador-este-del-cuarto-puente-espera-refrendo-de-adenda-de-la-contraloria/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/DX6PRCATRBHYNFYJDHM74WNRBA.JPG?auth=ae284cee93c348012a027591aab5caea6b360b58dfc8abcffcc5667f624ceaba&smart=true&width=4000&height=2250",
-     "published": "2026-08-16T05:00:00+00:00",
-     "ts": 1786856400000,
-     "count": 1
     }
    ]
   },
@@ -1296,6 +1296,69 @@
    "name": "Desastres Naturales",
    "items": [
     {
+     "title": "M 3.1 - 57 km N of Hatillo, Puerto Rico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528673",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-16T15:35:13.350000+00:00",
+     "ts": 1786894513350,
+     "count": 1
+    },
+    {
+     "title": "M 3.2 - 16 km WNW of Puerto Real, Puerto Rico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528658",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-16T15:32:11.100000+00:00",
+     "ts": 1786894331100,
+     "count": 1
+    },
+    {
+     "title": "M 2.7 - 11 km ENE of Hala‘ula, Hawaii",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019517",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-16T15:29:17.600000+00:00",
+     "ts": 1786894157600,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Mozambique",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030555",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-16T15:25:00+00:00",
+     "ts": 1786893900000,
+     "count": 245
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030551",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-16T15:17:08+00:00",
+     "ts": 1786893428000,
+     "count": 56
+    },
+    {
+     "title": "Green flood alert in Italy",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
+     "source": "GDACS RSS information",
+     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104053.png",
+     "published": "2026-08-16T15:16:38+00:00",
+     "ts": 1786893398000,
+     "count": 9
+    },
+    {
+     "title": "M 3.1 - 4 km WSW of Point Possession, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qeguys",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-16T14:59:49.721000+00:00",
+     "ts": 1786892389721,
+     "count": 2
+    },
+    {
      "title": "M 5.0 - 81 km NNE of Ruteng, Indonesia",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e86",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1303,15 +1366,6 @@
      "published": "2026-08-16T13:57:43.040000+00:00",
      "ts": 1786888663040,
      "count": 15
-    },
-    {
-     "title": "M 3.1 - 4 km WSW of Point Possession, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qeguys",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-16T13:20:16.964000+00:00",
-     "ts": 1786886416964,
-     "count": 2
     },
     {
      "title": "M 4.7 - 83 km NNE of Labuan Bajo, Indonesia",
@@ -1341,15 +1395,6 @@
      "count": 2
     },
     {
-     "title": "Green flood alert in Italy",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104053.png",
-     "published": "2026-08-16T12:16:57+00:00",
-     "ts": 1786882617000,
-     "count": 9
-    },
-    {
      "title": "M 4.0 - 30 km ESE of Agua Prieta, Mexico",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7e",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1357,24 +1402,6 @@
      "published": "2026-08-16T12:00:37.717000+00:00",
      "ts": 1786881637717,
      "count": 1
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030480",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-16T11:50:58+00:00",
-     "ts": 1786881058000,
-     "count": 56
-    },
-    {
-     "title": "Green forest fire notification in Indonesia",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030418",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-16T11:50:31+00:00",
-     "ts": 1786881031000,
-     "count": 244
     },
     {
      "title": "M 5.1 - 112 km ESE of Madang, Papua New Guinea",
@@ -1518,33 +1545,6 @@
      "image": "",
      "published": "2026-08-16T05:19:40.147000+00:00",
      "ts": 1786857580147,
-     "count": 1
-    },
-    {
-     "title": "M 5.0 - 45 km NNW of Ende, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-16T03:58:33.040000+00:00",
-     "ts": 1786852713040,
-     "count": 3
-    },
-    {
-     "title": "M 4.2 - 11 km SSW of Piedecuesta, Colombia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4c",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-16T03:27:35.040000+00:00",
-     "ts": 1786850855040,
-     "count": 1
-    },
-    {
-     "title": "M 4.4 - 83 km SSW of Puerto San José, Guatemala",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl40",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-16T03:10:08.040000+00:00",
-     "ts": 1786849808040,
      "count": 1
     }
    ]
@@ -1812,6 +1812,15 @@
    "name": "China",
    "items": [
     {
+     "title": "A fake website and a deluge of CVs: the Australian firm embroiled in an FBI probe into alleged Chinese espionage",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/17/fbi-investigation-china-alleged-espionage-fake-websites-defence-intelligence-australia",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4fb3471814f8ddf60e815e68672a8e1e71ac2e08/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=5a0d6edfbb22f0e00396aba2424705ea",
+     "published": "2026-08-16T15:00:30+00:00",
+     "ts": 1786892430000,
+     "count": 1
+    },
+    {
      "title": "Lee Kuan Yew’s Montblanc pen sells for US$360,000 in Singapore auction",
      "link": "https://www.scmp.com/week-asia/people/article/3364212/lee-kuan-yews-montblanc-pen-sells-us360000-singapore-auction?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -2052,15 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/51c6816c-895c-4718-a745-f6f9b39ae618_4636628a.jpg?itok=d_SEhb3S&v=1786608836",
      "published": "2026-08-16T08:30:07+00:00",
      "ts": 1786869007000,
-     "count": 1
-    },
-    {
-     "title": "Beijing and Manila clash over arrests of ‘illegal’ workers as tensions worsen",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3364178/beijing-and-manila-clash-over-arrests-illegal-workers-tensions-worsen?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/70904614-0801-4d30-aceb-c94a0344a2ea_6b14247e.jpg?itok=4lACNCzq&v=1786865772",
-     "published": "2026-08-16T08:00:12+00:00",
-     "ts": 1786867212000,
      "count": 1
     }
    ]
