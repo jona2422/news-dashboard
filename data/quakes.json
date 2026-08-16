@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16T20:41:32.247105+00:00",
- "count": 186,
+ "updated": "2026-08-16T21:36:47.266939+00:00",
+ "count": 189,
  "max": 6.1,
  "items": [
   {
@@ -130,15 +130,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7s"
   },
   {
-   "mag": 4.7,
-   "place": "86 km N of Ruteng, Indonesia",
-   "time": 1786828112582,
-   "lon": 120.5111,
-   "lat": -7.8284,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3n"
-  },
-  {
    "mag": 4.6,
    "place": "68 km ESE of Madang, Papua New Guinea",
    "time": 1786867610468,
@@ -146,6 +137,15 @@
    "lat": -5.5296,
    "depth": 130.097,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s"
+  },
+  {
+   "mag": 4.5,
+   "place": "105 km W of San Antonio de los Cobres, Argentina",
+   "time": 1786914367119,
+   "lon": -67.3517,
+   "lat": -24.3051,
+   "depth": 164.602,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ea6"
   },
   {
    "mag": 4.5,
@@ -312,10 +312,10 @@
   {
    "mag": 2.8,
    "place": "6 km SE of Ontario, CA",
-   "time": 1786912529270,
-   "lon": -117.585,
-   "lat": 34.0151666666667,
-   "depth": 4.97,
+   "time": 1786912529250,
+   "lon": -117.589,
+   "lat": 34.0115,
+   "depth": 5.59,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674002"
   },
   {
@@ -362,6 +362,15 @@
    "lat": 17.9698333333333,
    "depth": 11.19,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528643"
+  },
+  {
+   "mag": 2.6,
+   "place": "9 km W of Rincón, Puerto Rico",
+   "time": 1786912329060,
+   "lon": -67.3435,
+   "lat": 18.3508333333333,
+   "depth": 23.74,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528708"
   },
   {
    "mag": 2.6,
@@ -544,15 +553,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qazpun"
   },
   {
-   "mag": 2.1,
-   "place": "5 km NNW of The Geysers, CA",
-   "time": 1786826516040,
-   "lon": -122.789833068848,
-   "lat": 38.8178329467773,
-   "depth": 2.51999998092651,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418992"
-  },
-  {
    "mag": 2.0,
    "place": "4 km NW of Pinnacles, CA",
    "time": 1786904658820,
@@ -641,6 +641,15 @@
    "lat": 32.221,
    "depth": 1.9265,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qaykwt"
+  },
+  {
+   "mag": 1.8,
+   "place": "6 km W of Cobb, CA",
+   "time": 1786915896860,
+   "lon": -122.789001464844,
+   "lat": 38.8306655883789,
+   "depth": 1.73000001907349,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419677"
   },
   {
    "mag": 1.8,
@@ -771,10 +780,19 @@
   {
    "mag": 1.6,
    "place": "38 km ESE of Malaga, New Mexico",
-   "time": 1786912668662,
+   "time": 1786913392587,
+   "lon": -103.712,
+   "lat": 32.054,
+   "depth": 8.1779,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qchgvo"
+  },
+  {
+   "mag": 1.6,
+   "place": "38 km ESE of Malaga, New Mexico",
+   "time": 1786912668659,
    "lon": -103.715,
    "lat": 32.056,
-   "depth": 7.9675,
+   "depth": 7.9768,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcgwig"
   },
   {
@@ -839,24 +857,6 @@
    "lat": 39.3183326721191,
    "depth": 5.53000020980835,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419207"
-  },
-  {
-   "mag": 1.6,
-   "place": "7 km W of Idyllwild, CA",
-   "time": 1786829733510,
-   "lon": -116.792,
-   "lat": 33.7395,
-   "depth": 16.24,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673386"
-  },
-  {
-   "mag": 1.6,
-   "place": "9 km SW of Lindsay, Texas",
-   "time": 1786827921142,
-   "lon": -103.599,
-   "lat": 31.296,
-   "depth": 4.8177,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qambhg"
   },
   {
    "mag": 1.5,
@@ -959,6 +959,24 @@
   },
   {
    "mag": 1.4,
+   "place": "14 km SW of Parkfield, CA",
+   "time": 1786915342280,
+   "lon": -120.553337097168,
+   "lat": 35.8231658935547,
+   "depth": 9.22999954223633,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419667"
+  },
+  {
+   "mag": 1.4,
+   "place": "38 km NNW of Mentone, Texas",
+   "time": 1786915301194,
+   "lon": -103.704,
+   "lat": 32.045,
+   "depth": 10.4842,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qciigo"
+  },
+  {
+   "mag": 1.4,
    "place": "20 km NW of New Idria, CA",
    "time": 1786902502020,
    "lon": -120.855003356934,
@@ -1028,6 +1046,15 @@
    "lat": 33.2966666666667,
    "depth": 10.8,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673410"
+  },
+  {
+   "mag": 1.3,
+   "place": "7 km SE of Cloverdale, CA",
+   "time": 1786914939260,
+   "lon": -122.957664489746,
+   "lat": 38.7594985961914,
+   "depth": -0.610000014305115,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419652"
   },
   {
    "mag": 1.3,
@@ -1309,15 +1336,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673498"
   },
   {
-   "mag": 0.9,
-   "place": "10 km ENE of Ocotillo Wells, CA",
-   "time": 1786829031740,
-   "lon": -116.0325,
-   "lat": 33.183,
-   "depth": 4.88,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673370"
-  },
-  {
    "mag": 0.8,
    "place": "17 km ESE of Julian, CA",
    "time": 1786908580250,
@@ -1435,15 +1453,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qapdby"
   },
   {
-   "mag": 0.8,
-   "place": "5 km WNW of The Geysers, CA",
-   "time": 1786829328880,
-   "lon": -122.80916595459,
-   "lat": 38.7949981689453,
-   "depth": 3.69000005722046,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419027"
-  },
-  {
    "mag": 0.7,
    "place": "21 km SSW of Ocotillo Wells, CA",
    "time": 1786908098200,
@@ -1514,6 +1523,15 @@
    "lat": 34.282,
    "depth": 11.69,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673514"
+  },
+  {
+   "mag": 0.6,
+   "place": "7 km NW of The Geysers, CA",
+   "time": 1786913043990,
+   "lon": -122.812164306641,
+   "lat": 38.8236656188965,
+   "depth": 2.67000007629395,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419637"
   },
   {
    "mag": 0.6,
@@ -1604,6 +1622,15 @@
    "lat": 33.1606666666667,
    "depth": 5.81,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673490"
+  },
+  {
+   "mag": 0.4,
+   "place": "10 km WSW of Anza, CA",
+   "time": 1786913450240,
+   "lon": -116.7615,
+   "lat": 33.5095,
+   "depth": 10.63,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674034"
   },
   {
    "mag": 0.4,
