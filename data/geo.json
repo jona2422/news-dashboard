@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-16T07:02:24.457345+00:00",
- "total": 106,
+ "updated": "2026-08-16T07:48:03.829436+00:00",
+ "total": 105,
  "countries": [
   {
    "name": "Palestine",
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 15,
+   "count": 14,
    "items": [
     {
      "title": "How a simple lighter has become the backbone of life in Gaza",
@@ -24,15 +24,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1786847214000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-     "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786841099000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -96,6 +87,15 @@
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/647b8576-97bc-11f1-bcae-005056bf30b7/w:1024/p:16x9/2026-08-14T060113Z-1927548703-RC2TVMAVHWMD-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-SPRINGS.jpg",
      "ts": 1786699413000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel sends troops to West Bank homes besieged by settlers",
+     "link": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/5898b8a8-97b9-11f1-917e-005056a97e36/w:1024/p:16x9/EN-20260814-090117-090304-CS.jpg",
+     "ts": 1786697978000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -543,11 +543,56 @@
    ]
   },
   {
+   "name": "Australia",
+   "es": "Australia",
+   "lat": -25.3,
+   "lon": 133.8,
+   "count": 4,
+   "items": [
+    {
+     "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786862450000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
+     "link": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4523dec71e91cd5ac6f89d2534b808eaf5868cd3/557_0_4964_3973/master/4964.jpg?width=140&quality=85&auto=format&fit=max&s=89a7a08622fa434a0adfda3f3920b491",
+     "ts": 1786855470000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+     "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786854926000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Australia urged to lead Indo-Pacific cable shield as hybrid war risks rise",
+     "link": "https://www.scmp.com/week-asia/economics/article/3364041/australia-urged-lead-indo-pacific-cable-shield-hybrid-war-risks-rise?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/638583dc-b7dc-4f6a-89a3-efaa10599c79_d08dcc59.jpg?itok=FBGnjaNb&v=1786697078",
+     "ts": 1786838406000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Iran",
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "How the US could squeeze Iran with economic isolation – and the risks involved",
@@ -557,15 +602,6 @@
      "ts": 1786863132000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-     "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786844280000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Iran urges Qatar to release pilots shot down in Middle East war",
@@ -629,78 +665,6 @@
      "ts": 1786708842000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Australia",
-   "es": "Australia",
-   "lat": -25.3,
-   "lon": 133.8,
-   "count": 3,
-   "items": [
-    {
-     "title": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
-     "link": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4523dec71e91cd5ac6f89d2534b808eaf5868cd3/557_0_4964_3973/master/4964.jpg?width=140&quality=85&auto=format&fit=max&s=89a7a08622fa434a0adfda3f3920b491",
-     "ts": 1786855470000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-     "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786854926000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Australia urged to lead Indo-Pacific cable shield as hybrid war risks rise",
-     "link": "https://www.scmp.com/week-asia/economics/article/3364041/australia-urged-lead-indo-pacific-cable-shield-hybrid-war-risks-rise?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/638583dc-b7dc-4f6a-89a3-efaa10599c79_d08dcc59.jpg?itok=FBGnjaNb&v=1786697078",
-     "ts": 1786838406000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Qatar",
-   "es": "Catar",
-   "lat": 25.3,
-   "lon": 51.2,
-   "count": 3,
-   "items": [
-    {
-     "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-     "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786844280000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-     "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
-     "ts": 1786827837000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Iran urges Qatar to release pilots shot down in Middle East war",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/f4a2fb40-556c-4ad8-90c7-8c83ea211f07_348fbd19.jpg?itok=79u9Z3x0&v=1786819469",
-     "ts": 1786819475000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -795,6 +759,60 @@
    ]
   },
   {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Troops from North Korea to boost Russia's Ukraine forces",
+     "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786862940000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+     "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786856073000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "Troops from North Korea to boost Russia's Ukraine forces",
+     "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1786862940000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+     "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786856073000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Indonesia",
    "es": "Indonesia",
    "lat": -0.8,
@@ -849,6 +867,33 @@
    ]
   },
   {
+   "name": "Qatar",
+   "es": "Catar",
+   "lat": 25.3,
+   "lon": 51.2,
+   "count": 2,
+   "items": [
+    {
+     "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+     "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
+     "ts": 1786827837000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran urges Qatar to release pilots shot down in Middle East war",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/f4a2fb40-556c-4ad8-90c7-8c83ea211f07_348fbd19.jpg?itok=79u9Z3x0&v=1786819469",
+     "ts": 1786819475000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Korea",
    "es": "Corea del Sur",
    "lat": 35.9,
@@ -885,42 +930,6 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Troops from North Korea to boost Russia's Ukraine forces",
-     "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786862940000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Troops from North Korea to boost Russia's Ukraine forces",
-     "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1786862940000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Dem. Rep. Korea",
    "es": "Corea del Norte",
    "lat": 40.3,
@@ -939,6 +948,24 @@
    ]
   },
   {
+   "name": "Bangladesh",
+   "es": "Bangladés",
+   "lat": 23.7,
+   "lon": 90.4,
+   "count": 1,
+   "items": [
+    {
+     "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1786862450000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Germany",
    "es": "Alemania",
    "lat": 51.2,
@@ -951,24 +978,6 @@
      "source": "Deutsche Welle",
      "image": "",
      "ts": 1786857300000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Romania",
-   "es": "Rumania",
-   "lat": 45.9,
-   "lon": 25.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-     "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786856073000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -1018,8 +1027,8 @@
    "count": 1,
    "items": [
     {
-     "title": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
-     "link": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-rdf",
+     "title": "Belgium battles record wildfire at German border",
+     "link": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
      "ts": 1786848540000,
@@ -1041,24 +1050,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1786844637000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Egypt",
-   "es": "Egipto",
-   "lat": 26.8,
-   "lon": 30.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-     "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786841099000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
