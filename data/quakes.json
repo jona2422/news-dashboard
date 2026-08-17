@@ -1,8 +1,17 @@
 {
- "updated": "2026-08-17T13:09:04.367403+00:00",
- "count": 200,
- "max": 5.7,
+ "updated": "2026-08-17T13:55:34.255702+00:00",
+ "count": 208,
+ "max": 5.8,
  "items": [
+  {
+   "mag": 5.8,
+   "place": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+   "time": 1786970283466,
+   "lon": 159.7106,
+   "lat": 53.024,
+   "depth": 54.741,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
+  },
   {
    "mag": 5.7,
    "place": "65 km NNW of Ende, Indonesia",
@@ -20,15 +29,6 @@
    "lat": -7.9289,
    "depth": 10,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed8"
-  },
-  {
-   "mag": 5.3,
-   "place": "75 km ESE of Petropavlovsk-Kamchatsky, Russia",
-   "time": 1786970284600,
-   "lon": 159.7259,
-   "lat": 52.9129,
-   "depth": 67.497,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
   },
   {
    "mag": 5.3,
@@ -85,13 +85,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas"
   },
   {
-   "mag": 5,
-   "place": "81 km NNE of Ruteng, Indonesia",
-   "time": 1786887519493,
-   "lon": 120.7165,
-   "lat": -7.9176,
+   "mag": 4.9,
+   "place": "44 km NNE of Ruteng, Indonesia",
+   "time": 1786971065572,
+   "lon": 120.6721,
+   "lat": -8.2712,
+   "depth": 30.025,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edt"
+  },
+  {
+   "mag": 4.9,
+   "place": "68 km N of Ruteng, Indonesia",
+   "time": 1786970375566,
+   "lon": 120.3701,
+   "lat": -8.0024,
    "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e86"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eds"
   },
   {
    "mag": 4.9,
@@ -236,6 +245,15 @@
    "lat": 33.3434,
    "depth": 10,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eab"
+  },
+  {
+   "mag": 4.2,
+   "place": "73 km SSE of Ende, Indonesia",
+   "time": 1786943370688,
+   "lon": 121.9474,
+   "lat": -9.4427,
+   "depth": 70.711,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebn"
   },
   {
    "mag": 4.2,
@@ -446,6 +464,24 @@
   },
   {
    "mag": 2.4,
+   "place": "118 km NW of Yakutat, Alaska",
+   "time": 1786973969349,
+   "lon": -141.21,
+   "lat": 60.313,
+   "depth": 8.3,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgeidn"
+  },
+  {
+   "mag": 2.4,
+   "place": "6 km WSW of Fuig, Puerto Rico",
+   "time": 1786971813720,
+   "lon": -66.976,
+   "lat": 17.9645,
+   "depth": 8.74,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528783"
+  },
+  {
+   "mag": 2.4,
    "place": "10 km NE of Fox River, Alaska",
    "time": 1786949405323,
    "lon": -150.841,
@@ -616,15 +652,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528738"
   },
   {
-   "mag": 2,
-   "place": "24 km NNW of Westbrook, Texas",
-   "time": 1786926620569,
-   "lon": -101.109,
-   "lat": 32.56,
-   "depth": 2.8693,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcoovu"
-  },
-  {
    "mag": 2.0,
    "place": "4 km NW of Pinnacles, CA",
    "time": 1786904658820,
@@ -632,6 +659,15 @@
    "lat": 36.5588340759277,
    "depth": 2.23000001907349,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419547"
+  },
+  {
+   "mag": 1.9,
+   "place": "6 km NNW of Pinnacles, CA",
+   "time": 1786972423590,
+   "lon": -121.167663574219,
+   "lat": 36.583667755127,
+   "depth": 4.17000007629395,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420027"
   },
   {
    "mag": 1.9,
@@ -659,6 +695,15 @@
    "lat": 59.76,
    "depth": 22.2,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfedtq"
+  },
+  {
+   "mag": 1.9,
+   "place": "23 km NNW of Westbrook, Texas",
+   "time": 1786926620551,
+   "lon": -101.112,
+   "lat": 32.555,
+   "depth": 7.0557,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcoovu"
   },
   {
    "mag": 1.9,
@@ -731,15 +776,6 @@
    "lat": 34.537,
    "depth": 3.9,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674298"
-  },
-  {
-   "mag": 1.8,
-   "place": "12 km SSW of Lindsay, Texas",
-   "time": 1786952594800,
-   "lon": -103.608,
-   "lat": 31.277,
-   "depth": 0,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdcxvs"
   },
   {
    "mag": 1.8,
@@ -823,24 +859,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbviom"
   },
   {
-   "mag": 1.8,
-   "place": "59 km S of Whites City, New Mexico",
-   "time": 1786888252691,
-   "lon": -104.396,
-   "lat": 31.639,
-   "depth": 4.3359,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbtjkj"
-  },
-  {
-   "mag": 1.8,
-   "place": "17 km S of Lindsay, Texas",
-   "time": 1786885787899,
-   "lon": -103.52,
-   "lat": 31.21,
-   "depth": 4.8655,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbsajb"
-  },
-  {
    "mag": 1.7,
    "place": "40 km NW of Toyah, Texas",
    "time": 1786967696939,
@@ -914,15 +932,6 @@
   },
   {
    "mag": 1.6,
-   "place": "28 km SE of Lindsay, Texas",
-   "time": 1786961131593,
-   "lon": -103.351,
-   "lat": 31.169,
-   "depth": 6.0453,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdhqmg"
-  },
-  {
-   "mag": 1.6,
    "place": "42 km WNW of Toyah, Texas",
    "time": 1786953357424,
    "lon": -104.168,
@@ -942,20 +951,29 @@
   {
    "mag": 1.6,
    "place": "17 km WSW of Falls City, Texas",
-   "time": 1786941177854,
-   "lon": -98.183,
-   "lat": 28.916,
-   "depth": 5.8013,
+   "time": 1786941176085,
+   "lon": -98.19,
+   "lat": 28.933,
+   "depth": 7.4976,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcwpwu"
   },
   {
    "mag": 1.6,
-   "place": "40 km NW of Toyah, Texas",
-   "time": 1786931190870,
-   "lon": -104.138,
-   "lat": 31.531,
-   "depth": 6.828,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcrcjl"
+   "place": "9 km SSW of Port Hadlock-Irondale, Washington",
+   "time": 1786917231310,
+   "lon": -122.82250213623,
+   "lat": 47.9529991149902,
+   "depth": 8.96000003814697,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714080321"
+  },
+  {
+   "mag": 1.6,
+   "place": "8 km E of Independence, Utah",
+   "time": 1786913777170,
+   "lon": -111.1515,
+   "lat": 40.3036666666667,
+   "depth": 10.54,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149056"
   },
   {
    "mag": 1.6,
@@ -1019,6 +1037,15 @@
    "lat": 38.8223342895508,
    "depth": 3.13000011444092,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419987"
+  },
+  {
+   "mag": 1.5,
+   "place": "46 km SE of West Yellowstone, Montana",
+   "time": 1786961574340,
+   "lon": -110.668666666667,
+   "lat": 44.3856666666667,
+   "depth": 3.52,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149101"
   },
   {
    "mag": 1.5,
@@ -1274,6 +1301,24 @@
   },
   {
    "mag": 1.1,
+   "place": "17 km ESE of Livengood, Alaska",
+   "time": 1786972494824,
+   "lon": -148.223,
+   "lat": 65.44,
+   "depth": 12.7,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgdmvc"
+  },
+  {
+   "mag": 1.1,
+   "place": "4 km W of Cobb, CA",
+   "time": 1786972173670,
+   "lon": -122.765502929688,
+   "lat": 38.8231658935547,
+   "depth": 2.16000008583069,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420017"
+  },
+  {
+   "mag": 1.1,
    "place": "1 km E of Loma Linda, CA",
    "time": 1786968808220,
    "lon": -117.251166666667,
@@ -1298,6 +1343,15 @@
    "lat": 38.7963333129883,
    "depth": 5.19000005722046,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419847"
+  },
+  {
+   "mag": 1.1,
+   "place": "6 km S of Nixon, Texas",
+   "time": 1786928977089,
+   "lon": -97.767,
+   "lat": 29.209,
+   "depth": 8.3496,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcpwrb"
   },
   {
    "mag": 1.1,
@@ -1400,6 +1454,15 @@
   },
   {
    "mag": 0.9,
+   "place": "47 km SE of Mammoth, Wyoming",
+   "time": 1786947657800,
+   "lon": -110.343333333333,
+   "lat": 44.6293333333333,
+   "depth": 4.58,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149081"
+  },
+  {
+   "mag": 0.9,
    "place": "3 km SSE of Redlands, CA",
    "time": 1786930550180,
    "lon": -117.173666666667,
@@ -1424,6 +1487,15 @@
    "lat": 38.8359985351562,
    "depth": 2.21000003814697,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419542"
+  },
+  {
+   "mag": 0.8,
+   "place": "2 km N of The Geysers, CA",
+   "time": 1786972609410,
+   "lon": -122.757835388184,
+   "lat": 38.7933349609375,
+   "depth": 0.180000007152557,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420032"
   },
   {
    "mag": 0.8,
@@ -1688,6 +1760,15 @@
   },
   {
    "mag": 0.4,
+   "place": "2 km NW of The Geysers, CA",
+   "time": 1786972348480,
+   "lon": -122.768669128418,
+   "lat": 38.7878341674805,
+   "depth": 1.44000005722046,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420022"
+  },
+  {
+   "mag": 0.4,
    "place": "10 km ENE of Coso Junction, CA",
    "time": 1786946485680,
    "lon": -117.838166666667,
@@ -1739,15 +1820,6 @@
    "lat": 36.066,
    "depth": 3.57,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673842"
-  },
-  {
-   "mag": 0.4,
-   "place": "19 km ESE of Little Lake, CA",
-   "time": 1786886886660,
-   "lon": -117.699,
-   "lat": 35.8871666666667,
-   "depth": 8.17,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673826"
   },
   {
    "mag": 0.3,

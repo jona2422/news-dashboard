@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T13:09:04.219000+00:00",
+ "updated": "2026-08-17T13:55:34.167545+00:00",
  "terms": [
   {
    "term": "trump",
@@ -7,14 +7,14 @@
   },
   {
    "term": "netanyahu",
-   "count": 13
-  },
-  {
-   "term": "kushner",
    "count": 11
   },
   {
-   "term": "south",
+   "term": "kushner",
+   "count": 10
+  },
+  {
+   "term": "gaza",
    "count": 9
   },
   {
@@ -26,7 +26,11 @@
    "count": 8
   },
   {
-   "term": "meets",
+   "term": "south",
+   "count": 8
+  },
+  {
+   "term": "hamas",
    "count": 8
   },
   {
@@ -34,11 +38,7 @@
    "count": 8
   },
   {
-   "term": "gaza",
-   "count": 7
-  },
-  {
-   "term": "hamas",
+   "term": "meets",
    "count": 7
   },
   {
@@ -54,7 +54,19 @@
    "count": 7
   },
   {
+   "term": "hong",
+   "count": 7
+  },
+  {
+   "term": "kong",
+   "count": 7
+  },
+  {
    "term": "west",
+   "count": 6
+  },
+  {
+   "term": "colombia",
    "count": 6
   },
   {
@@ -62,47 +74,23 @@
    "count": 6
   },
   {
-   "term": "strikes",
-   "count": 6
-  },
-  {
    "term": "indonesia",
    "count": 6
   },
   {
-   "term": "hong",
+   "term": "strikes",
    "count": 6
-  },
-  {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "dead",
-   "count": 5
-  },
-  {
-   "term": "colombia",
-   "count": 5
-  },
-  {
-   "term": "middle",
-   "count": 5
-  },
-  {
-   "term": "east",
-   "count": 5
-  },
-  {
-   "term": "korea",
-   "count": 5
   },
   {
    "term": "terremoto",
-   "count": 5
+   "count": 6
   },
   {
    "term": "green",
+   "count": 6
+  },
+  {
+   "term": "album",
    "count": 5
   },
   {
@@ -118,7 +106,19 @@
    "count": 4
   },
   {
-   "term": "album",
+   "term": "dead",
+   "count": 4
+  },
+  {
+   "term": "dies",
+   "count": 4
+  },
+  {
+   "term": "show",
+   "count": 4
+  },
+  {
+   "term": "stolen",
    "count": 4
   }
  ],
@@ -129,10 +129,10 @@
   },
   {
    "name": "Netanyahu",
-   "count": 13
+   "count": 11
   },
   {
-   "name": "Kushner",
+   "name": "Hamas",
    "count": 8
   },
   {
@@ -140,7 +140,11 @@
    "count": 8
   },
   {
-   "name": "Hamas",
+   "name": "Gaza",
+   "count": 8
+  },
+  {
+   "name": "Kushner",
    "count": 7
   },
   {
@@ -148,7 +152,7 @@
    "count": 7
   },
   {
-   "name": "Gaza",
+   "name": "Colombia",
    "count": 6
   },
   {
@@ -160,20 +164,12 @@
    "count": 6
   },
   {
-   "name": "Colombia",
-   "count": 5
-  },
-  {
-   "name": "Middle East",
-   "count": 5
-  },
-  {
-   "name": "South Korea",
-   "count": 5
-  },
-  {
    "name": "Green",
-   "count": 5
+   "count": 6
+  },
+  {
+   "name": "Hong Kong",
+   "count": 6
   },
   {
    "name": "West Bank",
@@ -188,16 +184,20 @@
    "count": 5
   },
   {
-   "name": "Hong Kong",
-   "count": 5
+   "name": "Italy",
+   "count": 4
   },
   {
    "name": "Oman",
    "count": 4
   },
   {
-   "name": "Italy",
-   "count": 3
+   "name": "Middle East",
+   "count": 4
+  },
+  {
+   "name": "South Korea",
+   "count": 4
   },
   {
    "name": "Brazil",
@@ -208,16 +208,16 @@
    "count": 3
   },
   {
-   "name": "Jared Kushner",
-   "count": 3
-  },
-  {
    "name": "Europe",
    "count": 3
   },
   {
    "name": "Russia",
    "count": 3
+  },
+  {
+   "name": "Prince",
+   "count": 2
   }
  ]
 }
