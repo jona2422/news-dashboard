@@ -1,32 +1,32 @@
 {
- "updated": "2026-08-17T16:48:49.056300+00:00",
+ "updated": "2026-08-17T17:47:36.029564+00:00",
  "terms": [
   {
    "term": "trump",
    "count": 22
   },
   {
-   "term": "talks",
-   "count": 11
+   "term": "plan",
+   "count": 12
+  },
+  {
+   "term": "netanyahu",
+   "count": 12
+  },
+  {
+   "term": "kushner",
+   "count": 12
   },
   {
    "term": "gaza",
    "count": 11
   },
   {
-   "term": "plan",
-   "count": 11
+   "term": "talks",
+   "count": 10
   },
   {
-   "term": "netanyahu",
-   "count": 11
-  },
-  {
-   "term": "kushner",
-   "count": 11
-  },
-  {
-   "term": "iran",
+   "term": "south",
    "count": 9
   },
   {
@@ -34,23 +34,27 @@
    "count": 9
   },
   {
-   "term": "colombia",
+   "term": "iran",
    "count": 8
   },
   {
-   "term": "south",
+   "term": "russia",
    "count": 8
   },
   {
-   "term": "terremoto",
-   "count": 8
+   "term": "years",
+   "count": 7
+  },
+  {
+   "term": "threatens",
+   "count": 7
   },
   {
    "term": "deal",
    "count": 7
   },
   {
-   "term": "threatens",
+   "term": "terremoto",
    "count": 7
   },
   {
@@ -62,11 +66,7 @@
    "count": 7
   },
   {
-   "term": "years",
-   "count": 6
-  },
-  {
-   "term": "russia",
+   "term": "colombia",
    "count": 6
   },
   {
@@ -76,6 +76,18 @@
   {
    "term": "green",
    "count": 6
+  },
+  {
+   "term": "chinese",
+   "count": 5
+  },
+  {
+   "term": "stolen",
+   "count": 5
+  },
+  {
+   "term": "korea",
+   "count": 5
   },
   {
    "term": "bomb",
@@ -94,6 +106,10 @@
    "count": 5
   },
   {
+   "term": "indonesia",
+   "count": 5
+  },
+  {
    "term": "west",
    "count": 5
   },
@@ -104,22 +120,6 @@
   {
    "term": "israeli",
    "count": 5
-  },
-  {
-   "term": "strikes",
-   "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
-   "term": "other",
-   "count": 4
   }
  ],
  "entities": [
@@ -129,22 +129,18 @@
   },
   {
    "name": "Netanyahu",
-   "count": 11
+   "count": 12
   },
   {
    "name": "Kushner",
-   "count": 10
+   "count": 11
   },
   {
    "name": "Gaza",
-   "count": 9
+   "count": 10
   },
   {
    "name": "Iran",
-   "count": 9
-  },
-  {
-   "name": "Colombia",
    "count": 8
   },
   {
@@ -152,8 +148,16 @@
    "count": 8
   },
   {
+   "name": "Russia",
+   "count": 7
+  },
+  {
    "name": "Alaska",
    "count": 7
+  },
+  {
+   "name": "Colombia",
+   "count": 6
   },
   {
    "name": "Hamas",
@@ -164,11 +168,15 @@
    "count": 6
   },
   {
+   "name": "South Korea",
+   "count": 5
+  },
+  {
    "name": "Oman",
    "count": 5
   },
   {
-   "name": "Russia",
+   "name": "Indonesia",
    "count": 5
   },
   {
@@ -184,20 +192,16 @@
    "count": 5
   },
   {
-   "name": "Middle East",
-   "count": 4
-  },
-  {
-   "name": "South Korea",
-   "count": 4
-  },
-  {
-   "name": "Indonesia",
-   "count": 4
-  },
-  {
    "name": "Hong Kong",
    "count": 4
+  },
+  {
+   "name": "Brazil",
+   "count": 3
+  },
+  {
+   "name": "Nvidia",
+   "count": 3
   },
   {
    "name": "Israel",
@@ -213,10 +217,6 @@
   },
   {
    "name": "Erykah Badu",
-   "count": 2
-  },
-  {
-   "name": "Years",
    "count": 2
   }
  ]
