@@ -1,32 +1,36 @@
 {
- "updated": "2026-08-17T07:19:20.281954+00:00",
+ "updated": "2026-08-17T09:02:56.447217+00:00",
  "terms": [
-  {
-   "term": "trump",
-   "count": 11
-  },
   {
    "term": "indonesia",
    "count": 11
   },
   {
-   "term": "south",
-   "count": 9
-  },
-  {
-   "term": "israel",
-   "count": 9
-  },
-  {
    "term": "gaza",
-   "count": 8
+   "count": 10
+  },
+  {
+   "term": "trump",
+   "count": 9
+  },
+  {
+   "term": "plan",
+   "count": 9
   },
   {
    "term": "israeli",
    "count": 8
   },
   {
+   "term": "china",
+   "count": 8
+  },
+  {
    "term": "west",
+   "count": 7
+  },
+  {
+   "term": "israel",
    "count": 7
   },
   {
@@ -38,19 +42,7 @@
    "count": 7
   },
   {
-   "term": "plan",
-   "count": 7
-  },
-  {
-   "term": "strikes",
-   "count": 7
-  },
-  {
    "term": "lebanon",
-   "count": 7
-  },
-  {
-   "term": "china",
    "count": 7
   },
   {
@@ -62,7 +54,23 @@
    "count": 7
   },
   {
+   "term": "south",
+   "count": 6
+  },
+  {
+   "term": "strikes",
+   "count": 6
+  },
+  {
+   "term": "kushner",
+   "count": 6
+  },
+  {
    "term": "talks",
+   "count": 6
+  },
+  {
+   "term": "green",
    "count": 6
   },
   {
@@ -70,19 +78,7 @@
    "count": 6
   },
   {
-   "term": "hayden",
-   "count": 5
-  },
-  {
-   "term": "panettiere",
-   "count": 5
-  },
-  {
-   "term": "police",
-   "count": 5
-  },
-  {
-   "term": "women",
+   "term": "people",
    "count": 5
   },
   {
@@ -90,19 +86,15 @@
    "count": 5
   },
   {
-   "term": "iran",
+   "term": "alaska",
    "count": 5
   },
   {
-   "term": "kushner",
-   "count": 5
+   "term": "hayden",
+   "count": 4
   },
   {
-   "term": "green",
-   "count": 5
-  },
-  {
-   "term": "dead",
+   "term": "panettiere",
    "count": 4
   },
   {
@@ -120,35 +112,43 @@
   {
    "term": "stolen",
    "count": 4
+  },
+  {
+   "term": "police",
+   "count": 4
+  },
+  {
+   "term": "crisis",
+   "count": 4
   }
  ],
  "entities": [
-  {
-   "name": "Trump",
-   "count": 11
-  },
   {
    "name": "Indonesia",
    "count": 10
   },
   {
-   "name": "Israel",
-   "count": 9
+   "name": "Trump",
+   "count": 8
+  },
+  {
+   "name": "Gaza",
+   "count": 8
   },
   {
    "name": "Israeli",
    "count": 8
   },
   {
-   "name": "Hamas",
-   "count": 7
-  },
-  {
-   "name": "Gaza",
-   "count": 7
-  },
-  {
    "name": "China",
+   "count": 8
+  },
+  {
+   "name": "Israel",
+   "count": 7
+  },
+  {
+   "name": "Hamas",
    "count": 7
   },
   {
@@ -156,15 +156,19 @@
    "count": 7
   },
   {
+   "name": "Green",
+   "count": 6
+  },
+  {
    "name": "West Bank",
    "count": 6
   },
   {
-   "name": "Iran",
+   "name": "Kushner",
    "count": 5
   },
   {
-   "name": "Green",
+   "name": "Alaska",
    "count": 5
   },
   {
@@ -172,15 +176,11 @@
    "count": 5
   },
   {
-   "name": "India",
+   "name": "Netanyahu",
    "count": 4
   },
   {
-   "name": "Kushner",
-   "count": 4
-  },
-  {
-   "name": "Alaska",
+   "name": "Iran",
    "count": 4
   },
   {
@@ -188,7 +188,7 @@
    "count": 3
   },
   {
-   "name": "Australia",
+   "name": "Italy",
    "count": 3
   },
   {
@@ -196,28 +196,28 @@
    "count": 3
   },
   {
-   "name": "South Korea",
-   "count": 3
-  },
-  {
-   "name": "Hayden Panettiere",
-   "count": 3
-  },
-  {
-   "name": "Japan",
-   "count": 3
-  },
-  {
-   "name": "Flores",
-   "count": 3
-  },
-  {
-   "name": "Netanyahu",
-   "count": 3
-  },
-  {
    "name": "Palestinians",
    "count": 3
+  },
+  {
+   "name": "Dave Marsh",
+   "count": 2
+  },
+  {
+   "name": "Dies",
+   "count": 2
+  },
+  {
+   "name": "Dead",
+   "count": 2
+  },
+  {
+   "name": "Cypress Hill",
+   "count": 2
+  },
+  {
+   "name": "Mary Heilmann",
+   "count": 2
   }
  ]
 }
