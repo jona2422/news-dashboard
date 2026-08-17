@@ -1,32 +1,32 @@
 {
- "updated": "2026-08-17T13:55:34.167545+00:00",
+ "updated": "2026-08-17T14:47:15.487150+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 16
+   "count": 18
   },
   {
    "term": "netanyahu",
+   "count": 12
+  },
+  {
+   "term": "gaza",
    "count": 11
   },
   {
    "term": "kushner",
-   "count": 10
-  },
-  {
-   "term": "gaza",
-   "count": 9
+   "count": 11
   },
   {
    "term": "china",
-   "count": 9
+   "count": 11
   },
   {
    "term": "talks",
    "count": 8
   },
   {
-   "term": "south",
+   "term": "iran",
    "count": 8
   },
   {
@@ -34,15 +34,19 @@
    "count": 8
   },
   {
-   "term": "plan",
-   "count": 8
+   "term": "south",
+   "count": 7
+  },
+  {
+   "term": "threatens",
+   "count": 7
   },
   {
    "term": "meets",
    "count": 7
   },
   {
-   "term": "iran",
+   "term": "plan",
    "count": 7
   },
   {
@@ -54,23 +58,11 @@
    "count": 7
   },
   {
-   "term": "hong",
-   "count": 7
-  },
-  {
-   "term": "kong",
-   "count": 7
-  },
-  {
    "term": "west",
    "count": 6
   },
   {
-   "term": "colombia",
-   "count": 6
-  },
-  {
-   "term": "threatens",
+   "term": "israeli",
    "count": 6
   },
   {
@@ -90,7 +82,27 @@
    "count": 6
   },
   {
-   "term": "album",
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
+   "count": 6
+  },
+  {
+   "term": "colombia",
+   "count": 5
+  },
+  {
+   "term": "github",
+   "count": 5
+  },
+  {
+   "term": "bomb",
+   "count": 5
+  },
+  {
+   "term": "oman",
    "count": 5
   },
   {
@@ -98,65 +110,53 @@
    "count": 5
   },
   {
-   "term": "israeli",
-   "count": 5
-  },
-  {
-   "term": "love",
+   "term": "tour",
    "count": 4
   },
   {
-   "term": "dead",
+   "term": "other",
    "count": 4
   },
   {
-   "term": "dies",
-   "count": 4
-  },
-  {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "stolen",
+   "term": "hayden",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 15
+   "count": 18
   },
   {
    "name": "Netanyahu",
-   "count": 11
+   "count": 12
+  },
+  {
+   "name": "Gaza",
+   "count": 10
+  },
+  {
+   "name": "China",
+   "count": 10
+  },
+  {
+   "name": "Iran",
+   "count": 8
+  },
+  {
+   "name": "Kushner",
+   "count": 8
   },
   {
    "name": "Hamas",
    "count": 8
   },
   {
-   "name": "China",
-   "count": 8
-  },
-  {
-   "name": "Gaza",
-   "count": 8
-  },
-  {
-   "name": "Kushner",
-   "count": 7
-  },
-  {
    "name": "Alaska",
    "count": 7
   },
   {
-   "name": "Colombia",
-   "count": 6
-  },
-  {
-   "name": "Iran",
+   "name": "Israeli",
    "count": 6
   },
   {
@@ -168,15 +168,15 @@
    "count": 6
   },
   {
-   "name": "Hong Kong",
-   "count": 6
-  },
-  {
-   "name": "West Bank",
+   "name": "Colombia",
    "count": 5
   },
   {
-   "name": "Israeli",
+   "name": "Oman",
+   "count": 5
+  },
+  {
+   "name": "West Bank",
    "count": 5
   },
   {
@@ -184,11 +184,15 @@
    "count": 5
   },
   {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
    "name": "Italy",
    "count": 4
   },
   {
-   "name": "Oman",
+   "name": "Brazil",
    "count": 4
   },
   {
@@ -196,19 +200,11 @@
    "count": 4
   },
   {
-   "name": "South Korea",
-   "count": 4
-  },
-  {
-   "name": "Brazil",
-   "count": 3
-  },
-  {
    "name": "Israel",
    "count": 3
   },
   {
-   "name": "Europe",
+   "name": "South Korea",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "Prince",
+   "count": 2
+  },
+  {
+   "name": "Dave Marsh",
    "count": 2
   }
  ]
