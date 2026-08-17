@@ -1,12 +1,8 @@
 {
- "updated": "2026-08-17T04:06:58.914098+00:00",
+ "updated": "2026-08-17T05:01:01.095448+00:00",
  "terms": [
   {
-   "term": "israeli",
-   "count": 12
-  },
-  {
-   "term": "west",
+   "term": "south",
    "count": 11
   },
   {
@@ -14,11 +10,19 @@
    "count": 11
   },
   {
-   "term": "bank",
+   "term": "israeli",
+   "count": 11
+  },
+  {
+   "term": "west",
    "count": 10
   },
   {
-   "term": "south",
+   "term": "gaza",
+   "count": 9
+  },
+  {
+   "term": "bank",
    "count": 9
   },
   {
@@ -26,11 +30,15 @@
    "count": 9
   },
   {
-   "term": "gaza",
-   "count": 8
+   "term": "israel",
+   "count": 7
   },
   {
-   "term": "iran",
+   "term": "kushner",
+   "count": 7
+  },
+  {
+   "term": "hamas",
    "count": 7
   },
   {
@@ -38,15 +46,11 @@
    "count": 7
   },
   {
-   "term": "hamas",
+   "term": "talks",
    "count": 6
   },
   {
-   "term": "kushner",
-   "count": 6
-  },
-  {
-   "term": "palestinians",
+   "term": "iran",
    "count": 6
   },
   {
@@ -54,7 +58,27 @@
    "count": 6
   },
   {
-   "term": "stolen",
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
+   "count": 6
+  },
+  {
+   "term": "dead",
+   "count": 5
+  },
+  {
+   "term": "police",
+   "count": 5
+  },
+  {
+   "term": "korea",
+   "count": 5
+  },
+  {
+   "term": "homes",
    "count": 5
   },
   {
@@ -62,24 +86,16 @@
    "count": 5
   },
   {
-   "term": "netanyahu",
-   "count": 5
-  },
-  {
    "term": "green",
    "count": 5
   },
   {
-   "term": "hong",
+   "term": "netanyahu",
    "count": 5
   },
   {
-   "term": "kong",
+   "term": "china",
    "count": 5
-  },
-  {
-   "term": "dead",
-   "count": 4
   },
   {
    "term": "album",
@@ -90,11 +106,11 @@
    "count": 4
   },
   {
-   "term": "police",
+   "term": "stolen",
    "count": 4
   },
   {
-   "term": "israel",
+   "term": "record",
    "count": 4
   },
   {
@@ -102,58 +118,54 @@
    "count": 4
   },
   {
-   "term": "settler",
-   "count": 4
-  },
-  {
-   "term": "korea",
-   "count": 4
-  },
-  {
-   "term": "military",
-   "count": 4
-  },
-  {
-   "term": "meets",
-   "count": 4
-  },
-  {
-   "term": "talks",
+   "term": "envoy",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Israeli",
-   "count": 12
-  },
-  {
    "name": "Trump",
    "count": 11
   },
   {
+   "name": "Israeli",
+   "count": 11
+  },
+  {
    "name": "West Bank",
-   "count": 10
+   "count": 9
   },
   {
    "name": "Indonesia",
    "count": 9
   },
   {
-   "name": "Iran",
-   "count": 7
+   "name": "Gaza",
+   "count": 8
   },
   {
-   "name": "Gaza",
+   "name": "Israel",
    "count": 7
   },
   {
    "name": "Hamas",
+   "count": 7
+  },
+  {
+   "name": "Kushner",
    "count": 6
   },
   {
-   "name": "Palestinians",
+   "name": "Iran",
    "count": 6
+  },
+  {
+   "name": "Hong Kong",
+   "count": 6
+  },
+  {
+   "name": "South Korea",
+   "count": 5
   },
   {
    "name": "Green",
@@ -164,19 +176,11 @@
    "count": 5
   },
   {
-   "name": "Hong Kong",
+   "name": "China",
    "count": 5
   },
   {
-   "name": "Israel",
-   "count": 4
-  },
-  {
-   "name": "South Korea",
-   "count": 4
-  },
-  {
-   "name": "Kushner",
+   "name": "Palestinians",
    "count": 4
   },
   {
@@ -184,19 +188,15 @@
    "count": 4
   },
   {
-   "name": "China",
-   "count": 4
-  },
-  {
-   "name": "Chinese",
-   "count": 4
+   "name": "California",
+   "count": 3
   },
   {
    "name": "Italy",
    "count": 3
   },
   {
-   "name": "Australia",
+   "name": "India",
    "count": 3
   },
   {
@@ -204,11 +204,7 @@
    "count": 3
   },
   {
-   "name": "Hawaii",
-   "count": 3
-  },
-  {
-   "name": "Ceuta",
+   "name": "Australia",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "Dave Marsh",
+   "count": 2
+  },
+  {
+   "name": "Dead",
    "count": 2
   }
  ]
