@@ -1,20 +1,38 @@
 {
- "updated": "2026-08-17T22:44:16.894690+00:00",
- "total": 115,
+ "updated": "2026-08-17T23:40:56.367873+00:00",
+ "total": 110,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 18,
+   "count": 17,
    "items": [
     {
      "title": "Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – live",
      "link": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=140&quality=85&auto=format&fit=max&s=a8b1af145c9e90ae017fdb9b772a3628",
-     "ts": 1787005592000,
+     "ts": 1787009127000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US diesel crack surpasses US$100 a barrel for the first time on supply disruptions",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364349/us-diesel-crack-surpasses-us100-barrel-first-time-supply-disruptions?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/7497eb66-6e75-40b0-851b-354ccd10aa1a_8596ee0d.jpg?itok=r5xHpwSv&v=1787007967",
+     "ts": 1787008156000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "US tourist killed by lightning on Sicily's Mount Etna",
+     "link": "https://www.dw.com/en/us-tourist-killed-by-lightning-on-sicily-s-mount-etna/a-78405901?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787006880000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -46,15 +64,6 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "US Navy destroyer adrift in South China Sea for four days after losing power",
-     "link": "https://www.theguardian.com/us-news/2026/aug/17/us-navy-destroyer-south-china-sea",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6dd7794f129cb93c5ce14e1d852881776ee0dc1b/935_407_2180_1744/master/2180.jpg?width=140&quality=85&auto=format&fit=max&s=44f94e22336d3fe7da2af58a69c74186",
-     "ts": 1787000480000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Ecuador’s Noboa courts China on shrimp, copper without threatening US ties",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3364346/ecuadors-noboa-courts-china-shrimp-copper-without-threatening-us-ties?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -62,15 +71,6 @@
      "ts": 1787000261000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-     "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
-     "ts": 1786994705000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
@@ -106,8 +106,17 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 16,
+   "count": 17,
    "items": [
+    {
+     "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+     "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787009117000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Kushner prevé avances en Gaza en los próximos 30 días",
      "link": "https://www.dw.com/es/kushner-prevé-avances-en-gaza-en-los-próximos-30-días/a-78405892?maca=spa-rss-sp-all-1122-rdf",
@@ -188,15 +197,6 @@
      "ts": 1786962647000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
-     "link": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/6da81aac-9a18-11f1-8f36-005056a90284/w:1024/p:16x9/EN-20260817-100434-100610-CS.jpg",
-     "ts": 1786958329000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -207,6 +207,15 @@
    "lon": 104.2,
    "count": 12,
    "items": [
+    {
+     "title": "Is Hong Kong’s property market recovery running out of gas? UBS flags 4 risks",
+     "link": "https://www.scmp.com/business/article/3364136/hong-kongs-property-market-recovery-running-out-gas-ubs-flags-four-risks?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/ba4a5c53-8d23-4391-a34c-e7e1055d77cc_ce2abbaa.jpg?itok=ZvXZq5vT&v=1786774627",
+     "ts": 1787007609000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Claims Hegseth ‘on verge of losing job’ raise questions about future US-China defence ties",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3364313/claims-hegseth-verge-losing-job-raise-questions-about-future-us-china-defence-ties?utm_source=rss_feed",
@@ -224,15 +233,6 @@
      "ts": 1787002206000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "US Navy destroyer adrift in South China Sea for four days after losing power",
-     "link": "https://www.theguardian.com/us-news/2026/aug/17/us-navy-destroyer-south-china-sea",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6dd7794f129cb93c5ce14e1d852881776ee0dc1b/935_407_2180_1744/master/2180.jpg?width=140&quality=85&auto=format&fit=max&s=44f94e22336d3fe7da2af58a69c74186",
-     "ts": 1787000480000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Ecuador’s Noboa courts China on shrimp, copper without threatening US ties",
@@ -493,7 +493,7 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Trump lets 60-day deadline for Iran peace deal expire, threatens to ‘bomb’ Oman",
@@ -539,15 +539,6 @@
      "ts": 1786996443000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-     "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
-     "ts": 1786994705000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
@@ -637,14 +628,14 @@
    "es": "Corea del Sur",
    "lat": 35.9,
    "lon": 127.8,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – live",
      "link": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=140&quality=85&auto=format&fit=max&s=a8b1af145c9e90ae017fdb9b772a3628",
-     "ts": 1787005592000,
+     "ts": 1787009127000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -665,13 +656,40 @@
      "ts": 1786995187000,
      "beat": "arte",
      "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "es": "Australia",
+   "lat": -25.3,
+   "lon": 133.8,
+   "count": 3,
+   "items": [
+    {
+     "title": "Australia politics live: independent Sophie Scamps delivers scathing criticism of ‘weak, piecemeal, pathetic’ gambling reforms as deal looms",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8078117ae199b4cfef926f27705246e141966150/915_265_5682_4546/master/5682.jpg?width=140&quality=85&auto=format&fit=max&s=515bf1d8eac88caf54674d6ecc7ee99c",
+     "ts": 1787009303000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-     "link": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+     "title": "Sydney Swans coach ‘extremely disappointed’ as club faces call on standing down players over alleged sexual assault",
+     "link": "https://www.theguardian.com/sport/2026/aug/18/sydney-swans-coach-extremely-disappointed-as-club-faces-call-on-standing-down-players-over-alleged-sexual-assault-ntwnfb",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/949b48d131e9924cba15519d8cd17dcd79a04520/689_0_2311_1849/master/2311.jpg?width=140&quality=85&auto=format&fit=max&s=79c11b06e83fb020fabf714c47e53f3e",
-     "ts": 1786993886000,
+     "image": "https://i.guim.co.uk/img/media/7d3c3202098c3690f2ba3ffa50778a2eb071c278/220_0_4601_3682/master/4601.jpg?width=140&quality=85&auto=format&fit=max&s=8fcea40690e0c88a3aa2c9d8424beaa8",
+     "ts": 1787007380000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Melbourne’s Armenian-Lebanese eatery Zareh named Gourmet Traveller’s restaurant of the year",
+     "link": "https://www.theguardian.com/food/2026/aug/18/melbournes-armenian-lebanese-eatery-zareh-named-gourmet-travellers-restaurant-of-the-year",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/a4b0116a836885d89ea68ffd414ea83dcda63fbf/780_168_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=4a7f1237e97d907e722f876018f3406d",
+     "ts": 1787002846000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -682,7 +700,7 @@
    "es": "Rusia",
    "lat": 61.5,
    "lon": 105.3,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Russia summons Japan ambassador over disputed Kuril Islands row after Putin visit",
@@ -708,15 +726,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/7f4b1a05-b252-4046-825d-f2d063ca9605_b32725d0.jpg?itok=STRLM9rZ&v=1786979796",
      "ts": 1786978810000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Will Russia’s plan for overland oil route be ‘game changer’ for India’s energy security?",
-     "link": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/32940f6d-3b73-4e0e-8fb6-edc4b8396b55_07e4b18a.jpg?itok=WnXl-xtL&v=1786968678",
-     "ts": 1786968691000,
      "beat": "china",
      "beatName": "China"
     }
@@ -777,56 +786,29 @@
    ]
   },
   {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
    "count": 2,
    "items": [
     {
-     "title": "India has paved the way for charging merchants a fee on UPI transactions",
-     "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-     "source": "Hacker News: Front Page",
+     "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+     "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1786994711000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Will Russia’s plan for overland oil route be ‘game changer’ for India’s energy security?",
-     "link": "https://www.scmp.com/week-asia/economics/article/3364323/will-russias-plan-overland-oil-route-be-game-changer-indias-energy-security?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/32940f6d-3b73-4e0e-8fb6-edc4b8396b55_07e4b18a.jpg?itok=WnXl-xtL&v=1786968678",
-     "ts": 1786968691000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Australia",
-   "es": "Australia",
-   "lat": -25.3,
-   "lon": 133.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_2557_2046/master/2557.jpg?width=140&quality=85&auto=format&fit=max&s=62b03f122d4e713ba0231c5341e119e5",
-     "ts": 1787005696000,
+     "ts": 1787005572000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Melbourne’s Armenian-Lebanese eatery Zareh named Gourmet Traveller’s restaurant of the year",
-     "link": "https://www.theguardian.com/food/2026/aug/18/melbournes-armenian-lebanese-eatery-zareh-named-gourmet-travellers-restaurant-of-the-year",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a4b0116a836885d89ea68ffd414ea83dcda63fbf/780_168_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=4a7f1237e97d907e722f876018f3406d",
-     "ts": 1787002846000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Colombia una semana después del terremoto de magnitud 7,4",
+     "link": "https://www.france24.com/es/video/20260817-colombia-una-semana-despu%C3%A9s-del-terremoto-de-magnitud-7-4",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/d761dbb4-9a80-11f1-91c4-005056a90284/w:1024/p:16x9/FORMATO-1-28.png",
+     "ts": 1787002683000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -968,25 +950,7 @@
      "link": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=140&quality=85&auto=format&fit=max&s=a8b1af145c9e90ae017fdb9b772a3628",
-     "ts": 1787005592000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
-     "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1786994574000,
+     "ts": 1787009127000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -1000,13 +964,13 @@
    "count": 1,
    "items": [
     {
-     "title": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
-     "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Se eleva a 92 número de muertos por Naufragio en Zimbabue",
+     "link": "https://www.dw.com/es/se-eleva-a-92-número-de-muertos-por-naufragio-en-zimbabue/a-78405934?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1786993939000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "ts": 1787005980000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -1041,42 +1005,6 @@
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/3IIKNTYD6NGRVKL7NB76PHBUFI.png?auth=08fcd252a7b090d33de29732c9cb78009650a7c36b35d5668efef428590eb13a&smart=true&width=900&height=553",
      "ts": 1787002957000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Colombia una semana después del terremoto de magnitud 7,4",
-     "link": "https://www.france24.com/es/video/20260817-colombia-una-semana-despu%C3%A9s-del-terremoto-de-magnitud-7-4",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d761dbb4-9a80-11f1-91c4-005056a90284/w:1024/p:16x9/FORMATO-1-28.png",
-     "ts": 1787002683000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Hungary",
-   "es": "Hungría",
-   "lat": 47.2,
-   "lon": 19.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "La presidenta del Parlamento húngaro, contra el legado de Orbán",
-     "link": "https://www.dw.com/es/la-presidenta-del-parlamento-húngaro-contra-el-legado-de-orbán/a-78401637?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1786996500000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
