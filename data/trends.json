@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T05:53:05.888904+00:00",
+ "updated": "2026-08-17T07:19:20.281954+00:00",
  "terms": [
   {
    "term": "trump",
@@ -11,30 +11,34 @@
   },
   {
    "term": "south",
-   "count": 10
-  },
-  {
-   "term": "israeli",
-   "count": 10
-  },
-  {
-   "term": "west",
    "count": 9
   },
   {
-   "term": "bank",
-   "count": 8
-  },
-  {
-   "term": "hong",
-   "count": 8
-  },
-  {
-   "term": "kong",
-   "count": 8
-  },
-  {
    "term": "israel",
+   "count": 9
+  },
+  {
+   "term": "gaza",
+   "count": 8
+  },
+  {
+   "term": "israeli",
+   "count": 8
+  },
+  {
+   "term": "west",
+   "count": 7
+  },
+  {
+   "term": "hamas",
+   "count": 7
+  },
+  {
+   "term": "peace",
+   "count": 7
+  },
+  {
+   "term": "plan",
    "count": 7
   },
   {
@@ -46,19 +50,39 @@
    "count": 7
   },
   {
-   "term": "gaza",
-   "count": 6
+   "term": "china",
+   "count": 7
   },
   {
-   "term": "iran",
-   "count": 6
+   "term": "hong",
+   "count": 7
+  },
+  {
+   "term": "kong",
+   "count": 7
   },
   {
    "term": "talks",
    "count": 6
   },
   {
+   "term": "bank",
+   "count": 6
+  },
+  {
+   "term": "hayden",
+   "count": 5
+  },
+  {
+   "term": "panettiere",
+   "count": 5
+  },
+  {
    "term": "police",
+   "count": 5
+  },
+  {
+   "term": "women",
    "count": 5
   },
   {
@@ -66,11 +90,11 @@
    "count": 5
   },
   {
-   "term": "kushner",
+   "term": "iran",
    "count": 5
   },
   {
-   "term": "hamas",
+   "term": "kushner",
    "count": 5
   },
   {
@@ -78,19 +102,15 @@
    "count": 5
   },
   {
-   "term": "china",
-   "count": 5
-  },
-  {
-   "term": "hayden",
-   "count": 4
-  },
-  {
-   "term": "panettiere",
-   "count": 4
-  },
-  {
    "term": "dead",
+   "count": 4
+  },
+  {
+   "term": "dies",
+   "count": 4
+  },
+  {
+   "term": "calls",
    "count": 4
   },
   {
@@ -100,26 +120,6 @@
   {
    "term": "stolen",
    "count": 4
-  },
-  {
-   "term": "record",
-   "count": 4
-  },
-  {
-   "term": "world",
-   "count": 4
-  },
-  {
-   "term": "women",
-   "count": 4
-  },
-  {
-   "term": "korea",
-   "count": 4
-  },
-  {
-   "term": "plan",
-   "count": 4
   }
  ],
  "entities": [
@@ -128,35 +128,39 @@
    "count": 11
   },
   {
-   "name": "Israeli",
-   "count": 10
-  },
-  {
    "name": "Indonesia",
    "count": 10
   },
   {
-   "name": "West Bank",
-   "count": 8
-  },
-  {
-   "name": "Hong Kong",
-   "count": 8
-  },
-  {
    "name": "Israel",
-   "count": 7
+   "count": 9
   },
   {
-   "name": "Iran",
-   "count": 6
+   "name": "Israeli",
+   "count": 8
   },
   {
    "name": "Hamas",
-   "count": 5
+   "count": 7
   },
   {
    "name": "Gaza",
+   "count": 7
+  },
+  {
+   "name": "China",
+   "count": 7
+  },
+  {
+   "name": "Hong Kong",
+   "count": 7
+  },
+  {
+   "name": "West Bank",
+   "count": 6
+  },
+  {
+   "name": "Iran",
    "count": 5
   },
   {
@@ -168,19 +172,11 @@
    "count": 5
   },
   {
-   "name": "China",
-   "count": 5
-  },
-  {
-   "name": "South Korea",
+   "name": "India",
    "count": 4
   },
   {
    "name": "Kushner",
-   "count": 4
-  },
-  {
-   "name": "India",
    "count": 4
   },
   {
@@ -192,15 +188,23 @@
    "count": 3
   },
   {
-   "name": "Italy",
-   "count": 3
-  },
-  {
-   "name": "Palestinian",
-   "count": 3
-  },
-  {
    "name": "Australia",
+   "count": 3
+  },
+  {
+   "name": "Middle East",
+   "count": 3
+  },
+  {
+   "name": "South Korea",
+   "count": 3
+  },
+  {
+   "name": "Hayden Panettiere",
+   "count": 3
+  },
+  {
+   "name": "Japan",
    "count": 3
   },
   {
@@ -214,10 +218,6 @@
   {
    "name": "Palestinians",
    "count": 3
-  },
-  {
-   "name": "Dave Marsh",
-   "count": 2
   }
  ]
 }
