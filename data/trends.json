@@ -1,44 +1,48 @@
 {
- "updated": "2026-08-16T23:36:38.394427+00:00",
+ "updated": "2026-08-17T01:57:07.889699+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 12
+   "count": 14
   },
   {
    "term": "israeli",
-   "count": 12
+   "count": 13
   },
   {
    "term": "west",
-   "count": 9
-  },
-  {
-   "term": "lebanon",
-   "count": 8
+   "count": 11
   },
   {
    "term": "bank",
-   "count": 8
+   "count": 10
   },
   {
    "term": "gaza",
-   "count": 7
+   "count": 9
+  },
+  {
+   "term": "south",
+   "count": 8
+  },
+  {
+   "term": "indonesia",
+   "count": 8
   },
   {
    "term": "hamas",
    "count": 7
   },
   {
-   "term": "dead",
-   "count": 6
+   "term": "lebanon",
+   "count": 7
   },
   {
-   "term": "south",
-   "count": 6
+   "term": "strikes",
+   "count": 7
   },
   {
-   "term": "people",
+   "term": "settlers",
    "count": 6
   },
   {
@@ -46,8 +50,16 @@
    "count": 6
   },
   {
-   "term": "strikes",
+   "term": "palestinians",
    "count": 6
+  },
+  {
+   "term": "terremoto",
+   "count": 6
+  },
+  {
+   "term": "health",
+   "count": 5
   },
   {
    "term": "album",
@@ -62,15 +74,11 @@
    "count": 5
   },
   {
-   "term": "iran",
+   "term": "israel",
    "count": 5
   },
   {
    "term": "netanyahu",
-   "count": 5
-  },
-  {
-   "term": "palestinians",
    "count": 5
   },
   {
@@ -90,11 +98,7 @@
    "count": 5
   },
   {
-   "term": "health",
-   "count": 4
-  },
-  {
-   "term": "years",
+   "term": "people",
    "count": 4
   },
   {
@@ -102,37 +106,41 @@
    "count": 4
   },
   {
-   "term": "meets",
+   "term": "korea",
    "count": 4
   },
   {
-   "term": "talks",
+   "term": "military",
    "count": 4
   },
   {
-   "term": "attacks",
+   "term": "palestinian",
    "count": 4
   },
   {
-   "term": "arrested",
-   "count": 4
-  },
-  {
-   "term": "terremoto",
+   "term": "iran",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 12
+   "count": 14
   },
   {
    "name": "Israeli",
-   "count": 12
+   "count": 13
   },
   {
    "name": "West Bank",
+   "count": 10
+  },
+  {
+   "name": "Gaza",
+   "count": 8
+  },
+  {
+   "name": "Indonesia",
    "count": 8
   },
   {
@@ -140,15 +148,11 @@
    "count": 7
   },
   {
-   "name": "Gaza",
-   "count": 6
-  },
-  {
-   "name": "Lebanon",
-   "count": 6
-  },
-  {
    "name": "Palestinians",
+   "count": 6
+  },
+  {
+   "name": "Israel",
    "count": 5
   },
   {
@@ -156,11 +160,23 @@
    "count": 5
   },
   {
-   "name": "Iran",
+   "name": "Lebanon",
+   "count": 5
+  },
+  {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
+   "name": "South Korea",
    "count": 4
   },
   {
-   "name": "Netanyahu",
+   "name": "Palestinian",
+   "count": 4
+  },
+  {
+   "name": "Iran",
    "count": 4
   },
   {
@@ -168,20 +184,24 @@
    "count": 4
   },
   {
-   "name": "Indonesia",
+   "name": "Netanyahu",
    "count": 4
   },
   {
-   "name": "Alaska",
-   "count": 4
-  },
-  {
-   "name": "Hong Kong",
+   "name": "Corea",
    "count": 4
   },
   {
    "name": "China",
    "count": 4
+  },
+  {
+   "name": "Chinese",
+   "count": 4
+  },
+  {
+   "name": "Colombia",
+   "count": 3
   },
   {
    "name": "Italy",
@@ -192,32 +212,12 @@
    "count": 3
   },
   {
-   "name": "Palestinian",
+   "name": "Hawaii",
    "count": 3
   },
   {
-   "name": "Lula",
+   "name": "USS Lincoln",
    "count": 3
-  },
-  {
-   "name": "Puerto Rico",
-   "count": 3
-  },
-  {
-   "name": "Dave Marsh",
-   "count": 2
-  },
-  {
-   "name": "California",
-   "count": 2
-  },
-  {
-   "name": "Dead",
-   "count": 2
-  },
-  {
-   "name": "Cypress Hill",
-   "count": 2
   }
  ]
 }
