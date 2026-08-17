@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-17T03:14:37.273148+00:00",
+ "updated": "2026-08-17T04:06:58.914098+00:00",
  "terms": [
-  {
-   "term": "trump",
-   "count": 15
-  },
   {
    "term": "israeli",
    "count": 12
   },
   {
    "term": "west",
+   "count": 11
+  },
+  {
+   "term": "trump",
    "count": 11
   },
   {
@@ -22,28 +22,20 @@
    "count": 9
   },
   {
-   "term": "gaza",
+   "term": "indonesia",
    "count": 9
   },
   {
-   "term": "indonesia",
+   "term": "gaza",
    "count": 8
+  },
+  {
+   "term": "iran",
+   "count": 7
   },
   {
    "term": "lebanon",
    "count": 7
-  },
-  {
-   "term": "strikes",
-   "count": 7
-  },
-  {
-   "term": "iran",
-   "count": 6
-  },
-  {
-   "term": "settlers",
-   "count": 6
   },
   {
    "term": "hamas",
@@ -58,19 +50,15 @@
    "count": 6
   },
   {
-   "term": "album",
-   "count": 5
+   "term": "strikes",
+   "count": 6
   },
   {
    "term": "stolen",
    "count": 5
   },
   {
-   "term": "police",
-   "count": 5
-  },
-  {
-   "term": "israel",
+   "term": "settlers",
    "count": 5
   },
   {
@@ -90,7 +78,11 @@
    "count": 5
   },
   {
-   "term": "health",
+   "term": "dead",
+   "count": 4
+  },
+  {
+   "term": "album",
    "count": 4
   },
   {
@@ -98,7 +90,19 @@
    "count": 4
   },
   {
+   "term": "police",
+   "count": 4
+  },
+  {
+   "term": "israel",
+   "count": 4
+  },
+  {
    "term": "world",
+   "count": 4
+  },
+  {
+   "term": "settler",
    "count": 4
   },
   {
@@ -107,10 +111,6 @@
   },
   {
    "term": "military",
-   "count": 4
-  },
-  {
-   "term": "palestinian",
    "count": 4
   },
   {
@@ -124,28 +124,28 @@
  ],
  "entities": [
   {
-   "name": "Trump",
-   "count": 15
-  },
-  {
    "name": "Israeli",
    "count": 12
+  },
+  {
+   "name": "Trump",
+   "count": 11
   },
   {
    "name": "West Bank",
    "count": 10
   },
   {
-   "name": "Gaza",
-   "count": 8
-  },
-  {
    "name": "Indonesia",
-   "count": 8
+   "count": 9
   },
   {
    "name": "Iran",
-   "count": 6
+   "count": 7
+  },
+  {
+   "name": "Gaza",
+   "count": 7
   },
   {
    "name": "Hamas",
@@ -154,10 +154,6 @@
   {
    "name": "Palestinians",
    "count": 6
-  },
-  {
-   "name": "Israel",
-   "count": 5
   },
   {
    "name": "Green",
@@ -172,11 +168,11 @@
    "count": 5
   },
   {
-   "name": "South Korea",
+   "name": "Israel",
    "count": 4
   },
   {
-   "name": "Palestinian",
+   "name": "South Korea",
    "count": 4
   },
   {
@@ -188,20 +184,12 @@
    "count": 4
   },
   {
-   "name": "Corea",
-   "count": 4
-  },
-  {
    "name": "China",
    "count": 4
   },
   {
    "name": "Chinese",
    "count": 4
-  },
-  {
-   "name": "Colombia",
-   "count": 3
   },
   {
    "name": "Italy",
@@ -212,12 +200,24 @@
    "count": 3
   },
   {
+   "name": "Palestinian",
+   "count": 3
+  },
+  {
    "name": "Hawaii",
+   "count": 3
+  },
+  {
+   "name": "Ceuta",
    "count": 3
   },
   {
    "name": "Alaska",
    "count": 3
+  },
+  {
+   "name": "Dave Marsh",
+   "count": 2
   }
  ]
 }
