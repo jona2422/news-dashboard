@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T09:02:56.447217+00:00",
+ "updated": "2026-08-17T10:00:36.313701+00:00",
  "sources_ok": 35,
  "sources_total": 38,
  "beats": [
@@ -62,12 +62,12 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
+   "beat": "tech",
+   "url": "https://hnrss.org/frontpage",
+   "source": "hnrss.org",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
+   "error": "<urlopen error timed out>"
   },
   {
    "beat": "actualidad",
@@ -186,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 376,
+   "count": 379,
    "error": ""
   },
   {
@@ -202,7 +202,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 45,
+   "count": 50,
    "error": ""
   },
   {
@@ -243,6 +243,14 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
    "error": ""
   },
   {
@@ -337,14 +345,6 @@
    "beat": "tech",
    "url": "https://techcrunch.com/feed/",
    "source": "TechCrunch",
-   "ok": true,
-   "count": 20,
-   "error": ""
-  },
-  {
-   "beat": "tech",
-   "url": "https://hnrss.org/frontpage",
-   "source": "Hacker News: Front Page",
    "ok": true,
    "count": 20,
    "error": ""
