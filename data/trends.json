@@ -1,12 +1,16 @@
 {
- "updated": "2026-08-18T13:11:26.110146+00:00",
+ "updated": "2026-08-18T13:59:17.472958+00:00",
  "terms": [
   {
-   "term": "alaska",
+   "term": "trump",
    "count": 12
   },
   {
-   "term": "trump",
+   "term": "alaska",
+   "count": 11
+  },
+  {
+   "term": "iran",
    "count": 10
   },
   {
@@ -14,7 +18,7 @@
    "count": 10
   },
   {
-   "term": "iran",
+   "term": "world",
    "count": 9
   },
   {
@@ -22,7 +26,7 @@
    "count": 9
   },
   {
-   "term": "world",
+   "term": "terremoto",
    "count": 8
   },
   {
@@ -38,10 +42,6 @@
    "count": 8
   },
   {
-   "term": "chinese",
-   "count": 7
-  },
-  {
    "term": "album",
    "count": 6
   },
@@ -50,15 +50,11 @@
    "count": 6
   },
   {
-   "term": "death",
-   "count": 6
-  },
-  {
-   "term": "court",
-   "count": 6
-  },
-  {
    "term": "russian",
+   "count": 6
+  },
+  {
+   "term": "west",
    "count": 6
   },
   {
@@ -66,7 +62,7 @@
    "count": 6
   },
   {
-   "term": "terremoto",
+   "term": "nuevo",
    "count": 6
   },
   {
@@ -78,7 +74,7 @@
    "count": 6
   },
   {
-   "term": "people",
+   "term": "death",
    "count": 5
   },
   {
@@ -86,19 +82,11 @@
    "count": 5
   },
   {
-   "term": "deal",
+   "term": "chinese",
    "count": 5
   },
   {
-   "term": "west",
-   "count": 5
-  },
-  {
-   "term": "threatens",
-   "count": 5
-  },
-  {
-   "term": "oman",
+   "term": "court",
    "count": 5
   },
   {
@@ -106,11 +94,23 @@
    "count": 5
   },
   {
+   "term": "chocó",
+   "count": 5
+  },
+  {
+   "term": "bank",
+   "count": 5
+  },
+  {
    "term": "hamas",
    "count": 5
   },
   {
-   "term": "know",
+   "term": "sues",
+   "count": 4
+  },
+  {
+   "term": "show",
    "count": 4
   },
   {
@@ -125,23 +125,23 @@
  "entities": [
   {
    "name": "Alaska",
-   "count": 12
+   "count": 11
+  },
+  {
+   "name": "Trump",
+   "count": 10
+  },
+  {
+   "name": "Iran",
+   "count": 10
   },
   {
    "name": "Gaza",
    "count": 10
   },
   {
-   "name": "Iran",
-   "count": 9
-  },
-  {
    "name": "Netanyahu",
    "count": 9
-  },
-  {
-   "name": "Trump",
-   "count": 8
   },
   {
    "name": "Hong Kong",
@@ -164,7 +164,7 @@
    "count": 5
   },
   {
-   "name": "Oman",
+   "name": "West Bank",
    "count": 5
   },
   {
@@ -176,15 +176,19 @@
    "count": 4
   },
   {
+   "name": "Israeli",
+   "count": 4
+  },
+  {
+   "name": "Oman",
+   "count": 4
+  },
+  {
    "name": "Indonesia",
    "count": 4
   },
   {
-   "name": "West Bank",
-   "count": 4
-  },
-  {
-   "name": "Chinese",
+   "name": "Chocó",
    "count": 4
   },
   {
@@ -192,15 +196,15 @@
    "count": 3
   },
   {
-   "name": "Ukrainian",
+   "name": "Burnham",
    "count": 3
   },
   {
-   "name": "Russia",
+   "name": "Qatar",
    "count": 3
   },
   {
-   "name": "Israel",
+   "name": "Palestinian",
    "count": 3
   },
   {
@@ -212,11 +216,7 @@
    "count": 3
   },
   {
-   "name": "Europe",
-   "count": 3
-  },
-  {
-   "name": "Burnham",
+   "name": "Ukrainian",
    "count": 3
   }
  ]
