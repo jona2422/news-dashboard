@@ -1,20 +1,16 @@
 {
- "updated": "2026-08-18T13:59:17.472958+00:00",
+ "updated": "2026-08-18T14:55:00.179486+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 12
-  },
-  {
-   "term": "alaska",
    "count": 11
   },
   {
-   "term": "iran",
-   "count": 10
+   "term": "gaza",
+   "count": 11
   },
   {
-   "term": "gaza",
+   "term": "alaska",
    "count": 10
   },
   {
@@ -22,11 +18,15 @@
    "count": 9
   },
   {
+   "term": "terremoto",
+   "count": 9
+  },
+  {
    "term": "netanyahu",
    "count": 9
   },
   {
-   "term": "terremoto",
+   "term": "iran",
    "count": 8
   },
   {
@@ -34,39 +34,35 @@
    "count": 8
   },
   {
-   "term": "hong",
-   "count": 8
-  },
-  {
-   "term": "kong",
-   "count": 8
-  },
-  {
    "term": "album",
-   "count": 6
-  },
-  {
-   "term": "colombia",
-   "count": 6
-  },
-  {
-   "term": "russian",
-   "count": 6
-  },
-  {
-   "term": "west",
-   "count": 6
-  },
-  {
-   "term": "talks",
-   "count": 6
-  },
-  {
-   "term": "nuevo",
-   "count": 6
+   "count": 7
   },
   {
    "term": "green",
+   "count": 7
+  },
+  {
+   "term": "west",
+   "count": 7
+  },
+  {
+   "term": "hong",
+   "count": 7
+  },
+  {
+   "term": "kong",
+   "count": 7
+  },
+  {
+   "term": "chinese",
+   "count": 6
+  },
+  {
+   "term": "israeli",
+   "count": 6
+  },
+  {
+   "term": "bank",
    "count": 6
   },
   {
@@ -74,7 +70,15 @@
    "count": 6
   },
   {
-   "term": "death",
+   "term": "music",
+   "count": 5
+  },
+  {
+   "term": "colombia",
+   "count": 5
+  },
+  {
+   "term": "people",
    "count": 5
   },
   {
@@ -82,23 +86,7 @@
    "count": 5
   },
   {
-   "term": "chinese",
-   "count": 5
-  },
-  {
    "term": "court",
-   "count": 5
-  },
-  {
-   "term": "peace",
-   "count": 5
-  },
-  {
-   "term": "chocó",
-   "count": 5
-  },
-  {
-   "term": "bank",
    "count": 5
   },
   {
@@ -106,49 +94,69 @@
    "count": 5
   },
   {
+   "term": "talks",
+   "count": 5
+  },
+  {
+   "term": "year",
+   "count": 4
+  },
+  {
+   "term": "very",
+   "count": 4
+  },
+  {
    "term": "sues",
-   "count": 4
-  },
-  {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "shakira",
    "count": 4
   },
   {
    "term": "million",
    "count": 4
+  },
+  {
+   "term": "death",
+   "count": 4
+  },
+  {
+   "term": "syria",
+   "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Alaska",
+   "name": "Gaza",
    "count": 11
   },
   {
+   "name": "Alaska",
+   "count": 10
+  },
+  {
    "name": "Trump",
-   "count": 10
-  },
-  {
-   "name": "Iran",
-   "count": 10
-  },
-  {
-   "name": "Gaza",
-   "count": 10
+   "count": 9
   },
   {
    "name": "Netanyahu",
    "count": 9
   },
   {
-   "name": "Hong Kong",
+   "name": "Iran",
    "count": 8
   },
   {
+   "name": "Hong Kong",
+   "count": 7
+  },
+  {
+   "name": "Israeli",
+   "count": 6
+  },
+  {
    "name": "Green",
+   "count": 6
+  },
+  {
+   "name": "West Bank",
    "count": 6
   },
   {
@@ -156,39 +164,15 @@
    "count": 6
   },
   {
-   "name": "Colombia",
-   "count": 5
-  },
-  {
-   "name": "Russian",
-   "count": 5
-  },
-  {
-   "name": "West Bank",
-   "count": 5
-  },
-  {
    "name": "Hamas",
    "count": 5
   },
   {
-   "name": "Ukraine",
+   "name": "Colombia",
    "count": 4
   },
   {
-   "name": "Israeli",
-   "count": 4
-  },
-  {
-   "name": "Oman",
-   "count": 4
-  },
-  {
-   "name": "Indonesia",
-   "count": 4
-  },
-  {
-   "name": "Chocó",
+   "name": "Syria",
    "count": 4
   },
   {
@@ -196,7 +180,7 @@
    "count": 3
   },
   {
-   "name": "Burnham",
+   "name": "People",
    "count": 3
   },
   {
@@ -212,11 +196,27 @@
    "count": 3
   },
   {
-   "name": "Syria",
+   "name": "Israel",
    "count": 3
   },
   {
-   "name": "Ukrainian",
+   "name": "Cali",
+   "count": 3
+  },
+  {
+   "name": "Chocó",
+   "count": 3
+  },
+  {
+   "name": "Indonesia",
+   "count": 3
+  },
+  {
+   "name": "Spain",
+   "count": 3
+  },
+  {
+   "name": "Qusra",
    "count": 3
   }
  ]
