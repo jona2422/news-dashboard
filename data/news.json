@@ -1,10 +1,19 @@
 {
- "updated": "2026-08-18T22:44:03.677234+00:00",
+ "updated": "2026-08-18T23:40:08.414105+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "C+C Music Factory Founder Sues Freedom Williams in $30 Million Trademark Lawsuit",
+     "link": "https://www.rollingstone.com/music/music-news/cc-music-factory-lawsuit-trademark-1235611284/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-08-18T22:52:57+00:00",
+     "ts": 1787093577000,
+     "count": 1
+    },
     {
      "title": "Charley Crockett Says He “Lost a Lot of Respect” For Jack White After Satanic Doo-Wop Group Controversy",
      "link": "https://consequence.net/2026/08/charley-crockett-loses-respect-for-jack-white/",
@@ -246,15 +255,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/08/Joe-Rogan.jpeg?quality=80",
      "published": "2026-08-18T16:30:55+00:00",
      "ts": 1787070655000,
-     "count": 1
-    },
-    {
-     "title": "Jae Stephens Has What Pop Is Missing: Audacity",
-     "link": "https://www.rollingstone.com/music/music-features/jae-stephens-artist-you-need-to-know-debut-album-audacity-1235572006/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-08-18T16:25:09+00:00",
-     "ts": 1787070309000,
      "count": 1
     }
    ]
@@ -522,12 +522,66 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+     "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg",
+     "published": "2026-08-18T22:32:46+00:00",
+     "ts": 1787092366000,
+     "count": 1
+    },
+    {
+     "title": "Programmable Property-Based Testing",
+     "link": "https://dl.acm.org/doi/10.1145/3828685",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-18T22:22:41+00:00",
+     "ts": 1787091761000,
+     "count": 1
+    },
+    {
+     "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+     "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png",
+     "published": "2026-08-18T22:18:13+00:00",
+     "ts": 1787091493000,
+     "count": 1
+    },
+    {
      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
      "source": "TechCrunch",
      "image": "",
      "published": "2026-08-18T22:14:25+00:00",
      "ts": 1787091265000,
+     "count": 1
+    },
+    {
+     "title": "AI usage patterns in software teams",
+     "link": "https://linear.app/data",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-18T22:08:07+00:00",
+     "ts": 1787090887000,
+     "count": 1
+    },
+    {
+     "title": "GLM-5.3 Artificial Analysis Benchmarks",
+     "link": "https://artificialanalysis.ai/models/glm-5-3",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-18T22:06:10+00:00",
+     "ts": 1787090770000,
+     "count": 1
+    },
+    {
+     "title": "fx :Tiny, open, native coding agent.",
+     "link": "https://fx.sh",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-18T22:00:21+00:00",
+     "ts": 1787090421000,
      "count": 1
     },
     {
@@ -549,21 +603,12 @@
      "count": 1
     },
     {
-     "title": "Companies promote incompetent employees to management tolimit damage they can do",
+     "title": "Companies promote incompetent employees to management to limit damage they do",
      "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-08-18T21:13:30+00:00",
      "ts": 1787087610000,
-     "count": 1
-    },
-    {
-     "title": "Find Chicago Parking Cops",
-     "link": "https://www.secondcitycitation.com",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-18T21:08:40+00:00",
-     "ts": 1787087320000,
      "count": 1
     },
     {
@@ -612,7 +657,7 @@
      "count": 1
     },
     {
-     "title": "Norway Should Buy OpenAI",
+     "title": "Norway should buy OpenAI",
      "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -720,57 +765,12 @@
      "count": 1
     },
     {
-     "title": "Show HN: macOS data protection keychain for Electron apps",
-     "link": "https://github.com/biw/keychain-store",
+     "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+     "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-18T17:25:19+00:00",
-     "ts": 1787073919000,
-     "count": 1
-    },
-    {
-     "title": "Etched’s valuation doubles to $21B in a month",
-     "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-18T17:21:58+00:00",
-     "ts": 1787073718000,
-     "count": 1
-    },
-    {
-     "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-     "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-18T17:18:57+00:00",
-     "ts": 1787073537000,
-     "count": 1
-    },
-    {
-     "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-     "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-18T17:12:13+00:00",
-     "ts": 1787073133000,
-     "count": 1
-    },
-    {
-     "title": "Peacock raises prices by 18 percent after becoming profitable",
-     "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1238249061-1024x648.jpg",
-     "published": "2026-08-18T16:42:30+00:00",
-     "ts": 1787071350000,
-     "count": 1
-    },
-    {
-     "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-     "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-08-18T16:39:05+00:00",
-     "ts": 1787071145000,
+     "published": "2026-08-18T17:24:53+00:00",
+     "ts": 1787073893000,
      "count": 1
     }
    ]
@@ -784,8 +784,71 @@
      "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/1c22c2db5ab8c73c8cf17e2c819a517bd4813ca1/1908_670_4325_3460/master/4325.jpg?width=140&quality=85&auto=format&fit=max&s=812495347fba820648f5411124b35aad",
-     "published": "2026-08-18T22:30:10+00:00",
-     "ts": 1787092210000,
+     "published": "2026-08-18T23:33:18+00:00",
+     "ts": 1787095998000,
+     "count": 1
+    },
+    {
+     "title": "Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
+     "link": "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f6a6bda3d2c5b0c809ea78d0484a5b5d737e3f8a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=746233e041b1dd2cb0b5b9a6210c4467",
+     "published": "2026-08-18T23:32:53+00:00",
+     "ts": 1787095973000,
+     "count": 1
+    },
+    {
+     "title": "Boyfriend of Hayden Panettiere was at apartment when actor died",
+     "link": "https://www.theguardian.com/tv-and-radio/2026/aug/18/hayden-panettiere-death-boyfriend",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/91ef552689fe5eae1cd54734a8f08a2d975db735/0_344_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=811d7b384b41e3b33bc0283626531cc1",
+     "published": "2026-08-18T23:23:16+00:00",
+     "ts": 1787095396000,
+     "count": 1
+    },
+    {
+     "title": "Florida, Wyoming and Alaska hold primary elections; California voters to select successor for Eric Swalwell’s seat – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/7930b8eab783e95a4e63247f913744b25d67bcb4/515_0_2577_2062/master/2577.jpg?width=140&quality=85&auto=format&fit=max&s=e3f77b8f1e3a95dccc2b3b2136902eaf",
+     "published": "2026-08-18T23:23:07+00:00",
+     "ts": 1787095387000,
+     "count": 1
+    },
+    {
+     "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – latest updates",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/0366975d00a452bdc889ca6f663da2315599bc9d/140_0_3713_2971/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=ed70266a297bb91b243d4516ac251707",
+     "published": "2026-08-18T23:06:46+00:00",
+     "ts": 1787094406000,
+     "count": 1
+    },
+    {
+     "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
+     "link": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/11c99ecd26ed20002446b5cec30bab256a989fd2/722_0_7217_5773/master/7217.jpg?width=140&quality=85&auto=format&fit=max&s=1c792b02a59a6cb707cbbb0898dfd73b",
+     "published": "2026-08-18T23:01:03+00:00",
+     "ts": 1787094063000,
+     "count": 1
+    },
+    {
+     "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+     "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-18T22:55:50+00:00",
+     "ts": 1787093750000,
+     "count": 1
+    },
+    {
+     "title": "Florida carries out its 13th execution this year in US’s busiest death chamber",
+     "link": "https://www.theguardian.com/us-news/2026/aug/18/florida-13th-execution-william-frances-silvia",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/9d20a8fc77968fe5afd990ecb2ca19c52d8993d7/74_726_2305_1843/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=fe01920840f24aa3e3fc32c17e3cb66f",
+     "published": "2026-08-18T22:33:26+00:00",
+     "ts": 1787092406000,
      "count": 1
     },
     {
@@ -807,21 +870,12 @@
      "count": 1
     },
     {
-     "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – latest updates",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0366975d00a452bdc889ca6f663da2315599bc9d/140_0_3713_2971/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=ed70266a297bb91b243d4516ac251707",
-     "published": "2026-08-18T22:28:57+00:00",
-     "ts": 1787092137000,
-     "count": 1
-    },
-    {
-     "title": "Jon Ossoff blasts ‘draft-dodging, crook president’ in latest war of words with Trump – US politics live",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/114752b2a10a5d0a14dfcf048abc168fd1619cb4/972_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a12768f191ef5e1e033136b2f5d75d44",
-     "published": "2026-08-18T22:28:56+00:00",
-     "ts": 1787092136000,
+     "title": "ZZ Top drummer Frank Beard dies aged 77",
+     "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+     "published": "2026-08-18T22:25:46+00:00",
+     "ts": 1787091946000,
      "count": 1
     },
     {
@@ -843,12 +897,21 @@
      "count": 1
     },
     {
-     "title": "Preservation group urges supreme court to suspend Trump White House ballroom project",
-     "link": "https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ab34dd2cee56f9f8494d3c2967a0f86b73e0a71a/623_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=b6eae641adab598957cab1962ae4b865",
-     "published": "2026-08-18T22:15:17+00:00",
-     "ts": 1787091317000,
+     "title": "The Indian activist jailed after taking on a luxury hotel plan",
+     "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41f/live/7ce8e260-96ff-11f1-b72c-211ea4e0afc4.jpg",
+     "published": "2026-08-18T22:18:50+00:00",
+     "ts": 1787091530000,
+     "count": 1
+    },
+    {
+     "title": "Meta hooked children on Facebook and Instagram, court hears",
+     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg",
+     "published": "2026-08-18T22:11:07+00:00",
+     "ts": 1787091067000,
      "count": 1
     },
     {
@@ -876,24 +939,6 @@
      "image": "",
      "published": "2026-08-18T21:45:00+00:00",
      "ts": 1787089500000,
-     "count": 1
-    },
-    {
-     "title": "Harvard to pay $53m over theft and sale of human remains from medical school",
-     "link": "https://www.theguardian.com/education/2026/aug/18/harvard-human-remains-lawsuit",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/641985c167b24ff1093f69b49f4f0f8ceb16c24b/447_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=b4c26ee3d01215503e1a91743cfc51ce",
-     "published": "2026-08-18T21:44:31+00:00",
-     "ts": 1787089471000,
-     "count": 1
-    },
-    {
-     "title": "Second major fire at south London recycling centre in under three months",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/18/second-major-fire-at-south-london-recycling-centre-in-under-three-months",
-     "source": "World news | The Guardian",
-     "image": "",
-     "published": "2026-08-18T21:32:27+00:00",
-     "ts": 1787088747000,
      "count": 1
     },
     {
@@ -985,51 +1030,6 @@
      "published": "2026-08-18T20:41:50+00:00",
      "ts": 1787085710000,
      "count": 1
-    },
-    {
-     "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-     "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg",
-     "published": "2026-08-18T20:39:36+00:00",
-     "ts": 1787085576000,
-     "count": 1
-    },
-    {
-     "title": "Liberia to take 1,200 deportees from the US",
-     "link": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-18T20:39:15+00:00",
-     "ts": 1787085555000,
-     "count": 1
-    },
-    {
-     "title": "Man in Chucky-style mask terrorises Philadelphia residents",
-     "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d5/live/8979c270-9b3b-11f1-adfc-97cecc6f1ad1.jpg",
-     "published": "2026-08-18T20:27:44+00:00",
-     "ts": 1787084864000,
-     "count": 1
-    },
-    {
-     "title": "Russian missile strike kills 10 civilians in Kharkiv",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-18T20:26:01+00:00",
-     "ts": 1787084761000,
-     "count": 1
-    },
-    {
-     "title": "Man accused of attacking duo at New York City synagogue charged with federal hate crimes",
-     "link": "https://www.theguardian.com/us-news/2026/aug/18/nyc-synagogue-federal-hate-crime-charges",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/cf5d7d57f4ad81e72c8963a63b1c0dbbb32bb26b/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=bc0792b6241282ca4d0a7cbbba4297b9",
-     "published": "2026-08-18T20:25:10+00:00",
-     "ts": 1787084710000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,105 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Cisjordania: palestinos cristianos denuncian presión de colonos israelíes",
+     "link": "https://www.france24.com/es/video/20260818-cisjordania-palestinos-cristianos-denuncian-presi%C3%B3n-de-colonos-israel%C3%ADes",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4b3c2d86-9b59-11f1-8207-005056bf30b7/w:1024/p:16x9/WhatsApp-Image-2026-08-18-at-4-19-52-PM.jpeg",
+     "published": "2026-08-18T23:14:46+00:00",
+     "ts": 1787094886000,
+     "count": 2
+    },
+    {
+     "title": "Dan de alta a exfuncionario herido durante altercado con la Policía Municipal",
+     "link": "https://www.prensa.com/politica/dan-de-alta-a-exfuncionario-herido-durante-altercado-con-la-policia-municipal/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/MVGFLD6L3RDWJACM25CBG4FSCM.jpeg?auth=701f1c300ca01839f2a5513b9701be7931a145c36b7a5a45707c6b586c4f2659&smart=true&width=895&height=629",
+     "published": "2026-08-18T23:11:45+00:00",
+     "ts": 1787094705000,
+     "count": 1
+    },
+    {
+     "title": "Video causa indignación en Cartagena: sujetos se grabaron pateando a un perro en condición de calle; piden ubicar al animal y a los responsables",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/presunto-maltrato-animal-en-cartagena-sujetos-se-grabaron-pateando-a-un-perro-en-condicion-de-calle-piden-ubicar-al-animal-y-a-los-responsables-3579179",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/10/6a29e504a8e75.jpeg",
+     "published": "2026-08-18T23:10:57+00:00",
+     "ts": 1787094657000,
+     "count": 1
+    },
+    {
+     "title": "Imputan cargos y ordenan detención de reclutador de panameños para combatir en la guerra entre Rusia y Ucrania",
+     "link": "https://www.prensa.com/judiciales/imputan-cargos-y-ordenan-detencion-de-reclutador-de-panamenos-para-combatir-en-la-guerra-entre-rusia-y-ucrania/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/TI777XYUJNCX3LRE7OWE4JIAOM.jpeg?auth=8996d295512776da46583cd9908f03ad8410e56131d16056ac4b78ab3a2281d3&smart=true&width=2560&height=1440",
+     "published": "2026-08-18T23:06:13+00:00",
+     "ts": 1787094373000,
+     "count": 1
+    },
+    {
+     "title": "Israel alista “pabellón” para \"terroristas\" condenados a muerte",
+     "link": "https://www.dw.com/es/israel-alista-pabellón-para-terroristas-condenados-a-muerte/a-78420521?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-08-18T22:56:00+00:00",
+     "ts": 1787093760000,
+     "count": 1
+    },
+    {
+     "title": "Crisis en la FIFA: ¿quién es Kevin Lamour, el directivo francés destituido tras confrontar a Infantino?",
+     "link": "https://www.france24.com/es/deportes/20260818-crisis-en-la-fifa-qui%C3%A9n-es-kevin-lamour-el-directivo-franc%C3%A9s-destituido-tras-confrontar-a-infantino",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/c8d584d0-9ac9-11f1-9e42-005056a97e36/w:1024/p:16x9/AP24262619644213.jpg",
+     "published": "2026-08-18T22:55:35+00:00",
+     "ts": 1787093735000,
+     "count": 1
+    },
+    {
+     "title": "Informe desde Santa Cruz: arrestan a asesor de Rodrigo Paz acusado por tentativa de feminicidio",
+     "link": "https://www.france24.com/es/video/20260818-informe-desde-santa-cruz-arrestan-a-asesor-de-rodrigo-paz-acusado-por-tentativa-de-feminicidio",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/57be92ec-9b54-11f1-ae48-005056a90284/w:1024/p:16x9/ES-20260818-160617-160751-CS.jpg",
+     "published": "2026-08-18T22:54:40+00:00",
+     "ts": 1787093680000,
+     "count": 1
+    },
+    {
+     "title": "Naturgy reporta evento externo en el Sistema Eléctrico Regional y normaliza el servicio",
+     "link": "https://www.prensa.com/notas-de-prensa/naturgy-reporta-evento-externo-en-el-sistema-electrico-regional-y-normaliza-el-servicio/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/3L72S76P75E5DC4755EN5TH7XU.jpg?auth=d37b3ea7044019ea8670d3045795f949baf3caf5bb0497a087bef0fab5671ab7&smart=true&width=2000&height=1500",
+     "published": "2026-08-18T22:52:53+00:00",
+     "ts": 1787093573000,
+     "count": 1
+    },
+    {
+     "title": "Rescatistas recuperan los últimos cinco cuerpos bajo los escombros del Hospital Universitario del Valle",
+     "link": "https://elpais.com/america-colombia/2026-08-18/rescatistas-recuperan-los-ultimos-cinco-cuerpos-bajo-los-escombros-del-hospital-universitario-del-valle.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/STVKHHY26FDPFLPTXADYJSWR2A.jpg?auth=dda232183726f97b91f596881310306947e1dbef7abbbcc8262ae0ddbb7471d9",
+     "published": "2026-08-18T22:52:09+00:00",
+     "ts": 1787093529000,
+     "count": 1
+    },
+    {
+     "title": "Investigan residuos radiactivos depositados en el océano en los años 40",
+     "link": "https://www.prensa.com/mundo/investigan-residuos-radiactivos-depositados-en-el-oceano-en-los-anos-40/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/HQULQMSCZ5DZZFL7H4JH4CSXTE.jpg?auth=da87cfe8a4b269e15d287bd1e5efec859bf5789e1eb09de1671ce1f95ac38eca&smart=true&width=3500&height=2333",
+     "published": "2026-08-18T22:52:06+00:00",
+     "ts": 1787093526000,
+     "count": 1
+    },
+    {
+     "title": "Ataques ucranianos golpean a Wildberries, el “Amazon ruso”, y sacuden la economía",
+     "link": "https://www.france24.com/es/video/20260818-ataques-ucranianos-golpean-a-wildberries-el-amazon-ruso-y-sacuden-la-econom%C3%ADa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4291ff88-9b56-11f1-9beb-005056a90284/w:1024/p:16x9/ES-20260818-161022-161230-CS.jpg",
+     "published": "2026-08-18T22:49:34+00:00",
+     "ts": 1787093374000,
+     "count": 1
+    },
     {
      "title": "Futbolista vuelve a sufrir un desvanecimiento en amistoso",
      "link": "https://www.prensa.com/deportes/futbolista-vuelve-a-sufrir-un-desvanecimiento-en-amistoso/",
@@ -1113,7 +1212,7 @@
      "title": "La Registraduría Nacional habilitó puntos temporales de atención en Pereira tras los daños que el terremoto de magnitud 7,4 causó en su sede",
      "link": "https://www.eltiempo.com/colombia/otras-ciudades/estos-son-los-puntos-temporales-que-habilito-la-registraduria-nacional-en-pereira-tras-graves-danos-que-dejo-el-terremoto-de-magnitud-7-4-en-colombia-3579206",
      "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/18/6a8469f5759a6.jpeg",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/18/6a84e7b261f41.jpeg",
      "published": "2026-08-18T21:51:22+00:00",
      "ts": 1787089882000,
      "count": 1
@@ -1189,105 +1288,6 @@
      "published": "2026-08-18T21:13:49+00:00",
      "ts": 1787087629000,
      "count": 1
-    },
-    {
-     "title": "\"La generación sobria\": por qué cada vez más jóvenes reemplazan el alcohol por medicamentos para la ansiedad",
-     "link": "https://www.bbc.com/mundo/articles/cd9w4pzgp2yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64fa/live/d8612d90-9aed-11f1-930b-57cfba7235f9.jpg",
-     "published": "2026-08-18T21:13:19+00:00",
-     "ts": 1787087599000,
-     "count": 1
-    },
-    {
-     "title": "Cárcel para 'Los Dinos Duros', la banda de asaltantes y depredadores sexuales que sembraba el terror en la vía Cartagena-Barú",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/carcel-para-los-dinos-duros-la-banda-de-asaltantes-y-depredadores-sexuales-que-sembraba-el-terror-en-la-via-cartagena-baru-3579198",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/18/6a84c5fc2ce29.jpeg",
-     "published": "2026-08-18T21:07:53+00:00",
-     "ts": 1787087273000,
-     "count": 1
-    },
-    {
-     "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
-     "link": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/QZA3OIESONCSTG3AOJDXFTPHUQ.jpg?auth=e5fced39e27a405cd21edffcf9cacab5a7851e850c29b932b53a69c9df7a28f0",
-     "published": "2026-08-18T20:56:14+00:00",
-     "ts": 1787086574000,
-     "count": 1
-    },
-    {
-     "title": "¿Qué viene para el Valle, tras terremoto que deja 189 fallecidos y 488 edificios colapsados?: 'Reconstrucción tiene que empezar ya', dijo gobernadora",
-     "link": "https://www.eltiempo.com/colombia/cali/que-viene-para-el-valle-tras-terremoto-que-deja-189-fallecidos-y-488-edificios-colapsados-reconstruccion-tiene-que-empezar-ya-dijo-gobernadora-3579173",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84bed07ed17.r_d.1041-187-0.jpeg",
-     "published": "2026-08-18T20:45:29+00:00",
-     "ts": 1787085929000,
-     "count": 1
-    },
-    {
-     "title": "Las joyas patrimoniales de Cali en ‘uso restringido’: la fragilidad silenciosa que padecen edificaciones históricas tras el sismo de 7.4",
-     "link": "https://www.eltiempo.com/colombia/cali/las-joyas-patrimoniales-de-cali-en-uso-restringido-la-fragilidad-silenciosa-que-padecen-edificaciones-historicas-tras-el-sismo-de-7-3579183",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84c110bb158.r_d.773-387-0.png",
-     "published": "2026-08-18T20:40:49+00:00",
-     "ts": 1787085649000,
-     "count": 1
-    },
-    {
-     "title": "De las iglesias a las urnas: ¿la religión moldea la política de América Latina?",
-     "link": "https://www.france24.com/es/programas/historia/20260818-el-auge-evang%C3%A9lico-en-am%C3%A9rica-latina-de-las-iglesias-a-las-urnas",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/ba245df2-9b42-11f1-95fc-005056a97e36/w:1024/p:16x9/WEB-PORTADA-HIS-11AGO-1.png",
-     "published": "2026-08-18T20:38:26+00:00",
-     "ts": 1787085506000,
-     "count": 1
-    },
-    {
-     "title": "\"Que encuentres la paz eterna\": el emotivo tributo a la fallecida actriz Hayden Panettiere del padre de su hija",
-     "link": "https://www.bbc.com/mundo/articles/cqx7v5yz3vlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a08e/live/b953e5a0-9ad9-11f1-b2f7-5d1639b20e22.jpg",
-     "published": "2026-08-18T20:36:41+00:00",
-     "ts": 1787085401000,
-     "count": 1
-    },
-    {
-     "title": "“Cerramos en casa”: Bad Bunny pondrá en Puerto Rico punto final a su gira mundial",
-     "link": "https://elpais.com/us/entretenimiento/2026-08-18/cerramos-en-casa-bad-bunny-pondra-en-puerto-rico-punto-final-a-su-gira-mundial.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/XG4FWOMSHVDZZJNJOLRDEYEILI.JPG?auth=49749adf5b8f5d6611814928460357926bfa62be8a2f8e54b730ab7668fe90d2",
-     "published": "2026-08-18T20:35:52+00:00",
-     "ts": 1787085352000,
-     "count": 1
-    },
-    {
-     "title": "El último mensaje que envió Juan Felipe Giraldo a su prometida antes de morir tras quedar atrapado bajo los escombros en Pereira por el terremoto",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/este-fue-el-ultimo-mensaje-que-envio-juan-felipe-giraldo-a-su-prometida-antes-de-morir-bajo-los-escombros-en-pereira-tras-el-terremoto-en-colombia-3579102",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f8219c6376.r_d.1065-324-0.png",
-     "published": "2026-08-18T20:35:00+00:00",
-     "ts": 1787085300000,
-     "count": 1
-    },
-    {
-     "title": "De la Espriella envía a su ministro de Comercio a Estados Unidos para buscar la suspensión de los aranceles a Colombia",
-     "link": "https://elpais.com/america-colombia/2026-08-18/de-la-espriella-envia-a-su-ministro-de-comercio-a-estados-unidos-para-buscar-la-suspension-de-los-aranceles-a-colombia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/OVRWK4HMUNJUXC35G5LIQ7WBMU.jpg?auth=6b77b10073667c5053ad9776c7a9406f293c0a28733ca1fbbc60fe7d4a8711ff",
-     "published": "2026-08-18T20:23:58+00:00",
-     "ts": 1787084638000,
-     "count": 1
-    },
-    {
-     "title": "Guardiola: ‘Me voy a divorciar de la mujer más bella’",
-     "link": "https://www.prensa.com/deportes/guardiola-me-voy-a-divorciar-de-la-mujer-mas-bella/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/YD2QPKRTTNG3JMUX53LNYDIFWA.jpg?auth=d3e6bfe0442a38c588097a0f227ca1fc94d8083585941497fd1553d30360a62d&smart=true&width=5775&height=3876",
-     "published": "2026-08-18T20:23:37+00:00",
-     "ts": 1787084617000,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,42 @@
    "id": "desastres",
    "name": "Desastres Naturales",
    "items": [
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030715",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-18T23:23:59+00:00",
+     "ts": 1787095439000,
+     "count": 79
+    },
+    {
+     "title": "Green forest fire notification in Angola",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030714",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-18T23:23:23+00:00",
+     "ts": 1787095403000,
+     "count": 227
+    },
+    {
+     "title": "Green forest fire notification in Russian Federation",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030710",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-18T23:20:18+00:00",
+     "ts": 1787095218000,
+     "count": 32
+    },
+    {
+     "title": "M 2.5 - 10 km NNE of Odessa, Texas",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfxyvy",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-18T23:18:17.779000+00:00",
+     "ts": 1787095097779,
+     "count": 1
+    },
     {
      "title": "M 2.5 - 11 km SW of Round Valley, CA",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420867",
@@ -1467,24 +1503,6 @@
      "count": 1
     },
     {
-     "title": "Green forest fire notification in Brazil",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030605",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-18T15:43:23+00:00",
-     "ts": 1787067803000,
-     "count": 208
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030653",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-18T15:41:50+00:00",
-     "ts": 1787067710000,
-     "count": 51
-    },
-    {
      "title": "M 4.3 - 39 km WSW of Kyelang, India",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlnz",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1501,15 +1519,6 @@
      "published": "2026-08-18T15:26:12+00:00",
      "ts": 1787066772000,
      "count": 14
-    },
-    {
-     "title": "Green forest fire notification in Russian Federation",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030666",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-18T15:08:00+00:00",
-     "ts": 1787065680000,
-     "count": 31
     },
     {
      "title": "M 4.0 - 33 km S of Champerico, Guatemala",
@@ -1537,15 +1546,6 @@
      "published": "2026-08-18T13:37:43+00:00",
      "ts": 1787060263000,
      "count": 3
-    },
-    {
-     "title": "Green flood alert in Costa Rica",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104101",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104101.png",
-     "published": "2026-08-18T12:28:12+00:00",
-     "ts": 1787056092000,
-     "count": 1
     }
    ]
   },
@@ -1812,6 +1812,33 @@
    "name": "China",
    "items": [
     {
+     "title": "US urged to follow China’s lead in treating data as an economic asset",
+     "link": "https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/2251b730-dbc3-499d-8855-caee17dc51f2_391a1a48.jpg?itok=FiptWdrk&v=1787095653",
+     "published": "2026-08-18T23:27:39+00:00",
+     "ts": 1787095659000,
+     "count": 1
+    },
+    {
+     "title": "After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site",
+     "link": "https://www.scmp.com/business/article/3364462/after-years-macau-firm-opts-out-hong-kong-renewal-project-seeks-us153m-site?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/c52dbc97-8da8-4e66-bea1-efc5ce9c1f65_ff3afd44.jpg?itok=CmWPUKgF&v=1787057543",
+     "published": "2026-08-18T23:00:07+00:00",
+     "ts": 1787094007000,
+     "count": 1
+    },
+    {
+     "title": "US Democrats rebuke Trump for easing sanctions on Beijing, Hong Kong officials",
+     "link": "https://www.scmp.com/news/us/diplomacy/article/3364488/us-democrats-rebuke-trump-easing-sanctions-china-hong-kong-officials?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/5b883a9d-f748-4979-9cb8-e750c4098b8b_2fe14aa7.jpg?itok=IJYxnyhF&v=1787093196",
+     "published": "2026-08-18T22:46:44+00:00",
+     "ts": 1787093204000,
+     "count": 1
+    },
+    {
      "title": "How China got caught in the crossfire of a US bacon fight",
      "link": "https://www.scmp.com/news/us/politics/article/3364487/how-china-got-caught-crossfire-us-bacon-fight?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -2034,33 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/df006965-c0c3-4eaa-8025-0ed411be956d_8631bd8a.jpg?itok=t7422R6d&v=1787055885",
      "published": "2026-08-18T12:24:47+00:00",
      "ts": 1787055887000,
-     "count": 1
-    },
-    {
-     "title": "What Reliance and Rolls-Royce mean for India’s fighter jet ambitions",
-     "link": "https://www.scmp.com/week-asia/politics/article/3364457/what-reliance-and-rolls-royce-mean-indias-fighter-jet-ambitions?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/19e56bbe-5a01-4f08-9e61-5da87717084c_f5568f03.jpg?itok=fpUHpPBX&v=1787055452",
-     "published": "2026-08-18T12:17:36+00:00",
-     "ts": 1787055456000,
-     "count": 1
-    },
-    {
-     "title": "Wang Yi heads to Seoul as Trump cuts South Korea drills, opening door for China",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3364454/wang-yi-heads-seoul-trump-cuts-south-korea-drills-opening-door-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/d75a6da6-b488-41d8-a55d-1b4fa8027cf9_7de2cdbe.jpg?itok=Cdeubxqk&v=1787054548",
-     "published": "2026-08-18T12:05:30+00:00",
-     "ts": 1787054730000,
-     "count": 1
-    },
-    {
-     "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/84a630f9-de24-4ec6-96e0-6025c5b846df_fcffa6e4.jpg?itok=Joui-SrC&v=1787037283",
-     "published": "2026-08-18T12:00:05+00:00",
-     "ts": 1787054405000,
      "count": 1
     }
    ]
