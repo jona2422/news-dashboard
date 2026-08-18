@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-18T04:54:46.600268+00:00",
- "count": 239,
+ "updated": "2026-08-18T05:48:14.372380+00:00",
+ "count": 241,
  "max": 5.8,
  "items": [
   {
@@ -11,6 +11,15 @@
    "lat": 53.024,
    "depth": 54.741,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
+  },
+  {
+   "mag": 5.7,
+   "place": "95 km SW of Puerto Madero, Mexico",
+   "time": 1787029352244,
+   "lon": -93.1475,
+   "lat": 14.2298,
+   "depth": 10,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl"
   },
   {
    "mag": 5.4,
@@ -157,15 +166,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ef3"
   },
   {
-   "mag": 4.6,
-   "place": "43 km WNW of Turangi, New Zealand",
-   "time": 1786943921824,
-   "lon": 175.3138,
-   "lat": -38.907,
-   "depth": 177.408,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebp"
-  },
-  {
    "mag": 4.5,
    "place": "41 km SW of Karluk, Alaska",
    "time": 1786998910038,
@@ -193,15 +193,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecs"
   },
   {
-   "mag": 4.2,
-   "place": "73 km SSE of Ende, Indonesia",
-   "time": 1786943370688,
-   "lon": 121.9474,
-   "lat": -9.4427,
-   "depth": 70.711,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebn"
-  },
-  {
    "mag": 4.1,
    "place": "16 km SSE of Honaunau-Napoopoo, Hawaii",
    "time": 1786994648290,
@@ -218,15 +209,6 @@
    "lat": 18.9161,
    "depth": 14,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026229001"
-  },
-  {
-   "mag": 3.8,
-   "place": "32 km E of Halibut Cove, Alaska",
-   "time": 1786943269191,
-   "lon": -150.655,
-   "lat": 59.604,
-   "depth": 34.9,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfngls"
   },
   {
    "mag": 3.6,
@@ -751,15 +733,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfpagh"
   },
   {
-   "mag": 1.9,
-   "place": "9 km S of Volcano, Hawaii",
-   "time": 1786944213550,
-   "lon": -155.245498657227,
-   "lat": 19.3543338775635,
-   "depth": 29,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019687"
-  },
-  {
    "mag": 1.8,
    "place": "47 km WNW of Nanwalek, Alaska",
    "time": 1787026354532,
@@ -932,6 +905,15 @@
   },
   {
    "mag": 1.6,
+   "place": "73 km ESE of Ugashik, Alaska",
+   "time": 1787031218636,
+   "lon": -156.329,
+   "lat": 57.191,
+   "depth": 86.8,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhkdla"
+  },
+  {
+   "mag": 1.6,
    "place": "57 km S of Whites City, New Mexico",
    "time": 1787022818487,
    "lon": -104.437,
@@ -1001,15 +983,6 @@
    "lat": 37.5306663513184,
    "depth": 4.01999998092651,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420062"
-  },
-  {
-   "mag": 1.6,
-   "place": "10 km ENE of Coso Junction, CA",
-   "time": 1786944408670,
-   "lon": -117.840666666667,
-   "lat": 36.0648333333333,
-   "depth": 2.58,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674210"
   },
   {
    "mag": 1.5,
@@ -1130,6 +1103,15 @@
   },
   {
    "mag": 1.4,
+   "place": "19 km SSW of Ocotillo Wells, CA",
+   "time": 1787031321650,
+   "lon": -116.236333333333,
+   "lat": 32.9978333333333,
+   "depth": 7.61,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528960"
+  },
+  {
+   "mag": 1.4,
    "place": "8 km NNW of Borrego Springs, CA",
    "time": 1787022634510,
    "lon": -116.395666666667,
@@ -1190,6 +1172,24 @@
    "lat": 39.326000213623,
    "depth": 6.53999996185303,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419907"
+  },
+  {
+   "mag": 1.3,
+   "place": "6 km WNW of Cobb, CA",
+   "time": 1787031007260,
+   "lon": -122.784164428711,
+   "lat": 38.8359985351562,
+   "depth": 1.26999998092651,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420437"
+  },
+  {
+   "mag": 1.3,
+   "place": "9 km ENE of North Tustin, CA",
+   "time": 1787029292990,
+   "lon": -117.712166666667,
+   "lat": 33.8028333333333,
+   "depth": 7.53,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528936"
   },
   {
    "mag": 1.3,
@@ -1291,13 +1291,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674250"
   },
   {
-   "mag": 1.3,
-   "place": "1 km ESE of Burien, Washington",
-   "time": 1786944536910,
-   "lon": -122.323,
-   "lat": 47.4638333333333,
-   "depth": 29.57,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714080441"
+   "mag": 1.2,
+   "place": "7 km E of Ojai, CA",
+   "time": 1787030364640,
+   "lon": -119.166,
+   "lat": 34.4481666666667,
+   "depth": 3.42,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528952"
   },
   {
    "mag": 1.2,
@@ -1670,6 +1670,15 @@
   },
   {
    "mag": 0.8,
+   "place": "40 km WSW of Adak, Alaska",
+   "time": 1786956563420,
+   "lon": -177.181833333333,
+   "lat": 51.735,
+   "depth": 10.86,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389353"
+  },
+  {
+   "mag": 0.8,
    "place": "8 km NE of Coso Junction, CA",
    "time": 1786946853140,
    "lon": -117.8895,
@@ -2002,15 +2011,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674218"
   },
   {
-   "mag": 0.4,
-   "place": "34 km SE of Malaga, New Mexico",
-   "time": 1786942892106,
-   "lon": -103.783,
-   "lat": 32.039,
-   "depth": 7.6636,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcxnlp"
-  },
-  {
    "mag": 0.3,
    "place": "10 km WNW of The Geysers, CA",
    "time": 1786971626640,
@@ -2102,6 +2102,15 @@
   },
   {
    "mag": 0.1,
+   "place": "6 km WSW of Anza, CA",
+   "time": 1787029565970,
+   "lon": -116.729,
+   "lat": 33.5331666666667,
+   "depth": 2.72,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528944"
+  },
+  {
+   "mag": 0.1,
    "place": "37 km NW of Stanton, Texas",
    "time": 1786969520374,
    "lon": -102.094,
@@ -2144,6 +2153,15 @@
    "lat": 59.9971666666667,
    "depth": 1.9,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389118"
+  },
+  {
+   "mag": -0.4,
+   "place": "64 km ENE of Pedro Bay, Alaska",
+   "time": 1786956903280,
+   "lon": -153.069833333333,
+   "lat": 60.0416666666667,
+   "depth": -1.58,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389368"
   },
   {
    "mag": -0.5,
