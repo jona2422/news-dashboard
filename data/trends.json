@@ -1,24 +1,28 @@
 {
- "updated": "2026-08-18T07:07:41.020106+00:00",
+ "updated": "2026-08-18T07:56:24.972588+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 15
+   "count": 16
+  },
+  {
+   "term": "gaza",
+   "count": 9
+  },
+  {
+   "term": "iran",
+   "count": 9
   },
   {
    "term": "netanyahu",
    "count": 8
   },
   {
-   "term": "gaza",
-   "count": 8
-  },
-  {
-   "term": "iran",
+   "term": "chinese",
    "count": 7
   },
   {
-   "term": "alaska",
+   "term": "west",
    "count": 7
   },
   {
@@ -26,7 +30,19 @@
    "count": 7
   },
   {
-   "term": "chinese",
+   "term": "2026",
+   "count": 6
+  },
+  {
+   "term": "bank",
+   "count": 6
+  },
+  {
+   "term": "israeli",
+   "count": 6
+  },
+  {
+   "term": "alaska",
    "count": 6
   },
   {
@@ -34,35 +50,15 @@
    "count": 6
   },
   {
-   "term": "tupac",
-   "count": 5
-  },
-  {
-   "term": "trial",
-   "count": 5
-  },
-  {
-   "term": "2026",
-   "count": 5
-  },
-  {
-   "term": "time",
-   "count": 5
-  },
-  {
    "term": "museum",
    "count": 5
   },
   {
-   "term": "deal",
+   "term": "drones",
    "count": 5
   },
   {
-   "term": "west",
-   "count": 5
-  },
-  {
-   "term": "israeli",
+   "term": "china",
    "count": 5
   },
   {
@@ -90,58 +86,70 @@
    "count": 5
   },
   {
+   "term": "strikes",
+   "count": 5
+  },
+  {
+   "term": "music",
+   "count": 4
+  },
+  {
    "term": "world",
    "count": 4
   },
   {
-   "term": "murder",
+   "term": "tupac",
    "count": 4
   },
   {
-   "term": "china",
+   "term": "trial",
    "count": 4
   },
   {
-   "term": "bank",
+   "term": "time",
    "count": 4
   },
   {
-   "term": "women",
+   "term": "pass",
    "count": 4
   },
   {
-   "term": "indonesia",
+   "term": "siege",
    "count": 4
   },
   {
-   "term": "forest",
-   "count": 4
-  },
-  {
-   "term": "notification",
+   "term": "deal",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 13
+   "count": 15
+  },
+  {
+   "name": "Gaza",
+   "count": 9
+  },
+  {
+   "name": "Iran",
+   "count": 9
   },
   {
    "name": "Netanyahu",
    "count": 8
   },
   {
-   "name": "Gaza",
-   "count": 8
+   "name": "West Bank",
+   "count": 6
   },
   {
-   "name": "Iran",
-   "count": 7
+   "name": "Israeli",
+   "count": 6
   },
   {
    "name": "Alaska",
-   "count": 7
+   "count": 6
   },
   {
    "name": "Green",
@@ -152,23 +160,43 @@
    "count": 6
   },
   {
-   "name": "Israeli",
-   "count": 5
+   "name": "Chinese",
+   "count": 6
   },
   {
    "name": "Hamas",
    "count": 5
   },
   {
-   "name": "Chinese",
-   "count": 5
-  },
-  {
-   "name": "West Bank",
+   "name": "China",
    "count": 4
   },
   {
-   "name": "Zambia",
+   "name": "Indonesia",
+   "count": 4
+  },
+  {
+   "name": "Israel",
+   "count": 3
+  },
+  {
+   "name": "India",
+   "count": 3
+  },
+  {
+   "name": "Ukraine",
+   "count": 3
+  },
+  {
+   "name": "Russia",
+   "count": 3
+  },
+  {
+   "name": "Oman",
+   "count": 3
+  },
+  {
+   "name": "Hormuz",
    "count": 3
   },
   {
@@ -176,15 +204,7 @@
    "count": 3
   },
   {
-   "name": "Indonesia",
-   "count": 3
-  },
-  {
    "name": "Lebanon",
-   "count": 3
-  },
-  {
-   "name": "China",
    "count": 3
   },
   {
@@ -197,26 +217,6 @@
   },
   {
    "name": "Brazil",
-   "count": 2
-  },
-  {
-   "name": "Mary Heilmann",
-   "count": 2
-  },
-  {
-   "name": "Dies",
-   "count": 2
-  },
-  {
-   "name": "Italy",
-   "count": 2
-  },
-  {
-   "name": "Renaissance Masterpieces Stolen",
-   "count": 2
-  },
-  {
-   "name": "Israel",
    "count": 2
   }
  ]
