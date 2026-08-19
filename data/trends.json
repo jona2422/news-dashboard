@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-19T01:55:06.683967+00:00",
+ "updated": "2026-08-19T03:13:15.108830+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 17
+   "count": 19
   },
   {
    "term": "iran",
@@ -11,7 +11,11 @@
   },
   {
    "term": "talks",
-   "count": 10
+   "count": 9
+  },
+  {
+   "term": "gaza",
+   "count": 9
   },
   {
    "term": "china",
@@ -20,10 +24,6 @@
   {
    "term": "netanyahu",
    "count": 9
-  },
-  {
-   "term": "gaza",
-   "count": 8
   },
   {
    "term": "year",
@@ -38,27 +38,15 @@
    "count": 7
   },
   {
-   "term": "drummer",
-   "count": 5
+   "term": "south",
+   "count": 6
   },
   {
-   "term": "frank",
-   "count": 5
-  },
-  {
-   "term": "beard",
-   "count": 5
-  },
-  {
-   "term": "dies",
-   "count": 5
+   "term": "deal",
+   "count": 6
   },
   {
    "term": "death",
-   "count": 5
-  },
-  {
-   "term": "south",
    "count": 5
   },
   {
@@ -66,7 +54,11 @@
    "count": 5
   },
   {
-   "term": "plan",
+   "term": "people",
+   "count": 5
+  },
+  {
+   "term": "trial",
    "count": 5
   },
   {
@@ -78,7 +70,27 @@
    "count": 5
   },
   {
+   "term": "final",
+   "count": 4
+  },
+  {
    "term": "music",
+   "count": 4
+  },
+  {
+   "term": "drummer",
+   "count": 4
+  },
+  {
+   "term": "frank",
+   "count": 4
+  },
+  {
+   "term": "beard",
+   "count": 4
+  },
+  {
+   "term": "dies",
    "count": 4
   },
   {
@@ -86,23 +98,19 @@
    "count": 4
   },
   {
-   "term": "study",
+   "term": "korea",
    "count": 4
   },
   {
-   "term": "finds",
+   "term": "meta",
    "count": 4
   },
   {
-   "term": "people",
+   "term": "half",
    "count": 4
   },
   {
-   "term": "children",
-   "count": 4
-  },
-  {
-   "term": "chief",
+   "term": "days",
    "count": 4
   },
   {
@@ -110,41 +118,33 @@
    "count": 4
   },
   {
-   "term": "israel",
-   "count": 4
-  },
-  {
    "term": "israeli",
-   "count": 4
-  },
-  {
-   "term": "threatens",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 16
+   "count": 18
   },
   {
    "name": "Iran",
    "count": 10
   },
   {
+   "name": "Gaza",
+   "count": 9
+  },
+  {
    "name": "Netanyahu",
    "count": 9
   },
   {
-   "name": "China",
-   "count": 8
-  },
-  {
-   "name": "Gaza",
-   "count": 8
-  },
-  {
    "name": "Alaska",
+   "count": 7
+  },
+  {
+   "name": "China",
    "count": 7
   },
   {
@@ -160,7 +160,7 @@
    "count": 4
   },
   {
-   "name": "Israel",
+   "name": "Meta",
    "count": 4
   },
   {
@@ -172,6 +172,10 @@
    "count": 4
   },
   {
+   "name": "Oman",
+   "count": 4
+  },
+  {
    "name": "Hamas",
    "count": 4
   },
@@ -180,15 +184,7 @@
    "count": 4
   },
   {
-   "name": "ZZ Top",
-   "count": 3
-  },
-  {
-   "name": "Frank Beard",
-   "count": 3
-  },
-  {
-   "name": "Instagram",
+   "name": "South Korea",
    "count": 3
   },
   {
@@ -196,7 +192,11 @@
    "count": 3
   },
   {
-   "name": "Valle",
+   "name": "Israel",
+   "count": 3
+  },
+  {
+   "name": "Syria",
    "count": 3
   },
   {
@@ -204,19 +204,19 @@
    "count": 3
   },
   {
-   "name": "Oman",
-   "count": 3
-  },
-  {
    "name": "Iraq",
    "count": 3
   },
   {
-   "name": "Dead",
+   "name": "Chinese",
+   "count": 3
+  },
+  {
+   "name": "ZZ Top",
    "count": 2
   },
   {
-   "name": "Steve Lacy",
+   "name": "Frank Beard",
    "count": 2
   }
  ]
