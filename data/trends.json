@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-19T09:51:47.555322+00:00",
+ "updated": "2026-08-19T10:48:52.580635+00:00",
  "terms": [
   {
    "term": "alaska",
-   "count": 10
-  },
-  {
-   "term": "trump",
-   "count": 9
-  },
-  {
-   "term": "gaza",
-   "count": 9
+   "count": 11
   },
   {
    "term": "netanyahu",
    "count": 9
   },
   {
-   "term": "china",
+   "term": "iran",
+   "count": 8
+  },
+  {
+   "term": "gaza",
+   "count": 8
+  },
+  {
+   "term": "trump",
    "count": 7
   },
   {
-   "term": "iran",
+   "term": "china",
    "count": 7
   },
   {
@@ -30,11 +30,11 @@
    "count": 7
   },
   {
-   "term": "2026",
+   "term": "green",
    "count": 6
   },
   {
-   "term": "green",
+   "term": "talks",
    "count": 6
   },
   {
@@ -62,7 +62,7 @@
    "count": 5
   },
   {
-   "term": "tour",
+   "term": "2026",
    "count": 5
   },
   {
@@ -70,8 +70,8 @@
    "count": 5
   },
   {
-   "term": "talks",
-   "count": 5
+   "term": "white",
+   "count": 4
   },
   {
    "term": "show",
@@ -79,18 +79,6 @@
   },
   {
    "term": "russian",
-   "count": 4
-  },
-  {
-   "term": "security",
-   "count": 4
-  },
-  {
-   "term": "killed",
-   "count": 4
-  },
-  {
-   "term": "ukraine",
    "count": 4
   },
   {
@@ -120,28 +108,40 @@
   {
    "term": "hamas",
    "count": 4
+  },
+  {
+   "term": "plan",
+   "count": 4
+  },
+  {
+   "term": "hong",
+   "count": 4
+  },
+  {
+   "term": "kong",
+   "count": 4
   }
  ],
  "entities": [
   {
    "name": "Alaska",
-   "count": 10
-  },
-  {
-   "name": "Gaza",
-   "count": 9
+   "count": 11
   },
   {
    "name": "Netanyahu",
    "count": 9
   },
   {
-   "name": "Trump",
+   "name": "Iran",
    "count": 8
   },
   {
-   "name": "Iran",
-   "count": 7
+   "name": "Gaza",
+   "count": 8
+  },
+  {
+   "name": "Trump",
+   "count": 6
   },
   {
    "name": "China",
@@ -164,6 +164,10 @@
    "count": 4
   },
   {
+   "name": "Chinese",
+   "count": 4
+  },
+  {
    "name": "Frank Beard",
    "count": 3
   },
@@ -180,7 +184,7 @@
    "count": 3
   },
   {
-   "name": "Ukraine",
+   "name": "Israel",
    "count": 3
   },
   {
@@ -200,8 +204,12 @@
    "count": 3
   },
   {
-   "name": "Chinese",
-   "count": 3
+   "name": "People",
+   "count": 2
+  },
+  {
+   "name": "There",
+   "count": 2
   },
   {
    "name": "Dead",
@@ -209,14 +217,6 @@
   },
   {
    "name": "Steve Lacy",
-   "count": 2
-  },
-  {
-   "name": "Other Art World Matters",
-   "count": 2
-  },
-  {
-   "name": "August",
    "count": 2
   }
  ]
