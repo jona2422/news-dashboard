@@ -1,36 +1,64 @@
 {
- "updated": "2026-08-19T15:48:48.511813+00:00",
+ "updated": "2026-08-19T16:50:04.986432+00:00",
  "terms": [
   {
    "term": "gaza",
+   "count": 12
+  },
+  {
+   "term": "israel",
    "count": 10
+  },
+  {
+   "term": "china",
+   "count": 9
+  },
+  {
+   "term": "trump",
+   "count": 9
+  },
+  {
+   "term": "netanyahu",
+   "count": 9
   },
   {
    "term": "alaska",
    "count": 9
   },
   {
-   "term": "trump",
+   "term": "opens",
    "count": 8
   },
   {
-   "term": "china",
-   "count": 8
-  },
-  {
-   "term": "netanyahu",
-   "count": 8
+   "term": "2026",
+   "count": 6
   },
   {
    "term": "green",
-   "count": 7
+   "count": 6
+  },
+  {
+   "term": "pixel",
+   "count": 6
   },
   {
    "term": "fire",
    "count": 6
   },
   {
-   "term": "israel",
+   "term": "israeli",
+   "count": 6
+  },
+  {
+   "term": "iran",
+   "count": 6
+  },
+  {
+   "term": "hind",
+   "count": 6
+  },
+  {
+   "term": "rajab",
    "count": 6
   },
   {
@@ -38,11 +66,11 @@
    "count": 6
   },
   {
-   "term": "opens",
+   "term": "album",
    "count": 5
   },
   {
-   "term": "investigation",
+   "term": "stream",
    "count": 5
   },
   {
@@ -50,51 +78,39 @@
    "count": 5
   },
   {
-   "term": "hind",
+   "term": "west",
    "count": 5
   },
   {
-   "term": "rajab",
+   "term": "bank",
    "count": 5
   },
   {
-   "term": "palestinian",
+   "term": "criminal",
    "count": 5
   },
   {
-   "term": "israeli",
-   "count": 5
-  },
-  {
-   "term": "iran",
-   "count": 5
-  },
-  {
-   "term": "album",
+   "term": "study",
    "count": 4
   },
   {
-   "term": "bring",
+   "term": "world",
    "count": 4
   },
   {
-   "term": "three",
+   "term": "investigation",
    "count": 4
   },
   {
-   "term": "home",
+   "term": "trade",
    "count": 4
   },
   {
-   "term": "high",
+   "term": "killed",
    "count": 4
   },
   {
-   "term": "year",
-   "count": 4
-  },
-  {
-   "term": "raises",
+   "term": "military",
    "count": 4
   },
   {
@@ -102,57 +118,49 @@
    "count": 4
   },
   {
-   "term": "criminal",
-   "count": 4
-  },
-  {
-   "term": "children",
-   "count": 4
-  },
-  {
    "term": "contra",
-   "count": 4
-  },
-  {
-   "term": "forest",
-   "count": 4
-  },
-  {
-   "term": "notification",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Gaza",
+   "count": 12
+  },
+  {
+   "name": "Israel",
    "count": 10
+  },
+  {
+   "name": "China",
+   "count": 9
+  },
+  {
+   "name": "Netanyahu",
+   "count": 9
   },
   {
    "name": "Alaska",
    "count": 9
   },
   {
-   "name": "Netanyahu",
+   "name": "Trump",
    "count": 8
   },
   {
-   "name": "Trump",
-   "count": 7
+   "name": "Israeli",
+   "count": 6
   },
   {
-   "name": "China",
-   "count": 7
-  },
-  {
-   "name": "Israel",
+   "name": "Iran",
    "count": 6
   },
   {
    "name": "Hind Rajab",
-   "count": 5
+   "count": 6
   },
   {
-   "name": "Palestinian",
+   "name": "West Bank",
    "count": 5
   },
   {
@@ -160,19 +168,11 @@
    "count": 5
   },
   {
-   "name": "Israeli",
-   "count": 5
-  },
-  {
-   "name": "Iran",
-   "count": 5
-  },
-  {
-   "name": "Amazon",
+   "name": "Stream",
    "count": 4
   },
   {
-   "name": "West Bank",
+   "name": "Amazon",
    "count": 4
   },
   {
@@ -180,11 +180,15 @@
    "count": 4
   },
   {
+   "name": "Pixel",
+   "count": 3
+  },
+  {
    "name": "Moderna",
    "count": 3
   },
   {
-   "name": "Ceuta",
+   "name": "Florida",
    "count": 3
   },
   {
@@ -200,7 +204,7 @@
    "count": 2
   },
   {
-   "name": "Stream",
+   "name": "August",
    "count": 2
   },
   {
@@ -208,15 +212,11 @@
    "count": 2
   },
   {
-   "name": "Year",
+   "name": "TechCrunch Disrupt",
    "count": 2
   },
   {
-   "name": "Canada",
-   "count": 2
-  },
-  {
-   "name": "Florida",
+   "name": "The Pixel",
    "count": 2
   }
  ]
