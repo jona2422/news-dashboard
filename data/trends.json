@@ -1,32 +1,32 @@
 {
- "updated": "2026-08-19T13:12:59.082901+00:00",
+ "updated": "2026-08-19T14:00:24.086341+00:00",
  "terms": [
   {
    "term": "gaza",
-   "count": 13
+   "count": 14
+  },
+  {
+   "term": "iran",
+   "count": 10
   },
   {
    "term": "china",
-   "count": 11
+   "count": 10
+  },
+  {
+   "term": "alaska",
+   "count": 9
   },
   {
    "term": "netanyahu",
    "count": 9
   },
   {
-   "term": "trump",
-   "count": 8
-  },
-  {
-   "term": "alaska",
-   "count": 8
-  },
-  {
-   "term": "israeli",
+   "term": "israel",
    "count": 7
   },
   {
-   "term": "iran",
+   "term": "trump",
    "count": 7
   },
   {
@@ -34,15 +34,11 @@
    "count": 7
   },
   {
-   "term": "dies",
-   "count": 6
-  },
-  {
    "term": "green",
    "count": 6
   },
   {
-   "term": "deal",
+   "term": "fire",
    "count": 6
   },
   {
@@ -50,7 +46,7 @@
    "count": 6
   },
   {
-   "term": "music",
+   "term": "album",
    "count": 5
   },
   {
@@ -70,27 +66,31 @@
    "count": 5
   },
   {
-   "term": "criminal",
+   "term": "hind",
    "count": 5
   },
   {
-   "term": "palestinian",
+   "term": "rajab",
    "count": 5
   },
   {
-   "term": "plan",
+   "term": "deal",
    "count": 5
   },
   {
-   "term": "israel",
-   "count": 5
-  },
-  {
-   "term": "band",
+   "term": "show",
    "count": 4
   },
   {
-   "term": "investigation",
+   "term": "dies",
+   "count": 4
+  },
+  {
+   "term": "year",
+   "count": 4
+  },
+  {
+   "term": "israeli",
    "count": 4
   },
   {
@@ -98,34 +98,42 @@
    "count": 4
   },
   {
+   "term": "palestinian",
+   "count": 4
+  },
+  {
    "term": "trade",
    "count": 4
   },
   {
-   "term": "chinese",
+   "term": "millones",
    "count": 4
   },
   {
-   "term": "hind",
+   "term": "forest",
    "count": 4
   },
   {
-   "term": "rajab",
+   "term": "notification",
    "count": 4
   },
   {
-   "term": "military",
-   "count": 4
-  },
-  {
-   "term": "nuevo",
+   "term": "bank",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Gaza",
-   "count": 13
+   "count": 14
+  },
+  {
+   "name": "Iran",
+   "count": 10
+  },
+  {
+   "name": "Alaska",
+   "count": 9
   },
   {
    "name": "China",
@@ -136,27 +144,15 @@
    "count": 9
   },
   {
-   "name": "Alaska",
-   "count": 8
+   "name": "Israel",
+   "count": 7
   },
   {
    "name": "Trump",
-   "count": 7
+   "count": 6
   },
   {
-   "name": "Israeli",
-   "count": 7
-  },
-  {
-   "name": "Iran",
-   "count": 7
-  },
-  {
-   "name": "Palestinian",
-   "count": 5
-  },
-  {
-   "name": "Israel",
+   "name": "Hind Rajab",
    "count": 5
   },
   {
@@ -168,11 +164,11 @@
    "count": 5
   },
   {
-   "name": "Chinese",
+   "name": "Israeli",
    "count": 4
   },
   {
-   "name": "Hind Rajab",
+   "name": "Palestinian",
    "count": 4
   },
   {
@@ -192,7 +188,7 @@
    "count": 3
   },
   {
-   "name": "Pakistan",
+   "name": "Chinese",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "Other Art World Matters",
+   "count": 2
+  },
+  {
+   "name": "Year",
    "count": 2
   }
  ]
