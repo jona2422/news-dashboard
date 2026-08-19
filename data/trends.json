@@ -1,8 +1,12 @@
 {
- "updated": "2026-08-19T20:48:03.406962+00:00",
+ "updated": "2026-08-19T21:44:00.270477+00:00",
  "terms": [
   {
    "term": "trump",
+   "count": 12
+  },
+  {
+   "term": "gaza",
    "count": 12
   },
   {
@@ -11,14 +15,14 @@
   },
   {
    "term": "album",
-   "count": 10
-  },
-  {
-   "term": "gaza",
-   "count": 10
+   "count": 11
   },
   {
    "term": "israel",
+   "count": 10
+  },
+  {
+   "term": "killed",
    "count": 8
   },
   {
@@ -26,39 +30,35 @@
    "count": 7
   },
   {
-   "term": "green",
+   "term": "china",
    "count": 7
   },
   {
-   "term": "killed",
-   "count": 7
+   "term": "announce",
+   "count": 6
+  },
+  {
+   "term": "hind",
+   "count": 6
+  },
+  {
+   "term": "rajab",
+   "count": 6
+  },
+  {
+   "term": "iran",
+   "count": 6
   },
   {
    "term": "israeli",
-   "count": 7
-  },
-  {
-   "term": "china",
-   "count": 7
+   "count": 6
   },
   {
    "term": "netanyahu",
    "count": 6
   },
   {
-   "term": "announce",
-   "count": 5
-  },
-  {
-   "term": "2026",
-   "count": 5
-  },
-  {
    "term": "chief",
-   "count": 5
-  },
-  {
-   "term": "fire",
    "count": 5
   },
   {
@@ -66,23 +66,15 @@
    "count": 5
   },
   {
+   "term": "plans",
+   "count": 5
+  },
+  {
    "term": "google",
    "count": 5
   },
   {
-   "term": "crash",
-   "count": 5
-  },
-  {
-   "term": "iran",
-   "count": 5
-  },
-  {
-   "term": "hind",
-   "count": 5
-  },
-  {
-   "term": "rajab",
+   "term": "green",
    "count": 5
   },
   {
@@ -90,15 +82,15 @@
    "count": 5
   },
   {
-   "term": "reveal",
+   "term": "museum",
    "count": 4
   },
   {
-   "term": "study",
+   "term": "2026",
    "count": 4
   },
   {
-   "term": "plans",
+   "term": "fire",
    "count": 4
   },
   {
@@ -114,6 +106,14 @@
    "count": 4
   },
   {
+   "term": "crash",
+   "count": 4
+  },
+  {
+   "term": "year",
+   "count": 4
+  },
+  {
    "term": "syria",
    "count": 4
   },
@@ -124,27 +124,23 @@
  ],
  "entities": [
   {
+   "name": "Gaza",
+   "count": 12
+  },
+  {
    "name": "Alaska",
    "count": 12
   },
   {
    "name": "Trump",
-   "count": 11
-  },
-  {
-   "name": "Gaza",
    "count": 10
   },
   {
    "name": "Israel",
-   "count": 8
+   "count": 10
   },
   {
    "name": "Stream",
-   "count": 7
-  },
-  {
-   "name": "Israeli",
    "count": 7
   },
   {
@@ -152,7 +148,15 @@
    "count": 7
   },
   {
-   "name": "Green",
+   "name": "Hind Rajab",
+   "count": 6
+  },
+  {
+   "name": "Iran",
+   "count": 6
+  },
+  {
+   "name": "Israeli",
    "count": 6
   },
   {
@@ -160,11 +164,7 @@
    "count": 6
   },
   {
-   "name": "Iran",
-   "count": 5
-  },
-  {
-   "name": "Hind Rajab",
+   "name": "Green",
    "count": 5
   },
   {
@@ -184,19 +184,11 @@
    "count": 3
   },
   {
-   "name": "Ecuador",
+   "name": "Ceuta",
    "count": 3
   },
   {
    "name": "Syria",
-   "count": 3
-  },
-  {
-   "name": "Canada",
-   "count": 3
-  },
-  {
-   "name": "Michoacán",
    "count": 3
   },
   {
@@ -216,7 +208,15 @@
    "count": 2
   },
   {
-   "name": "September",
+   "name": "August",
+   "count": 2
+  },
+  {
+   "name": "Angie Nixon",
+   "count": 2
+  },
+  {
+   "name": "Ecuador",
    "count": 2
   }
  ]
