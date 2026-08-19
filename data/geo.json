@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-19T04:02:37.638411+00:00",
- "total": 117,
+ "updated": "2026-08-19T04:54:23.845995+00:00",
+ "total": 107,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 29,
+   "count": 22,
    "items": [
     {
      "title": "US defence chiefs tour Asia to calm fears as Trump’s drill remarks sow doubts",
@@ -28,6 +28,15 @@
      "beatName": "Actualidad Global"
     },
     {
+     "title": "South Korea shortens war games with US, citing Washington request",
+     "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
+     "ts": 1787110781000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
      "title": "US sanctions International Criminal Court’s president and top lawyer",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -42,24 +51,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cfa/live/3fef0100-9b46-11f1-bd52-f9704e8e5c82.jpg",
      "ts": 1787109126000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Fiscalía acusa a Meta en EE.UU. de hacer adictos a menores",
-     "link": "https://www.dw.com/es/fiscalía-acusa-a-meta-en-ee-uu-de-hacer-adictos-a-menores/a-78420971?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787108520000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "US, Canada reach deal to pause steep tariffs",
-     "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787106915000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -98,6 +89,114 @@
      "ts": 1787104843000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/a1a2f383-9c72-4fd5-ae2b-1ffb2911655f_bdd440ae.jpg?itok=a7D2AOEn&v=1787104657",
+     "ts": 1787104658000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "China",
+   "es": "China",
+   "lat": 35.9,
+   "lon": 104.2,
+   "count": 12,
+   "items": [
+    {
+     "title": "Hong Kong considering euthanising large dog after fatal attacks on 2 pets",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3364511/hong-kong-considering-euthanising-large-dog-after-fatal-attacks-2-pets?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/766a38cc-5b46-48ec-9f00-aa33bb1fa10f_fa1fad60.jpg?itok=qai7AKVk&v=1787110964",
+     "ts": 1787110966000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "La Bolsa se rinde a los robots humanoides: la china Unitree Robotics anticipa un debut histórico",
+     "link": "https://cincodias.elpais.com/mercados-financieros/2026-08-19/la-bolsa-se-rinde-a-los-robots-humanoides-la-china-unitree-robotics-anticipa-un-debut-historico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/NY3S2EKXNFG6DAZDWGAIURCNME.JPG?auth=9f4305ee353cc216722cb6eca4edcf8f5d6733b462579a50a7d22f2727488459",
+     "ts": 1787110201000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
+     "link": "https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/5f6bfef8-afa2-450b-9095-1e0ee986809b_a0274eaa.jpg?itok=EdYRqJKC&v=1787110131",
+     "ts": 1787110134000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Chinese coastguard proposes turning South China Sea isles into robotic fortress",
+     "link": "https://www.scmp.com/news/china/science/article/3364440/chinese-coastguard-proposes-turning-south-china-sea-isles-robotic-fortress?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/3331f4e7-f1a6-4e17-9fbc-ab9ecab98331_05d25af2.jpg?itok=_YTWNrJs&v=1787047982",
+     "ts": 1787104811000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/a1a2f383-9c72-4fd5-ae2b-1ffb2911655f_bdd440ae.jpg?itok=a7D2AOEn&v=1787104657",
+     "ts": 1787104658000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong needs a mission for 2049 to focus its 5-year plans",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/461b2c0a-e4ab-4280-a982-f6a29bae3c78_f2cb3391.jpg?itok=yiXu3lLg&v=1786871275",
+     "ts": 1787103009000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China ‘cloudscape observer’ mist-monitoring job ends; resort plans more similar campaigns",
+     "link": "https://www.scmp.com/news/people-culture/environment/article/3364495/china-cloudscape-observer-mist-monitoring-job-ends-resort-plans-more-similar-campaigns?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/8abadbcd-62f2-455f-83bf-0844a40bf67a_c046e436.jpg?itok=a1pk-gie&v=1787102900",
+     "ts": 1787102906000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China’s LandSpace beats SpaceX with steel-booster recovery after orbital launch",
+     "link": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/382908cc-0196-46c0-b3c2-1be5f0efd243_919a7994.jpg?itok=ixghaVOz&v=1787099304",
+     "ts": 1787099313000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Use of yuan hits 6-month high in Hong Kong’s fast-payment system",
+     "link": "https://www.scmp.com/business/banking-finance/article/3364413/use-yuan-hits-6-month-high-hong-kongs-fast-payment-system?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/8c045060-f2bd-4565-bf61-f70376553607_c715dbfd.jpg?itok=YpKAKkjA&v=1787040392",
+     "ts": 1787097611000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "US urged to follow China’s lead in treating data as an economic asset",
+     "link": "https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/2251b730-dbc3-499d-8855-caee17dc51f2_391a1a48.jpg?itok=FiptWdrk&v=1787095653",
+     "ts": 1787095659000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -106,17 +205,8 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 13,
+   "count": 12,
    "items": [
-    {
-     "title": "Ataque israelí deja siete muertos en Ciudad de Gaza",
-     "link": "https://www.dw.com/es/ataque-israelí-deja-siete-muertos-en-ciudad-de-gaza/a-78420964?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787106540000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
     {
      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
      "link": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
@@ -197,105 +287,15 @@
      "ts": 1786971438000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "China",
-   "es": "China",
-   "lat": 35.9,
-   "lon": 104.2,
-   "count": 12,
-   "items": [
-    {
-     "title": "Hong Kong considering euthanising large dog after fatal attacks on 2 pets",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3364511/hong-kong-considering-euthanising-large-dog-after-fatal-attacks-2-pets?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/766a38cc-5b46-48ec-9f00-aa33bb1fa10f_fa1fad60.jpg?itok=qai7AKVk&v=1787110964",
-     "ts": 1787110966000,
-     "beat": "china",
-     "beatName": "China"
     },
     {
-     "title": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
-     "link": "https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/5f6bfef8-afa2-450b-9095-1e0ee986809b_a0274eaa.jpg?itok=EdYRqJKC&v=1787110131",
-     "ts": 1787110134000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Chinese coastguard proposes turning South China Sea isles into robotic fortress",
-     "link": "https://www.scmp.com/news/china/science/article/3364440/chinese-coastguard-proposes-turning-south-china-sea-isles-robotic-fortress?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/3331f4e7-f1a6-4e17-9fbc-ab9ecab98331_05d25af2.jpg?itok=_YTWNrJs&v=1787047982",
-     "ts": 1787104811000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/a1a2f383-9c72-4fd5-ae2b-1ffb2911655f_bdd440ae.jpg?itok=a7D2AOEn&v=1787104657",
-     "ts": 1787104658000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Hong Kong needs a mission for 2049 to focus its 5-year plans",
-     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363928/hong-kong-needs-mission-2049-focus-its-five-year-plans?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/461b2c0a-e4ab-4280-a982-f6a29bae3c78_f2cb3391.jpg?itok=yiXu3lLg&v=1786871275",
-     "ts": 1787103009000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China ‘cloudscape observer’ mist-monitoring job ends; resort plans more similar campaigns",
-     "link": "https://www.scmp.com/news/people-culture/environment/article/3364495/china-cloudscape-observer-mist-monitoring-job-ends-resort-plans-more-similar-campaigns?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/8abadbcd-62f2-455f-83bf-0844a40bf67a_c046e436.jpg?itok=a1pk-gie&v=1787102900",
-     "ts": 1787102906000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China’s LandSpace beats SpaceX with steel-booster recovery after orbital launch",
-     "link": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/382908cc-0196-46c0-b3c2-1be5f0efd243_919a7994.jpg?itok=ixghaVOz&v=1787099304",
-     "ts": 1787099313000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Use of yuan hits 6-month high in Hong Kong’s fast-payment system",
-     "link": "https://www.scmp.com/business/banking-finance/article/3364413/use-yuan-hits-6-month-high-hong-kongs-fast-payment-system?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/8c045060-f2bd-4565-bf61-f70376553607_c715dbfd.jpg?itok=YpKAKkjA&v=1787040392",
-     "ts": 1787097611000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US urged to follow China’s lead in treating data as an economic asset",
-     "link": "https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/2251b730-dbc3-499d-8855-caee17dc51f2_391a1a48.jpg?itok=FiptWdrk&v=1787095653",
-     "ts": 1787095659000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "After years, Macau firm opts out of Hong Kong renewal project, seeks US$153m for site",
-     "link": "https://www.scmp.com/business/article/3364462/after-years-macau-firm-opts-out-hong-kong-renewal-project-seeks-us153m-site?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/c52dbc97-8da8-4e66-bea1-efc5ce9c1f65_ff3afd44.jpg?itok=CmWPUKgF&v=1787057543",
-     "ts": 1787094007000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Trump’s Gaza plan: What is at stake for Netanyahu?",
+     "link": "https://www.france24.com/en/trump-s-gaza-plan-what-is-at-stake-for-netanyahu",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/b384e806-68e6-11f1-8675-005056bf30b7/w:1024/p:16x9/2026-06-15T181805Z-842535677-RC2IULA84HV9-RTRMADP-3-IRAN-CRISIS-ISRAEL-NETANYAHU.jpg",
+     "ts": 1786962647000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -304,17 +304,8 @@
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 11,
+   "count": 10,
    "items": [
-    {
-     "title": "US ambassador to Israel calls settler violence ‘terror’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787100550000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
     {
      "title": "In Jerusalem, US negotiator Jared Kushner presses Netanyahu about Gaza deal",
      "link": "https://www.france24.com/en/in-jerusalem-us-negotiator-jared-kushner-presses-netanyahu-about-gaza-deal",
@@ -393,6 +384,15 @@
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/b384e806-68e6-11f1-8675-005056bf30b7/w:1024/p:16x9/2026-06-15T181805Z-842535677-RC2IULA84HV9-RTRMADP-3-IRAN-CRISIS-ISRAEL-NETANYAHU.jpg",
      "ts": 1786962647000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Middle East : Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+     "link": "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/ba659922-99dd-11f1-bb59-005056a90284/w:1024/p:16x9/2026-08-16T230048Z-1232470912-RC2YZMAKU6OT-RTRMADP-3-ISRAEL-PALESTINIANS-EGYPT-KUSHNER.jpg",
+     "ts": 1786957236000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -496,6 +496,15 @@
    "count": 5,
    "items": [
     {
+     "title": "South Korea shortens war games with US, citing Washington request",
+     "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
+     "ts": 1787110781000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
      "title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
      "link": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
      "source": "World news | The Guardian",
@@ -512,15 +521,6 @@
      "ts": 1787101419000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Pyongyang critica ejercicios militares de Washington y Seúl",
-     "link": "https://www.dw.com/es/pyongyang-critica-ejercicios-militares-de-washington-y-seúl/a-78420940?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787098800000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "South Korea accelerates military self-reliance over Trump’s ‘unpredictability’",
@@ -547,7 +547,7 @@
    "es": "Canadá",
    "lat": 56.1,
    "lon": -106.3,
-   "count": 4,
+   "count": 5,
    "items": [
     {
      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -555,6 +555,24 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
      "ts": 1787111795000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump afirma que EE UU y Canadá alcanzaron un acuerdo de último momento que pausa la entrada en vigor de nuevos aranceles",
+     "link": "https://elpais.com/us/2026-08-19/trump-afirma-que-ee-uu-y-canada-alcanzaron-un-acuerdo-de-ultimo-momento-que-pausa-la-entrada-en-vigor-de-nuevos-aranceles.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/F572JPUI55IDVCLGEH4GFQNK7M.jpg?auth=12dcea800f374d54e37e876ce2eeafec134aebe25f149c647b8d0f1e343b5339",
+     "ts": 1787111709000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+     "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882",
+     "ts": 1787111232000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -568,67 +586,13 @@
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
-     "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882",
-     "ts": 1787109127000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US, Canada reach deal to pause steep tariffs",
+     "title": "Trump pauses 50 percent tariff on Canada in last-minute deal",
      "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1787106915000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 4,
-   "items": [
-    {
-     "title": "Middle East live: Turkey rejects Israeli claims after strike on Syria air base",
-     "link": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/a7830724-9b02-11f1-a71c-005056bf30b7/w:1024/p:16x9/1bdd3be295f5e6ff35a18f4fcfbc605190ff83e6.jpg",
-     "ts": 1787108751000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Estados Unidos condena ataque israelí contra base militar en Siria",
-     "link": "https://www.france24.com/es/video/20260819-estados-unidos-condena-ataque-israel%C3%AD-contra-base-militar-en-siria",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/67387e00-9b5d-11f1-88c4-005056bfb2b6/w:1024/p:16x9/ES-20260818-180345-180535-CS.jpg",
-     "ts": 1787098319000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Death and alleged torture of man in detention sparks protests in Syria",
-     "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
-     "ts": 1787069004000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Syria sentences to death detained cousin of ousted president Assad",
-     "link": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/54d23416-9ae2-11f1-95e7-005056a97e36/w:1024/p:16x9/000-639D2KD-1.jpg",
-     "ts": 1787045086000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -663,6 +627,42 @@
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/6c8169ec-9b32-11f1-8fb3-005056bf30b7/w:1024/p:16x9/e0f965597c05995bf4c65a81497058de714040c8.jpg",
      "ts": 1787091729000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 3,
+   "items": [
+    {
+     "title": "Middle East live: Turkey rejects Israeli claims after strike on Syria air base",
+     "link": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/a7830724-9b02-11f1-a71c-005056bf30b7/w:1024/p:16x9/1bdd3be295f5e6ff35a18f4fcfbc605190ff83e6.jpg",
+     "ts": 1787108751000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Death and alleged torture of man in detention sparks protests in Syria",
+     "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
+     "ts": 1787069004000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Syria sentences to death detained cousin of ousted president Assad",
+     "link": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/54d23416-9ae2-11f1-95e7-005056a97e36/w:1024/p:16x9/000-639D2KD-1.jpg",
+     "ts": 1787045086000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -716,7 +716,7 @@
      "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/834844df6e8c6268c3d928f8aa12c5c1c6dfb8c2/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=f87026d8f018e4e341d5fd95476cd245",
-     "ts": 1787110653000,
+     "ts": 1787114382000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -732,27 +732,27 @@
    ]
   },
   {
-   "name": "Dem. Rep. Korea",
-   "es": "Corea del Norte",
-   "lat": 40.3,
-   "lon": 127.5,
+   "name": "Nigeria",
+   "es": "Nigeria",
+   "lat": 9.1,
+   "lon": 8.7,
    "count": 2,
    "items": [
     {
-     "title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-     "link": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
-     "ts": 1787105905000,
+     "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787113526000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Pyongyang critica ejercicios militares de Washington y Seúl",
-     "link": "https://www.dw.com/es/pyongyang-critica-ejercicios-militares-de-washington-y-seúl/a-78420940?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787098800000,
+     "title": "Casar a 1.500 parejas de golpe: la polémica iniciativa para apoyar la economía de los más necesitados en Nigeria",
+     "link": "https://elpais.com/planeta-futuro/2026-08-19/casar-a-1500-parejas-de-golpe-la-polemica-iniciativa-para-apoyar-la-economia-de-los-mas-necesitados-en-nigeria.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/KYLZZ7CE4VPVTHEXVSRTYRV4BQ.jpg?auth=dc517fa891ac20119cb8be92ba859631633ed87f804e6d4ff3793932dedc891c",
+     "ts": 1787110201000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -849,6 +849,42 @@
    ]
   },
   {
+   "name": "Australia",
+   "es": "Australia",
+   "lat": -25.3,
+   "lon": 133.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Australia politics live: Coalition accuses Labor of treating veterans ‘with contempt’; Victorian Liberals pledge to ‘throw open doors to gas’",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ee94e0173b5340689639cdd3d8e4e9cee4acfee3/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=11bab34928d81bcffb52b1b262fb92d1",
+     "ts": 1787114686000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "In drought-stricken France, tankers supply drinking water",
+     "link": "https://www.dw.com/en/in-drought-stricken-france-tankers-supply-drinking-water/a-78420016?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787113980000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Indonesia",
    "es": "Indonesia",
    "lat": -0.8,
@@ -867,18 +903,18 @@
    ]
   },
   {
-   "name": "Australia",
-   "es": "Australia",
-   "lat": -25.3,
-   "lon": 133.8,
+   "name": "Dem. Rep. Korea",
+   "es": "Corea del Norte",
+   "lat": 40.3,
+   "lon": 127.5,
    "count": 1,
    "items": [
     {
-     "title": "Australia politics live: Victorian Liberals pledge to scrap power link to NSW and instead ‘throw open the doors to gas’",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+     "title": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
+     "link": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4ccaefa1a8e93a12ab9fec5e6870eb0cee68bb32/753_0_6725_5380/master/6725.jpg?width=140&quality=85&auto=format&fit=max&s=e6a873240c97151f3a47fa27af048afe",
-     "ts": 1787110634000,
+     "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
+     "ts": 1787105905000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -903,126 +939,72 @@
    ]
   },
   {
-   "name": "Dem. Rep. Congo",
-   "es": "RD Congo",
-   "lat": -4.0,
-   "lon": 21.8,
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
    "count": 1,
    "items": [
     {
-     "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-     "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787100814000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Chile",
-   "es": "Chile",
-   "lat": -35.7,
-   "lon": -71.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Chile entra en recesión técnica lastrado por menor producción de cobre",
-     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260819-chile-entra-en-recesi%C3%B3n-t%C3%A9cnica-lastrado-por-menor-producci%C3%B3n-de-cobre",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/61de2c30-9b70-11f1-b325-005056a90284/w:1024/p:16x9/AP26030650483608.jpg",
-     "ts": 1787110077000,
+     "title": "La DEA inaugura su cumbre mundial en Argentina con pedidos de mayor cooperación contra el narcotráfico",
+     "link": "https://elpais.com/argentina/2026-08-19/la-dea-inaugura-su-cumbre-mundial-en-argentina-con-pedidos-de-mayor-cooperacion-contra-el-narcotrafico.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/UOCDIUR3TRGPHERGYCW72X3RV4.jpeg?auth=ba563726f18cbac1e01ac1bcc9eabe1bab03eb19a2513c867a2eae3919b97015",
+     "ts": 1787112000000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Nicaragua",
-   "es": "Nicaragua",
-   "lat": 12.9,
-   "lon": -85.2,
+   "name": "Guatemala",
+   "es": "Guatemala",
+   "lat": 15.8,
+   "lon": -90.2,
    "count": 1,
    "items": [
     {
-     "title": "Ortega y Murillo pretenden imponer una ‘dictadura dinástica’ en Nicaragua, según expertos",
-     "link": "https://www.prensa.com/mundo/ortega-y-murillo-pretenden-imponer-una-dictadura-dinastica-en-nicaragua-segun-expertos/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/CAA73LYCCBBX7A72SJOJJYWQWI.jpg?auth=b5355dd3acc41d895eaa90ea600e144323d07bd514abf74b7505b0e2e02ad630&smart=true&width=1920&height=1440",
-     "ts": 1787108460000,
+     "title": "El exilio judicial exige al presidente Arévalo “acciones concretas” para un regreso seguro a Guatemala",
+     "link": "https://elpais.com/america/2026-08-19/el-exilio-judicial-exigen-al-presidente-arevalo-acciones-concretas-para-un-regreso-seguro-a-guatemala.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/PRJU26NCD5PW3NTLYBQ6IN3BTU.jpg?auth=812c8178183827d4ee879f32e1ca48a32ca1224a780396aed7cb77fe956f5f87",
+     "ts": 1787112000000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
+   "name": "Mexico",
+   "es": "México",
+   "lat": 23.6,
+   "lon": -102.6,
    "count": 1,
    "items": [
     {
-     "title": "Escándalo en Colombia: ¿qué se sabe de la escapada de un ministro de De la Espriella tras el terremoto?",
-     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260819-esc%C3%A1ndalo-en-colombia-qu%C3%A9-se-sabe-de-la-escapada-de-un-ministro-de-de-la-espriella-tras-el-terremoto",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1da0a39c-9b73-11f1-9e7b-005056bfb2b6/w:1024/p:16x9/e4efda7d190808d0c94c284d623f014d6e6df908w.jpg",
-     "ts": 1787106181000,
+     "title": "El futuro del ‘fracking’ en México se juega en una crucial ronda de pruebas piloto",
+     "link": "https://elpais.com/mexico/2026-08-19/el-futuro-del-fracking-en-mexico-se-juega-en-una-crucial-ronda-de-pruebas-piloto.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/G4YCSWSQEJGNDMJFK3CEOTZARI.jpg?auth=f65219623d774ee4520b52d35b7e91c9a983ac56bac3e5f93b329ad0aa36e7d3",
+     "ts": 1787112000000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
    "count": 1,
    "items": [
     {
-     "title": "¿Adónde se fue el Colón de ayer?",
-     "link": "https://www.prensa.com/opinion/adonde-se-fue-el-colon-de-ayer/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/N7Q7SCI5ARH3DG6VBO5L34SBRA.jpg?auth=96556085be9f49c54c786d5a59c249dfee9720c1df914887ab79c68a15932287&smart=true&width=430&height=271",
-     "ts": 1787105700000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
-     "link": "https://www.dw.com/es/francia-anuncia-expulsión-de-dos-diplomáticos-iraníes/a-78420954?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787100420000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ucrania: exministro de Defensa, antes aliado de Zelenski, pide elecciones en tiempos de guerra",
-     "link": "https://www.france24.com/es/video/20260819-ucrania-exministro-de-defensa-antes-aliado-de-zelenski-pide-elecciones-en-tiempos-de-guerra",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/719fd1b4-9b5c-11f1-9f3a-005056a97e36/w:1024/p:16x9/ES-20260818-180133-180319-CS.jpg",
-     "ts": 1787098186000,
+     "title": "La campaña ultra por la “continuidad étnica” europea llega a España con Ceuta en el punto de mira",
+     "link": "https://elpais.com/espana/2026-08-19/la-campana-ultra-por-la-continuidad-etnica-europea-llega-a-espana-con-ceuta-en-el-punto-de-mira.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/TZR75EKUFZAMHAM7YPD3OU2Q74.jpg?auth=fc2e9a2c32a1177a1d921ffe62bfdeecdc32d3a9729817fd5898906d5aa9ea1a",
+     "ts": 1787111101000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
