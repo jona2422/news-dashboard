@@ -1,37 +1,21 @@
 {
- "updated": "2026-08-20T11:46:11.466546+00:00",
+ "updated": "2026-08-20T13:14:17.863624+00:00",
  "terms": [
   {
    "term": "israel",
-   "count": 12
-  },
-  {
-   "term": "alaska",
-   "count": 10
+   "count": 11
   },
   {
    "term": "china",
-   "count": 9
+   "count": 11
   },
   {
    "term": "album",
+   "count": 9
+  },
+  {
+   "term": "alaska",
    "count": 8
-  },
-  {
-   "term": "trump",
-   "count": 8
-  },
-  {
-   "term": "hind",
-   "count": 7
-  },
-  {
-   "term": "rajab",
-   "count": 7
-  },
-  {
-   "term": "gaza",
-   "count": 7
   },
   {
    "term": "israeli",
@@ -46,43 +30,59 @@
    "count": 7
   },
   {
-   "term": "2026",
+   "term": "stream",
    "count": 6
   },
   {
-   "term": "killed",
+   "term": "fire",
    "count": 6
   },
   {
-   "term": "west",
+   "term": "hind",
    "count": 6
   },
   {
-   "term": "iran",
+   "term": "rajab",
    "count": 6
   },
   {
-   "term": "north",
-   "count": 5
+   "term": "trump",
+   "count": 6
+  },
+  {
+   "term": "terremoto",
+   "count": 6
+  },
+  {
+   "term": "green",
+   "count": 6
+  },
+  {
+   "term": "gaza",
+   "count": 6
   },
   {
    "term": "tour",
    "count": 5
   },
   {
-   "term": "stream",
+   "term": "museum",
    "count": 5
   },
   {
-   "term": "bank",
+   "term": "2026",
    "count": 5
   },
   {
-   "term": "korea",
+   "term": "syria",
    "count": 5
   },
   {
-   "term": "chinese",
+   "term": "iran",
+   "count": 5
+  },
+  {
+   "term": "west",
    "count": 5
   },
   {
@@ -94,7 +94,7 @@
    "count": 4
   },
   {
-   "term": "museum",
+   "term": "north",
    "count": 4
   },
   {
@@ -102,57 +102,61 @@
    "count": 4
   },
   {
-   "term": "opens",
+   "term": "trade",
    "count": 4
   },
   {
-   "term": "raises",
+   "term": "korea",
    "count": 4
   },
   {
-   "term": "japan",
+   "term": "pressure",
    "count": 4
   },
   {
-   "term": "syrian",
+   "term": "killing",
    "count": 4
   },
   {
-   "term": "soldiers",
+   "term": "killed",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israel",
-   "count": 12
-  },
-  {
-   "name": "Alaska",
-   "count": 10
-  },
-  {
-   "name": "Trump",
-   "count": 8
-  },
-  {
-   "name": "Hind Rajab",
-   "count": 7
+   "count": 11
   },
   {
    "name": "China",
-   "count": 7
+   "count": 9
   },
   {
-   "name": "Gaza",
-   "count": 7
+   "name": "Alaska",
+   "count": 8
   },
   {
    "name": "Israeli",
    "count": 7
   },
   {
-   "name": "Iran",
+   "name": "Stream",
+   "count": 6
+  },
+  {
+   "name": "Hind Rajab",
+   "count": 6
+  },
+  {
+   "name": "Trump",
+   "count": 6
+  },
+  {
+   "name": "Green",
+   "count": 6
+  },
+  {
+   "name": "Gaza",
    "count": 6
   },
   {
@@ -160,23 +164,19 @@
    "count": 6
   },
   {
-   "name": "Stream",
+   "name": "Syria",
    "count": 5
   },
   {
-   "name": "West Bank",
-   "count": 5
-  },
-  {
-   "name": "Chinese",
-   "count": 5
-  },
-  {
-   "name": "Japan",
+   "name": "Colombia",
    "count": 4
   },
   {
-   "name": "Syrian",
+   "name": "West Bank",
+   "count": 4
+  },
+  {
+   "name": "Iran",
    "count": 4
   },
   {
@@ -188,19 +188,11 @@
    "count": 3
   },
   {
-   "name": "Kyiv",
+   "name": "Syrian",
    "count": 3
   },
   {
-   "name": "North Korea",
-   "count": 3
-  },
-  {
-   "name": "Nevada",
-   "count": 3
-  },
-  {
-   "name": "Syria",
+   "name": "Chinese",
    "count": 3
   },
   {
@@ -217,6 +209,14 @@
   },
   {
    "name": "Other Art World Matters",
+   "count": 2
+  },
+  {
+   "name": "Swift",
+   "count": 2
+  },
+  {
+   "name": "Australia",
    "count": 2
   }
  ]
