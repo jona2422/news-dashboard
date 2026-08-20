@@ -1,28 +1,24 @@
 {
- "updated": "2026-08-20T07:09:33.905527+00:00",
+ "updated": "2026-08-20T07:59:13.445604+00:00",
  "terms": [
-  {
-   "term": "trump",
-   "count": 11
-  },
-  {
-   "term": "iran",
-   "count": 11
-  },
   {
    "term": "album",
    "count": 10
   },
   {
-   "term": "israel",
+   "term": "chinese",
    "count": 9
   },
   {
-   "term": "chinese",
-   "count": 8
+   "term": "iran",
+   "count": 9
   },
   {
-   "term": "gaza",
+   "term": "trump",
+   "count": 9
+  },
+  {
+   "term": "israel",
    "count": 8
   },
   {
@@ -38,8 +34,12 @@
    "count": 7
   },
   {
-   "term": "green",
+   "term": "gaza",
    "count": 7
+  },
+  {
+   "term": "death",
+   "count": 6
   },
   {
    "term": "announce",
@@ -50,51 +50,43 @@
    "count": 6
   },
   {
-   "term": "killed",
+   "term": "open",
    "count": 6
   },
   {
-   "term": "criminal",
+   "term": "people",
    "count": 6
   },
   {
-   "term": "investigation",
+   "term": "green",
    "count": 6
-  },
-  {
-   "term": "strikes",
-   "count": 6
-  },
-  {
-   "term": "economic",
-   "count": 6
-  },
-  {
-   "term": "hind",
-   "count": 6
-  },
-  {
-   "term": "rajab",
-   "count": 6
-  },
-  {
-   "term": "death",
-   "count": 5
   },
   {
    "term": "tour",
    "count": 5
   },
   {
-   "term": "open",
+   "term": "year",
    "count": 5
   },
   {
-   "term": "people",
+   "term": "criminal",
+   "count": 5
+  },
+  {
+   "term": "investigation",
    "count": 5
   },
   {
    "term": "killing",
+   "count": 5
+  },
+  {
+   "term": "hind",
+   "count": 5
+  },
+  {
+   "term": "rajab",
    "count": 5
   },
   {
@@ -106,10 +98,6 @@
    "count": 5
   },
   {
-   "term": "least",
-   "count": 4
-  },
-  {
    "term": "museum",
    "count": 4
   },
@@ -118,25 +106,33 @@
    "count": 4
   },
   {
-   "term": "opens",
+   "term": "world",
+   "count": 4
+  },
+  {
+   "term": "australia",
+   "count": 4
+  },
+  {
+   "term": "life",
+   "count": 4
+  },
+  {
+   "term": "prison",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Iran",
-   "count": 11
-  },
-  {
    "name": "Trump",
-   "count": 10
-  },
-  {
-   "name": "Israel",
    "count": 9
   },
   {
-   "name": "Gaza",
+   "name": "Chinese",
+   "count": 8
+  },
+  {
+   "name": "Israel",
    "count": 8
   },
   {
@@ -148,19 +144,23 @@
    "count": 8
   },
   {
+   "name": "Iran",
+   "count": 8
+  },
+  {
    "name": "Stream",
    "count": 7
   },
   {
-   "name": "Chinese",
+   "name": "Gaza",
    "count": 7
   },
   {
-   "name": "Hind Rajab",
-   "count": 6
+   "name": "Green",
+   "count": 5
   },
   {
-   "name": "Green",
+   "name": "Hind Rajab",
    "count": 5
   },
   {
@@ -172,7 +172,15 @@
    "count": 4
   },
   {
+   "name": "Indonesia",
+   "count": 4
+  },
+  {
    "name": "West Bank",
+   "count": 4
+  },
+  {
+   "name": "Hong Kong",
    "count": 4
   },
   {
@@ -184,11 +192,15 @@
    "count": 3
   },
   {
-   "name": "Australian",
+   "name": "Kyiv",
    "count": 3
   },
   {
-   "name": "Indonesia",
+   "name": "Evergrande",
+   "count": 3
+  },
+  {
+   "name": "Japan",
    "count": 3
   },
   {
@@ -200,23 +212,11 @@
    "count": 3
   },
   {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
    "name": "Death",
    "count": 2
   },
   {
    "name": "Jack White",
-   "count": 2
-  },
-  {
-   "name": "Unleash",
-   "count": 2
-  },
-  {
-   "name": "August",
    "count": 2
   }
  ]
