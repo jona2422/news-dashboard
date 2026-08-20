@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20T22:47:45.703557+00:00",
- "sources_ok": 35,
+ "updated": "2026-08-20T23:43:13.595221+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -60,14 +60,6 @@
    "ok": false,
    "count": 0,
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
   },
   {
    "beat": "actualidad",
@@ -247,6 +239,14 @@
   },
   {
    "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
+   "error": ""
+  },
+  {
+   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -282,7 +282,7 @@
    "url": "https://www.bbc.com/mundo/index.xml",
    "source": "BBC Mundo",
    "ok": true,
-   "count": 33,
+   "count": 34,
    "error": ""
   },
   {
