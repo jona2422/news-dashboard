@@ -1,14 +1,23 @@
 {
- "updated": "2026-08-21T07:10:28.422800+00:00",
- "total": 103,
+ "updated": "2026-08-21T08:00:45.719044+00:00",
+ "total": 106,
  "countries": [
   {
    "name": "China",
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 16,
+   "count": 14,
    "items": [
+    {
+     "title": "Dog that fatally mauled handler at Hong Kong pet centre a stray awaiting adoption",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3364801/dog-fatally-mauled-handler-hong-kong-pet-centre-stray-awaiting-adoption?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/56bd0bcc-6b2d-449f-ac7d-9c58f7446677_63eacdae.jpg?itok=m7vk_m0y&v=1787296539",
+     "ts": 1787296544000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "China clears Geely for landmark satellite IoT test to spur commercial space sector",
      "link": "https://www.scmp.com/tech/big-tech/article/3364781/china-clears-geely-landmark-satellite-iot-test-spur-commercial-space-sector?utm_source=rss_feed",
@@ -44,15 +53,6 @@
      "ts": 1787285708000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
-     "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c",
-     "ts": 1787282882000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
@@ -102,113 +102,50 @@
    ]
   },
   {
-   "name": "United States",
-   "es": "Estados Unidos",
-   "lat": 39.8,
-   "lon": -98.6,
-   "count": 15,
-   "items": [
-    {
-     "title": "Japan tried to build an operating system for the world, the US intervened",
-     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1787290294000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown",
-     "link": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/03165eca-4ec0-46f8-9f51-68055d382e62_98bcc034.jpg?itok=Y2IbH5jj&v=1787287340",
-     "ts": 1787288406000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Guatemala says it received nearly 2,300 US-deported Mexicans",
-     "link": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787282580000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Canadian premier says ‘erratic’ Trump ‘not to be trusted’ amid US trade feud",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364754/canadian-premier-says-erratic-trump-not-be-trusted-amid-us-trade-feud?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/dd7d4aba-85c2-4250-af1c-a88b7dba45e3_d25ac333.jpg?itok=frIvFKfZ&v=1787281965",
-     "ts": 1787281969000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall",
-     "link": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/21d5120c-9c1a-11f1-9606-005056a97e36/w:1024/p:16x9/AFP-20260810-C4AZ2JM-v4-MidRes-TopshotIranUsIsraelWar.jpg",
-     "ts": 1787280645000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US urges allies and China to join Iran economic pressure campaign",
-     "link": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/715e1cda-9cb3-11f1-88f2-005056a90284/w:1024/p:16x9/02b5331290807cad5fafd6d3a495468f1fc01b9e.jpg",
-     "ts": 1787279889000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US charges woman with Isis-inspired plot to blow up New York State Capitol",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364740/us-charges-woman-isis-inspired-plot-blow-new-york-state-capitol?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/a7b53426-2f77-4e80-af73-0aa66c5fd02b_9169ed7a.jpg?itok=VYMEvg_N&v=1787268087",
-     "ts": 1787268094000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US designates academic Min Zin as ‘wrongfully detained’ in China",
-     "link": "https://www.scmp.com/news/us/article/3364739/us-designates-academic-min-zin-wrongfully-detained-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/b971b790-abd1-4b94-9d2c-49e6dfa4fc79_2c2fce44.jpg?itok=EwRjGV2d&v=1787263620",
-     "ts": 1787263628000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-     "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
-     "ts": 1787263211000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Despite US sanctions on Xinjiang cotton, China’s textile industry weathers the storm",
-     "link": "https://www.scmp.com/economy/china-economy/article/3364688/despite-us-sanctions-xinjiang-cotton-chinas-textile-industry-weathers-storm?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/da4d8f0e-b4b8-4247-bb7f-fde20c93ee84_04bd9a22.jpg?itok=jo2FCG9Z&v=1787217179",
-     "ts": 1787263210000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Palestine",
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 10,
+   "count": 14,
    "items": [
     {
-     "title": "Israel reopens evacuated West Bank settlement, defying growing international protests",
+     "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+     "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787295379000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "link": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/54e13f301954108c3b5370909d458d3d8875f235/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5c4fd45f3a02e92209f360b938acb7f6",
+     "ts": 1787292026000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "link": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/54e13f301954108c3b5370909d458d3d8875f235/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5c4fd45f3a02e92209f360b938acb7f6",
+     "ts": 1787292026000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg",
+     "ts": 1787288457000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg",
@@ -260,22 +197,94 @@
      "ts": 1787205967000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "United States",
+   "es": "Estados Unidos",
+   "lat": 39.8,
+   "lon": -98.6,
+   "count": 11,
+   "items": [
+    {
+     "title": "Japan tried to build an operating system for the world, the US intervened",
+     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1787290294000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
     },
     {
-     "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-     "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8852/live/a02cc490-9bf4-11f1-b109-879e35c24276.png",
-     "ts": 1787161561000,
+     "title": "Chinese regulators slap US$7.8m penalty on Guotai Haitong arm amid capital flow crackdown",
+     "link": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/03165eca-4ec0-46f8-9f51-68055d382e62_98bcc034.jpg?itok=Y2IbH5jj&v=1787287340",
+     "ts": 1787288406000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Canadian premier says ‘erratic’ Trump ‘not to be trusted’ amid US trade feud",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364754/canadian-premier-says-erratic-trump-not-be-trusted-amid-us-trade-feud?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/dd7d4aba-85c2-4250-af1c-a88b7dba45e3_d25ac333.jpg?itok=frIvFKfZ&v=1787281965",
+     "ts": 1787281969000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall",
+     "link": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/21d5120c-9c1a-11f1-9606-005056a97e36/w:1024/p:16x9/AFP-20260810-C4AZ2JM-v4-MidRes-TopshotIranUsIsraelWar.jpg",
+     "ts": 1787280645000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Israeli army launches criminal probe into killing of 5-year-old Hind Rajab in Gaza",
-     "link": "https://www.france24.com/en/middle-east/20260819-israeli-army-launches-criminal-probe-into-its-troops-killing-of-five-year-old-hind-rajab",
+     "title": "US urges allies and China to join Iran economic pressure campaign",
+     "link": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/583c2e3c-9bc2-11f1-9d5d-005056bfb2b6/w:1024/p:16x9/000-73B64HM-1.jpg",
-     "ts": 1787144832000,
+     "image": "https://s.france24.com/media/display/715e1cda-9cb3-11f1-88f2-005056a90284/w:1024/p:16x9/02b5331290807cad5fafd6d3a495468f1fc01b9e.jpg",
+     "ts": 1787279889000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+     "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+     "source": "Ars Technica - All content",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
+     "ts": 1787263211000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+     "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
+     "ts": 1787255568000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Sean Duffy’s America 250 Reality Show Draws Just 2,900 Viewers",
+     "link": "https://consequence.net/2026/08/sean-duffys-america-250-reality-show-draws-just-2900-viewers/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/08/sean-duffys-terrible-america-250-show-flops.jpg?quality=80",
+     "ts": 1787255307000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    },
+    {
+     "title": "Fresh US aircraft carrier strike group arrives in Middle East",
+     "link": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/803bfff6-9ca4-11f1-a549-005056bf30b7/w:1024/p:16x9/2026-08-19T143107Z-71025016-RC2VXMAQM9SU-RTRMADP-3-IRAN-CRISIS-USA-CARRIER.jpg",
+     "ts": 1787181980000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
@@ -287,15 +296,105 @@
      "ts": 1787114591000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 10,
+   "items": [
+    {
+     "title": "MTR Corp senior manager conned out of HK$74m by fraudster posing as HSBC UK staff",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364809/mtr-corp-senior-manager-conned-out-hk74m-fraudster-posing-hsbc-uk-staff?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/4a858256-b8c5-458d-b98b-c28727ce1653_d1230acf.jpg?itok=7AZ7Ka6h&v=1787298005",
+     "ts": 1787298007000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "France slams far-right Israeli minister's 'inhumane' call for mass killings in Gaza",
-     "link": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/5c08c8c6-9bd7-11f1-b010-005056bf30b7/w:1024/p:16x9/2026-07-29T091445Z-1644337415-RC2KGDAEKFKW-RTRMADP-3-ISRAEL-ELECTION-EXPLAINER.jpg",
-     "ts": 1787108751000,
+     "title": "Australian Hussey open to Ashes Test role as England make approach",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787297855000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+     "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787295379000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "As Harry plans UK return, can he patch up royal rift with Prince William?",
+     "link": "https://www.scmp.com/news/world/europe/article/3364794/harry-plans-uk-return-can-he-patch-royal-rift-prince-william?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/be6fe2cf-8451-49e4-98ec-a1cc45f74df6_d0f17be5.jpg?itok=p7n8wBk1&v=1787295227",
+     "ts": 1787295229000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+     "link": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/eadf84d9e5d01ff500009590ac604fb156ba5f07/566_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=dd534bc3bd9a11318b1eb7f4a8b72b08",
+     "ts": 1787294051000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "UK men with heart disease at higher risk of developing and dying from cancer",
+     "link": "https://www.theguardian.com/society/2026/aug/21/uk-men-heart-disease-higher-cancer-risk",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c23c80a46ec7648ca0f34ff20068806934b90df1/985_0_5397_4320/master/5397.jpg?width=140&quality=85&auto=format&fit=max&s=982f77f06214363445e7b88cc8254771",
+     "ts": 1787288485000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
+     "link": "https://www.prensa.com/vivir/por-que-ahora-y-otras-4-preguntas-sobre-el-regreso-de-harry-y-meghan-a-reino-unido/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/TCNZQKM55RBLTBG6WGUSV757TQ.jpg?auth=817869f16a1139a8746c84aca2f4e891c9da6501e3c4dace99f0d505c486f37d&smart=true&width=1024&height=576",
+     "ts": 1787288400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+     "ts": 1787252114000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
+     "link": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
+     "ts": 1787251935000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "A Hidden Gallery at London’s Natural History Museum Reopens After 80 Years, Rediscovered Bernini Painting On View in Vienna: Morning Links for August 20, 2026",
+     "link": "https://www.artnews.com/art-news/news/hidden-gallery-london-natural-history-museum-reopens-after-80-years-rediscovered-bernini-painting-vienna-morning-links-august-20-2026-1234795367/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1787232600000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -304,10 +403,19 @@
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 8,
+   "count": 9,
    "items": [
     {
-     "title": "Israel reopens evacuated West Bank settlement, defying growing international protests",
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg",
+     "ts": 1787288457000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg",
@@ -381,84 +489,21 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 7,
-   "items": [
-    {
-     "title": "As Harry plans UK return, can he patch up royal rift with Prince William?",
-     "link": "https://www.scmp.com/news/world/europe/article/3364794/harry-plans-uk-return-can-he-patch-royal-rift-prince-william?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/be6fe2cf-8451-49e4-98ec-a1cc45f74df6_d0f17be5.jpg?itok=p7n8wBk1&v=1787295227",
-     "ts": 1787295229000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
-     "link": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/eadf84d9e5d01ff500009590ac604fb156ba5f07/566_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=dd534bc3bd9a11318b1eb7f4a8b72b08",
-     "ts": 1787294051000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "UK men with heart disease at higher risk of developing and dying from cancer",
-     "link": "https://www.theguardian.com/society/2026/aug/21/uk-men-heart-disease-higher-cancer-risk",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c23c80a46ec7648ca0f34ff20068806934b90df1/985_0_5397_4320/master/5397.jpg?width=140&quality=85&auto=format&fit=max&s=982f77f06214363445e7b88cc8254771",
-     "ts": 1787288485000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
-     "link": "https://www.prensa.com/vivir/por-que-ahora-y-otras-4-preguntas-sobre-el-regreso-de-harry-y-meghan-a-reino-unido/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TCNZQKM55RBLTBG6WGUSV757TQ.jpg?auth=817869f16a1139a8746c84aca2f4e891c9da6501e3c4dace99f0d505c486f37d&smart=true&width=1024&height=576",
-     "ts": 1787288400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-     "ts": 1787252114000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
-     "link": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
-     "ts": 1787251935000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "A Hidden Gallery at London’s Natural History Museum Reopens After 80 Years, Rediscovered Bernini Painting On View in Vienna: Morning Links for August 20, 2026",
-     "link": "https://www.artnews.com/art-news/news/hidden-gallery-london-natural-history-museum-reopens-after-80-years-rediscovered-bernini-painting-vienna-morning-links-august-20-2026-1234795367/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1787232600000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
    "name": "Japan",
    "es": "Japón",
    "lat": 36.2,
    "lon": 138.3,
    "count": 7,
    "items": [
+    {
+     "title": "Research boosts South Korean-Chinese links in WWII resistance against Japan",
+     "link": "https://www.scmp.com/news/china/politics/article/3364805/research-boosts-south-korean-chinese-links-wwii-resistance-against-japan?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/bae11456-6de9-43bb-b35e-cc8c5493a7d9_67606141.jpg?itok=ODLxfMnS&v=1787297318",
+     "ts": 1787299209000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Japan’s Aeon exits Thai retail to chase Vietnam’s booming middle class",
      "link": "https://www.scmp.com/week-asia/economics/article/3364797/japans-aeon-exits-thai-retail-chase-vietnams-booming-middle-class?utm_source=rss_feed",
@@ -483,15 +528,6 @@
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/bba5ad816991650cc42b46206bd989c8c07236a1/317_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e743664ed80b1e24a1e71555cd0a1ece",
      "ts": 1787288041000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Japan executes man who killed five in Pachinko parlour fire",
-     "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg",
-     "ts": 1787280567000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -592,8 +628,17 @@
    "es": "Francia",
    "lat": 46.2,
    "lon": 2.2,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Earth, Wind, & Fire Shares Health Update on Drummer John Paris: ‘Our Hope Is Strong’",
+     "link": "https://www.rollingstone.com/music/music-news/earth-wind-and-fire-drummer-john-paris-health-update-1235612631/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "ts": 1787297345000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    },
     {
      "title": "Heatwaves in France Damage Beloved Flowers at Monet’s Gardens",
      "link": "https://hyperallergic.com/heatwaves-in-france-damage-beloved-flowers-at-monets-gardens/",
@@ -644,7 +689,7 @@
      "link": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_53_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=958d7da316a6f448d7730e814c814430",
-     "ts": 1787295821000,
+     "ts": 1787297683000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -673,8 +718,17 @@
    "es": "Panamá",
    "lat": 8.5,
    "lon": -80.8,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Panama Canal to cap ship transits due to El Nino drought",
+     "link": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787297400000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Panama Canal to cut number of ships passing through due to El Niño",
      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
@@ -690,6 +744,42 @@
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/P7CLPKGUCRD6DEX4GF2RVVNJJQ.jpeg?auth=6dadea44e16347051117b0dba1fe3ef074dddb467087177e60b868654dc7e416&smart=true&width=1600&height=900",
      "ts": 1787288400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 3,
+   "items": [
+    {
+     "title": "Pico y placa en Cali este viernes 21 de agosto de 2026: estas son las placas con restricción por la emergencia del terremoto en Colombia",
+     "link": "https://www.eltiempo.com/colombia/cali/pico-y-placa-en-cali-este-viernes-21-de-agosto-de-2026-estas-son-las-placas-con-restriccion-por-la-emergencia-del-terremoto-en-colombia-3579682",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/03/19/67db22373a74d.r_d.1151-114-0.png",
+     "ts": 1787297400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "¡Ojo, conductores! Pico y placa en Medellín para este viernes 21 de agosto de 2026: consulte las placas con restricción",
+     "link": "https://www.eltiempo.com/colombia/medellin/ojo-conductores-pico-y-placa-en-medellin-para-este-viernes-21-de-agosto-de-2026-consulte-las-placas-con-restriccion-3579633",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/03/27/67e549afbca7b.png",
+     "ts": 1787297400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Terremoto en Colombia hoy viernes 21 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-viernes-21-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579889",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8469b29dd78.r_d.720-446-0.jpeg",
+     "ts": 1787295660000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -719,60 +809,6 @@
      "ts": 1787273308000,
      "beat": "china",
      "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Pakistan",
-   "es": "Pakistán",
-   "lat": 30.4,
-   "lon": 69.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-     "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
-     "ts": 1787286433000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787281689000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Terremoto en Colombia hoy viernes 21 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-viernes-21-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579889",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8469b29dd78.r_d.720-446-0.jpeg",
-     "ts": 1787292060000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Los multimillonarios de Colombia depositan su confianza en De la Espriella con inmensas donaciones tras el terremoto",
-     "link": "https://elpais.com/america-colombia/2026-08-21/los-multimillonarios-de-colombia-depositan-su-confianza-en-de-la-espriella-con-inmensas-donaciones-tras-el-terremoto.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/T4ZGE7FWYBELRJOQBH5BO53AHI.JPG?auth=c08a1f16ed408070952d8887dc8ec20dc71c2c209bfd726ae88bbb49b277387a",
-     "ts": 1787284800000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -894,6 +930,24 @@
    ]
   },
   {
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "India news: MP's son booked, not arrested after fatal crash in Hyderabad",
+     "link": "https://www.dw.com/en/india-news-mp-s-son-booked-not-arrested-after-fatal-crash-in-hyderabad/live-78453085?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787296260000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Morocco",
    "es": "Marruecos",
    "lat": 31.8,
@@ -906,24 +960,6 @@
      "source": "Deutsche Welle",
      "image": "",
      "ts": 1787287740000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Guatemala",
-   "es": "Guatemala",
-   "lat": 15.8,
-   "lon": -90.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Guatemala says it received nearly 2,300 US-deported Mexicans",
-     "link": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787282580000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
