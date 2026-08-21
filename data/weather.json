@@ -1,219 +1,219 @@
 {
- "updated": "2026-08-21T17:48:44.029914+00:00",
+ "updated": "2026-08-21T18:59:48.226788+00:00",
  "place": "Ciudad de Panamá",
  "current": {
   "temp": 32,
-  "feels": 40,
-  "humidity": 64,
-  "wind": 5,
-  "code": 95,
+  "feels": 38,
+  "humidity": 63,
+  "wind": 12,
+  "code": 51,
   "is_day": 1,
-  "uv": 8.0
+  "uv": 7.9
  },
  "sunrise": "06:10",
  "sunset": "18:32",
  "daily": [
   {
    "date": "2026-08-21",
-   "code": 95,
-   "tmax": 32,
+   "code": 80,
+   "tmax": 33,
    "tmin": 25,
    "pop": 100,
-   "rain": 5.0
+   "rain": 5.2
   },
   {
    "date": "2026-08-22",
-   "code": 95,
+   "code": 96,
    "tmax": 30,
    "tmin": 25,
    "pop": 89,
-   "rain": 4.3
+   "rain": 11.6
   },
   {
    "date": "2026-08-23",
    "code": 95,
    "tmax": 30,
-   "tmin": 24,
+   "tmin": 25,
    "pop": 91,
-   "rain": 10.2
+   "rain": 10.8
   },
   {
    "date": "2026-08-24",
-   "code": 81,
-   "tmax": 31,
-   "tmin": 24,
+   "code": 95,
+   "tmax": 30,
+   "tmin": 25,
    "pop": 100,
-   "rain": 8.4
+   "rain": 5.6
   },
   {
    "date": "2026-08-25",
    "code": 95,
-   "tmax": 31,
-   "tmin": 25,
+   "tmax": 29,
+   "tmin": 24,
    "pop": 96,
-   "rain": 13.5
+   "rain": 17.7
   },
   {
    "date": "2026-08-26",
-   "code": 53,
-   "tmax": 29,
+   "code": 95,
+   "tmax": 30,
    "tmin": 25,
    "pop": 86,
-   "rain": 5.1
+   "rain": 15.0
   },
   {
    "date": "2026-08-27",
    "code": 53,
    "tmax": 30,
-   "tmin": 24,
+   "tmin": 25,
    "pop": 82,
-   "rain": 4.8
+   "rain": 4.3
   }
  ],
  "hourly": [
   {
-   "t": "12:00",
-   "temp": 32.1,
-   "pop": 75,
-   "code": 51
-  },
-  {
    "t": "13:00",
-   "temp": 32.3,
+   "temp": 32.2,
    "pop": 94,
    "code": 51
   },
   {
    "t": "14:00",
-   "temp": 30.3,
+   "temp": 31.9,
    "pop": 100,
    "code": 51
   },
   {
    "t": "15:00",
-   "temp": 29.3,
+   "temp": 30.6,
    "pop": 100,
-   "code": 95
+   "code": 53
   },
   {
    "t": "16:00",
-   "temp": 29.4,
+   "temp": 28.7,
    "pop": 98,
-   "code": 51
+   "code": 53
   },
   {
    "t": "17:00",
-   "temp": 28.8,
+   "temp": 28.7,
    "pop": 80,
    "code": 51
   },
   {
    "t": "18:00",
-   "temp": 27.7,
+   "temp": 28.0,
    "pop": 55,
-   "code": 2
+   "code": 1
   },
   {
    "t": "19:00",
-   "temp": 27.1,
+   "temp": 27.4,
    "pop": 33,
    "code": 0
   },
   {
    "t": "20:00",
-   "temp": 26.9,
+   "temp": 27.1,
    "pop": 19,
    "code": 0
   },
   {
    "t": "21:00",
-   "temp": 26.8,
+   "temp": 26.9,
    "pop": 8,
-   "code": 2
+   "code": 0
   },
   {
    "t": "22:00",
-   "temp": 26.6,
+   "temp": 26.8,
    "pop": 2,
-   "code": 1
+   "code": 0
   },
   {
    "t": "23:00",
-   "temp": 26.6,
+   "temp": 26.8,
    "pop": 0,
-   "code": 1
+   "code": 0
   },
   {
    "t": "00:00",
    "temp": 26.7,
    "pop": 3,
-   "code": 1
+   "code": 0
   },
   {
    "t": "01:00",
-   "temp": 26.5,
+   "temp": 26.6,
    "pop": 6,
    "code": 3
   },
   {
    "t": "02:00",
-   "temp": 26.3,
+   "temp": 26.4,
    "pop": 9,
-   "code": 51
+   "code": 3
   },
   {
    "t": "03:00",
-   "temp": 25.4,
+   "temp": 25.7,
    "pop": 12,
-   "code": 51
+   "code": 53
   },
   {
    "t": "04:00",
-   "temp": 25.1,
+   "temp": 24.7,
    "pop": 18,
-   "code": 51
+   "code": 80
   },
   {
    "t": "05:00",
-   "temp": 25.1,
+   "temp": 25.0,
    "pop": 27,
    "code": 3
   },
   {
    "t": "06:00",
-   "temp": 25.0,
+   "temp": 25.1,
    "pop": 38,
    "code": 3
   },
   {
    "t": "07:00",
-   "temp": 25.4,
+   "temp": 25.5,
    "pop": 47,
    "code": 3
   },
   {
    "t": "08:00",
-   "temp": 26.7,
+   "temp": 26.4,
    "pop": 52,
    "code": 3
   },
   {
    "t": "09:00",
-   "temp": 27.6,
+   "temp": 27.8,
    "pop": 55,
    "code": 3
   },
   {
    "t": "10:00",
-   "temp": 28.9,
+   "temp": 29.3,
    "pop": 59,
    "code": 3
   },
   {
    "t": "11:00",
-   "temp": 30.1,
+   "temp": 30.0,
    "pop": 68,
-   "code": 3
+   "code": 51
+  },
+  {
+   "t": "12:00",
+   "temp": 30.4,
+   "pop": 78,
+   "code": 95
   }
  ]
 }
