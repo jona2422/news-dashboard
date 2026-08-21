@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-21T18:59:47.587041+00:00",
+ "updated": "2026-08-21T19:40:44.760618+00:00",
  "terms": [
   {
    "term": "israel",
-   "count": 13
-  },
-  {
-   "term": "china",
-   "count": 11
+   "count": 14
   },
   {
    "term": "trump",
-   "count": 8
+   "count": 12
+  },
+  {
+   "term": "china",
+   "count": 10
   },
   {
    "term": "gaza",
@@ -26,11 +26,7 @@
    "count": 7
   },
   {
-   "term": "show",
-   "count": 6
-  },
-  {
-   "term": "russian",
+   "term": "netanyahu",
    "count": 6
   },
   {
@@ -50,6 +46,10 @@
    "count": 6
   },
   {
+   "term": "attack",
+   "count": 5
+  },
+  {
    "term": "week",
    "count": 5
   },
@@ -58,7 +58,11 @@
    "count": 5
   },
   {
-   "term": "drone",
+   "term": "show",
+   "count": 5
+  },
+  {
+   "term": "russian",
    "count": 5
   },
   {
@@ -66,11 +70,7 @@
    "count": 5
   },
   {
-   "term": "ukraine",
-   "count": 5
-  },
-  {
-   "term": "netanyahu",
+   "term": "australia",
    "count": 5
   },
   {
@@ -94,11 +94,7 @@
    "count": 5
   },
   {
-   "term": "attack",
-   "count": 4
-  },
-  {
-   "term": "year",
+   "term": "court",
    "count": 4
   },
   {
@@ -106,11 +102,11 @@
    "count": 4
   },
   {
-   "term": "world",
+   "term": "year",
    "count": 4
   },
   {
-   "term": "france",
+   "term": "world",
    "count": 4
   },
   {
@@ -118,26 +114,34 @@
    "count": 4
   },
   {
-   "term": "army",
+   "term": "drone",
+   "count": 4
+  },
+  {
+   "term": "warrant",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israel",
-   "count": 13
-  },
-  {
-   "name": "China",
-   "count": 10
+   "count": 14
   },
   {
    "name": "Trump",
-   "count": 8
+   "count": 10
+  },
+  {
+   "name": "China",
+   "count": 9
   },
   {
    "name": "Gaza",
    "count": 8
+  },
+  {
+   "name": "Netanyahu",
+   "count": 6
   },
   {
    "name": "Israeli",
@@ -152,15 +156,7 @@
    "count": 6
   },
   {
-   "name": "Russian",
-   "count": 5
-  },
-  {
-   "name": "Ukraine",
-   "count": 5
-  },
-  {
-   "name": "Netanyahu",
+   "name": "Australia",
    "count": 5
   },
   {
@@ -180,11 +176,11 @@
    "count": 5
   },
   {
-   "name": "Japan",
+   "name": "Russian",
    "count": 4
   },
   {
-   "name": "Australia",
+   "name": "Ukraine",
    "count": 4
   },
   {
@@ -204,7 +200,7 @@
    "count": 3
   },
   {
-   "name": "France",
+   "name": "Japan",
    "count": 3
   },
   {
@@ -216,7 +212,11 @@
    "count": 3
   },
   {
-   "name": "Arts",
+   "name": "Stream",
+   "count": 2
+  },
+  {
+   "name": "Building",
    "count": 2
   }
  ]
