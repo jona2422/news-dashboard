@@ -1,8 +1,16 @@
 {
- "updated": "2026-08-21T10:50:47.255708+00:00",
+ "updated": "2026-08-21T11:45:06.363096+00:00",
  "terms": [
   {
    "term": "china",
+   "count": 8
+  },
+  {
+   "term": "west",
+   "count": 8
+  },
+  {
+   "term": "bank",
    "count": 8
   },
   {
@@ -10,15 +18,15 @@
    "count": 8
   },
   {
-   "term": "west",
+   "term": "show",
    "count": 7
   },
   {
-   "term": "bank",
+   "term": "2026",
    "count": 7
   },
   {
-   "term": "alaska",
+   "term": "iran",
    "count": 7
   },
   {
@@ -30,19 +38,7 @@
    "count": 6
   },
   {
-   "term": "stream",
-   "count": 6
-  },
-  {
    "term": "trump",
-   "count": 6
-  },
-  {
-   "term": "show",
-   "count": 6
-  },
-  {
-   "term": "2026",
    "count": 6
   },
   {
@@ -62,15 +58,23 @@
    "count": 6
   },
   {
+   "term": "alaska",
+   "count": 6
+  },
+  {
    "term": "israeli",
    "count": 6
   },
   {
-   "term": "iran",
-   "count": 6
+   "term": "song",
+   "count": 5
   },
   {
    "term": "fire",
+   "count": 5
+  },
+  {
+   "term": "stream",
    "count": 5
   },
   {
@@ -94,11 +98,15 @@
    "count": 5
   },
   {
-   "term": "song",
+   "term": "world",
    "count": 4
   },
   {
-   "term": "world",
+   "term": "america",
+   "count": 4
+  },
+  {
+   "term": "moma",
    "count": 4
   },
   {
@@ -112,14 +120,6 @@
   {
    "term": "space",
    "count": 4
-  },
-  {
-   "term": "york",
-   "count": 4
-  },
-  {
-   "term": "tech",
-   "count": 4
   }
  ],
  "entities": [
@@ -128,15 +128,15 @@
    "count": 8
   },
   {
+   "name": "West Bank",
+   "count": 8
+  },
+  {
    "name": "Israel",
    "count": 8
   },
   {
-   "name": "West Bank",
-   "count": 7
-  },
-  {
-   "name": "Alaska",
+   "name": "Iran",
    "count": 7
   },
   {
@@ -144,16 +144,12 @@
    "count": 6
   },
   {
+   "name": "Alaska",
+   "count": 6
+  },
+  {
    "name": "Israeli",
    "count": 6
-  },
-  {
-   "name": "Iran",
-   "count": 6
-  },
-  {
-   "name": "Stream",
-   "count": 5
   },
   {
    "name": "Hong Kong",
@@ -168,27 +164,27 @@
    "count": 5
   },
   {
+   "name": "Stream",
+   "count": 4
+  },
+  {
+   "name": "Trump",
+   "count": 4
+  },
+  {
+   "name": "Russia",
+   "count": 4
+  },
+  {
    "name": "Green",
    "count": 4
   },
   {
-   "name": "Chinese",
-   "count": 4
-  },
-  {
-   "name": "OpenAI",
+   "name": "America",
    "count": 3
   },
   {
    "name": "Philippines",
-   "count": 3
-  },
-  {
-   "name": "Trump",
-   "count": 3
-  },
-  {
-   "name": "Germany",
    "count": 3
   },
   {
@@ -204,19 +200,23 @@
    "count": 3
   },
   {
+   "name": "Chinese",
+   "count": 3
+  },
+  {
    "name": "Butterflies",
    "count": 2
   },
   {
-   "name": "America",
+   "name": "Tour",
    "count": 2
   },
   {
-   "name": "New Song",
+   "name": "Gagosian",
    "count": 2
   },
   {
-   "name": "Monet",
+   "name": "OpenAI",
    "count": 2
   }
  ]
