@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-21T09:53:54.545242+00:00",
- "total": 113,
+ "updated": "2026-08-21T10:50:47.255708+00:00",
+ "total": 108,
  "countries": [
   {
    "name": "United States",
@@ -9,6 +9,15 @@
    "lon": -98.6,
    "count": 14,
    "items": [
+    {
+     "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
+     "link": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/746c6d353340601bbc6e3eb444c11f12160d131f/984_725_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=2f02b56b595f0184d529e6e66afa2210",
+     "ts": 1787306431000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Japan seeks record US$56 billion defence push amid growing regional tensions",
      "link": "https://www.scmp.com/week-asia/politics/article/3364826/japan-seeks-record-us56-billion-defence-push-amid-growing-regional-tensions?utm_source=rss_feed",
@@ -55,15 +64,6 @@
      "beatName": "China"
     },
     {
-     "title": "Canadian premier says ‘erratic’ Trump ‘not to be trusted’ amid US trade feud",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364754/canadian-premier-says-erratic-trump-not-be-trusted-amid-us-trade-feud?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/dd7d4aba-85c2-4250-af1c-a88b7dba45e3_d25ac333.jpg?itok=frIvFKfZ&v=1787281965",
-     "ts": 1787281969000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
      "title": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall",
      "link": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
@@ -102,137 +102,74 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 12,
-   "items": [
-    {
-     "title": "Meghan could return to acting once back in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37d/live/a753e0d0-9d2c-11f1-a291-b542ee92de7c.jpg",
-     "ts": 1787305680000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Burnham to chair growth meeting call at No 10 North – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c70f7b83ff148365fc77c827775be895eb653782/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=94cc0a9efbbdec38177b6661b8c93d2e",
-     "ts": 1787305577000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Opatra London and Hong Kong distributor suspend local operations after arrests",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364833/opatra-london-and-hong-kong-distributor-suspend-local-operations-after-arrests?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/ef93e536-440e-4d7f-90f9-6e0a2bb9fe9f_ca43dd83.jpg?itok=Cx0omqur&v=1787305385",
-     "ts": 1787305387000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
-     "link": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c0fd22059f3e8aaae715dbf1d523b0735b5fe1e4/483_0_3252_2603/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=939b83d6d21f4349b08e9b73d2adddfc",
-     "ts": 1787302690000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/afecf88020efa5f0de21e72877b9aee6630929bd/475_0_4745_3796/master/4745.jpg?width=140&quality=85&auto=format&fit=max&s=c638d4642949c854f4bf51186ad24c8c",
-     "ts": 1787299526000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "MTR Corp senior manager conned out of HK$74m by fraudster posing as HSBC UK staff",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364809/mtr-corp-senior-manager-conned-out-hk74m-fraudster-posing-hsbc-uk-staff?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/4a858256-b8c5-458d-b98b-c28727ce1653_d1230acf.jpg?itok=7AZ7Ka6h&v=1787298005",
-     "ts": 1787298007000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Australian Hussey open to Ashes Test role as England make approach",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787297855000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "As Harry plans UK return, can he patch up royal rift with Prince William?",
-     "link": "https://www.scmp.com/news/world/europe/article/3364794/harry-plans-uk-return-can-he-patch-royal-rift-prince-william?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/be6fe2cf-8451-49e4-98ec-a1cc45f74df6_d0f17be5.jpg?itok=p7n8wBk1&v=1787295227",
-     "ts": 1787295229000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
-     "link": "https://www.prensa.com/vivir/por-que-ahora-y-otras-4-preguntas-sobre-el-regreso-de-harry-y-meghan-a-reino-unido/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/TCNZQKM55RBLTBG6WGUSV757TQ.jpg?auth=817869f16a1139a8746c84aca2f4e891c9da6501e3c4dace99f0d505c486f37d&smart=true&width=1024&height=576",
-     "ts": 1787288400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-     "ts": 1787252114000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "China",
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 12,
+   "count": 14,
    "items": [
     {
-     "title": "Opatra London and Hong Kong distributor suspend local operations after arrests",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364833/opatra-london-and-hong-kong-distributor-suspend-local-operations-after-arrests?utm_source=rss_feed",
+     "title": "Outrage as China programmer’s toilet death ruled non-work-related for being ‘not at desk’",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3364847/outrage-china-programmers-toilet-death-ruled-non-work-related-being-not-desk?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/ef93e536-440e-4d7f-90f9-6e0a2bb9fe9f_ca43dd83.jpg?itok=Cx0omqur&v=1787305385",
-     "ts": 1787305387000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/285096c4-0d0f-423e-a036-3e4b02ab15c2_942f9a6e.jpg?itok=FC5OfUg8&v=1787309377",
+     "ts": 1787309381000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
-     "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c",
-     "ts": 1787303794000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
      "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
      "source": "China | The Guardian",
      "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c",
-     "ts": 1787303794000,
+     "ts": 1787309039000,
      "beat": "china",
      "beatName": "China"
+    },
+    {
+     "title": "Chinese insurer Ping An eyes Hong Kong ETFs as Beijing greenlights cross-border investment",
+     "link": "https://www.scmp.com/business/banking-finance/article/3364844/chinese-insurer-ping-eyes-hong-kong-etfs-beijing-greenlights-cross-border-investment?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/360950a3-6f61-41cb-8cbf-0abdcfe00b4d_8e2b80ce.jpg?itok=G5NIV1sa&v=1787308293",
+     "ts": 1787308295000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "The Mistral paradox: Europe’s push for tech sovereignty relies on China’s Z.ai",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3364745/mistral-paradox-europes-push-tech-sovereignty-relies-chinas-zai?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/9eb95141-2623-41c0-b0e9-9180afb9c6a1_dfcf09fe.jpg?itok=_Kk06ykO&v=1787276075",
+     "ts": 1787308206000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China’s drone production capacity can only meet 60% of war demand: study",
+     "link": "https://www.scmp.com/news/china/science/article/3364661/chinas-drone-production-capacity-can-only-meet-60-war-demand-study?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/d628f347-fead-4f56-a40c-afad1a76b263_b423e5a0.jpg?itok=H_jyalXG&v=1787207345",
+     "ts": 1787306405000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Opatra London and Hong Kong distributor suspend local operations after arrests",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364833/opatra-london-and-hong-kong-distributor-suspend-local-operations-after-arrests?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/ef93e536-440e-4d7f-90f9-6e0a2bb9fe9f_ca43dd83.jpg?itok=Cx0omqur&v=1787305385",
+     "ts": 1787305387000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
+     "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c",
+     "ts": 1787303794000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Wang Yi visits South Korea, China’s economy cools, Warsh speaks at Jackson Hole",
@@ -260,42 +197,6 @@
      "ts": 1787296544000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "China clears Geely for landmark satellite IoT test to spur commercial space sector",
-     "link": "https://www.scmp.com/tech/big-tech/article/3364781/china-clears-geely-landmark-satellite-iot-test-spur-commercial-space-sector?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/123d6f80-f4c6-4023-856e-85eaae9b7184_35b2673d.jpg?itok=bhhU5EIE&v=1787291011",
-     "ts": 1787292019000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Hong Kong declara culpables de subversión a dos activistas presos",
-     "link": "https://www.dw.com/es/hong-kong-declara-culpables-de-subversión-a-dos-activistas-presos/a-78452465?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787285880000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "China’s ‘smart’ diabetes probiotics; life sentence for Hui Ka-yan: SCMP’s 7 highlights",
-     "link": "https://www.scmp.com/news/world/article/3364744/chinas-smart-diabetes-probiotics-life-sentence-hui-ka-yan-scmps-7-highlights?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/21f271a6-18af-4959-99e6-9bfd6d21dbb3_38f0acfa.jpg?itok=po9VqOa3&v=1787273618",
-     "ts": 1787285708000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "International study finds solar panels in China could be harming birds",
-     "link": "https://www.scmp.com/news/china/science/article/3364721/international-study-finds-solar-panels-china-could-be-harming-birds?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/88bb9cdf-9a62-47e7-9302-8cb93d532580_4cfffb34.jpg?itok=CLmgQ3NZ&v=1787228154",
-     "ts": 1787281209000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -307,11 +208,11 @@
    "count": 12,
    "items": [
     {
-     "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-     "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787298981000,
+     "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
+     "link": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/73ee99a793b2feabb8a78a0b9e02406c7d2d6450/519_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f3c8dfaf9dad173bc66ca05b71a91ef8",
+     "ts": 1787307871000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -399,21 +300,111 @@
    ]
   },
   {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 10,
+   "items": [
+    {
+     "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
+     "link": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/73ee99a793b2feabb8a78a0b9e02406c7d2d6450/519_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f3c8dfaf9dad173bc66ca05b71a91ef8",
+     "ts": 1787307871000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5e4995a896e3c857e647f342a61e99386d8893db/53_0_3076_2461/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=6d37c772276db202b14ba171164fc525",
+     "ts": 1787306431000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Opatra London and Hong Kong distributor suspend local operations after arrests",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364833/opatra-london-and-hong-kong-distributor-suspend-local-operations-after-arrests?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/ef93e536-440e-4d7f-90f9-6e0a2bb9fe9f_ca43dd83.jpg?itok=Cx0omqur&v=1787305385",
+     "ts": 1787305387000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
+     "link": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c0fd22059f3e8aaae715dbf1d523b0735b5fe1e4/483_0_3252_2603/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=939b83d6d21f4349b08e9b73d2adddfc",
+     "ts": 1787302690000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "MTR Corp senior manager conned out of HK$74m by fraudster posing as HSBC UK staff",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364809/mtr-corp-senior-manager-conned-out-hk74m-fraudster-posing-hsbc-uk-staff?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/4a858256-b8c5-458d-b98b-c28727ce1653_d1230acf.jpg?itok=7AZ7Ka6h&v=1787298005",
+     "ts": 1787298007000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "As Harry plans UK return, can he patch up royal rift with Prince William?",
+     "link": "https://www.scmp.com/news/world/europe/article/3364794/harry-plans-uk-return-can-he-patch-royal-rift-prince-william?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/be6fe2cf-8451-49e4-98ec-a1cc45f74df6_d0f17be5.jpg?itok=p7n8wBk1&v=1787295227",
+     "ts": 1787295229000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
+     "link": "https://www.prensa.com/vivir/por-que-ahora-y-otras-4-preguntas-sobre-el-regreso-de-harry-y-meghan-a-reino-unido/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/TCNZQKM55RBLTBG6WGUSV757TQ.jpg?auth=817869f16a1139a8746c84aca2f4e891c9da6501e3c4dace99f0d505c486f37d&smart=true&width=1024&height=576",
+     "ts": 1787288400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+     "ts": 1787252114000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
+     "link": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
+     "ts": 1787251935000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "A Hidden Gallery at London’s Natural History Museum Reopens After 80 Years, Rediscovered Bernini Painting On View in Vienna: Morning Links for August 20, 2026",
+     "link": "https://www.artnews.com/art-news/news/hidden-gallery-london-natural-history-museum-reopens-after-80-years-rediscovered-bernini-painting-vienna-morning-links-august-20-2026-1234795367/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1787232600000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
    "name": "Israel",
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 9,
+   "count": 8,
    "items": [
-    {
-     "title": "Why is Israel's military presence growing in Syria?",
-     "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787301180000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
     {
      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
@@ -485,78 +476,6 @@
      "ts": 1787199473000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 7,
-   "items": [
-    {
-     "title": "Japan seeks record US$56 billion defence push amid growing regional tensions",
-     "link": "https://www.scmp.com/week-asia/politics/article/3364826/japan-seeks-record-us56-billion-defence-push-amid-growing-regional-tensions?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/1fde6bb8-07f2-417e-b425-8a437b9a92a7_64e944d3.jpg?itok=zYQfdhiG&v=1787303742",
-     "ts": 1787303745000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "No kettle needed: Japan’s cold-water cup noodles fly off the shelves",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3364822/no-kettle-needed-japans-cold-water-cup-noodles-fly-shelves?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/5d2aab2a-2215-4be9-b364-5b131a6fb845_7fed6ceb.jpg?itok=x8MqXop4&v=1787302013",
-     "ts": 1787302015000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
-     "link": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6dfe790fb39072c7522feeb56f5206b059d34300/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0856adec5bb5a76ad1735f07a9706b4f",
-     "ts": 1787300361000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Research boosts South Korean-Chinese links in WWII resistance against Japan",
-     "link": "https://www.scmp.com/news/china/politics/article/3364805/research-boosts-south-korean-chinese-links-wwii-resistance-against-japan?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/bae11456-6de9-43bb-b35e-cc8c5493a7d9_67606141.jpg?itok=ODLxfMnS&v=1787297318",
-     "ts": 1787299209000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan’s Aeon exits Thai retail to chase Vietnam’s booming middle class",
-     "link": "https://www.scmp.com/week-asia/economics/article/3364797/japans-aeon-exits-thai-retail-chase-vietnams-booming-middle-class?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/376e30b9-0e96-44a8-966d-f254e10e712f_2f16e1b6.jpg?itok=eXcdFbI7&v=1787295907",
-     "ts": 1787295909000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan tried to build an operating system for the world, the US intervened",
-     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1787290294000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Japan executes man behind pachinko parlour arson that killed 5",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3364749/japan-executes-man-behind-pachinko-parlour-arson-killed-5?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/d7826700-2dd8-4e8e-8d36-83add2e555ac_2e668a61.jpg?itok=l80jR3Cg&v=1787279909",
-     "ts": 1787279911000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
@@ -678,92 +597,56 @@
    ]
   },
   {
-   "name": "Korea",
-   "es": "Corea del Sur",
-   "lat": 35.9,
-   "lon": 127.8,
-   "count": 4,
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 5,
    "items": [
     {
-     "title": "Wang Yi visits South Korea, China’s economy cools, Warsh speaks at Jackson Hole",
-     "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
+     "title": "Japan seeks record US$56 billion defence push amid growing regional tensions",
+     "link": "https://www.scmp.com/week-asia/politics/article/3364826/japan-seeks-record-us56-billion-defence-push-amid-growing-regional-tensions?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/4975d521-65e8-40b9-bf4d-c43ec7d1e88b_8042c52a.jpg?itok=FVShqbHf&v=1787294924",
-     "ts": 1787302816000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/1fde6bb8-07f2-417e-b425-8a437b9a92a7_64e944d3.jpg?itok=zYQfdhiG&v=1787303742",
+     "ts": 1787303745000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4999x3434+0+0/resize/4999x3434!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F82%2Ff2719412495fbee9b796707c1385%2Fgettyimages-2290633220.jpg",
-     "ts": 1787302800000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "No kettle needed: Japan’s cold-water cup noodles fly off the shelves",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3364822/no-kettle-needed-japans-cold-water-cup-noodles-fly-shelves?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/5d2aab2a-2215-4be9-b364-5b131a6fb845_7fed6ceb.jpg?itok=x8MqXop4&v=1787302013",
+     "ts": 1787302015000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
-     "link": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6dfe790fb39072c7522feeb56f5206b059d34300/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0856adec5bb5a76ad1735f07a9706b4f",
-     "ts": 1787300361000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Research boosts South Korean-Chinese links in WWII resistance against Japan",
+     "link": "https://www.scmp.com/news/china/politics/article/3364805/research-boosts-south-korean-chinese-links-wwii-resistance-against-japan?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/bae11456-6de9-43bb-b35e-cc8c5493a7d9_67606141.jpg?itok=ODLxfMnS&v=1787297318",
+     "ts": 1787299209000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Seúl y EE.UU. terminan sus maniobras tras misiles de Pionyang",
-     "link": "https://www.dw.com/es/seúl-y-ee-uu-terminan-sus-maniobras-tras-misiles-de-pionyang/a-78453580?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
+     "title": "Japan’s Aeon exits Thai retail to chase Vietnam’s booming middle class",
+     "link": "https://www.scmp.com/week-asia/economics/article/3364797/japans-aeon-exits-thai-retail-chase-vietnams-booming-middle-class?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/376e30b9-0e96-44a8-966d-f254e10e712f_2f16e1b6.jpg?itok=eXcdFbI7&v=1787295907",
+     "ts": 1787295909000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Japan tried to build an operating system for the world, the US intervened",
+     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+     "source": "Hacker News: Front Page",
      "image": "",
-     "ts": 1787299200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 4,
-   "items": [
-    {
-     "title": "Federico Gutiérrez, alcalde de Medellín, se pronunció sobre la muerte de un niño en el Parque de las Aguas: 'No hay palabras suficientes'",
-     "link": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-se-pronuncio-sobre-la-muerte-de-un-nino-en-el-parque-de-las-aguas-no-hay-palabras-suficientes-3579891",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/21/6a87ec755a97b.png",
-     "ts": 1787304600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Terremoto en Colombia hoy viernes 21 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-viernes-21-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579889",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8469b29dd78.r_d.720-446-0.jpeg",
-     "ts": 1787302860000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Pico y placa en Cali este viernes 21 de agosto de 2026: estas son las placas con restricción por la emergencia del terremoto en Colombia",
-     "link": "https://www.eltiempo.com/colombia/cali/pico-y-placa-en-cali-este-viernes-21-de-agosto-de-2026-estas-son-las-placas-con-restriccion-por-la-emergencia-del-terremoto-en-colombia-3579682",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/03/19/67db22373a74d.r_d.1151-114-0.png",
-     "ts": 1787297400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "¡Ojo, conductores! Pico y placa en Medellín para este viernes 21 de agosto de 2026: consulte las placas con restricción",
-     "link": "https://www.eltiempo.com/colombia/medellin/ojo-conductores-pico-y-placa-en-medellin-para-este-viernes-21-de-agosto-de-2026-consulte-las-placas-con-restriccion-3579633",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/03/27/67e549afbca7b.png",
-     "ts": 1787297400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "ts": 1787290294000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
     }
    ]
   },
@@ -772,8 +655,17 @@
    "es": "Alemania",
    "lat": 51.2,
    "lon": 10.5,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Bayern Múnich supo \"todo el torneo anterior\" sobre los desmayos de Musiala",
+     "link": "https://www.dw.com/es/bayern-múnich-supo-todo-el-torneo-anterior-sobre-los-desmayos-de-musiala/a-78456785?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1787307060000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "Germany news: Berlin losing its appeal for many Germans",
      "link": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-all-1573-rdf",
@@ -804,11 +696,173 @@
    ]
   },
   {
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
+   "count": 4,
+   "items": [
+    {
+     "title": "Terremoto en Colombia hoy viernes 21 de agosto: reportaron nuevos temblores consecutivos en el Chocó; dos en Chocó y otro en Antioquia",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-viernes-21-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579889",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8469b29dd78.r_d.720-446-0.jpeg",
+     "ts": 1787306460000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Federico Gutiérrez, alcalde de Medellín, se pronunció sobre la muerte de un niño en el Parque de las Aguas: 'No hay palabras suficientes'",
+     "link": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-se-pronuncio-sobre-la-muerte-de-un-nino-en-el-parque-de-las-aguas-no-hay-palabras-suficientes-3579891",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/21/6a87ec755a97b.png",
+     "ts": 1787304600000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Pico y placa en Cali este viernes 21 de agosto de 2026: estas son las placas con restricción por la emergencia del terremoto en Colombia",
+     "link": "https://www.eltiempo.com/colombia/cali/pico-y-placa-en-cali-este-viernes-21-de-agosto-de-2026-estas-son-las-placas-con-restriccion-por-la-emergencia-del-terremoto-en-colombia-3579682",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/03/19/67db22373a74d.r_d.1151-114-0.png",
+     "ts": 1787297400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "¡Ojo, conductores! Pico y placa en Medellín para este viernes 21 de agosto de 2026: consulte las placas con restricción",
+     "link": "https://www.eltiempo.com/colombia/medellin/ojo-conductores-pico-y-placa-en-medellin-para-este-viernes-21-de-agosto-de-2026-consulte-las-placas-con-restriccion-3579633",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/03/27/67e549afbca7b.png",
+     "ts": 1787297400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "es": "Corea del Sur",
+   "lat": 35.9,
+   "lon": 127.8,
+   "count": 3,
+   "items": [
+    {
+     "title": "Wang Yi visits South Korea, China’s economy cools, Warsh speaks at Jackson Hole",
+     "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/4975d521-65e8-40b9-bf4d-c43ec7d1e88b_8042c52a.jpg?itok=FVShqbHf&v=1787294924",
+     "ts": 1787302816000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4999x3434+0+0/resize/4999x3434!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F82%2Ff2719412495fbee9b796707c1385%2Fgettyimages-2290633220.jpg",
+     "ts": 1787302800000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Seúl y EE.UU. terminan sus maniobras tras misiles de Pionyang",
+     "link": "https://www.dw.com/es/seúl-y-ee-uu-terminan-sus-maniobras-tras-misiles-de-pionyang/a-78453580?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1787299200000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Dem. Rep. Korea",
+   "es": "Corea del Norte",
+   "lat": 40.3,
+   "lon": 127.5,
+   "count": 2,
+   "items": [
+    {
+     "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+     "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787309220000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4999x3434+0+0/resize/4999x3434!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F82%2Ff2719412495fbee9b796707c1385%2Fgettyimages-2290633220.jpg",
+     "ts": 1787302800000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
+     "link": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e102476750d2357adb4c1b05d061b9a5a3bb9f37/1118_702_5936_4751/master/5936.jpg?width=140&quality=85&auto=format&fit=max&s=b94bc7d8a7ed007215470f5babee940f",
+     "ts": 1787307230000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Australia charges man for passing Ukrainian military intel to Russia",
+     "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787301740000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
+   "count": 2,
+   "items": [
+    {
+     "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787306477000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+     "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/069f8257b36e5d24f0a347c57a8c64391082621d/82_0_3328_2664/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=4690ba8b5ef4aa3deea57480706eea6f",
+     "ts": 1787150004000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
    "name": "Australia",
    "es": "Australia",
    "lat": -25.3,
    "lon": 133.8,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Australia charges man for passing Ukrainian military intel to Russia",
@@ -820,15 +874,6 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787301246000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -836,96 +881,6 @@
      "ts": 1787211191000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 3,
-   "items": [
-    {
-     "title": "Why is Israel's military presence growing in Syria?",
-     "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787301180000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Assad officer extradited to Syria on war crimes charges for first time",
-     "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
-     "ts": 1787229515000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Death and alleged torture of man in detention sparks protests in Syria",
-     "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
-     "ts": 1787069004000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-     "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787298981000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-     "ts": 1787252114000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Panama Canal to cap ship transits due to El Nino drought",
-     "link": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787297400000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "1,200 plantas de tratamiento de aguas residuales están colapsadas en Panamá",
-     "link": "https://www.prensa.com/sociedad/1200-plantas-de-tratamiento-de-aguas-residuales-estan-colapsadas-en-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/P7CLPKGUCRD6DEX4GF2RVVNJJQ.jpeg?auth=6dadea44e16347051117b0dba1fe3ef074dddb467087177e60b868654dc7e416&smart=true&width=1600&height=900",
-     "ts": 1787288400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -951,6 +906,33 @@
      "source": "Latest news from the Middle East, daily international news reports - France 24",
      "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
      "ts": 1787251935000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 2,
+   "items": [
+    {
+     "title": "Assad officer extradited to Syria on war crimes charges for first time",
+     "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
+     "ts": 1787229515000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Death and alleged torture of man in detention sparks protests in Syria",
+     "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
+     "ts": 1787069004000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -993,36 +975,36 @@
    ]
   },
   {
-   "name": "Dem. Rep. Korea",
-   "es": "Corea del Norte",
-   "lat": 40.3,
-   "lon": 127.5,
+   "name": "Pakistan",
+   "es": "Pakistán",
+   "lat": 30.4,
+   "lon": 69.3,
    "count": 1,
    "items": [
     {
-     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4999x3434+0+0/resize/4999x3434!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F82%2Ff2719412495fbee9b796707c1385%2Fgettyimages-2290633220.jpg",
-     "ts": 1787302800000,
+     "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+     "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
+     "ts": 1787309169000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
+   "name": "Philippines",
+   "es": "Filipinas",
+   "lat": 12.9,
+   "lon": 121.8,
    "count": 1,
    "items": [
     {
-     "title": "Australia charges man for passing Ukrainian military intel to Russia",
-     "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+     "title": "Philippines floods fuel anger over alleged corruption",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1787301740000,
+     "ts": 1787306509000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -1047,20 +1029,20 @@
    ]
   },
   {
-   "name": "Bangladesh",
-   "es": "Bangladés",
-   "lat": 23.7,
-   "lon": 90.4,
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
    "count": 1,
    "items": [
     {
-     "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787301246000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "1,200 plantas de tratamiento de aguas residuales están colapsadas en Panamá",
+     "link": "https://www.prensa.com/sociedad/1200-plantas-de-tratamiento-de-aguas-residuales-estan-colapsadas-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/P7CLPKGUCRD6DEX4GF2RVVNJJQ.jpeg?auth=6dadea44e16347051117b0dba1fe3ef074dddb467087177e60b868654dc7e416&smart=true&width=1600&height=900",
+     "ts": 1787288400000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -1083,54 +1065,18 @@
    ]
   },
   {
-   "name": "Venezuela",
-   "es": "Venezuela",
-   "lat": 6.4,
-   "lon": -66.6,
+   "name": "Canada",
+   "es": "Canadá",
+   "lat": 56.1,
+   "lon": -106.3,
    "count": 1,
    "items": [
     {
-     "title": "Las multinacionales energéticas regresan a Venezuela",
-     "link": "https://elpais.com/america/2026-08-21/las-multinacionales-energeticas-regresan-a-venezuela.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/CBANUB3VLNMEBNHEOJ4WKD4T5M.jpg?auth=a0346b7d7c98d5a84a0cf721c96a32fa98e1afb3e5675709460da1172d4e413b",
-     "ts": 1787284800000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Nicaragua",
-   "es": "Nicaragua",
-   "lat": 12.9,
-   "lon": -85.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
-     "link": "https://elpais.com/america/2026-08-21/la-vida-revolucionaria-en-nicaragua-del-hermano-de-natalie-harp-la-devota-secretaria-de-trump.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/CRVHX7LIJJFAXHWBB4N67PPFBU.jpg?auth=b4bd7135985ac4141c5c446a0938e720abda6a8f76875f2651380e16aaa62346",
-     "ts": 1787284800000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
-   "count": 1,
-   "items": [
-    {
-     "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-     "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/069f8257b36e5d24f0a347c57a8c64391082621d/82_0_3328_2664/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=4690ba8b5ef4aa3deea57480706eea6f",
-     "ts": 1787150004000,
+     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+     "ts": 1787252114000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
