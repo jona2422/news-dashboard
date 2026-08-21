@@ -1,17 +1,25 @@
 {
- "updated": "2026-08-21T13:13:58.263649+00:00",
+ "updated": "2026-08-21T14:01:33.002551+00:00",
  "terms": [
   {
    "term": "china",
-   "count": 12
+   "count": 14
   },
   {
    "term": "israel",
    "count": 10
   },
   {
-   "term": "israeli",
+   "term": "gaza",
    "count": 9
+  },
+  {
+   "term": "trump",
+   "count": 8
+  },
+  {
+   "term": "israeli",
+   "count": 8
   },
   {
    "term": "hong",
@@ -22,23 +30,7 @@
    "count": 8
   },
   {
-   "term": "west",
-   "count": 8
-  },
-  {
-   "term": "bank",
-   "count": 8
-  },
-  {
-   "term": "iran",
-   "count": 8
-  },
-  {
    "term": "fire",
-   "count": 7
-  },
-  {
-   "term": "trump",
    "count": 7
   },
   {
@@ -46,11 +38,15 @@
    "count": 7
   },
   {
-   "term": "announces",
-   "count": 6
+   "term": "west",
+   "count": 7
   },
   {
-   "term": "japan",
+   "term": "bank",
+   "count": 7
+  },
+  {
+   "term": "forest",
    "count": 6
   },
   {
@@ -58,11 +54,7 @@
    "count": 6
   },
   {
-   "term": "alaska",
-   "count": 6
-  },
-  {
-   "term": "gaza",
+   "term": "iran",
    "count": 6
   },
   {
@@ -70,7 +62,15 @@
    "count": 5
   },
   {
+   "term": "announces",
+   "count": 5
+  },
+  {
    "term": "world",
+   "count": 5
+  },
+  {
+   "term": "japan",
    "count": 5
   },
   {
@@ -78,11 +78,11 @@
    "count": 5
   },
   {
-   "term": "forest",
+   "term": "notification",
    "count": 5
   },
   {
-   "term": "notification",
+   "term": "alaska",
    "count": 5
   },
   {
@@ -95,14 +95,6 @@
   },
   {
    "term": "death",
-   "count": 4
-  },
-  {
-   "term": "stream",
-   "count": 4
-  },
-  {
-   "term": "album",
    "count": 4
   },
   {
@@ -120,23 +112,35 @@
   {
    "term": "space",
    "count": 4
+  },
+  {
+   "term": "home",
+   "count": 4
+  },
+  {
+   "term": "growing",
+   "count": 4
   }
  ],
  "entities": [
   {
    "name": "China",
-   "count": 11
+   "count": 13
   },
   {
    "name": "Israel",
    "count": 10
   },
   {
+   "name": "Gaza",
+   "count": 9
+  },
+  {
    "name": "Israeli",
    "count": 8
   },
   {
-   "name": "Hong Kong",
+   "name": "Trump",
    "count": 7
   },
   {
@@ -144,27 +148,23 @@
    "count": 7
   },
   {
-   "name": "Iran",
+   "name": "Hong Kong",
    "count": 7
   },
   {
+   "name": "Iran",
+   "count": 6
+  },
+  {
    "name": "Japan",
-   "count": 6
-  },
-  {
-   "name": "Trump",
-   "count": 6
-  },
-  {
-   "name": "Alaska",
-   "count": 6
-  },
-  {
-   "name": "Gaza",
-   "count": 6
+   "count": 5
   },
   {
    "name": "Green",
+   "count": 5
+  },
+  {
+   "name": "Alaska",
    "count": 5
   },
   {
@@ -172,11 +172,19 @@
    "count": 5
   },
   {
-   "name": "Stream",
+   "name": "Netanyahu",
    "count": 4
   },
   {
+   "name": "Stream",
+   "count": 3
+  },
+  {
    "name": "Tesla",
+   "count": 3
+  },
+  {
+   "name": "Russia",
    "count": 3
   },
   {
@@ -185,10 +193,6 @@
   },
   {
    "name": "Germany",
-   "count": 3
-  },
-  {
-   "name": "Ceuta",
    "count": 3
   },
   {
@@ -208,15 +212,11 @@
    "count": 2
   },
   {
+   "name": "Netflix",
+   "count": 2
+  },
+  {
    "name": "Gagosian",
-   "count": 2
-  },
-  {
-   "name": "OpenAI",
-   "count": 2
-  },
-  {
-   "name": "South Korea",
    "count": 2
   }
  ]
