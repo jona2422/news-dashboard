@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-22T03:09:44.939706+00:00",
- "total": 133,
+ "updated": "2026-08-22T03:59:07.805598+00:00",
+ "total": 130,
  "countries": [
   {
    "name": "United States",
@@ -10,7 +10,16 @@
    "count": 25,
    "items": [
     {
-     "title": "La red de tráfico de cocaína que dirigían los alumnos de una de las universidades más conocidas de Estados Unidos",
+     "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+     "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787368798000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Estudiantes universitarios dirigían una red de tráfico de cocaína en Estados Unidos",
      "link": "https://www.prensa.com/bbc/la-red-de-trafico-de-cocaina-que-dirigian-los-alumnos-de-una-de-las-universidades-mas-conocidas-de-estados-unidos/",
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/DXRZPGIGHFHETM66YQTIL26GK4.jpg?auth=f3169f17deeea6ef92c76093004604ac2e5002338583c5ebbd0c080cfd44e82c&smart=true&width=3008&height=1692",
@@ -55,15 +64,6 @@
      "beatName": "Actualidad Global"
     },
     {
-     "title": "US Debt-to-GDP Ratio",
-     "link": "https://www.us-debt-clock.com/debt-to-gdp",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1787361488000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
      "title": "Jannik Sinner se baja del US Open por lesión en la rodilla, en plena vuelta de Alcaraz",
      "link": "https://www.france24.com/es/video/20260822-jannik-sinner-se-baja-del-us-open-por-lesi%C3%B3n-en-la-rodilla-en-plena-vuelta-de-alcaraz",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
@@ -91,13 +91,13 @@
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-     "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787356300000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "La red de tráfico de cocaína que dirigían los alumnos de una de las universidades más conocidas de EE.UU. (y cómo los atraparon)",
+     "link": "https://www.bbc.com/mundo/articles/c8dnv832zqvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce03/live/e4bb9d00-9db8-11f1-a291-b542ee92de7c.jpg",
+     "ts": 1787359038000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -208,6 +208,15 @@
    "count": 16,
    "items": [
     {
+     "title": "Hong Kong to assess cyclone warning as Tropical Storm Narra nears Guangdong coast",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364900/hong-kong-assess-cyclone-warning-tropical-storm-narra-nears-guangdong-coast?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/00d3e725-84bb-4cf3-b6ce-96e9fb42eaf1_df647243.jpg?itok=desCBw2a&v=1787371113",
+     "ts": 1787371114000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
      "title": "China banned ivory, but Vietnamese gangs keep the trade alive",
      "link": "https://www.scmp.com/week-asia/health-environment/article/3364858/china-banned-ivory-vietnamese-gangs-keep-trade-alive?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -285,15 +294,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/63d4b7cb-78c3-40f8-82e6-d1868e002e94_37270e38.jpg?itok=DbC7PWqh&v=1787342471",
      "ts": 1787323094000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "China’s trade grip tightens in Europe as clock ticks towards October deadline",
-     "link": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/845c3302-16ea-4d04-8648-da590285d526_f13d6255.jpg?itok=v4511w6j&v=1787339161",
-     "ts": 1787320806000,
      "beat": "china",
      "beatName": "China"
     }
@@ -570,11 +570,56 @@
    ]
   },
   {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 4,
+   "items": [
+    {
+     "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+     "ts": 1787368649000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
+     "link": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&quality=85&auto=format&fit=max&s=d399c2e90ef7aecdfd56b841aea05d55",
+     "ts": 1787361152000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Russian drone strikes on Ukraine shopping centre kill 16, injure 130",
+     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364896/russian-drone-strikes-ukraine-shopping-centre-kill-16-injure-130?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ebc152dd-d3bb-4143-abe2-1e9e60810d83_0e14dc7f.jpg?itok=8xW9DjEb&v=1787360624",
+     "ts": 1787360636000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787357208000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Colombia",
    "es": "Colombia",
    "lat": 4.6,
    "lon": -74.3,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Gobierno de Abelardo De La Espriella anunció que Colombia retomará exportaciones de carbón a Israel tras la suspensión en 2024",
@@ -609,15 +654,6 @@
      "source": "La Prensa",
      "image": "https://www.prensa.com/resizer/v2/5Z6KECQQ2NFPHHDUV33AXJCARQ.jpg?auth=dbc3ddcbe5f559340d75557ef583e5082cdc540218534ed1ea959cfa3c317f96&smart=true&width=1920&height=1280",
      "ts": 1787362212000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "'Tras un terremoto como el de 7,4 vivido en Colombia, el impacto también es emocional': ¿cómo cuidar la salud mental después de una emergencia?",
-     "link": "https://www.eltiempo.com/colombia/cali/tras-un-terremoto-como-el-de-7-4-vivido-en-colombia-el-impacto-tambien-es-emocional-como-cuidar-la-salud-mental-despues-de-una-emergencia-3580152",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/10/6a7a6dce77337.jpeg",
-     "ts": 1787355513000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -705,78 +741,6 @@
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 3,
-   "items": [
-    {
-     "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
-     "link": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&quality=85&auto=format&fit=max&s=d399c2e90ef7aecdfd56b841aea05d55",
-     "ts": 1787361152000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Russian drone strikes on Ukraine shopping centre kill 16, injure 130",
-     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364896/russian-drone-strikes-ukraine-shopping-centre-kill-16-injure-130?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ebc152dd-d3bb-4143-abe2-1e9e60810d83_0e14dc7f.jpg?itok=8xW9DjEb&v=1787360624",
-     "ts": 1787360636000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787357208000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 3,
-   "items": [
-    {
-     "title": "El retorno de las fuerzas militares de Estados Unidos a Panamá",
-     "link": "https://www.prensa.com/opinion/el-retorno-de-las-fuerzas-militares-de-estados-unidos-a-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/SETE353EXJCPHH5UFBNL2F2JVU.JPG?auth=90a85e70e3036ba8a4171c77c0a107abf6f2fa488c2de5e497f108a599305ef9&smart=true&width=4800&height=3200",
-     "ts": 1787365800000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Hacia un desarrollo sincronizado entre China y Panamá",
-     "link": "https://www.prensa.com/opinion/hacia-un-desarrollo-sincronizado-entre-china-y-panama/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/6RGAWDKNWFATNAJ52SCSOLDOME.jpg?auth=c6e940bb22a374b12b53aef43c964d46b371c4e0419c26086eab56b921971fa8&smart=true&width=4000&height=2250",
-     "ts": 1787363100000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Chiriquí deja escapar ante Nicaragua su primera victoria en Williamsport",
-     "link": "https://www.prensa.com/deportes/chiriqui-deja-escapar-ante-nicaragua-su-primera-victoria-en-williamsport/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/SCKQGIFU6RE7BAXWRNKCLSINMM.jpg?auth=9edfa6b05f1d2a9b1e6f0ad104adc64af6012036c5f9ea836a8229dd4a465252&smart=true&width=3000&height=2000",
-     "ts": 1787355198000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Australia",
    "es": "Australia",
    "lat": -25.3,
@@ -836,6 +800,33 @@
      "ts": 1787350532000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
+   "count": 2,
+   "items": [
+    {
+     "title": "El retorno de las fuerzas militares de Estados Unidos a Panamá",
+     "link": "https://www.prensa.com/opinion/el-retorno-de-las-fuerzas-militares-de-estados-unidos-a-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/SETE353EXJCPHH5UFBNL2F2JVU.JPG?auth=90a85e70e3036ba8a4171c77c0a107abf6f2fa488c2de5e497f108a599305ef9&smart=true&width=4800&height=3200",
+     "ts": 1787365800000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Hacia un desarrollo sincronizado entre China y Panamá",
+     "link": "https://www.prensa.com/opinion/hacia-un-desarrollo-sincronizado-entre-china-y-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/6RGAWDKNWFATNAJ52SCSOLDOME.jpg?auth=c6e940bb22a374b12b53aef43c964d46b371c4e0419c26086eab56b921971fa8&smart=true&width=4000&height=2250",
+     "ts": 1787363100000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -917,6 +908,33 @@
      "ts": 1787251935000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "es": "Malasia",
+   "lat": 4.2,
+   "lon": 102.0,
+   "count": 2,
+   "items": [
+    {
+     "title": "Dozens die as dengue surges in Malaysia while vaccine uptake stalls",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364899/dozens-die-dengue-surges-malaysia-while-vaccine-uptake-stalls?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/170bca03-015d-44a1-aa26-a7238425473c_b87c8dc5.jpg?itok=CbVQWdrp&v=1787370927",
+     "ts": 1787370940000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Malaysia’s Anwar traded reform for power. Now Umno wants it all",
+     "link": "https://www.scmp.com/week-asia/politics/article/3364857/malaysias-anwar-traded-reform-power-now-umno-wants-it-all?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/2e29a5a6-8278-4322-bf4d-3f7073099d9c_8e5caa14.jpg?itok=M_t-r7NO&v=1787311468",
+     "ts": 1787356819000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -1065,42 +1083,6 @@
    ]
   },
   {
-   "name": "Sweden",
-   "es": "Suecia",
-   "lat": 60.1,
-   "lon": 18.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "\"Un hombre cubierto de sangre\": ataque con espada en un colegio deja un muerto y conmociona a Suecia",
-     "link": "https://www.france24.com/es/europa/20260821-un-hombre-cubierto-de-sangre-ataque-con-espada-en-un-colegio-deja-un-muerto-y-conmociona-a-suecia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/a579324c-9db3-11f1-aab4-005056bfb2b6/w:1024/p:16x9/2026-08-21T160632Z-1409532894-RC233NAQ1PZG-RTRMADP-3-SWEDEN-POLICE-FAGERSTA.jpg",
-     "ts": 1787355450000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Nicaragua",
-   "es": "Nicaragua",
-   "lat": 12.9,
-   "lon": -85.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Chiriquí deja escapar ante Nicaragua su primera victoria en Williamsport",
-     "link": "https://www.prensa.com/deportes/chiriqui-deja-escapar-ante-nicaragua-su-primera-victoria-en-williamsport/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/SCKQGIFU6RE7BAXWRNKCLSINMM.jpg?auth=9edfa6b05f1d2a9b1e6f0ad104adc64af6012036c5f9ea836a8229dd4a465252&smart=true&width=3000&height=2000",
-     "ts": 1787355198000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Syria",
    "es": "Siria",
    "lat": 34.8,
@@ -1131,42 +1113,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/180ca08a-810c-4f64-9988-8215fa3453fb_d4b32ddd.jpg?itok=YRfQYNAa&v=1787316871",
      "ts": 1787364009000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Malaysia’s Anwar traded reform for power. Now Umno wants it all",
-     "link": "https://www.scmp.com/week-asia/politics/article/3364857/malaysias-anwar-traded-reform-power-now-umno-wants-it-all?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/2e29a5a6-8278-4322-bf4d-3f7073099d9c_8e5caa14.jpg?itok=M_t-r7NO&v=1787311468",
-     "ts": 1787356819000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Singapore",
-   "es": "Singapur",
-   "lat": 1.35,
-   "lon": 103.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Singapore jails and canes man for abusing boy, 6",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364874/singapore-jails-and-canes-man-abusing-boy-6?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/5e018759-d609-4c7f-984d-485a82aa5e06_6cd73076.jpg?itok=GYmoqa6q&v=1787315376",
-     "ts": 1787315380000,
      "beat": "china",
      "beatName": "China"
     }
