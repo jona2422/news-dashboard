@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T09:45:54.477237+00:00",
+ "updated": "2026-08-22T10:43:21.953956+00:00",
  "terms": [
   {
    "term": "israel",
@@ -7,7 +7,7 @@
   },
   {
    "term": "trump",
-   "count": 11
+   "count": 10
   },
   {
    "term": "west",
@@ -18,19 +18,23 @@
    "count": 9
   },
   {
+   "term": "world",
+   "count": 7
+  },
+  {
    "term": "hong",
-   "count": 9
+   "count": 7
   },
   {
    "term": "kong",
-   "count": 9
+   "count": 7
   },
   {
-   "term": "australia",
+   "term": "iran",
    "count": 6
   },
   {
-   "term": "canada",
+   "term": "australia",
    "count": 6
   },
   {
@@ -42,6 +46,10 @@
    "count": 6
   },
   {
+   "term": "israeli",
+   "count": 6
+  },
+  {
    "term": "still",
    "count": 5
   },
@@ -50,27 +58,19 @@
    "count": 5
   },
   {
+   "term": "people",
+   "count": 5
+  },
+  {
    "term": "year",
    "count": 5
   },
   {
-   "term": "world",
+   "term": "canada",
    "count": 5
   },
   {
-   "term": "tariffs",
-   "count": 5
-  },
-  {
-   "term": "trade",
-   "count": 5
-  },
-  {
-   "term": "israeli",
-   "count": 5
-  },
-  {
-   "term": "iran",
+   "term": "netanyahu",
    "count": 5
   },
   {
@@ -82,22 +82,6 @@
    "count": 4
   },
   {
-   "term": "down",
-   "count": 4
-  },
-  {
-   "term": "people",
-   "count": 4
-  },
-  {
-   "term": "opens",
-   "count": 4
-  },
-  {
-   "term": "young",
-   "count": 4
-  },
-  {
    "term": "lawsuit",
    "count": 4
   },
@@ -106,7 +90,11 @@
    "count": 4
   },
   {
-   "term": "germany",
+   "term": "south",
+   "count": 4
+  },
+  {
+   "term": "tariffs",
    "count": 4
   },
   {
@@ -120,6 +108,18 @@
   {
    "term": "fire",
    "count": 4
+  },
+  {
+   "term": "notification",
+   "count": 4
+  },
+  {
+   "term": "turkey",
+   "count": 4
+  },
+  {
+   "term": "song",
+   "count": 3
   }
  ],
  "entities": [
@@ -129,7 +129,7 @@
   },
   {
    "name": "Trump",
-   "count": 9
+   "count": 8
   },
   {
    "name": "West Bank",
@@ -137,18 +137,14 @@
   },
   {
    "name": "Hong Kong",
-   "count": 8
+   "count": 7
+  },
+  {
+   "name": "Iran",
+   "count": 6
   },
   {
    "name": "Australia",
-   "count": 6
-  },
-  {
-   "name": "Canada",
-   "count": 6
-  },
-  {
-   "name": "China",
    "count": 6
   },
   {
@@ -156,11 +152,19 @@
    "count": 6
   },
   {
-   "name": "Israeli",
+   "name": "Canada",
    "count": 5
   },
   {
-   "name": "Iran",
+   "name": "China",
+   "count": 5
+  },
+  {
+   "name": "Netanyahu",
+   "count": 5
+  },
+  {
+   "name": "Israeli",
    "count": 5
   },
   {
@@ -168,15 +172,15 @@
    "count": 5
   },
   {
+   "name": "Turkey",
+   "count": 4
+  },
+  {
+   "name": "French",
+   "count": 3
+  },
+  {
    "name": "Germany",
-   "count": 4
-  },
-  {
-   "name": "Hind Rajab",
-   "count": 4
-  },
-  {
-   "name": "India",
    "count": 3
   },
   {
@@ -184,7 +188,7 @@
    "count": 3
   },
   {
-   "name": "Netanyahu",
+   "name": "Hind Rajab",
    "count": 3
   },
   {
@@ -200,6 +204,10 @@
    "count": 2
   },
   {
+   "name": "Rina Banerjee",
+   "count": 2
+  },
+  {
    "name": "UT Austin",
    "count": 2
   },
@@ -209,14 +217,6 @@
   },
   {
    "name": "Motorola",
-   "count": 2
-  },
-  {
-   "name": "Nvidia",
-   "count": 2
-  },
-  {
-   "name": "TikTok",
    "count": 2
   }
  ]
