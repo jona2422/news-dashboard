@@ -1,23 +1,14 @@
 {
- "updated": "2026-08-22T10:43:21.953956+00:00",
- "total": 123,
+ "updated": "2026-08-22T11:39:20.153810+00:00",
+ "total": 124,
  "countries": [
   {
    "name": "Israel",
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 17,
+   "count": 16,
    "items": [
-    {
-     "title": "Turkey accuses Netanyahu of 'genocide', Israeli PM calls Erdogan 'antisemitic dictator'",
-     "link": "https://www.france24.com/en/turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/38e7f9a0-9e13-11f1-90c5-005056a90284/w:1024/p:16x9/EN-20260822-120355-120535-CS.jpg",
-     "ts": 1787395110000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
     {
      "title": "Israel-Turkey tensions rise after Netanyahu orders strikes on Syrian airbase",
      "link": "https://www.scmp.com/week-asia/politics/article/3364901/israel-turkey-tensions-rise-after-netanyahu-orders-strikes-syrian-airbase?utm_source=rss_feed",
@@ -96,6 +87,15 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
      "ts": 1787288457000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel calls Erdogan an ‘anti-Semitic dictator’ after Turkey issues Netanyahu arrest warrant",
+     "link": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
+     "ts": 1787280645000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -201,12 +201,120 @@
    ]
   },
   {
+   "name": "United States",
+   "es": "Estados Unidos",
+   "lat": 39.8,
+   "lon": -98.6,
+   "count": 12,
+   "items": [
+    {
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
+     "ts": 1787397665000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US kindergarten vaccination rates dip as exemptions hit record high",
+     "link": "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/46a05a7c5abbdad1de23446537f1ad216e553d86/183_0_4561_3648/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=8ec7aa5402ddfd35345ccd920597e8b7",
+     "ts": 1787396402000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+     "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1787394369000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "¿Preferirías US$50.000 o un 50% de posibilidades de ganar US$1 millón? (y qué revela esta pregunta)",
+     "link": "https://www.bbc.com/mundo/articles/c330k1j7nn5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b63a/live/b90d7a70-9b60-11f1-a4d2-c958dbfdfff2.jpg",
+     "ts": 1787393257000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Iran says new US sanctions violate sovereignty of other states",
+     "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787390049000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US court strikes down Trump visa ban affecting South Asian nations",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364905/us-court-strikes-down-trump-visa-ban-affecting-south-asian-nations?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ddb14f7c-929e-4fd9-be21-d9baa6678fc1_269e8ded.jpg?itok=jhquWY77&v=1787377908",
+     "ts": 1787377919000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "US slaps 50% tariffs on US$20 billion of Canadian goods after trade talks fail",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364903/us-slaps-50-tariffs-us20-billion-canadian-goods-after-trade-talks-fail?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/42c414d9-2dc5-49c1-810e-00b13ee2beab_b555cf3d.jpg?itok=yG2b9Tv0&v=1787374519",
+     "ts": 1787374235000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Fracasa acuerdo Canadá-EE.UU. para evitar nuevos aranceles",
+     "link": "https://www.dw.com/es/fracasa-acuerdo-canadá-ee-uu-para-evitar-nuevos-aranceles/a-78466468?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1787372880000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
+     "link": "https://www.bbc.com/mundo/articles/cm2grpxne10o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b0d/live/bd99be00-9a1b-11f1-aed2-8d6da8d75094.jpg",
+     "ts": 1787371395000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "HoverAir’s transforming modular drone has already been halted in the US",
+     "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "ts": 1787350451000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    }
+   ]
+  },
+  {
    "name": "China",
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 13,
+   "count": 12,
    "items": [
+    {
+     "title": "Hong Kong-built greenhouse gas tracker device ‘functioning well’ on space station",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3364930/hong-kong-built-greenhouse-gas-tracker-device-functioning-well-space-station?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/122bc6f6-679e-4188-bd18-8d8849d815f9_666f233c.jpg?itok=IdKfVPzh&v=1787397504",
+     "ts": 1787397760000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Hong Kong police arrest 2 men allegedly linked to HK$500,000 phishing scam",
      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364925/hong-kong-police-arrest-2-men-allegedly-linked-hk500000-phishing-scam?utm_source=rss_feed",
@@ -287,105 +395,6 @@
      "ts": 1787374860000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Electrochemist Liu Jiawei moves from Singapore to Hong Kong to start her own lab",
-     "link": "https://www.scmp.com/news/china/science/article/3364755/electrochemist-liu-jiawei-moves-singapore-hong-kong-start-her-own-lab?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/3bbbe693-e326-41da-a244-37a3d63a665e_acd55f63.jpg?itok=Xxs-u88R&v=1787282118",
-     "ts": 1787371205000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "United States",
-   "es": "Estados Unidos",
-   "lat": 39.8,
-   "lon": -98.6,
-   "count": 9,
-   "items": [
-    {
-     "title": "¿Preferirías US$50.000 o un 50% de posibilidades de ganar US$1 millón? (y qué revela esta pregunta)",
-     "link": "https://www.bbc.com/mundo/articles/c330k1j7nn5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b63a/live/b90d7a70-9b60-11f1-a4d2-c958dbfdfff2.jpg",
-     "ts": 1787393257000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Iran says new US sanctions violate sovereignty of other states",
-     "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787390049000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US court strikes down Trump visa ban affecting South Asian nations",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364905/us-court-strikes-down-trump-visa-ban-affecting-south-asian-nations?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ddb14f7c-929e-4fd9-be21-d9baa6678fc1_269e8ded.jpg?itok=jhquWY77&v=1787377908",
-     "ts": 1787377919000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "US slaps 50% tariffs on US$20 billion of Canadian goods after trade talks fail",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364903/us-slaps-50-tariffs-us20-billion-canadian-goods-after-trade-talks-fail?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/42c414d9-2dc5-49c1-810e-00b13ee2beab_b555cf3d.jpg?itok=yG2b9Tv0&v=1787374519",
-     "ts": 1787374235000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Fracasa acuerdo Canadá-EE.UU. para evitar nuevos aranceles",
-     "link": "https://www.dw.com/es/fracasa-acuerdo-canadá-ee-uu-para-evitar-nuevos-aranceles/a-78466468?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787372880000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
-     "link": "https://www.bbc.com/mundo/articles/cm2grpxne10o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b0d/live/bd99be00-9a1b-11f1-aed2-8d6da8d75094.jpg",
-     "ts": 1787371395000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "HoverAir’s transforming modular drone has already been halted in the US",
-     "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "ts": 1787350451000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "US urges allies and China to join Iran economic pressure campaign",
-     "link": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/715e1cda-9cb3-11f1-88f2-005056a90284/w:1024/p:16x9/02b5331290807cad5fafd6d3a495468f1fc01b9e.jpg",
-     "ts": 1787279889000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-     "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
-     "ts": 1787255568000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -394,8 +403,26 @@
    "es": "Canadá",
    "lat": 56.1,
    "lon": -106.3,
-   "count": 7,
+   "count": 9,
    "items": [
+    {
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
+     "ts": 1787397665000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+     "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1787394369000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
     {
      "title": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
@@ -466,7 +493,7 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 7,
+   "count": 8,
    "items": [
     {
      "title": "Irán autoriza el paso de varios petroleros iraquíes por Ormuz",
@@ -530,6 +557,15 @@
      "ts": 1787216448000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
+     "link": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d43051433cb016c208dfc647c9f2517efbfe04cf/1375_65_4125_3301/master/4125.jpg?width=140&quality=85&auto=format&fit=max&s=f41f7a4df0890477f926ecc7b22db497",
+     "ts": 1787201624000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -538,7 +574,7 @@
    "es": "Australia",
    "lat": -25.3,
    "lon": 133.8,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Albanese: Canberra to join Australia’s gun buy-back programme after Bondi attack",
@@ -564,15 +600,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
      "ts": 1787385237000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
-     "ts": 1787381146000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -606,56 +633,47 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 5,
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 4,
    "items": [
     {
-     "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
-     "link": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2058df30df69be6092ae9b64b2aa939286c42c4d/604_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=f0ccd1ed09c6c184209e2f6717e1ae55",
-     "ts": 1787378457000,
+     "title": "Buscan desaparecidos tras ataque ruso a centro comercial en Ucrania",
+     "link": "https://www.dw.com/es/buscan-desaparecidos-tras-ataque-ruso-a-centro-comercial-en-ucrania/a-78468862?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1787398020000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6a/live/c692b7a0-9e12-11f1-aed2-8d6da8d75094.jpg",
+     "ts": 1787392882000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-     "ts": 1787327937000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
+     "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787387280000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-     "link": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
-     "ts": 1787324614000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-     "ts": 1787252114000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
-     "link": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
-     "ts": 1787251935000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Ucrania busca sobrevivientes tras un doble ataque ruso contra un centro comercial que dejó 16 muertos",
+     "link": "https://www.bbc.com/mundo/articles/clyelyelg9do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+     "ts": 1787385040000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -705,45 +723,45 @@
    ]
   },
   {
-   "name": "Turkey",
-   "es": "Turquía",
-   "lat": 38.9,
-   "lon": 35.2,
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
    "count": 4,
    "items": [
     {
-     "title": "Turkey accuses Netanyahu of 'genocide', Israeli PM calls Erdogan 'antisemitic dictator'",
-     "link": "https://www.france24.com/en/turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/38e7f9a0-9e13-11f1-90c5-005056a90284/w:1024/p:16x9/EN-20260822-120355-120535-CS.jpg",
-     "ts": 1787395110000,
+     "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+     "ts": 1787327937000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Israel-Turkey tensions rise after Netanyahu orders strikes on Syrian airbase",
-     "link": "https://www.scmp.com/week-asia/politics/article/3364901/israel-turkey-tensions-rise-after-netanyahu-orders-strikes-syrian-airbase?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/3dce0515-8048-4d27-a28a-35141105eeb9_b3d3d217.jpg?itok=HMZ7mbAG&v=1787371932",
-     "ts": 1787392810000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
-     "link": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/2afc8f5a-9d86-11f1-9994-005056a90284/w:1024/p:16x9/AP26141592813959.jpg",
-     "ts": 1787335480000,
+     "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+     "link": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
+     "ts": 1787324614000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Israel calls Erdogan an ‘anti-Semitic dictator’ after Turkey issues Netanyahu arrest warrant",
-     "link": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+     "ts": 1787252114000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
+     "link": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
-     "ts": 1787280645000,
+     "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
+     "ts": 1787251935000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -786,38 +804,38 @@
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
+   "name": "Turkey",
+   "es": "Turquía",
+   "lat": 38.9,
+   "lon": 35.2,
    "count": 3,
    "items": [
     {
-     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6a/live/c692b7a0-9e12-11f1-aed2-8d6da8d75094.jpg",
-     "ts": 1787392882000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Israel-Turkey tensions rise after Netanyahu orders strikes on Syrian airbase",
+     "link": "https://www.scmp.com/week-asia/politics/article/3364901/israel-turkey-tensions-rise-after-netanyahu-orders-strikes-syrian-airbase?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/3dce0515-8048-4d27-a28a-35141105eeb9_b3d3d217.jpg?itok=HMZ7mbAG&v=1787371932",
+     "ts": 1787392810000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
-     "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787387280000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
+     "link": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/2afc8f5a-9d86-11f1-9994-005056a90284/w:1024/p:16x9/AP26141592813959.jpg",
+     "ts": 1787335480000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Ucrania busca sobrevivientes tras un doble ataque ruso contra un centro comercial que dejó 16 muertos",
-     "link": "https://www.bbc.com/mundo/articles/clyelyelg9do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-     "ts": 1787385040000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Israel calls Erdogan an ‘anti-Semitic dictator’ after Turkey issues Netanyahu arrest warrant",
+     "link": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
+     "ts": 1787280645000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -1119,24 +1137,6 @@
    ]
   },
   {
-   "name": "Somalia",
-   "es": "Somalia",
-   "lat": 5.2,
-   "lon": 46.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
-     "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787382687000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
    "name": "Colombia",
    "es": "Colombia",
    "lat": 4.6,
@@ -1209,6 +1209,24 @@
    ]
   },
   {
+   "name": "Myanmar",
+   "es": "Birmania",
+   "lat": 21.9,
+   "lon": 95.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Myanmar air strike kills 14 praying at monastery, rebel witnesses say",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364928/myanmar-air-strike-kills-14-praying-monastery-rebel-witnesses-say?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/61459733-ea05-44e6-b85c-6f78b3931b48_18c1b5dc.jpg?itok=wysaP-cZ&v=1787395711",
+     "ts": 1787395721000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Brazil",
    "es": "Brasil",
    "lat": -14.2,
@@ -1275,24 +1293,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/77a984b2-e9e1-45ac-8650-cf32dda4dcac_185144fc.jpg?itok=-0EINey0&v=1787372054",
      "ts": 1787374085000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Dozens die as dengue surges in Malaysia while vaccine uptake stalls",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364899/dozens-die-dengue-surges-malaysia-while-vaccine-uptake-stalls?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/170bca03-015d-44a1-aa26-a7238425473c_b87c8dc5.jpg?itok=CbVQWdrp&v=1787370927",
-     "ts": 1787370940000,
      "beat": "china",
      "beatName": "China"
     }
