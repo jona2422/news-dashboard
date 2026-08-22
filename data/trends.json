@@ -1,13 +1,9 @@
 {
- "updated": "2026-08-22T22:41:34.813780+00:00",
+ "updated": "2026-08-22T23:38:05.500291+00:00",
  "terms": [
   {
    "term": "israel",
-   "count": 19
-  },
-  {
-   "term": "trump",
-   "count": 12
+   "count": 20
   },
   {
    "term": "west",
@@ -20,6 +16,10 @@
   {
    "term": "green",
    "count": 9
+  },
+  {
+   "term": "trump",
+   "count": 8
   },
   {
    "term": "canada",
@@ -70,6 +70,10 @@
    "count": 5
   },
   {
+   "term": "australia",
+   "count": 5
+  },
+  {
    "term": "gaza",
    "count": 5
   },
@@ -78,15 +82,11 @@
    "count": 5
   },
   {
-   "term": "chinese",
-   "count": 5
-  },
-  {
    "term": "song",
    "count": 4
   },
   {
-   "term": "space",
+   "term": "real",
    "count": 4
   },
   {
@@ -95,6 +95,10 @@
   },
   {
    "term": "dollar",
+   "count": 4
+  },
+  {
+   "term": "tropical",
    "count": 4
   },
   {
@@ -116,16 +120,12 @@
   {
    "term": "indonesia",
    "count": 4
-  },
-  {
-   "term": "settlement",
-   "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israel",
-   "count": 18
+   "count": 19
   },
   {
    "name": "West Bank",
@@ -140,16 +140,20 @@
    "count": 8
   },
   {
-   "name": "Trump",
-   "count": 8
-  },
-  {
    "name": "Israeli",
    "count": 8
   },
   {
    "name": "Iran",
    "count": 7
+  },
+  {
+   "name": "Trump",
+   "count": 6
+  },
+  {
+   "name": "Australia",
+   "count": 5
   },
   {
    "name": "Gaza",
@@ -168,10 +172,6 @@
    "count": 4
   },
   {
-   "name": "Australia",
-   "count": 4
-  },
-  {
    "name": "Chinese",
    "count": 4
   },
@@ -180,7 +180,15 @@
    "count": 4
   },
   {
+   "name": "Real Madrid",
+   "count": 3
+  },
+  {
    "name": "Carney",
+   "count": 3
+  },
+  {
+   "name": "Canadá",
    "count": 3
   },
   {
@@ -209,14 +217,6 @@
   },
   {
    "name": "There",
-   "count": 2
-  },
-  {
-   "name": "Brian Wilson",
-   "count": 2
-  },
-  {
-   "name": "Stream",
    "count": 2
   }
  ]
