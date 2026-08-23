@@ -1,12 +1,20 @@
 {
- "updated": "2026-08-23T10:44:09.516877+00:00",
+ "updated": "2026-08-23T11:39:17.295697+00:00",
  "terms": [
   {
-   "term": "trump",
-   "count": 10
+   "term": "israel",
+   "count": 13
   },
   {
-   "term": "west",
+   "term": "world",
+   "count": 9
+  },
+  {
+   "term": "trump",
+   "count": 9
+  },
+  {
+   "term": "gaza",
    "count": 9
   },
   {
@@ -14,31 +22,15 @@
    "count": 9
   },
   {
-   "term": "hong",
+   "term": "chinese",
    "count": 9
   },
   {
-   "term": "kong",
-   "count": 9
-  },
-  {
-   "term": "world",
-   "count": 8
+   "term": "west",
+   "count": 7
   },
   {
    "term": "israeli",
-   "count": 8
-  },
-  {
-   "term": "israel",
-   "count": 8
-  },
-  {
-   "term": "chinese",
-   "count": 8
-  },
-  {
-   "term": "bank",
    "count": 7
   },
   {
@@ -46,11 +38,19 @@
    "count": 7
   },
   {
-   "term": "power",
+   "term": "hong",
+   "count": 7
+  },
+  {
+   "term": "kong",
+   "count": 7
+  },
+  {
+   "term": "bank",
    "count": 6
   },
   {
-   "term": "gaza",
+   "term": "china",
    "count": 6
   },
   {
@@ -58,7 +58,7 @@
    "count": 5
   },
   {
-   "term": "president",
+   "term": "power",
    "count": 5
   },
   {
@@ -66,8 +66,8 @@
    "count": 5
   },
   {
-   "term": "china",
-   "count": 5
+   "term": "years",
+   "count": 4
   },
   {
    "term": "song",
@@ -86,15 +86,19 @@
    "count": 4
   },
   {
+   "term": "pressure",
+   "count": 4
+  },
+  {
+   "term": "french",
+   "count": 4
+  },
+  {
    "term": "attacks",
    "count": 4
   },
   {
    "term": "plant",
-   "count": 4
-  },
-  {
-   "term": "canada",
    "count": 4
   },
   {
@@ -114,33 +118,25 @@
    "count": 3
   },
   {
-   "term": "return",
-   "count": 3
-  },
-  {
-   "term": "down",
+   "term": "show",
    "count": 3
   }
  ],
  "entities": [
   {
+   "name": "Israel",
+   "count": 12
+  },
+  {
+   "name": "Gaza",
+   "count": 9
+  },
+  {
    "name": "Iran",
    "count": 9
   },
   {
-   "name": "Hong Kong",
-   "count": 9
-  },
-  {
    "name": "Israeli",
-   "count": 8
-  },
-  {
-   "name": "Trump",
-   "count": 7
-  },
-  {
-   "name": "West Bank",
    "count": 7
   },
   {
@@ -148,23 +144,27 @@
    "count": 7
   },
   {
-   "name": "Israel",
+   "name": "Chinese",
    "count": 7
   },
   {
-   "name": "Gaza",
+   "name": "Hong Kong",
+   "count": 7
+  },
+  {
+   "name": "Trump",
    "count": 6
   },
   {
-   "name": "Chinese",
+   "name": "West Bank",
    "count": 6
   },
   {
    "name": "China",
-   "count": 5
+   "count": 6
   },
   {
-   "name": "Canada",
+   "name": "French",
    "count": 4
   },
   {
@@ -173,6 +173,10 @@
   },
   {
    "name": "California",
+   "count": 3
+  },
+  {
+   "name": "Canada",
    "count": 3
   },
   {
@@ -189,10 +193,6 @@
   },
   {
    "name": "Indonesia",
-   "count": 3
-  },
-  {
-   "name": "French",
    "count": 3
   },
   {
