@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-23T13:05:03.632024+00:00",
+ "updated": "2026-08-23T13:47:42.975865+00:00",
  "terms": [
   {
    "term": "israel",
-   "count": 13
+   "count": 12
   },
   {
    "term": "iran",
    "count": 10
   },
   {
-   "term": "chinese",
-   "count": 10
+   "term": "world",
+   "count": 9
   },
   {
-   "term": "world",
-   "count": 8
+   "term": "chinese",
+   "count": 9
   },
   {
    "term": "hong",
@@ -30,7 +30,7 @@
    "count": 7
   },
   {
-   "term": "trump",
+   "term": "israeli",
    "count": 7
   },
   {
@@ -42,16 +42,20 @@
    "count": 7
   },
   {
-   "term": "bank",
+   "term": "trump",
    "count": 6
   },
   {
-   "term": "israeli",
+   "term": "bank",
    "count": 6
   },
   {
    "term": "china",
    "count": 6
+  },
+  {
+   "term": "show",
+   "count": 5
   },
   {
    "term": "tour",
@@ -74,6 +78,10 @@
    "count": 5
   },
   {
+   "term": "agosto",
+   "count": 5
+  },
+  {
    "term": "green",
    "count": 5
   },
@@ -82,15 +90,15 @@
    "count": 5
   },
   {
-   "term": "years",
-   "count": 4
-  },
-  {
    "term": "song",
    "count": 4
   },
   {
    "term": "still",
+   "count": 4
+  },
+  {
+   "term": "people",
    "count": 4
   },
   {
@@ -106,26 +114,18 @@
    "count": 4
   },
   {
-   "term": "california",
+   "term": "attacks",
    "count": 4
   },
   {
-   "term": "congo",
-   "count": 4
-  },
-  {
-   "term": "french",
-   "count": 4
-  },
-  {
-   "term": "agosto",
+   "term": "pressure",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Israel",
-   "count": 12
+   "count": 11
   },
   {
    "name": "Iran",
@@ -144,10 +144,6 @@
    "count": 7
   },
   {
-   "name": "Chinese",
-   "count": 7
-  },
-  {
    "name": "West Bank",
    "count": 6
   },
@@ -160,31 +156,31 @@
    "count": 6
   },
   {
+   "name": "Chinese",
+   "count": 6
+  },
+  {
    "name": "Green",
    "count": 5
   },
   {
    "name": "California",
-   "count": 4
-  },
-  {
-   "name": "French",
-   "count": 4
-  },
-  {
-   "name": "Trump",
-   "count": 4
-  },
-  {
-   "name": "Congo",
    "count": 3
   },
   {
-   "name": "Canada",
+   "name": "Ukraine",
+   "count": 3
+  },
+  {
+   "name": "Trump",
    "count": 3
   },
   {
    "name": "Panamá",
+   "count": 3
+  },
+  {
+   "name": "French",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "Iranian",
+   "count": 2
+  },
+  {
+   "name": "OpenAI",
    "count": 2
   }
  ]
