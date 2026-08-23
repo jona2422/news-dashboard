@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T16:45:27.896234+00:00",
- "count": 296,
+ "updated": "2026-08-23T17:38:51.835257+00:00",
+ "count": 297,
  "max": 6,
  "items": [
   {
@@ -11,15 +11,6 @@
    "lat": 41.8344,
    "depth": 42.867,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6"
-  },
-  {
-   "mag": 5.8,
-   "place": "4 km N of Toride, Japan",
-   "time": 1787418039472,
-   "lon": 140.0778,
-   "lat": 35.9375,
-   "depth": 61,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta"
   },
   {
    "mag": 5.3,
@@ -346,12 +337,21 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423267"
   },
   {
-   "mag": 2.7,
+   "mag": 2.6,
+   "place": "13 km ENE of Pāhala, Hawaii",
+   "time": 1787505803930,
+   "lon": -155.353668212891,
+   "lat": 19.2385005950928,
+   "depth": 28.6599998474121,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022887"
+  },
+  {
+   "mag": 2.6,
    "place": "10 km E of Coso Junction, CA",
-   "time": 1787472917860,
-   "lon": -117.837833333333,
-   "lat": 36.06,
-   "depth": 2.4,
+   "time": 1787472917820,
+   "lon": -117.8375,
+   "lat": 36.0611666666667,
+   "depth": 2.63,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533512"
   },
   {
@@ -410,15 +410,6 @@
   },
   {
    "mag": 2.4,
-   "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787472366810,
-   "lon": -117.8405,
-   "lat": 36.0641666666667,
-   "depth": 2.7,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533448"
-  },
-  {
-   "mag": 2.4,
    "place": "14 km WNW of Puerto Real, Puerto Rico",
    "time": 1787456212890,
    "lon": -67.3056666666667,
@@ -452,6 +443,15 @@
    "lat": 19.0860004425049,
    "depth": 39.0999984741211,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022797"
+  },
+  {
+   "mag": 2.3,
+   "place": "10 km ENE of Coso Junction, CA",
+   "time": 1787472366790,
+   "lon": -117.839166666667,
+   "lat": 36.0655,
+   "depth": 3.51,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533448"
   },
   {
    "mag": 2.3,
@@ -501,10 +501,10 @@
   {
    "mag": 2.2,
    "place": "11 km S of Lompoc, CA",
-   "time": 1787469576240,
-   "lon": -120.4745,
-   "lat": 34.5415,
-   "depth": 4.93,
+   "time": 1787469576180,
+   "lon": -120.476333333333,
+   "lat": 34.5426666666667,
+   "depth": 5.94,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533376"
   },
   {
@@ -596,15 +596,6 @@
    "lat": 58.076,
    "depth": 106.7,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqhsvr"
-  },
-  {
-   "mag": 2,
-   "place": "81 km SE of Ugashik, Alaska",
-   "time": 1787418695078,
-   "lon": -156.292,
-   "lat": 57.09,
-   "depth": 78.7,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qprmwb"
   },
   {
    "mag": 1.9,
@@ -841,15 +832,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533144"
   },
   {
-   "mag": 1.7,
-   "place": "2 km NNW of La Verne, CA",
-   "time": 1787419751270,
-   "lon": -117.779,
-   "lat": 34.117,
-   "depth": 6.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533032"
-  },
-  {
    "mag": 1.6,
    "place": "51 km SW of Cantwell, Alaska",
    "time": 1787477433578,
@@ -902,15 +884,6 @@
    "lat": 61.459,
    "depth": 12.7,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqpykq"
-  },
-  {
-   "mag": 1.6,
-   "place": "62 km NNE of Van Horn, Texas",
-   "time": 1787461552530,
-   "lon": -104.506,
-   "lat": 31.529,
-   "depth": 0,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qnybdm"
   },
   {
    "mag": 1.6,
@@ -967,22 +940,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qpuqjg"
   },
   {
-   "mag": 1.6,
-   "place": "3 km SE of The Geysers, CA",
-   "time": 1787419606450,
-   "lon": -122.726501464844,
-   "lat": 38.7573318481445,
-   "depth": 2.77999997138977,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423052"
-  },
-  {
-   "mag": 1.6,
-   "place": "29 km SSE of Mina, Nevada",
-   "time": 1787418800193,
-   "lon": -117.9884,
-   "lat": 38.1445,
-   "depth": 0.0065,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923718"
+   "mag": 1.5,
+   "place": "6 km WNW of Cobb, CA",
+   "time": 1787505949890,
+   "lon": -122.789833068848,
+   "lat": 38.8359985351562,
+   "depth": 1.87000000476837,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423667"
   },
   {
    "mag": 1.5,
@@ -1031,6 +995,15 @@
   },
   {
    "mag": 1.5,
+   "place": "29 km NW of Toyah, Texas",
+   "time": 1787461558593,
+   "lon": -104.005,
+   "lat": 31.515,
+   "depth": 4.0544,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qnybdm"
+  },
+  {
+   "mag": 1.5,
    "place": "24 km W of Karluk, Alaska",
    "time": 1787455386969,
    "lon": -154.87,
@@ -1064,15 +1037,6 @@
    "lat": 32.788,
    "depth": 13.04,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533224"
-  },
-  {
-   "mag": 1.5,
-   "place": "6 km S of Redlands, CA",
-   "time": 1787419944040,
-   "lon": -117.192166666667,
-   "lat": 33.9991666666667,
-   "depth": 14.8,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533040"
   },
   {
    "mag": 1.4,
@@ -1255,15 +1219,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423157"
   },
   {
-   "mag": 1.3,
-   "place": "49 km W of Anchor Point, Alaska",
-   "time": 1787419063862,
-   "lon": -152.717,
-   "lat": 59.737,
-   "depth": 96.7,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qprsfk"
-  },
-  {
    "mag": 1.2,
    "place": "16 km WSW of Johannesburg, CA",
    "time": 1787495509570,
@@ -1379,6 +1334,33 @@
    "lat": 38.7928352355957,
    "depth": 0.639999985694885,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423082"
+  },
+  {
+   "mag": 1.1,
+   "place": "18 km WSW of Johannesburg, CA",
+   "time": 1787503905770,
+   "lon": -117.818333333333,
+   "lat": 35.308,
+   "depth": 9.19,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534272"
+  },
+  {
+   "mag": 1.1,
+   "place": "10 km ENE of Coso Junction, CA",
+   "time": 1787503863450,
+   "lon": -117.838166666667,
+   "lat": 36.0658333333333,
+   "depth": 2.62,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534264"
+  },
+  {
+   "mag": 1.1,
+   "place": "18 km WSW of Johannesburg, CA",
+   "time": 1787503653080,
+   "lon": -117.819833333333,
+   "lat": 35.3066666666667,
+   "depth": 9.26,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534256"
   },
   {
    "mag": 1.1,
@@ -1615,15 +1597,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533544"
   },
   {
-   "mag": 1,
-   "place": "47 km NW of Toyah, Texas",
-   "time": 1787465339200,
-   "lon": -104.154,
-   "lat": 31.615,
-   "depth": 3.1632,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qoadpr"
-  },
-  {
    "mag": 1.0,
    "place": "6 km ENE of Boron, CA",
    "time": 1787457481090,
@@ -1667,6 +1640,15 @@
    "lat": 33.891,
    "depth": 16.45,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533064"
+  },
+  {
+   "mag": 0.9,
+   "place": "21 km NNE of Indio, CA",
+   "time": 1787504007080,
+   "lon": -116.165833333333,
+   "lat": 33.9023333333333,
+   "depth": 4.78,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534280"
   },
   {
    "mag": 0.9,
@@ -1769,6 +1751,15 @@
   },
   {
    "mag": 0.9,
+   "place": "45 km NW of Toyah, Texas",
+   "time": 1787465339389,
+   "lon": -104.13,
+   "lat": 31.608,
+   "depth": 3.7276,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qoadpr"
+  },
+  {
+   "mag": 0.9,
    "place": "13 km SSW of Searles Valley, CA",
    "time": 1787459680870,
    "lon": -117.482333333333,
@@ -1841,12 +1832,30 @@
   },
   {
    "mag": 0.8,
+   "place": "13 km ENE of Verlot, Washington",
+   "time": 1787499105100,
+   "lon": -121.6105,
+   "lat": 48.1231666666667,
+   "depth": 12.3,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714084372"
+  },
+  {
+   "mag": 0.8,
    "place": "10 km E of Coso Junction, CA",
    "time": 1787495055140,
    "lon": -117.839,
    "lat": 36.0623333333333,
    "depth": 2.74,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534176"
+  },
+  {
+   "mag": 0.8,
+   "place": "13 km N of Amboy, Washington",
+   "time": 1787493294600,
+   "lon": -122.426833333333,
+   "lat": 46.0315,
+   "depth": 16.75,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714084222"
   },
   {
    "mag": 0.8,
@@ -2065,13 +2074,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533200"
   },
   {
-   "mag": 0.8,
-   "place": "16 km ESE of Anza, CA",
-   "time": 1787417971320,
-   "lon": -116.508333333333,
-   "lat": 33.5146666666667,
-   "depth": 12.33,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533000"
+   "mag": 0.7,
+   "place": "10 km E of Coso Junction, CA",
+   "time": 1787505553880,
+   "lon": -117.840666666667,
+   "lat": 36.0586666666667,
+   "depth": 2.7,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534296"
   },
   {
    "mag": 0.7,
@@ -2363,6 +2372,15 @@
   },
   {
    "mag": 0.6,
+   "place": "10 km ENE of Coso Junction, CA",
+   "time": 1787505802860,
+   "lon": -117.841833333333,
+   "lat": 36.0645,
+   "depth": 2.72,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534304"
+  },
+  {
+   "mag": 0.6,
    "place": "14 km N of Warner Springs, CA",
    "time": 1787501250870,
    "lon": -116.643666666667,
@@ -2450,15 +2468,6 @@
    "lat": 33.4775,
    "depth": 5.68,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533256"
-  },
-  {
-   "mag": 0.6,
-   "place": "7 km SW of Anza, CA",
-   "time": 1787419102960,
-   "lon": -116.7375,
-   "lat": 33.515,
-   "depth": 4.12,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533024"
   },
   {
    "mag": 0.5,
@@ -2641,13 +2650,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533304"
   },
   {
-   "mag": 0.3,
-   "place": "12 km W of Anza, CA",
-   "time": 1787418144670,
-   "lon": -116.799666666667,
-   "lat": 33.5755,
-   "depth": 7.27,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533008"
+   "mag": 0.2,
+   "place": "15 km N of Warner Springs, CA",
+   "time": 1787505371050,
+   "lon": -116.641666666667,
+   "lat": 33.418,
+   "depth": 6.73,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534288"
   },
   {
    "mag": 0.1,
