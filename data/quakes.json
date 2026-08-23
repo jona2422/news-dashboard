@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T04:54:23.353913+00:00",
- "count": 203,
+ "updated": "2026-08-23T05:48:01.370600+00:00",
+ "count": 202,
  "max": 6.2,
  "items": [
   {
@@ -58,15 +58,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri"
   },
   {
-   "mag": 4.9,
-   "place": "167 km SE of San Jose Village, Northern Mariana Islands",
-   "time": 1787377627443,
-   "lon": 146.7194,
-   "lat": 13.8954,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra"
-  },
-  {
    "mag": 4.8,
    "place": "83 km NNE of Ruteng, Indonesia",
    "time": 1787387340857,
@@ -83,15 +74,6 @@
    "lat": -3.2971,
    "depth": 26.342,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
-  },
-  {
-   "mag": 4.7,
-   "place": "71 km NNW of Ende, Indonesia",
-   "time": 1787377511914,
-   "lon": 121.4575,
-   "lat": -8.2301,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7"
   },
   {
    "mag": 4.6,
@@ -227,6 +209,24 @@
    "lat": 19.039,
    "depth": 71,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026234001"
+  },
+  {
+   "mag": 3.5,
+   "place": "21 km NE of Sterling, Alaska",
+   "time": 1787461564524,
+   "lon": -150.51,
+   "lat": 60.682,
+   "depth": 49.7,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqpiix"
+  },
+  {
+   "mag": 3.5,
+   "place": "12 km E of Susitna, Alaska",
+   "time": 1787461355308,
+   "lon": -150.282,
+   "lat": 61.564,
+   "depth": 63.9,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqpfaq"
   },
   {
    "mag": 3.5,
@@ -488,15 +488,6 @@
    "lat": 38.6059989929199,
    "depth": 1.08000004291534,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422817"
-  },
-  {
-   "mag": 2.2,
-   "place": "66 km S of Ivanof Bay, Alaska",
-   "time": 1787374707589,
-   "lon": -159.346,
-   "lat": 55.308,
-   "depth": 5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qotbci"
   },
   {
    "mag": 2.1,
@@ -778,13 +769,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022342"
   },
   {
-   "mag": 1.8,
-   "place": "16 km SE of Naalehu, Hawaii",
-   "time": 1787375367580,
-   "lon": -155.454498291016,
-   "lat": 18.9834995269775,
-   "depth": 26.4099998474121,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022307"
+   "mag": 1.7,
+   "place": "30 km NW of Toyah, Texas",
+   "time": 1787461558414,
+   "lon": -104.002,
+   "lat": 31.52,
+   "depth": 5.2888,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qnxyyk"
   },
   {
    "mag": 1.7,
@@ -896,6 +887,15 @@
   },
   {
    "mag": 1.6,
+   "place": "39 km NNW of Valdez, Alaska",
+   "time": 1787462674439,
+   "lon": -146.608,
+   "lat": 61.459,
+   "depth": 12.7,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqpykq"
+  },
+  {
+   "mag": 1.6,
    "place": "40 km W of Nanwalek, Alaska",
    "time": 1787443277565,
    "lon": -152.636,
@@ -1003,15 +1003,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422832"
   },
   {
-   "mag": 1.6,
-   "place": "21 km SW of Ferry, Alaska",
-   "time": 1787374814437,
-   "lon": -149.482,
-   "lat": 63.905,
-   "depth": 5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qotctl"
-  },
-  {
    "mag": 1.5,
    "place": "24 km W of Karluk, Alaska",
    "time": 1787455386969,
@@ -1100,15 +1091,6 @@
    "lat": 38.8294982910156,
    "depth": 1.75999999046326,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423277"
-  },
-  {
-   "mag": 1.4,
-   "place": "28 km NW of Toyah, Texas",
-   "time": 1787445604393,
-   "lon": -103.991,
-   "lat": 31.513,
-   "depth": 8.9531,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qnpgmq"
   },
   {
    "mag": 1.4,
@@ -1220,6 +1202,15 @@
   },
   {
    "mag": 1.2,
+   "place": "29 km NW of Toyah, Texas",
+   "time": 1787445605266,
+   "lon": -104.004,
+   "lat": 31.514,
+   "depth": 4.0881,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qnpgmq"
+  },
+  {
+   "mag": 1.2,
    "place": "4 km WNW of The Geysers, CA",
    "time": 1787424111160,
    "lon": -122.795501708984,
@@ -1316,15 +1307,6 @@
    "lat": 38.8226661682129,
    "depth": 2.53999996185303,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422807"
-  },
-  {
-   "mag": 1.1,
-   "place": "2 km SSW of Julian, CA",
-   "time": 1787375466150,
-   "lon": -116.615666666667,
-   "lat": 33.0611666666667,
-   "depth": 13.28,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532824"
   },
   {
    "mag": 1.0,
@@ -1715,6 +1697,15 @@
   },
   {
    "mag": 0.5,
+   "place": "9 km SE of Winchester, CA",
+   "time": 1787461560170,
+   "lon": -117.009166666667,
+   "lat": 33.6608333333333,
+   "depth": 12.06,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533344"
+  },
+  {
+   "mag": 0.5,
    "place": "13 km NE of Warner Springs, CA",
    "time": 1787442788450,
    "lon": -116.555833333333,
@@ -1759,15 +1750,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533168"
   },
   {
-   "mag": 0.4,
-   "place": "19 km W of Searles Valley, CA",
-   "time": 1787374645170,
-   "lon": -117.614,
-   "lat": 35.7916666666667,
-   "depth": 7.67,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532816"
-  },
-  {
    "mag": 0.3,
    "place": "6 km WSW of Anza, CA",
    "time": 1787453178430,
@@ -1784,6 +1766,15 @@
    "lat": 33.5755,
    "depth": 7.27,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533008"
+  },
+  {
+   "mag": 0.1,
+   "place": "15 km N of Warner Springs, CA",
+   "time": 1787461977160,
+   "lon": -116.6425,
+   "lat": 33.418,
+   "depth": 6.6,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533352"
   },
   {
    "mag": 0.1,

@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-23T04:54:23.233324+00:00",
+ "updated": "2026-08-23T05:48:01.248255+00:00",
  "terms": [
   {
    "term": "israel",
    "count": 13
   },
   {
-   "term": "west",
-   "count": 11
-  },
-  {
    "term": "iran",
    "count": 11
   },
   {
-   "term": "bank",
+   "term": "west",
    "count": 10
+  },
+  {
+   "term": "bank",
+   "count": 9
   },
   {
    "term": "world",
@@ -26,19 +26,31 @@
    "count": 8
   },
   {
-   "term": "israeli",
+   "term": "canada",
    "count": 8
   },
   {
-   "term": "fire",
-   "count": 7
+   "term": "hong",
+   "count": 8
   },
   {
-   "term": "canada",
-   "count": 7
+   "term": "kong",
+   "count": 8
   },
   {
    "term": "trade",
+   "count": 7
+  },
+  {
+   "term": "israeli",
+   "count": 7
+  },
+  {
+   "term": "alaska",
+   "count": 7
+  },
+  {
+   "term": "china",
    "count": 6
   },
   {
@@ -46,19 +58,7 @@
    "count": 6
   },
   {
-   "term": "chinese",
-   "count": 6
-  },
-  {
-   "term": "green",
-   "count": 6
-  },
-  {
    "term": "tour",
-   "count": 5
-  },
-  {
-   "term": "still",
    "count": 5
   },
   {
@@ -66,27 +66,11 @@
    "count": 5
   },
   {
-   "term": "alaska",
+   "term": "fire",
    "count": 5
   },
   {
-   "term": "forest",
-   "count": 5
-  },
-  {
-   "term": "notification",
-   "count": 5
-  },
-  {
-   "term": "china",
-   "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
+   "term": "chinese",
    "count": 5
   },
   {
@@ -94,15 +78,23 @@
    "count": 4
   },
   {
+   "term": "still",
+   "count": 4
+  },
+  {
+   "term": "gaza",
+   "count": 4
+  },
+  {
    "term": "warns",
    "count": 4
   },
   {
-   "term": "open",
+   "term": "japan",
    "count": 4
   },
   {
-   "term": "japan",
+   "term": "green",
    "count": 4
   },
   {
@@ -120,6 +112,14 @@
   {
    "term": "charges",
    "count": 3
+  },
+  {
+   "term": "museum",
+   "count": 3
+  },
+  {
+   "term": "year",
+   "count": 3
   }
  ],
  "entities": [
@@ -133,14 +133,18 @@
   },
   {
    "name": "West Bank",
-   "count": 10
-  },
-  {
-   "name": "Israeli",
-   "count": 8
+   "count": 9
   },
   {
    "name": "Canada",
+   "count": 8
+  },
+  {
+   "name": "Hong Kong",
+   "count": 8
+  },
+  {
+   "name": "Alaska",
    "count": 7
   },
   {
@@ -148,23 +152,27 @@
    "count": 6
   },
   {
+   "name": "Israeli",
+   "count": 6
+  },
+  {
+   "name": "China",
+   "count": 5
+  },
+  {
    "name": "Chinese",
-   "count": 6
-  },
-  {
-   "name": "Green",
-   "count": 6
-  },
-  {
-   "name": "Alaska",
    "count": 5
   },
   {
-   "name": "Hong Kong",
-   "count": 5
+   "name": "Gaza",
+   "count": 4
   },
   {
    "name": "Japan",
+   "count": 4
+  },
+  {
+   "name": "Green",
    "count": 4
   },
   {
@@ -172,15 +180,7 @@
    "count": 4
   },
   {
-   "name": "China",
-   "count": 4
-  },
-  {
-   "name": "Syria",
-   "count": 3
-  },
-  {
-   "name": "Palestinians",
+   "name": "Panamá",
    "count": 3
   },
   {
@@ -189,10 +189,6 @@
   },
   {
    "name": "Netanyahu",
-   "count": 3
-  },
-  {
-   "name": "Gaza",
    "count": 3
   },
   {
@@ -217,6 +213,10 @@
   },
   {
    "name": "UT Austin",
+   "count": 2
+  },
+  {
+   "name": "India",
    "count": 2
   }
  ]
