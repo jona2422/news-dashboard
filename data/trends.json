@@ -1,13 +1,17 @@
 {
- "updated": "2026-08-23T15:41:00.952160+00:00",
+ "updated": "2026-08-23T16:45:27.749619+00:00",
  "terms": [
   {
-   "term": "israel",
-   "count": 11
+   "term": "iran",
+   "count": 13
   },
   {
-   "term": "iran",
+   "term": "israel",
    "count": 10
+  },
+  {
+   "term": "gaza",
+   "count": 9
   },
   {
    "term": "chinese",
@@ -18,19 +22,15 @@
    "count": 8
   },
   {
-   "term": "china",
-   "count": 8
-  },
-  {
-   "term": "israeli",
-   "count": 8
-  },
-  {
-   "term": "gaza",
-   "count": 8
+   "term": "power",
+   "count": 7
   },
   {
    "term": "west",
+   "count": 7
+  },
+  {
+   "term": "china",
    "count": 7
   },
   {
@@ -42,7 +42,11 @@
    "count": 7
   },
   {
-   "term": "power",
+   "term": "israeli",
+   "count": 7
+  },
+  {
+   "term": "sanctions",
    "count": 6
   },
   {
@@ -66,10 +70,6 @@
    "count": 5
   },
   {
-   "term": "trump",
-   "count": 5
-  },
-  {
    "term": "australia",
    "count": 5
   },
@@ -78,19 +78,7 @@
    "count": 5
   },
   {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
-   "term": "song",
-   "count": 4
-  },
-  {
-   "term": "down",
+   "term": "trump",
    "count": 4
   },
   {
@@ -98,15 +86,15 @@
    "count": 4
   },
   {
-   "term": "people",
+   "term": "french",
    "count": 4
   },
   {
-   "term": "minister",
+   "term": "canada",
    "count": 4
   },
   {
-   "term": "sanctions",
+   "term": "panamá",
    "count": 4
   },
   {
@@ -114,29 +102,41 @@
    "count": 4
   },
   {
-   "term": "return",
+   "term": "hong",
+   "count": 4
+  },
+  {
+   "term": "kong",
+   "count": 4
+  },
+  {
+   "term": "album",
    "count": 3
   },
   {
-   "term": "full",
+   "term": "music",
+   "count": 3
+  },
+  {
+   "term": "finally",
    "count": 3
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 10
+   "count": 13
   },
   {
    "name": "Israel",
-   "count": 10
-  },
-  {
-   "name": "China",
-   "count": 8
+   "count": 9
   },
   {
    "name": "Gaza",
+   "count": 8
+  },
+  {
+   "name": "China",
    "count": 7
   },
   {
@@ -164,19 +164,27 @@
    "count": 5
   },
   {
+   "name": "Canada",
+   "count": 4
+  },
+  {
+   "name": "Panamá",
+   "count": 4
+  },
+  {
    "name": "Hong Kong",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Ukraine",
    "count": 3
   },
   {
-   "name": "Puerto Rico",
+   "name": "Zelensky",
    "count": 3
   },
   {
-   "name": "Irán",
+   "name": "Puerto Rico",
    "count": 3
   },
   {
@@ -192,19 +200,15 @@
    "count": 3
   },
   {
-   "name": "Canada",
-   "count": 3
+   "name": "Nashville",
+   "count": 2
   },
   {
-   "name": "Serena Joy",
+   "name": "Texas",
    "count": 2
   },
   {
    "name": "Brian Wilson",
-   "count": 2
-  },
-  {
-   "name": "Stream",
    "count": 2
   },
   {
@@ -213,10 +217,6 @@
   },
   {
    "name": "UT Austin",
-   "count": 2
-  },
-  {
-   "name": "Iranian",
    "count": 2
   }
  ]
