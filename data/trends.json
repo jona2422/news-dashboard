@@ -1,36 +1,40 @@
 {
- "updated": "2026-08-23T11:39:17.295697+00:00",
+ "updated": "2026-08-23T13:05:03.632024+00:00",
  "terms": [
   {
    "term": "israel",
    "count": 13
   },
   {
-   "term": "world",
-   "count": 9
-  },
-  {
-   "term": "trump",
-   "count": 9
-  },
-  {
-   "term": "gaza",
-   "count": 9
-  },
-  {
    "term": "iran",
-   "count": 9
+   "count": 10
   },
   {
    "term": "chinese",
-   "count": 9
+   "count": 10
+  },
+  {
+   "term": "world",
+   "count": 8
+  },
+  {
+   "term": "hong",
+   "count": 8
+  },
+  {
+   "term": "kong",
+   "count": 8
   },
   {
    "term": "west",
    "count": 7
   },
   {
-   "term": "israeli",
+   "term": "trump",
+   "count": 7
+  },
+  {
+   "term": "gaza",
    "count": 7
   },
   {
@@ -38,15 +42,11 @@
    "count": 7
   },
   {
-   "term": "hong",
-   "count": 7
-  },
-  {
-   "term": "kong",
-   "count": 7
-  },
-  {
    "term": "bank",
+   "count": 6
+  },
+  {
+   "term": "israeli",
    "count": 6
   },
   {
@@ -62,7 +62,23 @@
    "count": 5
   },
   {
+   "term": "fire",
+   "count": 5
+  },
+  {
+   "term": "sanctions",
+   "count": 5
+  },
+  {
    "term": "economic",
+   "count": 5
+  },
+  {
+   "term": "green",
+   "count": 5
+  },
+  {
+   "term": "forest",
    "count": 5
   },
   {
@@ -78,15 +94,23 @@
    "count": 4
   },
   {
+   "term": "problems",
+   "count": 4
+  },
+  {
+   "term": "president",
+   "count": 4
+  },
+  {
    "term": "join",
    "count": 4
   },
   {
-   "term": "fire",
+   "term": "california",
    "count": 4
   },
   {
-   "term": "pressure",
+   "term": "congo",
    "count": 4
   },
   {
@@ -94,32 +118,8 @@
    "count": 4
   },
   {
-   "term": "attacks",
-   "count": 4
-  },
-  {
-   "term": "plant",
-   "count": 4
-  },
-  {
    "term": "agosto",
    "count": 4
-  },
-  {
-   "term": "green",
-   "count": 4
-  },
-  {
-   "term": "forest",
-   "count": 4
-  },
-  {
-   "term": "music",
-   "count": 3
-  },
-  {
-   "term": "show",
-   "count": 3
   }
  ],
  "entities": [
@@ -128,15 +128,15 @@
    "count": 12
   },
   {
-   "name": "Gaza",
-   "count": 9
-  },
-  {
    "name": "Iran",
    "count": 9
   },
   {
-   "name": "Israeli",
+   "name": "Hong Kong",
+   "count": 8
+  },
+  {
+   "name": "Gaza",
    "count": 7
   },
   {
@@ -148,15 +148,11 @@
    "count": 7
   },
   {
-   "name": "Hong Kong",
-   "count": 7
-  },
-  {
-   "name": "Trump",
+   "name": "West Bank",
    "count": 6
   },
   {
-   "name": "West Bank",
+   "name": "Israeli",
    "count": 6
   },
   {
@@ -164,15 +160,23 @@
    "count": 6
   },
   {
+   "name": "Green",
+   "count": 5
+  },
+  {
+   "name": "California",
+   "count": 4
+  },
+  {
    "name": "French",
    "count": 4
   },
   {
-   "name": "Green",
+   "name": "Trump",
    "count": 4
   },
   {
-   "name": "California",
+   "name": "Congo",
    "count": 3
   },
   {
@@ -180,19 +184,7 @@
    "count": 3
   },
   {
-   "name": "Japan",
-   "count": 3
-  },
-  {
-   "name": "Colombia",
-   "count": 3
-  },
-  {
    "name": "Panamá",
-   "count": 3
-  },
-  {
-   "name": "Indonesia",
    "count": 3
   },
   {
@@ -217,6 +209,14 @@
   },
   {
    "name": "UT Austin",
+   "count": 2
+  },
+  {
+   "name": "Sydney Marathon",
+   "count": 2
+  },
+  {
+   "name": "Iranian",
    "count": 2
   }
  ]
