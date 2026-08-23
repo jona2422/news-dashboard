@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T09:46:43.767962+00:00",
- "sources_ok": 35,
+ "updated": "2026-08-23T10:44:09.516877+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -46,14 +46,6 @@
  ],
  "feeds": [
   {
-   "beat": "china",
-   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
-   "source": "globaltimes.cn",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error [Errno 101] Network is unreachable>"
-  },
-  {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
@@ -74,7 +66,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": ""
   },
   {
@@ -159,6 +151,14 @@
   },
   {
    "beat": "china",
+   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
+   "source": "outbrain",
+   "ok": true,
+   "count": 50,
+   "error": ""
+  },
+  {
+   "beat": "china",
    "url": "https://www.theguardian.com/world/china/rss",
    "source": "China | The Guardian",
    "ok": true,
@@ -194,7 +194,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 36,
+   "count": 37,
    "error": ""
   },
   {
