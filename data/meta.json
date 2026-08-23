@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T08:51:23.771796+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-23T09:46:43.767962+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -46,6 +46,14 @@
  ],
  "feeds": [
   {
+   "beat": "china",
+   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
+   "source": "globaltimes.cn",
+   "ok": false,
+   "count": 0,
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
+  },
+  {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
@@ -66,7 +74,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": ""
   },
   {
@@ -98,7 +106,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 132,
+   "count": 133,
    "error": ""
   },
   {
@@ -145,14 +153,6 @@
    "beat": "china",
    "url": "https://www.scmp.com/rss/91/feed",
    "source": "News - South China Morning Post",
-   "ok": true,
-   "count": 50,
-   "error": ""
-  },
-  {
-   "beat": "china",
-   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
-   "source": "outbrain",
    "ok": true,
    "count": 50,
    "error": ""
