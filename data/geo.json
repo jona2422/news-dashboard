@@ -1,14 +1,32 @@
 {
- "updated": "2026-08-24T15:03:27.885057+00:00",
- "total": 121,
+ "updated": "2026-08-24T15:58:06.909385+00:00",
+ "total": 114,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 23,
+   "count": 21,
    "items": [
+    {
+     "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
+     "link": "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4a8f4519a46a3097a4067b6c640c48a65a5f9639/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=3fb459dce4fe08e41ef3dd7afcb13c54",
+     "ts": 1787586141000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "How GoFundMe became America’s backup plan",
+     "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "ts": 1787584687000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
     {
      "title": "China and Jordan call for Strait of Hormuz to get back to normal after US-Iran conflict",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3365097/china-and-jordan-call-strait-hormuz-get-back-normal-after-us-iran-conflict?utm_source=rss_feed",
@@ -42,15 +60,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
      "ts": 1787578507000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-     "ts": 1787578507000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
@@ -64,33 +73,6 @@
      "beatName": "China"
     },
     {
-     "title": "Estados Unidos cancela maniobras navales con Corea del Sur por la guerra con Irán",
-     "link": "https://www.dw.com/es/estados-unidos-cancela-maniobras-navales-con-corea-del-sur-por-la-guerra-con-irán/a-78485898?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787577600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "How GoFundMe became America’s backup plan",
-     "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "ts": 1787577539000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-     "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
-     "ts": 1787577250000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "America’s US$40tr debt gamble is getting harder to ignore, economists say after ‘grow’ goal",
      "link": "https://www.scmp.com/economy/global-economy/article/3365078/americas-us40tr-debt-gamble-getting-harder-ignore-economists-say-after-grow-goal?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -98,6 +80,24 @@
      "ts": 1787576410000,
      "beat": "china",
      "beatName": "China"
+    },
+    {
+     "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/a59dacb3-4e83-442c-ae5f-6c1af9df9168_0775c916.jpg?itok=lY9Sjdar&v=1787560823",
+     "ts": 1787576406000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Mideast live: Trump claims Iran is ‘completely collapsing’ as US readies new sanctions",
+     "link": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/ac1a90c8-9fc0-11f1-8016-005056bfb2b6/w:1024/p:16x9/AP26236475592468.jpg",
+     "ts": 1787575827000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -106,7 +106,7 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 18,
+   "count": 15,
    "items": [
     {
      "title": "China and Jordan call for Strait of Hormuz to get back to normal after US-Iran conflict",
@@ -127,24 +127,6 @@
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Iran protest victim: 'They were shooting to kill'",
-     "link": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787578800000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-     "ts": 1787578507000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -152,15 +134,6 @@
      "ts": 1787578507000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Estados Unidos cancela maniobras navales con Corea del Sur por la guerra con Irán",
-     "link": "https://www.dw.com/es/estados-unidos-cancela-maniobras-navales-con-corea-del-sur-por-la-guerra-con-irán/a-78485898?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787577600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Mideast live: Trump claims Iran is ‘completely collapsing’ as US readies new sanctions",
@@ -197,6 +170,33 @@
      "ts": 1787572390000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+     "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
+     "ts": 1787572390000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Iran calls France's decision to expel two Iranian diplomats 'illegal'",
+     "link": "https://www.france24.com/en/middle-east/20260824-iran-calls-france-s-decision-to-expel-two-iranian-diplomats-illegal",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/3048d440-8996-11f1-8329-005056a97e36/w:1024/p:16x9/000-96TM9DK.jpg",
+     "ts": 1787564654000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran discovers major new gas reserves amid war-hit energy sector",
+     "link": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/77eb385e-9f32-11f1-b8a9-005056a90284/w:1024/p:16x9/000-79QQ74D.jpg",
+     "ts": 1787517505000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -205,7 +205,7 @@
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 15,
+   "count": 14,
    "items": [
     {
      "title": "Mainland China’s ship activity near Taiwan hits record for third month in a row",
@@ -242,15 +242,6 @@
      "ts": 1787578209000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787577288000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America",
@@ -296,6 +287,114 @@
      "ts": 1787572661000,
      "beat": "china",
      "beatName": "China"
+    },
+    {
+     "title": "Hong Kong to offer free dental check-ups to preschoolers from September",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3365080/hong-kong-offer-free-dental-check-ups-preschoolers-september?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/04d16c0f-c748-4caf-a9ea-635df4b226b2_bb5d9790.jpg?itok=L1f34Syh&v=1787571146",
+     "ts": 1787571507000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 10,
+   "items": [
+    {
+     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+     "ts": 1787586856000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "UK police arrest 12 after deadly wrong-way crash that killed 7",
+     "link": "https://www.scmp.com/news/world/europe/article/3365104/uk-police-arrest-12-after-deadly-wrong-way-crash-killed-7?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/0ef7efb5-ca3b-468b-9d46-bf2e5d216f62_39ca1049.jpg?itok=zq2Pq85d&v=1787586652",
+     "ts": 1787586670000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Households in Great Britain ‘could owe energy suppliers £7bn by end of year’",
+     "link": "https://www.theguardian.com/business/2026/aug/24/households-in-great-britain-could-owe-energy-suppliers-7bn-by-end-of-year",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e63acde2997eb2605b372316ea4b9a40ee0e623b/847_867_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=252383a2708455c44f97e4ad7acd4230",
+     "ts": 1787586033000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+     "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787584656000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+     "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
+     "ts": 1787584454000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "No 10 says glorification of dangerous driving ‘for clips and entertainment is utterly disgraceful’ – UK politics live",
+     "link": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3eedc0044644e06699c37930a523b1066754ab52/302_0_3985_3188/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=0e7894761f24354bfb8e330017d9ba8b",
+     "ts": 1787583531000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Reino Unido desclasifica tecnología para fabricar misiles en Ucrania: ¿qué consecuencias traería en la guerra?",
+     "link": "https://www.france24.com/es/europa/20260824-reino-unido-desclasifica-tecnolog%C3%ADa-para-fabricar-misiles-en-ucrania-qu%C3%A9-consecuencias-traer%C3%ADa-en-la-guerra",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8f24cbb8-a7a2-11ef-85cd-005056a97e36/w:1024/p:16x9/AFP__20241120__36MX23Z__v1__Preview__FilesBritainRussiaUkraineConflictStrormShadow.jpg",
+     "ts": 1787583359000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+     "link": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=a2b02730588e2b5c0683c795d96a8a59",
+     "ts": 1787496416000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "102 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
+     "link": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/fb21fc6c-9e24-11f1-8b55-005056a97e36/w:1024/p:16x9/EN-20260822-140104-140954-CS.jpg",
+     "ts": 1787401962000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "More than 100 former French and UK diplomats urge action against Israeli settlement policies",
+     "link": "https://www.france24.com/en/middle-east/20260822-former-french-uk-diplomats-urge-governments-to-act-against-israeli-settlement-policies",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/71548b5a-9e0e-11f1-bbc4-005056bfb2b6/w:1024/p:16x9/85e7dd8c346dba72bef7c91da83b8a5b45173c6d.jpg",
+     "ts": 1787392031000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -304,8 +403,17 @@
    "es": "Palestina",
    "lat": 31.9,
    "lon": 35.2,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+     "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787583754000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
@@ -381,12 +489,93 @@
    ]
   },
   {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 7,
+   "items": [
+    {
+     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+     "ts": 1787586856000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+     "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787584656000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+     "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
+     "ts": 1787584454000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Reino Unido desclasifica tecnología para fabricar misiles en Ucrania: ¿qué consecuencias traería en la guerra?",
+     "link": "https://www.france24.com/es/europa/20260824-reino-unido-desclasifica-tecnolog%C3%ADa-para-fabricar-misiles-en-ucrania-qu%C3%A9-consecuencias-traer%C3%ADa-en-la-guerra",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8f24cbb8-a7a2-11ef-85cd-005056a97e36/w:1024/p:16x9/AFP__20241120__36MX23Z__v1__Preview__FilesBritainRussiaUkraineConflictStrormShadow.jpg",
+     "ts": 1787583359000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
+     "link": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/7H3FB6ZTHBEV7A6SNOFIFUVI2A.jpg?auth=a1ed8be271ea0773796765557102a92ca068ce160aac8f9f073f5d01b9c76804",
+     "ts": 1787579050000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "“Ucrania desea la paz, pero no se rendirá”: el país celebra su independencia en plena escalada de la invasión rusa",
+     "link": "https://www.france24.com/es/europa/20260824-ucrania-desea-la-paz-pero-no-se-rendir%C3%A1-el-pa%C3%ADs-celebra-su-independencia-en-plena-escalada-de-la-invasi%C3%B3n-rusa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/38ef949a-9fc0-11f1-bc9f-005056a90284/w:1024/p:16x9/2026-08-24T130130Z-227415271-RC2X4NA0M8QI-RTRMADP-3-UKRAINE-CRISIS-INDEPENDENCE-DAY-1.jpg",
+     "ts": 1787578346000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ukraine wants peace but won’t ‘simply surrender’, Zelensky says on Independence Day",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3365085/ukraine-wants-peace-wont-simply-surrender-zelensky-says-independence-day?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/f75cb609-16d1-4752-bb70-7c2e907d7a0f_26343f02.jpg?itok=1R2cRBvS&v=1787572228",
+     "ts": 1787572232000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "France",
    "es": "Francia",
    "lat": 46.2,
    "lon": 2.2,
    "count": 7,
    "items": [
+    {
+     "title": "France to press ahead with high school phone ban from next month",
+     "link": "https://www.scmp.com/news/world/europe/article/3365103/france-press-ahead-high-school-phone-ban-next-month?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/ea782c33-6647-4aa8-b5d9-12b439be9f50_ef360098.jpg?itok=cOxEPuv9&v=1787584149",
+     "ts": 1787585406000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "With 'rare' Paris talks, France hopes to cash in on Saudi investment programme",
      "link": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
@@ -402,15 +591,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1787579326000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-     "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787576395000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -453,74 +633,11 @@
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
-   "count": 6,
-   "items": [
-    {
-     "title": "Reino Unido desclasifica tecnología para fabricar misiles en Ucrania: ¿qué consecuencias traería en la guerra?",
-     "link": "https://www.france24.com/es/europa/20260824-reino-unido-desclasifica-tecnolog%C3%ADa-para-fabricar-misiles-en-ucrania-qu%C3%A9-consecuencias-traer%C3%ADa-en-la-guerra",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/8f24cbb8-a7a2-11ef-85cd-005056a97e36/w:1024/p:16x9/AFP__20241120__36MX23Z__v1__Preview__FilesBritainRussiaUkraineConflictStrormShadow.jpg",
-     "ts": 1787583359000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "No 10 says glorification of dangerous driving ‘for clips and entertainment is utterly disgraceful’ – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3eedc0044644e06699c37930a523b1066754ab52/302_0_3985_3188/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=0e7894761f24354bfb8e330017d9ba8b",
-     "ts": 1787582784000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
-     "ts": 1787581325000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-     "link": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=a2b02730588e2b5c0683c795d96a8a59",
-     "ts": 1787496416000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "102 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
-     "link": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/fb21fc6c-9e24-11f1-8b55-005056a97e36/w:1024/p:16x9/EN-20260822-140104-140954-CS.jpg",
-     "ts": 1787401962000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "More than 100 former French and UK diplomats urge action against Israeli settlement policies",
-     "link": "https://www.france24.com/en/middle-east/20260822-former-french-uk-diplomats-urge-governments-to-act-against-israeli-settlement-policies",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/71548b5a-9e0e-11f1-bbc4-005056bfb2b6/w:1024/p:16x9/85e7dd8c346dba72bef7c91da83b8a5b45173c6d.jpg",
-     "ts": 1787392031000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "Israel",
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
@@ -539,15 +656,6 @@
      "ts": 1787579782000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Así, misión de 82 brigadistas de Israel concluyó operaciones en Cali con la recuperación de 29 víctimas del terremoto de 7,4",
-     "link": "https://www.eltiempo.com/colombia/cali/asi-mision-de-82-brigadistas-de-israel-concluyo-operaciones-en-cali-con-la-recuperacion-de-29-victimas-del-terremoto-de-7-3580513",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/15/6a8126faaf62b.jpeg",
-     "ts": 1787575540000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Syria says US-mediated talks addressed de-escalation, staying out of Israel-Turkey tensions",
@@ -579,75 +687,12 @@
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 5,
-   "items": [
-    {
-     "title": "Reino Unido desclasifica tecnología para fabricar misiles en Ucrania: ¿qué consecuencias traería en la guerra?",
-     "link": "https://www.france24.com/es/europa/20260824-reino-unido-desclasifica-tecnolog%C3%ADa-para-fabricar-misiles-en-ucrania-qu%C3%A9-consecuencias-traer%C3%ADa-en-la-guerra",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/8f24cbb8-a7a2-11ef-85cd-005056a97e36/w:1024/p:16x9/AFP__20241120__36MX23Z__v1__Preview__FilesBritainRussiaUkraineConflictStrormShadow.jpg",
-     "ts": 1787583359000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
-     "ts": 1787581325000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
-     "link": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/7H3FB6ZTHBEV7A6SNOFIFUVI2A.jpg?auth=a1ed8be271ea0773796765557102a92ca068ce160aac8f9f073f5d01b9c76804",
-     "ts": 1787579050000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "“Ucrania desea la paz, pero no se rendirá”: el país celebra su independencia en plena escalada de la invasión rusa",
-     "link": "https://www.france24.com/es/europa/20260824-ucrania-desea-la-paz-pero-no-se-rendir%C3%A1-el-pa%C3%ADs-celebra-su-independencia-en-plena-escalada-de-la-invasi%C3%B3n-rusa",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/38ef949a-9fc0-11f1-bc9f-005056a90284/w:1024/p:16x9/2026-08-24T130130Z-227415271-RC2X4NA0M8QI-RTRMADP-3-UKRAINE-CRISIS-INDEPENDENCE-DAY-1.jpg",
-     "ts": 1787578346000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Ukraine wants peace but won’t ‘simply surrender’, Zelensky says on Independence Day",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3365085/ukraine-wants-peace-wont-simply-surrender-zelensky-says-independence-day?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/f75cb609-16d1-4752-bb70-7c2e907d7a0f_26343f02.jpg?itok=1R2cRBvS&v=1787572228",
-     "ts": 1787572232000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
    "name": "Saudi Arabia",
    "es": "Arabia Saudita",
    "lat": 23.9,
    "lon": 45.1,
-   "count": 5,
+   "count": 4,
    "items": [
-    {
-     "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-     "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787576395000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
     {
      "title": "France and Saudi Arabia hold talks ranging from Middle East to esports",
      "link": "https://www.france24.com/en/france-and-saudi-arabia-hold-talks-ranging-from-middle-east-to-esports",
@@ -687,48 +732,21 @@
    ]
   },
   {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 3,
-   "items": [
-    {
-     "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787576564000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Syria says US-mediated talks addressed de-escalation, staying out of Israel-Turkey tensions",
-     "link": "https://www.france24.com/en/middle-east/20260823-syria-says-us-mediated-talks-with-israel-addressed-de-escalation",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/74922bac-9f43-11f1-84b2-005056a97e36/w:1024/p:16x9/6b1011bf739c925a06be1ab7d95c42d7041c3384.jpg",
-     "ts": 1787524750000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Syria says Israeli strike near Damascus violation of international law",
-     "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
-     "ts": 1787434962000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "India",
    "es": "India",
    "lat": 20.6,
    "lon": 79.0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787582933000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "Meet the Indian food safety officer shaking up Mumbai with viral raids",
      "link": "https://www.scmp.com/news/asia/south-asia/article/3365099/meet-indian-food-safety-officer-shaking-mumbai-viral-raids?utm_source=rss_feed",
@@ -754,16 +772,25 @@
    "es": "Canadá",
    "lat": 56.1,
    "lon": -106.3,
-   "count": 2,
+   "count": 3,
    "items": [
     {
      "title": "Trump escalates trade war with Canada with threat to raise tariffs on vehicles and steel – live",
      "link": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc347e46cfadefd67b335055fc512962272990e4/161_0_2769_2215/master/2769.jpg?width=140&quality=85&auto=format&fit=max&s=082fa295cbd8cf6eb7fd5141f92a36c6",
-     "ts": 1787582982000,
+     "image": "https://i.guim.co.uk/img/media/706df2f646ab5db8813ae6926926794e30245afd/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=dc126ebe7c98ac52be63377510cf8eb9",
+     "ts": 1787585767000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump anuncia aranceles del 50% para vehículos y acero de Canadá desde el 1 de enero de 2027",
+     "link": "https://elpais.com/economia/2026-08-24/trump-anuncia-aranceles-del-50-para-vehiculos-y-acero-de-canada-desde-el-1-de-enero-de-2027.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/ESOWLMEHHJJOHFYFFGZWYD6IMQ.jpg?auth=870fefae2f7a7a121802a52c1079f22eb3dfbd029c364529526ad41a1d4151f3",
+     "ts": 1787583148000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
      "title": "Trump says Canada to face 50% auto, steel tariffs from 2027",
@@ -777,56 +804,56 @@
    ]
   },
   {
-   "name": "Korea",
-   "es": "Corea del Sur",
-   "lat": 35.9,
-   "lon": 127.8,
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
    "count": 2,
    "items": [
     {
-     "title": "Estados Unidos cancela maniobras navales con Corea del Sur por la guerra con Irán",
-     "link": "https://www.dw.com/es/estados-unidos-cancela-maniobras-navales-con-corea-del-sur-por-la-guerra-con-irán/a-78485898?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787577600000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+     "ts": 1787586856000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "South Korea says US cut joint marine drill over Iran war constraints",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3365087/south-korea-says-us-cut-joint-marine-drill-over-iran-war-constraints?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/52e3f30a-50a8-4d86-abdb-777f0b94993e_7e8f72ac.jpg?itok=E4xPh8Sv&v=1787573391",
-     "ts": 1787574304000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Video: Russia launches rocket into space with military satellite",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787585354000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Singapore",
-   "es": "Singapur",
-   "lat": 1.35,
-   "lon": 103.8,
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
    "count": 2,
    "items": [
     {
-     "title": "Singapur ofrece a las familias más de 47.000 euros por hijo en su batalla por impulsar la natalidad",
-     "link": "https://elpais.com/internacional/2026-08-24/singapur-ofrece-a-las-familias-mas-de-47000-euros-por-hijo-en-su-batalla-por-impulsar-la-natalidad.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/LKPI33JSWZB3XCU5XW3XQV56FU.jpg?auth=deb81cf15c60bdfca4a406db827045f41cd0b9c41b8695a9392015eee256246b",
-     "ts": 1787575956000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Syria says US-mediated talks addressed de-escalation, staying out of Israel-Turkey tensions",
+     "link": "https://www.france24.com/en/middle-east/20260823-syria-says-us-mediated-talks-with-israel-addressed-de-escalation",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/74922bac-9f43-11f1-84b2-005056a97e36/w:1024/p:16x9/6b1011bf739c925a06be1ab7d95c42d7041c3384.jpg",
+     "ts": 1787524750000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Can Singapore’s latest pro-family push change minds on parenthood?",
-     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3365083/can-singapores-latest-pro-family-push-change-minds-parenthood?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/39ecea32-a37b-4c68-ae39-8af5f1a64630_3d55a4b5.jpg?itok=rYsHgIxb&v=1787571929",
-     "ts": 1787571943000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Syria says Israeli strike near Damascus violation of international law",
+     "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
+     "ts": 1787434962000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -867,18 +894,18 @@
    ]
   },
   {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
+   "name": "Australia",
+   "es": "Australia",
+   "lat": -25.3,
+   "lon": 133.8,
    "count": 1,
    "items": [
     {
-     "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+     "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+     "link": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
-     "ts": 1787581325000,
+     "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+     "ts": 1787583636000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -921,72 +948,18 @@
    ]
   },
   {
-   "name": "Myanmar",
-   "es": "Birmania",
-   "lat": 21.9,
-   "lon": 95.9,
+   "name": "Norway",
+   "es": "Noruega",
+   "lat": 60.5,
+   "lon": 8.5,
    "count": 1,
    "items": [
     {
-     "title": "Myanmar: Why Rohingya refugees can't return",
-     "link": "https://www.dw.com/en/myanmar-why-rohingya-refugees-can-t-return/a-78485340?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787577600000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Vietnam",
-   "es": "Vietnam",
-   "lat": 14.1,
-   "lon": 108.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787577288000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Alemania y el cordón sanitario que no frena al partido AfD",
-     "link": "https://www.dw.com/es/alemania-y-el-cordón-sanitario-que-no-frena-al-partido-afd/a-78479059?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1787575920000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Belgium",
-   "es": "Bélgica",
-   "lat": 50.5,
-   "lon": 4.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Clément Vandenkerckhove, hijo de Lorenzo de Bélgica, comparte sus primeras palabras como príncipe: “Todavía no sé cómo asimilarlo”",
-     "link": "https://elpais.com/gente/2026-08-24/clement-vandenkerckhove-hijo-de-lorenzo-de-belgica-comparte-sus-primeras-palabras-como-principe-todavia-no-se-como-asimilarlo.html",
+     "title": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
+     "link": "https://elpais.com/gente/2026-08-24/empeora-el-estado-de-salud-del-rey-harald-de-noruega-que-esta-siendo-tratado-por-una-infeccion-bacteriana.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/VMUIFDGVSVCXJC4LTXQD4AUQPQ.jpg?auth=e5cca40c120bcc1ed3647021efb18b97758ba65ebdb386f2156e2d785f250af4",
-     "ts": 1787575916000,
+     "image": "https://imagenes.elpais.com/resizer/v2/EO7FW7GMBFBMTN4VWOU7ZLO2SI.jpg?auth=2f3b387c61dce488b4ceefd7c49b82ae57467caa67908821ea55748a13318ec4",
+     "ts": 1787586329000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1000,47 +973,29 @@
    "count": 1,
    "items": [
     {
-     "title": "Latam reactiva operación a Pereira desde Bogotá y Medellín tras reapertura del Aeropuerto Internacional Matecaña: tendrá 21 vuelos semanales",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/latam-reactiva-operacion-a-pereira-desde-bogota-y-medellin-tras-reapertura-del-aeropuerto-internacional-matecana-tendra-21-vuelos-semanales-3580519",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/03/03/65e4bbee4739c.r_d.1500-1000-0.jpeg",
-     "ts": 1787575393000,
+     "title": "¿El terremoto en Colombia es el resultado de un plan para eliminar a la población?",
+     "link": "https://www.france24.com/es/programas/des-informando/20260824-el-terremoto-en-colombia-es-el-resultado-de-un-plan-para-eliminar-a-la-poblaci%C3%B3n",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/bce63f3e-9d8f-11f1-b95b-005056a90284/w:1024/p:16x9/IVS-DESINFORMANDO-21AGO-PORTADA-WEB-00000.png",
+     "ts": 1787585803000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "El Salvador",
-   "es": "El Salvador",
-   "lat": 13.8,
-   "lon": -88.9,
+   "name": "Greece",
+   "es": "Grecia",
+   "lat": 39.1,
+   "lon": 21.8,
    "count": 1,
    "items": [
     {
-     "title": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
-     "link": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e97/live/52ed3b00-9f8d-11f1-9fae-bbc7231f436d.jpg",
-     "ts": 1787573042000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Costa Rica",
-   "es": "Costa Rica",
-   "lat": 9.7,
-   "lon": -83.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Costa Rica:  dos fuertes sismos en la madrugada despiertan y alarman provocando daños materiales",
-     "link": "https://www.prensa.com/mundo/costa-rica-dos-fuertes-sismos-en-la-madrugada-despiertan-y-alarman-al-valle-central-de-costa-rica/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/VXD2CQ4HHRFCZHQQYKMIAEIARQ.jpeg?auth=bdd5354ecadd98d231d6ba5d381bc5bed856beea74be72b8aacaaa294c6e0596&smart=true&width=1280&height=691",
-     "ts": 1787572335000,
+     "title": "Grecia traslada una batería Patriot a Creta por la amenaza iraní a bases de EE UU en Europa",
+     "link": "https://elpais.com/internacional/2026-08-24/grecia-traslada-una-bateria-patriot-a-creta-por-la-amenaza-irani-a-bases-de-ee-uu-en-europa.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/MK26M2DZ2JPHLGKXLVRM5HRBCI.jpg?auth=911a2714781dbcc03522ea5bf0d54f85492f719a0592fc39d762b20519258032",
+     "ts": 1787585171000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1083,54 +1038,36 @@
    ]
   },
   {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
+   "name": "Korea",
+   "es": "Corea del Sur",
+   "lat": 35.9,
+   "lon": 127.8,
    "count": 1,
    "items": [
     {
-     "title": "Malaysia says Indonesia to open airspace for cloud seeding to tackle haze",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3365068/malaysia-says-indonesia-open-airspace-cloud-seeding-tackle-haze?utm_source=rss_feed",
+     "title": "South Korea says US cut joint marine drill over Iran war constraints",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3365087/south-korea-says-us-cut-joint-marine-drill-over-iran-war-constraints?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/ada351a0-656a-4aba-a94d-1bb88a5917d1_e760309d.jpg?itok=3eHTI-Qa&v=1787564548",
-     "ts": 1787564562000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/52e3f30a-50a8-4d86-abdb-777f0b94993e_7e8f72ac.jpg?itok=E4xPh8Sv&v=1787573391",
+     "ts": 1787574304000,
      "beat": "china",
      "beatName": "China"
     }
    ]
   },
   {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
+   "name": "Singapore",
+   "es": "Singapur",
+   "lat": 1.35,
+   "lon": 103.8,
    "count": 1,
    "items": [
     {
-     "title": "Malaysia says Indonesia to open airspace for cloud seeding to tackle haze",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3365068/malaysia-says-indonesia-open-airspace-cloud-seeding-tackle-haze?utm_source=rss_feed",
+     "title": "Can Singapore’s latest pro-family push change minds on parenthood?",
+     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3365083/can-singapores-latest-pro-family-push-change-minds-parenthood?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/ada351a0-656a-4aba-a94d-1bb88a5917d1_e760309d.jpg?itok=3eHTI-Qa&v=1787564548",
-     "ts": 1787564562000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Netherlands",
-   "es": "Países Bajos",
-   "lat": 52.1,
-   "lon": 5.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Netherlands withdraws from ‘no longer’ neutral Eurovision",
-     "link": "https://www.scmp.com/news/world/europe/article/3365062/netherlands-withdraws-no-longer-neutral-eurovision?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/a21f5da8-223b-4c3c-b4a9-43095c16eb4c_6fd114b8.jpg?itok=ZIgrdk60&v=1787562905",
-     "ts": 1787563806000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/39ecea32-a37b-4c68-ae39-8af5f1a64630_3d55a4b5.jpg?itok=rYsHgIxb&v=1787571929",
+     "ts": 1787571943000,
      "beat": "china",
      "beatName": "China"
     }
