@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T10:06:24.868504+00:00",
- "count": 254,
+ "updated": "2026-08-24T10:56:05.022813+00:00",
+ "count": 247,
  "max": 6,
  "items": [
   {
@@ -11,6 +11,15 @@
    "lat": 41.8344,
    "depth": 42.867,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6"
+  },
+  {
+   "mag": 5.5,
+   "place": "207 km SSE of Amahai, Indonesia",
+   "time": 1787565778888,
+   "lon": 129.6871,
+   "lat": -5.0525,
+   "depth": 10,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33"
   },
   {
    "mag": 5.3,
@@ -47,6 +56,15 @@
    "lat": 52.1941,
    "depth": 13.186,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn19"
+  },
+  {
+   "mag": 4.9,
+   "place": "218 km ENE of Neiafu, Tonga",
+   "time": 1787566783962,
+   "lon": -171.9977,
+   "lat": -18.1013,
+   "depth": 10,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn37"
   },
   {
    "mag": 4.9,
@@ -184,15 +202,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0j"
   },
   {
-   "mag": 4.3,
-   "place": "60 km NNW of Lae, Papua New Guinea",
-   "time": 1787481891354,
-   "lon": 146.8216,
-   "lat": -6.2034,
-   "depth": 103.003,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyf"
-  },
-  {
    "mag": 4.2,
    "place": "55 km WNW of San Antonio de los Cobres, Argentina",
    "time": 1787525887446,
@@ -209,15 +218,6 @@
    "lat": 14.1906,
    "depth": 10,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn20"
-  },
-  {
-   "mag": 4.1,
-   "place": "52 km N of Beauséjour, Guadeloupe",
-   "time": 1787480198297,
-   "lon": -61.0799,
-   "lat": 16.7766,
-   "depth": 40.589,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy7"
   },
   {
    "mag": 3.4,
@@ -338,21 +338,21 @@
   },
   {
    "mag": 2.5,
+   "place": "13 km W of Rincón, Puerto Rico",
+   "time": 1787547169800,
+   "lon": -67.376,
+   "lat": 18.3316666666667,
+   "depth": 13.07,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529603"
+  },
+  {
+   "mag": 2.5,
    "place": "48 km SSW of Nanwalek, Alaska",
    "time": 1787492254239,
    "lon": -152.179,
    "lat": 58.939,
    "depth": 70.3,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrgjis"
-  },
-  {
-   "mag": 2.5,
-   "place": "7 km SSW of Pāhala, Hawaii",
-   "time": 1787481329110,
-   "lon": -155.506332397461,
-   "lat": 19.1380004882812,
-   "depth": 40.7999992370605,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022812"
   },
   {
    "mag": 2.4,
@@ -391,15 +391,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022927"
   },
   {
-   "mag": 2.3,
-   "place": "11 km E of Naalehu, Hawaii",
-   "time": 1787480838550,
-   "lon": -155.472503662109,
-   "lat": 19.0860004425049,
-   "depth": 39.0999984741211,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022797"
-  },
-  {
    "mag": 2.2,
    "place": "19 km SW of Toms Place, CA",
    "time": 1787561858290,
@@ -436,15 +427,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qpdpfn"
   },
   {
-   "mag": 2.2,
-   "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787481562520,
-   "lon": -117.839666666667,
-   "lat": 36.0645,
-   "depth": 2.66,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533920"
-  },
-  {
    "mag": 2.1,
    "place": "18 km SW of Toms Place, CA",
    "time": 1787561774310,
@@ -479,6 +461,15 @@
    "lat": 56.444,
    "depth": 5,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrvhrf"
+  },
+  {
+   "mag": 2.0,
+   "place": "10 km ENE of Coso Junction, CA",
+   "time": 1787567575290,
+   "lon": -117.8395,
+   "lat": 36.0683333333333,
+   "depth": 2.74,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41535008"
   },
   {
    "mag": 2,
@@ -542,6 +533,24 @@
    "lat": 19.1873340606689,
    "depth": 29.3700008392334,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022837"
+  },
+  {
+   "mag": 1.9,
+   "place": "10 km ENE of Coso Junction, CA",
+   "time": 1787567894770,
+   "lon": -117.838,
+   "lat": 36.0685,
+   "depth": 2.71,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41535016"
+  },
+  {
+   "mag": 1.9,
+   "place": "62 km N of Chickaloon, Alaska",
+   "time": 1787566305404,
+   "lon": -148.562,
+   "lat": 62.354,
+   "depth": 15.1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qsvnyk"
   },
   {
    "mag": 1.9,
@@ -707,6 +716,15 @@
   },
   {
    "mag": 1.7,
+   "place": "60 km SE of Pedro Bay, Alaska",
+   "time": 1787568059875,
+   "lon": -153.44,
+   "lat": 59.363,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qswnig"
+  },
+  {
+   "mag": 1.7,
    "place": "66 km SSW of Whites City, New Mexico",
    "time": 1787521633188,
    "lon": -104.577,
@@ -724,13 +742,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrmocf"
   },
   {
-   "mag": 1.7,
-   "place": "9 km N of Lake Pillsbury, CA",
-   "time": 1787480906990,
-   "lon": -122.947998046875,
-   "lat": 39.4930000305176,
-   "depth": 11.5100002288818,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423552"
+   "mag": 1.6,
+   "place": "10 km ENE of Coso Junction, CA",
+   "time": 1787566102940,
+   "lon": -117.840166666667,
+   "lat": 36.0681666666667,
+   "depth": 2.71,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534984"
   },
   {
    "mag": 1.6,
@@ -886,15 +904,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrcyeq"
   },
   {
-   "mag": 1.5,
-   "place": "10 km E of Coso Junction, CA",
-   "time": 1787481501100,
-   "lon": -117.8375,
-   "lat": 36.0595,
-   "depth": 2.63,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533912"
-  },
-  {
    "mag": 1.4,
    "place": "54 km WNW of Skwentna, Alaska",
    "time": 1787564355875,
@@ -956,15 +965,6 @@
    "lat": 34.1166666666667,
    "depth": 21.88,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534032"
-  },
-  {
-   "mag": 1.4,
-   "place": "9 km NNW of Three Rivers, Texas",
-   "time": 1787482247861,
-   "lon": -98.226,
-   "lat": 28.541,
-   "depth": 7.0748,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qojmtv"
   },
   {
    "mag": 1.3,
@@ -1175,6 +1175,15 @@
   },
   {
    "mag": 1.1,
+   "place": "6 km NW of The Geysers, CA",
+   "time": 1787566304060,
+   "lon": -122.802833557129,
+   "lat": 38.8190002441406,
+   "depth": 2.40000009536743,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75424092"
+  },
+  {
+   "mag": 1.1,
    "place": "13 km N of Castaic, CA",
    "time": 1787558520580,
    "lon": -118.637166666667,
@@ -1354,22 +1363,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534136"
   },
   {
-   "mag": 1.1,
+   "mag": 1.0,
    "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787481408090,
-   "lon": -117.840333333333,
-   "lat": 36.0625,
-   "depth": 2.65,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533896"
-  },
-  {
-   "mag": 1.1,
-   "place": "7 km NW of The Geysers, CA",
-   "time": 1787481253630,
-   "lon": -122.818168640137,
-   "lat": 38.813835144043,
-   "depth": 2.76999998092651,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423557"
+   "time": 1787567201650,
+   "lon": -117.842333333333,
+   "lat": 36.0698333333333,
+   "depth": 2.18,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534992"
   },
   {
    "mag": 1.0,
@@ -1543,31 +1543,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533976"
   },
   {
-   "mag": 0.9,
-   "place": "10 km E of Coso Junction, CA",
-   "time": 1787482499040,
-   "lon": -117.843166666667,
-   "lat": 36.059,
-   "depth": 2.54,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533936"
-  },
-  {
-   "mag": 0.9,
+   "mag": 0.8,
    "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787481171280,
-   "lon": -117.8395,
-   "lat": 36.0643333333333,
-   "depth": 2.96,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533888"
-  },
-  {
-   "mag": 0.9,
-   "place": "10 km E of Coso Junction, CA",
-   "time": 1787481157850,
-   "lon": -117.839833333333,
-   "lat": 36.0595,
-   "depth": 2.53,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533880"
+   "time": 1787567381800,
+   "lon": -117.8345,
+   "lat": 36.0645,
+   "depth": 2.83,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41535000"
   },
   {
    "mag": 0.8,
@@ -1823,6 +1805,15 @@
   },
   {
    "mag": 0.7,
+   "place": "4 km W of Cobb, CA",
+   "time": 1787567137660,
+   "lon": -122.765167236328,
+   "lat": 38.8266677856445,
+   "depth": 1.96000003814697,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75424097"
+  },
+  {
+   "mag": 0.7,
    "place": "10 km ENE of Coso Junction, CA",
    "time": 1787563375630,
    "lon": -117.841,
@@ -2029,51 +2020,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533944"
   },
   {
-   "mag": 0.7,
-   "place": "10 km E of Coso Junction, CA",
-   "time": 1787481771560,
-   "lon": -117.8435,
-   "lat": 36.0593333333333,
-   "depth": 2.59,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533928"
-  },
-  {
-   "mag": 0.7,
-   "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787481239420,
-   "lon": -117.841166666667,
-   "lat": 36.063,
-   "depth": 3.11,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10249446"
-  },
-  {
-   "mag": 0.7,
-   "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787480914710,
-   "lon": -117.839833333333,
-   "lat": 36.0686666666667,
-   "depth": 3.27,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533872"
-  },
-  {
-   "mag": 0.7,
-   "place": "10 km E of Coso Junction, CA",
-   "time": 1787480729530,
-   "lon": -117.8385,
-   "lat": 36.0601666666667,
-   "depth": 2.66,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533864"
-  },
-  {
-   "mag": 0.7,
-   "place": "10 km ENE of Coso Junction, CA",
-   "time": 1787480302070,
-   "lon": -117.838166666667,
-   "lat": 36.0665,
-   "depth": 2.76,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533848"
-  },
-  {
    "mag": 0.6,
    "place": "15 km NNW of Ocotillo Wells, CA",
    "time": 1787560774320,
@@ -2171,15 +2117,6 @@
    "lat": 33.1093333333333,
    "depth": 10.4,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534008"
-  },
-  {
-   "mag": 0.6,
-   "place": "11 km ENE of Coso Junction, CA",
-   "time": 1787480379890,
-   "lon": -117.834333333333,
-   "lat": 36.0661666666667,
-   "depth": 3.6,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533856"
   },
   {
    "mag": 0.5,
