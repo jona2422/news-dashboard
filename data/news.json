@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T04:56:59.119417+00:00",
+ "updated": "2026-08-25T05:50:19.063088+00:00",
  "beats": [
   {
    "id": "musica",
@@ -264,6 +264,15 @@
    "name": "Arte · Cultura · Educación",
    "items": [
     {
+     "title": "California encourages undocumented students to go to college. But some are losing hope",
+     "link": "https://hechingerreport.org/california-encourages-undocumented-students-to-go-to-college-but-some-are-losing-hope/",
+     "source": "The Hechinger Report",
+     "image": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/08/HE-cal-undocumented-1-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
      "title": "Sliman Mansour, Painter of Palestinian Hope and Humanity, Dies at 79",
      "link": "https://hyperallergic.com/sliman-mansour-painter-of-palestinian-hope-and-humanity-dies-at-79/",
      "source": "Hyperallergic",
@@ -505,15 +514,6 @@
      "published": "2026-08-24T07:00:07+00:00",
      "ts": 1787554807000,
      "count": 1
-    },
-    {
-     "title": "OPINION: The leaders who are shaping early childhood education need better, more professional preparation",
-     "link": "https://hechingerreport.org/opinion-the-leaders-who-are-shaping-early-childhood-education-need-better-more-professional-preparation/",
-     "source": "The Hechinger Report",
-     "image": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/08/aeabbf5d-ecf0-4707-9983-b60358f50c96-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-     "published": "2026-08-24T06:00:00+00:00",
-     "ts": 1787551200000,
-     "count": 1
     }
    ]
   },
@@ -521,6 +521,15 @@
    "id": "tech",
    "name": "Tecnología & IA",
    "items": [
+    {
+     "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+     "link": "https://github.com/dragthelake/ambient-context",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-25T04:33:24+00:00",
+     "ts": 1787632404000,
+     "count": 1
+    },
     {
      "title": "Headlong: A Microharness for Persistent Agents",
      "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
@@ -531,21 +540,21 @@
      "count": 1
     },
     {
-     "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
-     "link": "https://news.ycombinator.com/item?id=49428842",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-25T03:46:01+00:00",
-     "ts": 1787629561000,
-     "count": 1
-    },
-    {
      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
      "source": "TechCrunch",
      "image": "",
      "published": "2026-08-25T03:30:00+00:00",
      "ts": 1787628600000,
+     "count": 1
+    },
+    {
+     "title": "SiFive's First Server Platform",
+     "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-25T03:06:26+00:00",
+     "ts": 1787627186000,
      "count": 1
     },
     {
@@ -666,6 +675,15 @@
      "count": 1
     },
     {
+     "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+     "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-24T21:03:06+00:00",
+     "ts": 1787605386000,
+     "count": 1
+    },
+    {
      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
      "source": "Hacker News: Front Page",
@@ -754,24 +772,6 @@
      "published": "2026-08-24T19:42:50+00:00",
      "ts": 1787600570000,
      "count": 1
-    },
-    {
-     "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-     "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
-     "published": "2026-08-24T19:19:21+00:00",
-     "ts": 1787599161000,
-     "count": 1
-    },
-    {
-     "title": "Oceans hit highest temperature on record",
-     "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-24T19:19:08+00:00",
-     "ts": 1787599148000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,87 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; One Nation’s David Farley needs to ‘shut up’, George Christensen says",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/03d87e9f89dcb94db6c1b97e4d3dab2bce4f3eb6/427_88_2104_1684/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=003a590f03ef2500732e2b3d5cf27bac",
+     "published": "2026-08-25T05:42:52+00:00",
+     "ts": 1787636572000,
+     "count": 1
+    },
+    {
+     "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4026x2684+0+0/resize/4026x2684!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F00%2F40e599df47dd95207404eff73fdb%2Fap26237120862791.jpg",
+     "published": "2026-08-25T05:24:16+00:00",
+     "ts": 1787635456000,
+     "count": 1
+    },
+    {
+     "title": "Two US carrier groups in Middle East strain navy resources",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-25T05:19:24+00:00",
+     "ts": 1787635164000,
+     "count": 1
+    },
+    {
+     "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7017x4680+0+0/resize/7017x4680!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fe6%2Fc008b1ab4557b84820118a7c7bf7%2Fap26236633973837.jpg",
+     "published": "2026-08-25T05:14:03+00:00",
+     "ts": 1787634843000,
+     "count": 1
+    },
+    {
+     "title": "eHarmony deceived Australian customers with ‘subscription traps’ that cost hundreds of dollars, court finds",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/25/eharmony-dating-website-sued-australia-subscription-traps-customers-charged-hundreds",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e4740a0061f0a3b14987baa538a0601a4b279884/405_0_4947_3958/master/4947.jpg?width=140&quality=85&auto=format&fit=max&s=8c7037cff1f6e26ac6ddedd3f69a2013",
+     "published": "2026-08-25T05:11:50+00:00",
+     "ts": 1787634710000,
+     "count": 1
+    },
+    {
+     "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-25T05:09:25+00:00",
+     "ts": 1787634565000,
+     "count": 1
+    },
+    {
+     "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
+     "link": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cdddbc9c28946c733d78c2fe7bf7ba7c8cf9e188/0_0_6450_5160/master/6450.jpg?width=140&quality=85&auto=format&fit=max&s=d9e135e1bef732d3ce2d65a85ac64076",
+     "published": "2026-08-25T05:03:29+00:00",
+     "ts": 1787634209000,
+     "count": 1
+    },
+    {
+     "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2003x1335+0+0/resize/2003x1335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2Fd4%2Fe18a11c24bc180b60d400e218e1b%2Fap26219695918883.jpg",
+     "published": "2026-08-25T04:56:29+00:00",
+     "ts": 1787633789000,
+     "count": 1
+    },
+    {
+     "title": "Songs created by AI banned from Australia's music charts",
+     "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg",
+     "published": "2026-08-25T04:54:01+00:00",
+     "ts": 1787633641000,
+     "count": 1
+    },
     {
      "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
      "link": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-rdf",
@@ -804,15 +885,6 @@
      "image": "",
      "published": "2026-08-25T04:38:20+00:00",
      "ts": 1787632700000,
-     "count": 1
-    },
-    {
-     "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/03d87e9f89dcb94db6c1b97e4d3dab2bce4f3eb6/427_88_2104_1684/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=003a590f03ef2500732e2b3d5cf27bac",
-     "published": "2026-08-25T04:29:08+00:00",
-     "ts": 1787632148000,
      "count": 1
     },
     {
@@ -870,15 +942,6 @@
      "count": 1
     },
     {
-     "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
-     "link": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/cdddbc9c28946c733d78c2fe7bf7ba7c8cf9e188/0_0_6450_5160/master/6450.jpg?width=140&quality=85&auto=format&fit=max&s=d9e135e1bef732d3ce2d65a85ac64076",
-     "published": "2026-08-25T03:59:43+00:00",
-     "ts": 1787630383000,
-     "count": 1
-    },
-    {
      "title": "Rare tornado near Carcassonne in France causes damage and injuries",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -903,15 +966,6 @@
      "image": "https://i.guim.co.uk/img/media/543d4c01786031041efbd96eeb7fba5e68cffe23/259_0_2248_1800/master/2248.jpg?width=140&quality=85&auto=format&fit=max&s=6200a1ebe901b14afcdf935300a3881c",
      "published": "2026-08-25T03:45:59+00:00",
      "ts": 1787629559000,
-     "count": 1
-    },
-    {
-     "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=140&quality=85&auto=format&fit=max&s=85666342de9812cfb9bd5174ad48632d",
-     "published": "2026-08-25T03:29:38+00:00",
-     "ts": 1787628578000,
      "count": 1
     },
     {
@@ -976,60 +1030,6 @@
      "published": "2026-08-25T02:08:57+00:00",
      "ts": 1787623737000,
      "count": 1
-    },
-    {
-     "title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9422412f1508e4062fb95e1a57f5e519e751f6b7/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=3940fe955b999426831b09f8b1db167c",
-     "published": "2026-08-25T01:55:36+00:00",
-     "ts": 1787622936000,
-     "count": 1
-    },
-    {
-     "title": "Man killed in world’s largest annual bullfighting event in Mexico",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-25T01:51:16+00:00",
-     "ts": 1787622676000,
-     "count": 1
-    },
-    {
-     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-     "published": "2026-08-25T01:48:24+00:00",
-     "ts": 1787622504000,
-     "count": 1
-    },
-    {
-     "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-25T01:46:26+00:00",
-     "ts": 1787622386000,
-     "count": 1
-    },
-    {
-     "title": "Haiti: Gang members kill dozens near Port-au-Prince",
-     "link": "https://www.dw.com/en/haiti-gang-members-kill-dozens-near-port-au-prince/a-78491117?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-25T01:32:00+00:00",
-     "ts": 1787621520000,
-     "count": 1
-    },
-    {
-     "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
-     "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=6228aa1da571303e22f95d53821155e9",
-     "published": "2026-08-25T01:28:27+00:00",
-     "ts": 1787621307000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,96 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "¿Cuánto cuesta llegar al poder?",
+     "link": "https://www.prensa.com/politica/cuanto-cuesta-llegar-al-poder/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/A2V7RBEDKBEF7EBJQV2ZCNTD6E.png?auth=fead06a8af7b7d3c92e5794247eebd95ea0247ec8753d746787c623572c0089a&smart=true&width=1920&height=1080",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
+     "title": "Plaza Amador apuesta por su profundidad para buscar la clasificación ante Alajuelense",
+     "link": "https://www.prensa.com/deportes/plaza-amador-apuesta-por-su-profundidad-para-buscar-la-clasificacion-ante-alajuelense/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/55DHWLUVMJBJPPCHUIWGYBNUTU.jpg?auth=05ed143a5524c924f4696d78d8949a9c9852491b76b97d77994fb456cbc76124&smart=true&width=6000&height=4000",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
+     "title": "Cinco residentes de Cirugía General del Complejo de la CSS serán reubicados tras ‘hallazgos inadmisibles’",
+     "link": "https://www.prensa.com/sociedad/cinco-residentes-de-cirugia-general-del-complejo-de-la-css-seran-reubicados-tras-hallazgos-inadmisibles/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/EYON5E36KJELHPTU7ZJNEFX35A.JPG?auth=b1cff8e3d2383c1a28be7645fa5fdab5599c733fe47422546f229a94afb96ba6&smart=true&width=4000&height=2250",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
+     "title": "La serie fotográfica de pelirrojos que muestra un vínculo inesperado entre los estadounidenses",
+     "link": "https://www.prensa.com/vivir/la-serie-fotografica-de-pelirrojos-que-muestra-un-vinculo-inesperado-entre-los-estadounidenses/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/4VZ7Y53EWVDM7PLC4SZF57KYUQ.jpg?auth=45b873030554bf2f303b82e56bfcfd395321a0936334d163830c982639f586da&smart=true&width=2724&height=1532",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 2
+    },
+    {
+     "title": "Tal cual",
+     "link": "https://www.prensa.com/opinion/tal-cual-1139/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/MEN4GVPUSVFHVPWQL5BY2WC5TM.jpeg?auth=b928c509b4fc0871e5470860466f220cf6d95c424a080c4d84455a830d30a0fa&smart=true&width=2844&height=1600",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 2
+    },
+    {
+     "title": "Venezuela supera los 6,500 muertos después de dos meses de los terremotos",
+     "link": "https://www.prensa.com/mundo/venezuela-supera-los-6500-muertos-despues-de-dos-meses-de-los-terremotos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/37DTOSZLGZCAHPJQY72OIDF6WY.jpg?auth=bbf16ba3de336a264fd48d033d2bd01b8c00104e165e600072ef1ba5eca27ce7&smart=true&width=1920&height=1280",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
+     "title": "Especial BBC: los niños invisibles nacidos de crímenes de guerra",
+     "link": "https://www.prensa.com/mundo/especial-bbc-los-ninos-invisibles-nacidos-de-crimenes-de-guerra/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/MDLKCVQ5HBB4FFUVXINRAGYFOI.png?auth=85df5e9dce9eb4f4be16786e41af720aa42170a9aaea25bf2f877d9edcdb8196&smart=true&width=1920&height=1080",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 2
+    },
+    {
+     "title": "Hoy por hoy: una magistrada debe saberlo",
+     "link": "https://www.prensa.com/opinion/hoy-por-hoy-una-magistrada-debe-saberlo/",
+     "source": "La Prensa",
+     "image": "",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
+     "title": "De vuelta con las partidas circuitales",
+     "link": "https://www.prensa.com/opinion/de-vuelta-con-las-partidas-circuitales/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/UX3QRYXU5JDK5OR63TGPOXJYLA.jpeg?auth=3a02fc4da4c64f6e4f4dc54921b26f4a3ab66d60ae5bc3d08bac8e8d3d1050de&smart=true&width=1560&height=876",
+     "published": "2026-08-25T05:00:00+00:00",
+     "ts": 1787634000000,
+     "count": 1
+    },
+    {
+     "title": "Tu hogar siempre a la temperatura ideal",
+     "link": "https://www.prensa.com/contenido-de-marcas/tu-hogar-siempre-a-la-temperatura-ideal/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/XYJD4MHWDJDSVAP2Q2D4NWS2WY.jpg?auth=5dfa09d24eba29ba004126e9c78fd203320b88165e51ad208cb11cc6d4183d12&smart=true&width=1920&height=1080",
+     "published": "2026-08-25T04:55:00+00:00",
+     "ts": 1787633700000,
+     "count": 1
+    },
     {
      "title": "Tifón Saudel avanza en Japón y obliga a evacuaciones",
      "link": "https://www.dw.com/es/tifón-saudel-avanza-en-japón-y-obliga-a-evacuaciones/a-78491557?maca=spa-rss-sp-all-1122-rdf",
@@ -1198,96 +1288,6 @@
      "published": "2026-08-25T03:30:01+00:00",
      "ts": 1787628601000,
      "count": 1
-    },
-    {
-     "title": "Carta abierta de Sergio Ramírez al presidente Lula da Silva",
-     "link": "https://elpais.com/opinion/2026-08-25/carta-abierta-de-sergio-ramirez-al-presidente-lula-da-silva.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/3UMIA5XGLJJNVNDKPY7PT3XZ4Q.jpg?auth=09236ec9baa4c06a6166a7e9b5fc8c4af57f5bf4f4fc8bc8da7e6e8a4aac3f51",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "La carrera hacia la Luna se complica: el traspié chino reabre la pugna con EE UU para conquistar los hielos del polo sur",
-     "link": "https://elpais.com/ciencia/2026-08-25/la-carrera-hacia-la-luna-se-complica-el-traspie-chino-reabre-la-pugna-con-ee-uu-para-conquistar-los-hielos-del-polo-sur.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/7M3CA2Q6JNG7PBYEYT4V7IJ6IY.jpg?auth=115d74c9f3960924e02072502e07b4a5469f76ff00f3f4d663d96865fba694dc",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "Sin comer y sexualizadas bajo la mirada adulta: así recuerdan su infancia las estrellas que alcanzaron la fama de niñas",
-     "link": "https://elpais.com/smoda/famosos/2026-08-25/sin-comer-ni-beber-sexualizadas-y-bajo-la-mirada-adulta-asi-recuerdan-su-infancia-las-estrellas-que-alcanzaron-la-fama-de-ninas.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/4D34LUUJZVAR7FWROXTD7JUB24.jpg?auth=9f78c1eb80cb9ad3e556a9b66eaa0c9fcc98fcd9cfc40235cedfada98ed45064",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "El fantasma de la guerra civil se cierne sobre Yemen en plena crisis del Golfo",
-     "link": "https://elpais.com/internacional/2026-08-25/el-fantasma-de-la-guerra-civil-se-cierne-sobre-yemen-en-plena-crisis-del-golfo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/IW5VZTDVBVF5XBGU5KJ6IJ2QLI.JPG?auth=33429df46cc661eaa66e74e0957c0c66da6b6fd5cd3a19eba2bf2b5fe683b08d",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "Azafrán y grifería, el escaso comercio entre España e Irán que Trump amenaza con sancionar",
-     "link": "https://elpais.com/economia/2026-08-25/azafran-y-griferia-el-escaso-comercio-entre-espana-e-iran-que-trump-amenaza-con-sancionar.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/CQZ45ZVEFZLSXLQFHWKQI3GOOY.jpg?auth=c8b31f563f653021845b970776d2c147fc7c186bf8deefeb3a65ff0900ab5f57",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "Dentro de los campamentos habilitados en Ceuta: “No hay ningún riesgo para la salud pública ni para los trabajadores”",
-     "link": "https://elpais.com/videos/2026-08-25/dentro-de-los-campamentos-habilitados-en-ceuta-no-hay-ningun-riesgo-para-la-salud-publica-ni-para-los-trabajadores.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/PYBHLPTL5VF4LFMLXT56RQOTPY.jpeg?auth=6cf9f967311359b6b1b1d8e316da26b50b9fa58234336869b2190e98194243c0",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "China ya tiene un culpable de su crisis inmobiliaria, pero sigue sin encontrar la solución",
-     "link": "https://elpais.com/economia/2026-08-25/china-ya-tiene-un-culpable-de-su-crisis-inmobiliaria-pero-sigue-sin-encontrar-la-solucion.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/EY7CR7Z6VFITNKTOCLX5B6TF54.jpg?auth=c03f769cb907a3bd601a141f195f2194083423c9687c667fd1a5275ffac5dbb5",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "El que ve humor negro en vejar a una mujer (y los que lo amparan)",
-     "link": "https://elpais.com/television/2026-08-25/el-que-ve-humor-negro-en-vejar-a-una-mujer-y-los-que-lo-amparan.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/24DRBSUO6FEWHHKNG2OZUSLJ7E.jpg?auth=2121cb3ef3bcaaa879e1f63aaac81b4c5493839e3aa99256b6ab6f9a85921c12",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "¿Se puede criticar el turismo masivo mientras se hace turismo? Sí, se puede",
-     "link": "https://elpais.com/espana/madrid/2026-08-25/se-puede-criticar-el-turismo-masivo-mientras-se-hace-turismo-si-se-puede.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JH4Q37ZJCVGI3JOH67BF625BVY.jpg?auth=f1467ec59a481ba9373b6204cfe9ee6a29346669a71bf4357bcb5f9dcf1b9597",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
-    },
-    {
-     "title": "Moda agosteña de Flavita Banana: la túnica",
-     "link": "https://elpais.com/opinion/2026-08-25/moda-agostena-de-flavita-banana-la-tunica.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/OAB3UHKZGVG2NCQQRBMTEBCJNQ.jpg?auth=1798e0621856b09f95651e05d25f125ca00f5f3797099b02da330d4715eb4db5",
-     "published": "2026-08-25T03:30:01+00:00",
-     "ts": 1787628601000,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,15 @@
    "id": "desastres",
    "name": "Desastres Naturales",
    "items": [
+    {
+     "title": "Green flood alert in Italy",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
+     "source": "GDACS RSS information",
+     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104053.png",
+     "published": "2026-08-25T05:33:41+00:00",
+     "ts": 1787636021000,
+     "count": 11
+    },
     {
      "title": "M 4.6 - 236 km ESE of Kimbe, Papua New Guinea",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn8w",
@@ -1537,15 +1546,6 @@
      "published": "2026-08-24T15:46:20.040000+00:00",
      "ts": 1787586380040,
      "count": 1
-    },
-    {
-     "title": "Green flood alert in Italy",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104053.png",
-     "published": "2026-08-24T15:14:00+00:00",
-     "ts": 1787584440000,
-     "count": 11
     }
    ]
   },
@@ -1812,6 +1812,42 @@
    "name": "China",
    "items": [
     {
+     "title": "Japan’s famous bonfire monkey zoo to close for major revamp",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3365162/japans-famous-bonfire-monkey-zoo-close-major-revamp?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/27bac658-3b7e-4fb4-8475-72d96f34c92d_aae3cc47.jpg?itok=JKo4fC2B&v=1787636862",
+     "published": "2026-08-25T05:47:55+00:00",
+     "ts": 1787636875000,
+     "count": 1
+    },
+    {
+     "title": "58 evacuated, woman taken to hospital after fire at Hong Kong flat",
+     "link": "https://www.scmp.com/news/hong-kong/education/article/3365158/58-evacuated-woman-taken-hospital-after-fire-hong-kong-flat?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/15d4178a-a793-46a4-b7e7-ab8da5887b2b_c2c9b2c4.jpg?itok=XGMUOZm8&v=1787634732",
+     "published": "2026-08-25T05:12:23+00:00",
+     "ts": 1787634743000,
+     "count": 1
+    },
+    {
+     "title": "Construction safety design needed to reduce fatal accidents in Hong Kong: experts",
+     "link": "https://www.scmp.com/news/hong-kong/article/3365155/construction-safety-design-needed-reduce-fatal-accidents-hong-kong-experts?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/481da89b-e0b8-45b4-b8b6-579bbf18deae_dd697053.jpg?itok=3KP6g98_&v=1787634367",
+     "published": "2026-08-25T05:06:24+00:00",
+     "ts": 1787634384000,
+     "count": 1
+    },
+    {
+     "title": "As global drug giants grow cautious, can Chinese biotech keep cashing in on out-licensing?",
+     "link": "https://www.scmp.com/business/china-business/article/3365125/global-drug-giants-grow-cautious-can-chinese-biotech-keep-cashing-out-licensing?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/136b451c-3d99-4b15-a194-6c15dd5ac3df_b3b0c1d2.jpg?itok=2VdZSWwB&v=1787621959",
+     "published": "2026-08-25T05:00:08+00:00",
+     "ts": 1787634008000,
+     "count": 1
+    },
+    {
      "title": "‘An intrusion’: data centre fights test Southeast Asia’s AI ambitions",
      "link": "https://www.scmp.com/week-asia/health-environment/article/3365133/intrusion-data-centre-fights-test-southeast-asias-ai-ambitions?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -1992,10 +2028,10 @@
      "count": 1
     },
     {
-     "title": "Judge postpones US trial for Libyan man charged in 1988 Lockerbie bombing",
+     "title": "US judge postpones Lockerbie bombing trial over new evidence",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3365118/judge-postpones-us-trial-libyan-man-charged-1988-lockerbie-bombing?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/272dd4f5-e840-44d5-8626-cce18933d0f3_4619a15c.jpg?itok=dJq80hf0&v=1787613227",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/c2f4f812-3097-4d92-93a5-06a9e3e46ec5_4cdb32c3.jpg?itok=Ca5Cguiv&v=1787634445",
      "published": "2026-08-24T23:15:29+00:00",
      "ts": 1787613329000,
      "count": 1
@@ -2025,42 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/4d60d73a-26e4-4c18-b2d0-977b7d98fa4e_4e718e5d.jpg?itok=NSY1Eeyu&v=1787629812",
      "published": "2026-08-24T21:30:47+00:00",
      "ts": 1787607047000,
-     "count": 1
-    },
-    {
-     "title": "Forcing women to drink at business dinners has no place in modern China",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3364802/forcing-women-drink-business-dinners-has-no-place-modern-china?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/24/15824c7d-b82b-4e64-aff7-cbd77be2ad08_14dfd641.jpg?itok=FrOc5QIZ&v=1787540619",
-     "published": "2026-08-24T21:30:06+00:00",
-     "ts": 1787607006000,
-     "count": 1
-    },
-    {
-     "title": "US targets China’s telecoms grip in Venezuela with new sanctions carve-out",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3365115/us-targets-chinas-telecoms-grip-venezuela-new-sanctions-carve-out?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/953e382b-5453-4de6-a27e-eb823c495209_135f60a4.jpg?itok=uRf7ndc6&v=1787602999",
-     "published": "2026-08-24T20:23:21+00:00",
-     "ts": 1787603001000,
-     "count": 1
-    },
-    {
-     "title": "Trump bought shares in Elon Musk’s SpaceX in June, financial disclosure shows",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3365114/trump-bought-shares-elon-musks-spacex-june-financial-disclosure-shows?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/a52f0b00-02d7-429c-be07-f7f0ec897f2a_fc6de63c.jpg?itok=xyx7lZT_&v=1787602859",
-     "published": "2026-08-24T20:22:39+00:00",
-     "ts": 1787602959000,
-     "count": 1
-    },
-    {
-     "title": "US removes Syria from state sponsor of terrorism list in major diplomatic shift",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3365113/us-removes-syria-state-sponsor-terrorism-list?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/e3b7b9f7-05b4-4a86-9d5c-f38b1d2a4a04_64a01f91.jpg?itok=6c1H9h2M&v=1787630650",
-     "published": "2026-08-24T19:50:56+00:00",
-     "ts": 1787601056000,
      "count": 1
     }
    ]
