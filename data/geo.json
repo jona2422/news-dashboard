@@ -1,29 +1,83 @@
 {
- "updated": "2026-08-25T17:47:38.209863+00:00",
- "total": 132,
+ "updated": "2026-08-25T19:00:43.424587+00:00",
+ "total": 124,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 41,
+   "count": 39,
    "items": [
     {
-     "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-     "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+     "title": "El Gobierno mexicano descarta riesgos tras la alerta de seguridad de Estados Unidos en Mexicali",
+     "link": "https://elpais.com/mexico/2026-08-25/estados-unidos-emite-una-alerta-de-seguridad-y-suspende-sus-actividades-en-mexicali-por-amenazas.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/56EDIVR2IJDKXB4SEGOBNAOV4E.jpg?auth=86dd70a1287ece0c2c7b9c9561dbcc9725ac385e7f53bcb99c65e6558f22f5c6",
+     "ts": 1787684075000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Syria’s economy poised for improvement after US sanctions removal",
+     "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1787678821000,
+     "ts": 1787683422000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Canada hits US goods with tariffs of up to 50 per cent as trade war escalates",
+     "link": "https://www.scmp.com/news/us/economy-trade-business/article/3365250/canada-hits-us-goods-tariffs-50-cent-trade-war-escalates?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/1d4f6cb7-9e14-451a-bbcd-858b18e63e28_3342c091.jpg?itok=coz4uPxA&v=1787682554",
+     "ts": 1787682570000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
      "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
      "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/48d735ee2b3222679bddc97b3e2f988db75f0c87/512_0_5132_4105/master/5132.jpg?width=140&quality=85&auto=format&fit=max&s=5be0b5529f21593de2fc341557ae0880",
-     "ts": 1787678507000,
+     "ts": 1787682542000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+     "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787681617000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787680897000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+     "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+     "ts": 1787680443000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+     "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787678821000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
@@ -44,60 +98,6 @@
      "ts": 1787677881000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "China denounces US threat of sanctions over trade with Iran",
-     "link": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
-     "ts": 1787677881000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "China denounces US threat of sanctions over trade with Iran",
-     "link": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
-     "ts": 1787677881000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Canada hits US with counter-tariffs on more than 700 products",
-     "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787677734000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
-     "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787677349000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
-     "ts": 1787676980000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Bachman-Turner Overdrive Announce Winter 2027 US Tour",
-     "link": "https://consequence.net/2026/08/bachman-turner-overdrive-2027-winter-tour/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/08/bto.jpg?quality=80",
-     "ts": 1787676362000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
     }
    ]
   },
@@ -106,7 +106,7 @@
    "es": "Irán",
    "lat": 32.4,
    "lon": 53.7,
-   "count": 26,
+   "count": 23,
    "items": [
     {
      "title": "China denounces US threat of sanctions over trade with Iran",
@@ -136,31 +136,13 @@
      "beatName": "China"
     },
     {
-     "title": "¿Quién comercia con Irán? Los países en la diana de Trump",
-     "link": "https://elpais.com/internacional/2026-08-25/quien-comercia-con-iran-los-paises-en-la-diana-de-trump.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/GNST4QG2N5JAHMEJI3IUG6KMCY.jpg?auth=2bab60f40993ff1de947e4be258b3934d7124ec422b08af4fe280acda60f8800",
-     "ts": 1787677044000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+     "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
      "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1787675964000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Irán acusa a Estados Unidos de intentar \"asfixiar\" al país con sanciones a socios comerciales",
-     "link": "https://www.france24.com/es/video/20260825-ir%C3%A1n-acusa-a-estados-unidos-de-intentar-asfixiar-al-pa%C3%ADs-con-sanciones-a-socios-comerciales",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/fbbd52f2-a09a-11f1-8bec-005056bfb2b6/w:1024/p:16x9/ES-20260825-083210-083418-CS.jpg",
-     "ts": 1787674606000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
      "title": "‘Economic D-day’: how desperate is Trump to end Iran war? — The Latest",
@@ -197,6 +179,24 @@
      "ts": 1787670292000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    },
+    {
+     "title": "US ‘economic asphyxiation’ of Iran sends Tehranites queuing for petrol",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3365242/us-economic-asphyxiation-iran-sends-tehranites-queuing-petrol?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/4dd160b2-03bb-4529-aa45-9223bc4eb5cd_0746229b.jpg?itok=i14uQ-qC&v=1787671390",
+     "ts": 1787669044000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
+     "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7775/live/46eb4c80-a08b-11f1-a291-b542ee92de7c.jpg",
+     "ts": 1787665588000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -205,7 +205,7 @@
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 16,
+   "count": 13,
    "items": [
     {
      "title": "China denounces US threat of sanctions over trade with Iran",
@@ -253,15 +253,6 @@
      "beatName": "China"
     },
     {
-     "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787672563000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
      "title": "China sends archaeologists to South America to trace ancestral links for the first time",
      "link": "https://www.scmp.com/news/china/science/article/3365148/china-sends-archaeologists-south-america-trace-ancestral-links-first-time?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -296,96 +287,15 @@
      "ts": 1787660532000,
      "beat": "china",
      "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 9,
-   "items": [
-    {
-     "title": "Confirmado: Shai Gilgeous-Alexander no estará en el Panamá vs. Canadá",
-     "link": "https://www.prensa.com/deportes/confirmado-shai-gilgeous-alexander-no-estara-en-el-panama-vs-canada/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/AZGD2GQSWZBUZAKVLFCGWISBKU.jpeg?auth=b7576a150d7b5d3b354bd527c37324f5bd7cb521f87836348f4bb82fc4225591&smart=true&width=4096&height=2731",
-     "ts": 1787678683000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/48d735ee2b3222679bddc97b3e2f988db75f0c87/512_0_5132_4105/master/5132.jpg?width=140&quality=85&auto=format&fit=max&s=5be0b5529f21593de2fc341557ae0880",
-     "ts": 1787678507000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Canada hits US with counter-tariffs on more than 700 products",
-     "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787677734000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Canadá impone aranceles de hasta el 50 % a productos de Estados Unidos como el acero o electrónica",
-     "link": "https://www.prensa.com/economia/canada-impone-aranceles-de-hasta-el-50-a-productos-de-estados-unidos-como-el-acero-o-electronica/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/UCRYFC2OLZC4ZCMTKSHPWCWXXE.jpg?auth=3b25d7d4816e947bbab107dfd63c120e13d15d95f0edb2a1a8cebc8767fdf002&smart=true&width=1920&height=1280",
-     "ts": 1787675915000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Cómo puede Canadá contraatacar para perjudicar la economía de EE.UU. (y a Trump) en plena guerra comercial",
-     "link": "https://www.bbc.com/mundo/articles/ce8x1l47l30o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
-     "ts": 1787675912000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Canadá impone nuevos aranceles de entre el 15% y el 50% a Estados Unidos como represalia a los de Trump",
-     "link": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/4N7TVRGFFRGH3PBVEYRDWQGLTQ.jpg?auth=7be3c83a54ab59119af51b5b87c46f39057c5a2b36eeebe4c7d728158c4890a3",
-     "ts": 1787675675000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Canada announces retaliatory tariffs on wide range of US goods",
-     "link": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6a697afb3cca64dd9d6a07a36783b24b4df59627/393_0_3173_2538/master/3173.jpg?width=140&quality=85&auto=format&fit=max&s=6354e70cd589b146d931002ec0597bd9",
-     "ts": 1787674664000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Canadá anuncia aranceles de represalia para EE. UU.: así contraatacará en la guerra comercial",
-     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260825-canad%C3%A1-anuncia-aranceles-de-represalia-para-ee-uu-as%C3%AD-contraatacar%C3%A1-en-la-guerra-comercial",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/db42c52c-a098-11f1-9bf0-005056a90284/w:1024/p:16x9/trump-carney-frenchOK.jpg",
-     "ts": 1787673657000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Trump eyes renaming Lake Ontario to ‘Lake America’ as Canada trade war deepens",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3365227/trump-eyes-renaming-lake-ontario-lake-america-canada-trade-war-deepens?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/172b3fab-6332-4c08-b4f7-aea928b23007_509adead.jpg?itok=ZOe8NqTs&v=1787658464",
-     "ts": 1787658477000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+     "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+     "ts": 1787658816000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -394,8 +304,44 @@
    "es": "Rusia",
    "lat": 61.5,
    "lon": 105.3,
-   "count": 4,
+   "count": 7,
    "items": [
+    {
+     "title": "Russia’s FSB Agents Recruited Former Pussy Riot Member to Spy on Artists",
+     "link": "https://www.artnews.com/art-news/news/pussy-riot-member-recruited-russia-fsb-spy-artists-1234795669/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1787684160000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+     "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787681040000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787680897000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Informe desde Ciudad del Vaticano: ministro de Exteriores vaticano pide a Rusia la paz con Ucrania",
+     "link": "https://www.france24.com/es/video/20260825-informe-desde-ciudad-del-vaticano-ministro-de-exteriores-vaticano-pide-a-rusia-la-paz-con-ucrania",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a4819f48-a0a9-11f1-b550-005056a97e36/w:1024/p:16x9/ES-20260825-101332-101454-CS.jpg",
+     "ts": 1787680750000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "US spy chief John Ratcliffe on Russia visit, US media reports",
      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3365248/us-spy-chief-john-ratcliffe-russia-visit-us-media-reports?utm_source=rss_feed",
@@ -422,51 +368,159 @@
      "ts": 1787674980000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
-    },
-    {
-     "title": "CIA director John Ratcliffe reportedly on Moscow visit",
-     "link": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/751_0_2175_1740/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=54c514cc003c82cf728b3faa34495551",
-     "ts": 1787673609000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     }
    ]
   },
   {
-   "name": "Spain",
-   "es": "España",
-   "lat": 40.5,
-   "lon": -3.7,
-   "count": 3,
+   "name": "Canada",
+   "es": "Canadá",
+   "lat": 56.1,
+   "lon": -106.3,
+   "count": 6,
    "items": [
     {
-     "title": "Spain requests emergency funding from the EU over Ceuta migrants",
-     "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787679069000,
+     "title": "Canada hits US goods with tariffs of up to 50 per cent as trade war escalates",
+     "link": "https://www.scmp.com/news/us/economy-trade-business/article/3365250/canada-hits-us-goods-tariffs-50-cent-trade-war-escalates?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/1d4f6cb7-9e14-451a-bbcd-858b18e63e28_3342c091.jpg?itok=coz4uPxA&v=1787682554",
+     "ts": 1787682570000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/48d735ee2b3222679bddc97b3e2f988db75f0c87/512_0_5132_4105/master/5132.jpg?width=140&quality=85&auto=format&fit=max&s=5be0b5529f21593de2fc341557ae0880",
+     "ts": 1787682542000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "España aprueba dos anteproyectos para reformar sus leyes de asilo y extranjería en plena crisis migratoria en Ceuta",
-     "link": "https://www.france24.com/es/europa/20260825-espa%C3%B1a-aprueba-dos-anteproyectos-para-reformar-sus-leyes-de-asilo-y-extranjer%C3%ADa-en-plena-crisis-migratoria-en-ceuta",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/040347f4-a0a6-11f1-97b4-005056bfb2b6/w:1024/p:16x9/8ecf199b62127350499e25a19d0d79a692c0dc5fw.jpg",
-     "ts": 1787677507000,
+     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+     "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+     "ts": 1787680443000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Confirmado: Shai Gilgeous-Alexander no estará en el Panamá vs. Canadá",
+     "link": "https://www.prensa.com/deportes/confirmado-shai-gilgeous-alexander-no-estara-en-el-panama-vs-canada/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/AZGD2GQSWZBUZAKVLFCGWISBKU.jpeg?auth=b7576a150d7b5d3b354bd527c37324f5bd7cb521f87836348f4bb82fc4225591&smart=true&width=4096&height=2731",
+     "ts": 1787678683000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Informe desde Barcelona: Sánchez nombra un mando único para manejar crisis en Ceuta",
-     "link": "https://www.france24.com/es/video/20260825-informe-desde-barcelona-s%C3%A1nchez-nombra-un-mando-%C3%BAnico-para-manejar-crisis-en-ceuta",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/606a62de-a0a1-11f1-972c-005056a97e36/w:1024/p:16x9/ES-20260825-083742-084225-CS.jpg",
-     "ts": 1787675179000,
+     "title": "Canada hits US with counter-tariffs on more than 700 products",
+     "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787677734000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Trump eyes renaming Lake Ontario to ‘Lake America’ as Canada trade war deepens",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3365227/trump-eyes-renaming-lake-ontario-lake-america-canada-trade-war-deepens?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/172b3fab-6332-4c08-b4f7-aea928b23007_509adead.jpg?itok=ZOe8NqTs&v=1787658464",
+     "ts": 1787658477000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 5,
+   "items": [
+    {
+     "title": "Syria’s economy poised for improvement after US sanctions removal",
+     "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787683422000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+     "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787681617000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Katz sobre presencia israelí en Siria: “No nos moveremos”",
+     "link": "https://www.dw.com/es/katz-sobre-presencia-israelí-en-siria-no-nos-moveremos/a-78502034?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1787681520000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "US removes Syria off its list of state sponsors of terrorism",
+     "link": "https://www.france24.com/en/us-removes-syria-off-its-list-of-state-sponsors-of-terrorism",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/1d0187b4-a008-11f1-904a-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-EEUU-SIRIA-TRUMP-AL-SHARAA.jpg",
+     "ts": 1787663905000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Syria court sentences Assad-era grand mufti to life in prison",
+     "link": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0585/live/b475b890-9fef-11f1-88a7-7565f9374fbb.jpg",
+     "ts": 1787602228000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
+   "count": 3,
+   "items": [
+    {
+     "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+     "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1787681040000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Informe desde Ciudad del Vaticano: ministro de Exteriores vaticano pide a Rusia la paz con Ucrania",
+     "link": "https://www.france24.com/es/video/20260825-informe-desde-ciudad-del-vaticano-ministro-de-exteriores-vaticano-pide-a-rusia-la-paz-con-ucrania",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a4819f48-a0a9-11f1-b550-005056a97e36/w:1024/p:16x9/ES-20260825-101332-101454-CS.jpg",
+     "ts": 1787680750000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Johnny Marr reacts to British PM Andy Burnham playing a Smiths song on a guitar for soldiers in Ukraine: “I can’t quite get my head around it... for me, it’s like a victory for the guitar”",
+     "link": "https://www.musicradar.com/artists/johnny-marr-reacts-to-andy-burnham-playing-the-smiths-for-soldiers-in-ukraine",
+     "source": "Latest from MusicRadar",
+     "image": "https://cdn.mos.cms.futurecdn.net/Hz9KRVvWKLvaHzmaQhQYyf-1280-80.jpg",
+     "ts": 1787675622000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
     }
    ]
   },
@@ -507,56 +561,56 @@
    ]
   },
   {
-   "name": "Egypt",
-   "es": "Egipto",
-   "lat": 26.8,
-   "lon": 30.8,
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
    "count": 2,
    "items": [
     {
-     "title": "China’s J-16s face off against Egypt’s Rafales in combat drills as Iran war rumbles on",
-     "link": "https://www.scmp.com/news/china/military/article/3365163/chinas-j-16s-face-against-egypts-rafales-combat-drills-iran-war-rumbles?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/fa4eb952-94c2-402a-b77f-34814531ee6b_bf2c7442.jpg?itok=sMapGdJR&v=1787637750",
-     "ts": 1787652011000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+     "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1787679069000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "FBI Hands Over 48 Illegally Trafficked Artifacts to Egypt After Art Crimes Team Investigation",
-     "link": "https://www.artnews.com/art-news/news/fbi-hands-over-48-illegally-trafficked-artifacts-egypt-1234795650/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1787604834000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
+     "title": "España aprueba dos anteproyectos para reformar sus leyes de asilo y extranjería en plena crisis migratoria en Ceuta",
+     "link": "https://www.france24.com/es/europa/20260825-espa%C3%B1a-aprueba-dos-anteproyectos-para-reformar-sus-leyes-de-asilo-y-extranjer%C3%ADa-en-plena-crisis-migratoria-en-ceuta",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/040347f4-a0a6-11f1-97b4-005056bfb2b6/w:1024/p:16x9/8ecf199b62127350499e25a19d0d79a692c0dc5fw.jpg",
+     "ts": 1787677507000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "United Kingdom",
-   "es": "Reino Unido",
-   "lat": 55.4,
-   "lon": -3.4,
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
    "count": 2,
    "items": [
     {
-     "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
-     "link": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d5d28cd2216411e8a11b8e10e19912025b880a8b/451_0_3962_3170/master/3962.jpg?width=140&quality=85&auto=format&fit=max&s=4cbfba2628da1db5c15a2822566dd4b4",
-     "ts": 1787676908000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "¿Qué hay detrás de la polémica por la soberanía del estrecho de Magallanes entre Argentina y Chile?",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260825-qu%C3%A9-hay-detr%C3%A1s-de-la-pol%C3%A9mica-por-la-soberan%C3%ADa-del-estrecho-de-magallanes-entre-argentina-y-chile",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4c4a3426-68b3-11ec-bdb2-005056bf30b7/w:1024/p:16x9/3569cf35cc2a63f0d101ad1403c8e07de888a8ea.jpg",
+     "ts": 1787683227000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "London bus drivers resume strike over heatwave working amid fears over air con deal",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/25/london-bus-drivers-resume-strike-over-heatwave-working-amid-fears-over-air-con-deal",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/580ac904eeffa388170d17100a85c55fce0e4686/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3c7247754d15f5a6d59e14d64006b598",
-     "ts": 1787673562000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "El Estrecho de Magallanes provoca el primer conflicto diplomático entre los aliados Kast y Milei",
+     "link": "https://elpais.com/chile/2026-08-25/el-estrecho-de-magallanes-provoca-el-primer-conflicto-diplomatico-entre-los-aliados-kast-y-milei.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/ARFSLORLNBHWVE4L6WOO5KTUUQ.jpg?auth=5c6ea4ab05476220cb67ea7db445ba0d4ec3523580254167168d4127f274376f",
+     "ts": 1787677315000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -615,60 +669,6 @@
    ]
   },
   {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 2,
-   "items": [
-    {
-     "title": "US removes Syria off its list of state sponsors of terrorism",
-     "link": "https://www.france24.com/en/us-removes-syria-off-its-list-of-state-sponsors-of-terrorism",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/1d0187b4-a008-11f1-904a-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-EEUU-SIRIA-TRUMP-AL-SHARAA.jpg",
-     "ts": 1787663905000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Syria court sentences Assad-era grand mufti to life in prison",
-     "link": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0585/live/b475b890-9fef-11f1-88a7-7565f9374fbb.jpg",
-     "ts": 1787602228000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 2,
-   "items": [
-    {
-     "title": "With 'rare' Paris talks, France hopes to cash in on Saudi investment programme",
-     "link": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/b3bdca1e-9f9f-11f1-8a1c-005056bfb2b6/w:1024/p:16x9/29e8bbc03d4ba08106c49a7160b576e2ed940108.jpg",
-     "ts": 1787579543000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "France and Saudi Arabia hold talks ranging from Middle East to esports",
-     "link": "https://www.france24.com/en/france-and-saudi-arabia-hold-talks-ranging-from-middle-east-to-esports",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/8033e3d8-9fa2-11f1-adfb-005056a97e36/w:1024/p:16x9/2026-08-24T040751Z-493691781-RC2L4NA3T642-RTRMADP-3-SAUDI-FRANCE.jpg",
-     "ts": 1787565781000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
    "name": "Brazil",
    "es": "Brasil",
    "lat": -14.2,
@@ -696,20 +696,20 @@
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
+   "name": "Egypt",
+   "es": "Egipto",
+   "lat": 26.8,
+   "lon": 30.8,
    "count": 1,
    "items": [
     {
-     "title": "Johnny Marr reacts to British PM Andy Burnham playing a Smiths song on a guitar for soldiers in Ukraine: “I can’t quite get my head around it... for me, it’s like a victory for the guitar”",
-     "link": "https://www.musicradar.com/artists/johnny-marr-reacts-to-andy-burnham-playing-the-smiths-for-soldiers-in-ukraine",
-     "source": "Latest from MusicRadar",
-     "image": "https://cdn.mos.cms.futurecdn.net/Hz9KRVvWKLvaHzmaQhQYyf-1280-80.jpg",
-     "ts": 1787675622000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
+     "title": "FBI Hands Over 48 Illegally Trafficked Artifacts to Egypt After Art Crimes Team Investigation",
+     "link": "https://www.artnews.com/art-news/news/fbi-hands-over-48-illegally-trafficked-artifacts-egypt-1234795650/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1787604834000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -726,24 +726,6 @@
      "source": "TechCrunch",
      "image": "",
      "ts": 1787679123000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    }
-   ]
-  },
-  {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-     "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "ts": 1787668172000,
      "beat": "tech",
      "beatName": "Tecnología & IA"
     }
@@ -768,6 +750,24 @@
    ]
   },
   {
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
+   "count": 1,
+   "items": [
+    {
+     "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
+     "link": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d5d28cd2216411e8a11b8e10e19912025b880a8b/451_0_3962_3170/master/3962.jpg?width=140&quality=85&auto=format&fit=max&s=4cbfba2628da1db5c15a2822566dd4b4",
+     "ts": 1787676908000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    }
+   ]
+  },
+  {
    "name": "Myanmar",
    "es": "Birmania",
    "lat": 21.9,
@@ -786,56 +786,56 @@
    ]
   },
   {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
+   "name": "Chile",
+   "es": "Chile",
+   "lat": -35.7,
+   "lon": -71.5,
    "count": 1,
    "items": [
     {
-     "title": "Students clash with police in India in a new protest over exam leaks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1787673865000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "¿Qué hay detrás de la polémica por la soberanía del estrecho de Magallanes entre Argentina y Chile?",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260825-qu%C3%A9-hay-detr%C3%A1s-de-la-pol%C3%A9mica-por-la-soberan%C3%ADa-del-estrecho-de-magallanes-entre-argentina-y-chile",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4c4a3426-68b3-11ec-bdb2-005056bf30b7/w:1024/p:16x9/3569cf35cc2a63f0d101ad1403c8e07de888a8ea.jpg",
+     "ts": 1787683227000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Turkey",
-   "es": "Turquía",
-   "lat": 38.9,
-   "lon": 35.2,
+   "name": "Colombia",
+   "es": "Colombia",
+   "lat": 4.6,
+   "lon": -74.3,
    "count": 1,
    "items": [
     {
-     "title": "European rights court orders Turkey to free imprisoned businessman",
-     "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cce/live/a7101170-a097-11f1-8a1f-314a01485cf4.png",
-     "ts": 1787673500000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Muere el jesuita Javier Giraldo, defensor de las víctimas de la violencia y los DD. HH. en Colombia",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260825-muere-el-jesuita-javier-giraldo-defensor-de-las-v%C3%ADctimas-de-la-violencia-y-los-dd-hh-en-colombia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/1dffb60e-a0b2-11f1-9ab4-005056bf30b7/w:1024/p:16x9/JAVIER-GIRALDO.png",
+     "ts": 1787682503000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Yemen",
-   "es": "Yemen",
-   "lat": 15.6,
-   "lon": 48.0,
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
    "count": 1,
    "items": [
     {
-     "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
-     "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1787671860000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Informe desde Ciudad del Vaticano: ministro de Exteriores vaticano pide a Rusia la paz con Ucrania",
+     "link": "https://www.france24.com/es/video/20260825-informe-desde-ciudad-del-vaticano-ministro-de-exteriores-vaticano-pide-a-rusia-la-paz-con-ucrania",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a4819f48-a0a9-11f1-b550-005056a97e36/w:1024/p:16x9/ES-20260825-101332-101454-CS.jpg",
+     "ts": 1787680750000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -894,24 +894,6 @@
    ]
   },
   {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "El Estrecho de Magallanes provoca el primer conflicto diplomático entre los aliados Kast y Milei",
-     "link": "https://elpais.com/chile/2026-08-25/el-estrecho-de-magallanes-provoca-el-primer-conflicto-diplomatico-entre-los-aliados-kast-y-milei.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ARFSLORLNBHWVE4L6WOO5KTUUQ.jpg?auth=5c6ea4ab05476220cb67ea7db445ba0d4ec3523580254167168d4127f274376f",
-     "ts": 1787677315000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Lebanon",
    "es": "Líbano",
    "lat": 33.9,
@@ -930,18 +912,18 @@
    ]
   },
   {
-   "name": "Saudi Arabia",
-   "es": "Arabia Saudita",
-   "lat": 23.9,
-   "lon": 45.1,
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
    "count": 1,
    "items": [
     {
-     "title": "France and Saudi Arabia hold talks ranging from Middle East to esports",
-     "link": "https://www.france24.com/en/france-and-saudi-arabia-hold-talks-ranging-from-middle-east-to-esports",
+     "title": "With 'rare' Paris talks, France hopes to cash in on Saudi investment programme",
+     "link": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
      "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/8033e3d8-9fa2-11f1-adfb-005056a97e36/w:1024/p:16x9/2026-08-24T040751Z-493691781-RC2L4NA3T642-RTRMADP-3-SAUDI-FRANCE.jpg",
-     "ts": 1787565781000,
+     "image": "https://s.france24.com/media/display/b3bdca1e-9f9f-11f1-8a1c-005056bfb2b6/w:1024/p:16x9/29e8bbc03d4ba08106c49a7160b576e2ed940108.jpg",
+     "ts": 1787579543000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
