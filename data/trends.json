@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-26T03:27:38.197433+00:00",
+ "updated": "2026-08-26T04:58:19.767189+00:00",
  "terms": [
   {
    "term": "dolly",
-   "count": 26
-  },
-  {
-   "term": "parton",
    "count": 25
   },
   {
-   "term": "trump",
-   "count": 18
+   "term": "parton",
+   "count": 24
   },
   {
    "term": "iran",
-   "count": 18
+   "count": 21
+  },
+  {
+   "term": "trump",
+   "count": 14
   },
   {
    "term": "sanctions",
@@ -27,11 +27,15 @@
   },
   {
    "term": "world",
-   "count": 8
+   "count": 10
   },
   {
    "term": "economic",
    "count": 8
+  },
+  {
+   "term": "chinese",
+   "count": 6
   },
   {
    "term": "alaska",
@@ -42,23 +46,7 @@
    "count": 5
   },
   {
-   "term": "life",
-   "count": 5
-  },
-  {
    "term": "russia",
-   "count": 5
-  },
-  {
-   "term": "country",
-   "count": 5
-  },
-  {
-   "term": "chinese",
-   "count": 5
-  },
-  {
-   "term": "taiwan",
    "count": 5
   },
   {
@@ -66,19 +54,15 @@
    "count": 5
   },
   {
-   "term": "israeli",
-   "count": 5
-  },
-  {
-   "term": "gaza",
-   "count": 5
-  },
-  {
-   "term": "israel",
+   "term": "hormuz",
    "count": 5
   },
   {
    "term": "cancer",
+   "count": 4
+  },
+  {
+   "term": "life",
    "count": 4
   },
   {
@@ -94,20 +78,24 @@
    "count": 4
   },
   {
+   "term": "value",
+   "count": 4
+  },
+  {
+   "term": "killed",
+   "count": 4
+  },
+  {
    "term": "fire",
    "count": 4
   },
   {
-   "term": "threat",
+   "term": "strait",
    "count": 4
   },
   {
-   "term": "pays",
-   "count": 3
-  },
-  {
-   "term": "honors",
-   "count": 3
+   "term": "israeli",
+   "count": 4
   },
   {
    "term": "performance",
@@ -120,20 +108,32 @@
   {
    "term": "center",
    "count": 3
+  },
+  {
+   "term": "museum",
+   "count": 3
+  },
+  {
+   "term": "hong",
+   "count": 3
+  },
+  {
+   "term": "kong",
+   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 18
-  },
-  {
-   "name": "Trump",
-   "count": 14
+   "count": 21
   },
   {
    "name": "Dolly Parton",
    "count": 11
+  },
+  {
+   "name": "Trump",
+   "count": 10
   },
   {
    "name": "China",
@@ -148,15 +148,7 @@
    "count": 5
   },
   {
-   "name": "Israeli",
-   "count": 5
-  },
-  {
-   "name": "Gaza",
-   "count": 5
-  },
-  {
-   "name": "Israel",
+   "name": "Hormuz",
    "count": 5
   },
   {
@@ -164,19 +156,15 @@
    "count": 4
   },
   {
-   "name": "Taiwan",
+   "name": "Israeli",
    "count": 4
   },
   {
-   "name": "Darline Graham",
-   "count": 3
+   "name": "Chinese",
+   "count": 4
   },
   {
-   "name": "Hormuz",
-   "count": 3
-  },
-  {
-   "name": "Washington",
+   "name": "Hong Kong",
    "count": 3
   },
   {
@@ -188,12 +176,12 @@
    "count": 3
   },
   {
-   "name": "Chinese",
+   "name": "Gaza",
    "count": 3
   },
   {
-   "name": "Hong Kong",
-   "count": 2
+   "name": "Malaysian",
+   "count": 3
   },
   {
    "name": "Kehinde Wiley Painting",
@@ -212,11 +200,23 @@
    "count": 2
   },
   {
-   "name": "Python",
+   "name": "Memory",
    "count": 2
   },
   {
-   "name": "Instagram",
+   "name": "Pakistan",
+   "count": 2
+  },
+  {
+   "name": "France",
+   "count": 2
+  },
+  {
+   "name": "Sudan",
+   "count": 2
+  },
+  {
+   "name": "Victorian",
    "count": 2
   }
  ]
