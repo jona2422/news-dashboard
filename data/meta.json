@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-26T20:07:22.968640+00:00",
- "sources_ok": 36,
+ "updated": "2026-08-26T23:41:33.957020+00:00",
+ "sources_ok": 35,
  "sources_total": 38,
  "beats": [
   {
@@ -62,11 +62,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 415: Unsupported Media Type"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": ""
   },
   {
@@ -178,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 533,
+   "count": 470,
    "error": ""
   },
   {
@@ -194,7 +202,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 48,
+   "count": 46,
    "error": ""
   },
   {
@@ -235,14 +243,6 @@
    "source": "Music – Rolling Stone",
    "ok": true,
    "count": 10,
-   "error": ""
-  },
-  {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
    "error": ""
   },
   {
@@ -306,7 +306,7 @@
    "url": "https://www.france24.com/es/rss",
    "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": ""
   },
   {
