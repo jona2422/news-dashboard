@@ -1,10 +1,19 @@
 {
- "updated": "2026-08-26T09:05:17.849019+00:00",
+ "updated": "2026-08-26T09:59:47.086810+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "“Martin Gore brought along his synthesizer – we thought, this is a lot easier than learning chords on a guitar and you only need one finger to play it”: Vince Clarke on the early days of Depeche Mode and his first synth memories",
+     "link": "https://www.musicradar.com/artists/martin-gore-brought-along-his-synthesizer-we-thought-this-is-a-lot-easier-than-learning-chords-on-a-guitar-and-you-only-need-one-finger-to-play-it-vince-clarke-on-the-early-days-of-depeche-mode-and-his-first-synth-memories",
+     "source": "Latest from MusicRadar",
+     "image": "https://cdn.mos.cms.futurecdn.net/aPV3o2VLeVvvR5hu8jUQBY-1280-80.png",
+     "published": "2026-08-26T09:12:56+00:00",
+     "ts": 1787735576000,
+     "count": 1
+    },
     {
      "title": "“What makes a modern sampler? We found many answers to this question and decided to implement all of them”: Bitwig Studio 6.1 launches with “radically updated” Sampler device",
      "link": "https://www.musicradar.com/music-tech/what-makes-a-modern-sampler-we-found-many-answers-to-this-question-and-decided-to-implement-all-of-them-bitwig-studio-6-1-launches-with-radically-updated-sampler-device",
@@ -246,15 +255,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/08/Corrosion-of-Conformity-The-Sword.jpg?quality=80",
      "published": "2026-08-25T19:36:17+00:00",
      "ts": 1787686577000,
-     "count": 1
-    },
-    {
-     "title": "To Honor Dolly Parton, Trump Orders American Flags Flown at Half Staff for One Week",
-     "link": "https://consequence.net/2026/08/dolly-parton-donald-trump-flags-half-staff/",
-     "source": "Consequence",
-     "image": "https://consequence.net/wp-content/uploads/2026/08/donald-trump-dolly-parton-american-flags-half-staff.png",
-     "published": "2026-08-25T19:33:52+00:00",
-     "ts": 1787686432000,
      "count": 1
     }
    ]
@@ -522,21 +522,66 @@
    "name": "Tecnología & IA",
    "items": [
     {
-     "title": "The End of Programming",
-     "link": "https://pauldix.com/the-end-of-programming",
+     "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+     "link": "https://www.globalsolo.global/data/banking-access-index",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-26T08:37:59+00:00",
-     "ts": 1787733479000,
+     "published": "2026-08-26T09:01:49+00:00",
+     "ts": 1787734909000,
      "count": 1
     },
     {
-     "title": "Disrupting a new covert influence campaign from Russia",
-     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+     "title": "Raised on AI",
+     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+     "source": "MIT Technology Review",
+     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840",
+     "published": "2026-08-26T09:00:00+00:00",
+     "ts": 1787734800000,
+     "count": 1
+    },
+    {
+     "title": "AI models flub these intelligence tests. Can you fare any better?",
+     "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+     "source": "MIT Technology Review",
+     "image": "",
+     "published": "2026-08-26T09:00:00+00:00",
+     "ts": 1787734800000,
+     "count": 1
+    },
+    {
+     "title": "Value Classes Still Need Compiler Sympathy",
+     "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-08-26T07:31:31+00:00",
-     "ts": 1787729491000,
+     "published": "2026-08-26T08:59:15+00:00",
+     "ts": 1787734755000,
+     "count": 1
+    },
+    {
+     "title": "Oldinsurancemaps.net is now a Charter Project",
+     "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-26T08:57:46+00:00",
+     "ts": 1787734666000,
+     "count": 1
+    },
+    {
+     "title": "RAG Is Simpler Than You Think",
+     "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-26T08:39:17+00:00",
+     "ts": 1787733557000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+     "link": "https://rupertlinacre.com/buslens/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-26T07:36:52+00:00",
+     "ts": 1787729812000,
      "count": 1
     },
     {
@@ -727,51 +772,6 @@
      "published": "2026-08-25T21:00:00+00:00",
      "ts": 1787691600000,
      "count": 1
-    },
-    {
-     "title": "Taking your temperature from the inside",
-     "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
-     "source": "MIT Technology Review",
-     "image": "",
-     "published": "2026-08-25T21:00:00+00:00",
-     "ts": 1787691600000,
-     "count": 1
-    },
-    {
-     "title": "Seeing through murky waters",
-     "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-     "source": "MIT Technology Review",
-     "image": "",
-     "published": "2026-08-25T21:00:00+00:00",
-     "ts": 1787691600000,
-     "count": 1
-    },
-    {
-     "title": "Your brain on AI",
-     "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
-     "source": "MIT Technology Review",
-     "image": "",
-     "published": "2026-08-25T21:00:00+00:00",
-     "ts": 1787691600000,
-     "count": 1
-    },
-    {
-     "title": "World humanoid robot games show runners breaking records, bursting into flames",
-     "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
-     "published": "2026-08-25T20:59:03+00:00",
-     "ts": 1787691543000,
-     "count": 1
-    },
-    {
-     "title": "When str.lower() is a security vulnerability in Python",
-     "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-25T20:49:03+00:00",
-     "ts": 1787690943000,
-     "count": 1
     }
    ]
   },
@@ -780,12 +780,120 @@
    "name": "Actualidad Global",
    "items": [
     {
+     "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
+     "link": "https://www.dw.com/en/deadly-flash-flood-wipes-away-villages-in-nepal-tibet/a-78505576?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-08-26T09:44:00+00:00",
+     "ts": 1787737440000,
+     "count": 1
+    },
+    {
+     "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
+     "link": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6ac7baa185aeb4d826fb244ca26d0d3d8d381c4f/560_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=22a49437810647a43e2ed662ab2c282a",
+     "published": "2026-08-26T09:42:23+00:00",
+     "ts": 1787737343000,
+     "count": 1
+    },
+    {
+     "title": "Extreme heat linked to deaths of over 40,000 people in England since 1988",
+     "link": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cd21809d88c5333c2d482410d1bd80ff0844a670/135_0_5029_4024/master/5029.jpg?width=140&quality=85&auto=format&fit=max&s=1ea01ed0a9e19a5a9a0f6eb5d1bab16f",
+     "published": "2026-08-26T09:41:31+00:00",
+     "ts": 1787737291000,
+     "count": 1
+    },
+    {
+     "title": "Transport regulator investigating two more incidents at Sydney airport, taking tally to six in a month – as it happened",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8205dfd00b7a5c0870b0e9be46e581695161c507/1637_0_3863_3093/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=8d355f5dc6b64277c3ed33901a56f646",
+     "published": "2026-08-26T09:38:23+00:00",
+     "ts": 1787737103000,
+     "count": 1
+    },
+    {
+     "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T09:36:08+00:00",
+     "ts": 1787736968000,
+     "count": 1
+    },
+    {
+     "title": "Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race",
+     "link": "https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6e6b61a6cd9fcc54617aa9cd03cadbb01e8c1129/250_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7599c98e2793f84706e3988dccc874c9",
+     "published": "2026-08-26T09:30:39+00:00",
+     "ts": 1787736639000,
+     "count": 1
+    },
+    {
+     "title": "Tributes pour in after country music legend Dolly Parton dies – latest updates",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/0e08b227a9ae9781b9d354c759cf93763c741f16/363_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=51fb110178055dbfa34d397d06af9ac7",
+     "published": "2026-08-26T09:21:16+00:00",
+     "ts": 1787736076000,
+     "count": 1
+    },
+    {
+     "title": "The Bulgarian village that fears becoming an Iranian target",
+     "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T09:20:33+00:00",
+     "ts": 1787736033000,
+     "count": 1
+    },
+    {
+     "title": "Germany: Carnivalgoers rescued after being trapped on ride",
+     "link": "https://www.dw.com/en/germany-carnivalgoers-rescued-after-being-trapped-on-ride/a-78504830?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-08-26T09:11:00+00:00",
+     "ts": 1787735460000,
+     "count": 1
+    },
+    {
+     "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+     "source": "NPR Topics: News",
+     "image": "undefined",
+     "published": "2026-08-26T09:02:00+00:00",
+     "ts": 1787734920000,
+     "count": 1
+    },
+    {
      "title": "Soaring summer power bills spark protests -- and even disconnections",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
      "source": "NPR Topics: News",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/805x622+0+0/resize/805x622!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2Fe5%2F4bc072954cdfaefbc3e143a9e14a%2Fraelyn.jpg",
      "published": "2026-08-26T09:01:00+00:00",
      "ts": 1787734860000,
+     "count": 1
+    },
+    {
+     "title": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
+     "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d283de3e11da985ed88e5ee89ee456ad3f3b43df/129_0_1659_1327/master/1659.png?width=140&quality=85&auto=format&fit=max&s=e65b28a2efb9c8caf63ef4a024035cae",
+     "published": "2026-08-26T09:00:39+00:00",
+     "ts": 1787734839000,
+     "count": 1
+    },
+    {
+     "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T09:00:35+00:00",
+     "ts": 1787734835000,
      "count": 1
     },
     {
@@ -798,21 +906,21 @@
      "count": 1
     },
     {
-     "title": "Australia news live: transport regulator investigating two more incidents at Sydney airport, taking tally to six in a month",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/8205dfd00b7a5c0870b0e9be46e581695161c507/1637_0_3863_3093/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=8d355f5dc6b64277c3ed33901a56f646",
-     "published": "2026-08-26T08:52:35+00:00",
-     "ts": 1787734355000,
+     "title": "US immigration agents arrested more than 49,500 people in July",
+     "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T08:55:23+00:00",
+     "ts": 1787734523000,
      "count": 1
     },
     {
-     "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ec5ab201a234b677e01f7ffb698c4732a4247edb/349_0_5146_4117/master/5146.jpg?width=140&quality=85&auto=format&fit=max&s=fdf7a7b2092cb461aadc2b8d394f26c7",
-     "published": "2026-08-26T08:50:46+00:00",
-     "ts": 1787734246000,
+     "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+     "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T08:54:35+00:00",
+     "ts": 1787734475000,
      "count": 1
     },
     {
@@ -822,15 +930,6 @@
      "image": "https://i.guim.co.uk/img/media/ada086bceb21d1e283eff5dd443008604f95cc3c/73_34_3111_2491/master/3111.jpg?width=140&quality=85&auto=format&fit=max&s=40f40d6f596249965f485715ac243b5a",
      "published": "2026-08-26T08:48:43+00:00",
      "ts": 1787734123000,
-     "count": 1
-    },
-    {
-     "title": "Tributes pour in after country music legend Dolly Parton dies – latest updates",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0e08b227a9ae9781b9d354c759cf93763c741f16/363_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=51fb110178055dbfa34d397d06af9ac7",
-     "published": "2026-08-26T08:48:33+00:00",
-     "ts": 1787734113000,
      "count": 1
     },
     {
@@ -931,105 +1030,6 @@
      "published": "2026-08-26T07:43:36+00:00",
      "ts": 1787730216000,
      "count": 1
-    },
-    {
-     "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T07:41:02+00:00",
-     "ts": 1787730062000,
-     "count": 1
-    },
-    {
-     "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/8f1bac64cf0024319475de2fe23b287a3bcbccb5/490_0_4188_3350/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=11d61c525b7349c05c23a8f5b317ab65",
-     "published": "2026-08-26T07:38:30+00:00",
-     "ts": 1787729910000,
-     "count": 1
-    },
-    {
-     "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-     "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x960+0+0/resize/1280x960!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F96%2Fd94f6e344edfbc2a4b612bef6b61%2Fap26238214051379.jpg",
-     "published": "2026-08-26T07:34:59+00:00",
-     "ts": 1787729699000,
-     "count": 1
-    },
-    {
-     "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-     "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-     "source": "NPR Topics: News",
-     "image": "undefined",
-     "published": "2026-08-26T07:30:00+00:00",
-     "ts": 1787729400000,
-     "count": 1
-    },
-    {
-     "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
-     "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T07:26:45+00:00",
-     "ts": 1787729205000,
-     "count": 1
-    },
-    {
-     "title": "Man United’s Fernandes, City’s Shaw named PFA Players of the Year",
-     "link": "https://www.aljazeera.com/sports/2026/8/26/man-uniteds-fernandes-citys-shaw-named-pfa-players-of-the-year?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T07:20:06+00:00",
-     "ts": 1787728806000,
-     "count": 1
-    },
-    {
-     "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
-     "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T07:18:07+00:00",
-     "ts": 1787728687000,
-     "count": 1
-    },
-    {
-     "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6b34aa0ac2d64b241941b18011c541e72aaea8d5/309_0_5828_4663/master/5828.jpg?width=140&quality=85&auto=format&fit=max&s=f8fad53e9791ed5ab575dde4bf74986d",
-     "published": "2026-08-26T07:17:56+00:00",
-     "ts": 1787728676000,
-     "count": 1
-    },
-    {
-     "title": "At least 14 newborn babies die in fire at Pakistan hospital’s maternity ward",
-     "link": "https://www.theguardian.com/world/2026/aug/26/newborn-babies-die-fire-pakistan-hospital-maternity-ward",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7b783590d53713699582e8563b41033429346c13/1223_0_6657_5326/master/6657.jpg?width=140&quality=85&auto=format&fit=max&s=c146b9b3a6a2bee5d5e8031fa781f177",
-     "published": "2026-08-26T07:05:43+00:00",
-     "ts": 1787727943000,
-     "count": 1
-    },
-    {
-     "title": "Heatwaves show UK must do more to promote cycling and walking, campaigners say",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/26/heatwaves-uk-promote-cycling-walking",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fc489efd3f48e8462de130053468f07bfe0ad7a6/100_33_4035_3230/master/4035.jpg?width=140&quality=85&auto=format&fit=max&s=4ac18acd7afa163cdc7160e994ab44da",
-     "published": "2026-08-26T07:00:37+00:00",
-     "ts": 1787727637000,
-     "count": 1
-    },
-    {
-     "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=fee209537618f9914ec287e4b22b3e28",
-     "published": "2026-08-26T06:44:23+00:00",
-     "ts": 1787726663000,
-     "count": 1
     }
    ]
   },
@@ -1037,6 +1037,42 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "Sin comer y sexualizadas bajo la mirada adulta: así recuerdan su infancia las estrellas que alcanzaron la fama de niñas",
+     "link": "https://elpais.com/smoda/famosos/2026-08-25/sin-comer-ni-beber-sexualizadas-y-bajo-la-mirada-adulta-asi-recuerdan-su-infancia-las-estrellas-que-alcanzaron-la-fama-de-ninas.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/4D34LUUJZVAR7FWROXTD7JUB24.jpg?auth=9f78c1eb80cb9ad3e556a9b66eaa0c9fcc98fcd9cfc40235cedfada98ed45064",
+     "published": "2026-08-26T09:38:40+00:00",
+     "ts": 1787737120000,
+     "count": 1
+    },
+    {
+     "title": "Al menos 14 recién nacidos fallecen en Pakistán tras un incendio en un hospital",
+     "link": "https://www.bbc.com/mundo/articles/c8xkegvzeqxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3800/live/6f479f30-a126-11f1-8c37-3f30331ac537.jpg",
+     "published": "2026-08-26T09:35:21+00:00",
+     "ts": 1787736921000,
+     "count": 1
+    },
+    {
+     "title": "La llamada que permitió interceptar un vehículo en el que un hombre habría sido secuestrado en el sur de Neiva: 'Ayúdame'",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/la-llamada-que-permitio-interceptar-un-vehiculo-en-el-que-un-hombre-habria-sido-secuestrado-en-el-sur-de-neiva-ayudame-3580987",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8e08078b6ff.r_d.479-127-0.jpeg",
+     "published": "2026-08-26T09:30:00+00:00",
+     "ts": 1787736600000,
+     "count": 1
+    },
+    {
+     "title": "Reportan cuatro sismos en Istmina, Chocó, durante la noche del 25 y la madrugada del 26 de agosto: epicentro, magnitud y profundidad",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-cuatro-sismos-en-istmina-choco-durante-la-noche-del-25-y-la-madrugada-del-26-de-agosto-epicentro-magnitud-y-profundidad-3581091",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/26/6a8ead31f293d.png",
+     "published": "2026-08-26T09:20:39+00:00",
+     "ts": 1787736039000,
+     "count": 1
+    },
     {
      "title": "Terremoto en Colombia hoy miércoles 26 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
      "link": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-miercoles-26-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3581088",
@@ -1252,42 +1288,6 @@
      "published": "2026-08-26T04:00:00+00:00",
      "ts": 1787716800000,
      "count": 1
-    },
-    {
-     "title": "Los desplazados por el conflicto que volvieron a perderlo todo por el terremoto en Colombia: “Llegamos sin nada y volvemos a estar sin nada”",
-     "link": "https://elpais.com/america-colombia/2026-08-26/los-desplazados-por-el-conflicto-que-volvieron-a-perderlo-todo-por-el-terremoto-en-colombia-llegamos-sin-nada-y-volvemos-a-estar-sin-nada.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/NXDF2FCX3BBXLPRXVELBYPAL4Y.jpg?auth=a401926a496c22557cff25b42fb14f77df1716d3649903d3966a5b03b2d6b50f",
-     "published": "2026-08-26T04:00:00+00:00",
-     "ts": 1787716800000,
-     "count": 1
-    },
-    {
-     "title": "México rebaja su respaldo a la candidatura de Bachelet a la ONU",
-     "link": "https://elpais.com/america/2026-08-26/mexico-rebaja-su-respaldo-a-la-candidatura-de-bachelet-a-la-onu.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/KZ65K7NYGBAQPMGJASY7JOZST4.jpg?auth=5895fbaa0d64b7e11c158e14a5f050882074f18d734ff6228b66266a28266c21",
-     "published": "2026-08-26T04:00:00+00:00",
-     "ts": 1787716800000,
-     "count": 1
-    },
-    {
-     "title": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
-     "link": "https://elpais.com/us/entretenimiento/2026-08-26/dolly-parton-la-estrella-que-se-nego-a-elegir-un-bando-politico-pero-nunca-se-quedo-callada.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/A4O3TBQVXVC6ZBE44P2N4OXY34.jpg?auth=ca9a856d5c17c712509125a35e1b9c1435de212d7f09d229b769e93ae8313d14",
-     "published": "2026-08-26T04:00:00+00:00",
-     "ts": 1787716800000,
-     "count": 1
-    },
-    {
-     "title": "El chavismo frena una propuesta para dolarizar la economía venezolana",
-     "link": "https://elpais.com/america/2026-08-26/el-chavismo-frena-una-propuesta-para-dolarizar-la-economia-venezolana.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/UJSPVM6CW5CDHDHYUPS6WESQEY.jpg?auth=d83a58ef7c8479b873f93816dc773dc38125063a837d3fc3c3d81d7b448ef827",
-     "published": "2026-08-26T04:00:00+00:00",
-     "ts": 1787716800000,
-     "count": 1
     }
    ]
   },
@@ -1295,6 +1295,15 @@
    "id": "desastres",
    "name": "Desastres Naturales",
    "items": [
+    {
+     "title": "Green flood alert in Sudan",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104094",
+     "source": "GDACS RSS information",
+     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104094.png",
+     "published": "2026-08-26T09:43:54+00:00",
+     "ts": 1787737434000,
+     "count": 13
+    },
     {
      "title": "Green notification for tropical cyclone TWENTY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001311",
@@ -1321,15 +1330,6 @@
      "published": "2026-08-26T08:03:30+00:00",
      "ts": 1787731410000,
      "count": 266
-    },
-    {
-     "title": "Green flood alert in Poland",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104102",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104102.png",
-     "published": "2026-08-26T07:57:52+00:00",
-     "ts": 1787731072000,
-     "count": 13
     },
     {
      "title": "M 4.7 - 82 km NE of Otrada, Russia",
@@ -1581,7 +1581,7 @@
      "count": 1
     },
     {
-     "title": "Iran seeks to criminalise all contact with foreign media in latest ‘chilling’ crackdown",
+     "title": "Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown",
      "link": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
      "source": "Middle East and north Africa | The Guardian",
      "image": "https://i.guim.co.uk/img/media/cbb47ed3ed3d204b3517bb213722c9176f89f705/557_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=132054a6416467133ed5788d5fb4d215",
@@ -1812,6 +1812,33 @@
    "name": "China",
    "items": [
     {
+     "title": "Frustration in China as US freezes green card interviews worldwide, citing ‘training’",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3365330/frustration-china-us-freezes-green-card-interviews-worldwide-citing-training?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/297b313e-527d-4644-b9f2-d9bc2af53b48_589a662d.jpg?itok=pY6QhjJP&v=1787738263",
+     "published": "2026-08-26T09:57:46+00:00",
+     "ts": 1787738266000,
+     "count": 1
+    },
+    {
+     "title": "US pulls China punches in Iran ‘economic D-Day’ sanctions",
+     "link": "https://www.scmp.com/plus/news/us/diplomacy/article/3365321/us-pulls-china-punches-iran-economic-d-day-sanctions?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/86a360c3-de8c-419d-b785-17a3a308b98c_0f010777.jpg?itok=5WrFMYA1&v=1787735613",
+     "published": "2026-08-26T09:13:34+00:00",
+     "ts": 1787735614000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong’s first 5-year plan, policy address to be unveiled on September 16",
+     "link": "https://www.scmp.com/news/hong-kong/politics/article/3365319/5-year-plan-policy-address-be-unveiled-september-16-john-lee-says?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/b4d690fd-1ec0-435f-8517-85c74329e59f_d8e371fd.jpg?itok=o2ST6Y3R&v=1787735096",
+     "published": "2026-08-26T09:05:01+00:00",
+     "ts": 1787735101000,
+     "count": 1
+    },
+    {
      "title": "Chinese navy fires new radar-absorbing YJ-18A anti-ship missile in sea trial: expert",
      "link": "https://www.scmp.com/news/china/military/article/3365317/chinese-navy-fires-new-radar-absorbing-yj-18a-anti-ship-missile-sea-trial-expert?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -1866,10 +1893,10 @@
      "count": 1
     },
     {
-     "title": "Flash flood in Nepal washes away villages, power projects near Tibet border",
+     "title": "Nepal flash flood kills 8 people, washes away villages",
      "link": "https://www.scmp.com/news/asia/south-asia/article/3365311/flash-flood-nepal-washes-away-villages-power-projects-near-tibet-border?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/0619281d-2b0a-4e51-ad20-046599e1b945_330c35b4.jpg?itok=6dsEhxbB&v=1787730133",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/833636cc-6ec5-4cd4-8161-579853fb9ec4_90eed4a5.jpg?itok=GlrTdPxN&v=1787735279",
      "published": "2026-08-26T07:42:25+00:00",
      "ts": 1787730145000,
      "count": 1
@@ -2034,33 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/2da7317e-8889-4b05-9fda-c00e794077fe_04a4ff48.jpg?itok=5BrqAyxh&v=1787717971",
      "published": "2026-08-26T04:09:50+00:00",
      "ts": 1787717390000,
-     "count": 1
-    },
-    {
-     "title": "As more expats flock to Hong Kong, luxury home rents poised for further upswing",
-     "link": "https://www.scmp.com/business/article/3365263/more-expats-flock-hong-kong-luxury-home-rents-poised-further-upswing?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/c2f318a7-9119-46e0-ab32-22afcc848352_b4923460.jpg?itok=2rvuZQ_T&v=1787708785",
-     "published": "2026-08-26T04:00:08+00:00",
-     "ts": 1787716808000,
-     "count": 1
-    },
-    {
-     "title": "Ming dynasty work shows how Chinese understood the world in the 1600s",
-     "link": "https://www.scmp.com/news/china/science/article/3365150/ming-dynasty-work-shows-how-chinese-understood-world-1600s?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/5064ecea-001d-4dca-9fdb-94b432aa44c6_1c807b99.jpg?itok=xkwGSQLF&v=1787633610",
-     "published": "2026-08-26T04:00:05+00:00",
-     "ts": 1787716805000,
-     "count": 1
-    },
-    {
-     "title": "‘I want to survive’: Malaysian commando adrift in South China Sea for 15 hours",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3365270/i-want-survive-malaysian-commando-adrift-south-china-sea-15-hours?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/e36ba9fe-2685-4058-be50-c458d4f66aa9_0bc4dee8.jpg?itok=KwyyJ1JU&v=1787714202",
-     "published": "2026-08-26T03:16:44+00:00",
-     "ts": 1787714204000,
      "count": 1
     }
    ]
