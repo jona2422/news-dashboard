@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-26T04:58:19.767189+00:00",
- "sources_ok": 35,
+ "updated": "2026-08-26T05:52:36.748660+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -45,14 +45,6 @@
   }
  ],
  "feeds": [
-  {
-   "beat": "arte",
-   "url": "https://hechingerreport.org/feed/",
-   "source": "hechingerreport.org",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 429: Too Many Requests"
-  },
   {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
@@ -106,7 +98,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 131,
+   "count": 132,
    "error": ""
   },
   {
@@ -137,6 +129,14 @@
    "beat": "arte",
    "url": "https://www.artnews.com/feed/",
    "source": "ARTnews.com",
+   "ok": true,
+   "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "arte",
+   "url": "https://hechingerreport.org/feed/",
+   "source": "The Hechinger Report",
    "ok": true,
    "count": 10,
    "error": ""
@@ -178,7 +178,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 504,
+   "count": 505,
    "error": ""
   },
   {
@@ -194,7 +194,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 43,
+   "count": 45,
    "error": ""
   },
   {
