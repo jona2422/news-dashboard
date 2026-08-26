@@ -1,10 +1,19 @@
 {
- "updated": "2026-08-26T05:52:36.748660+00:00",
+ "updated": "2026-08-26T07:11:34.052566+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Jelly Roll Pays Tribute to Dolly Parton: ‘The Last American That Everyone Liked’",
+     "link": "https://www.rollingstone.com/music/music-news/jelly-roll-dolly-parton-tribute-jimmy-kimmel-live-1235615691/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-08-26T06:50:09+00:00",
+     "ts": 1787727009000,
+     "count": 1
+    },
     {
      "title": "Obama, Bush, Clinton, and Trump Have All Paid Tribute to Dolly Parton",
      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-president-tributes-obama-bush-clinton-trump-1235615634/",
@@ -147,15 +156,6 @@
      "image": "https://consequence.net/wp-content/uploads/2026/08/Bruno-Mars.jpg?quality=80",
      "published": "2026-08-25T22:21:03+00:00",
      "ts": 1787696463000,
-     "count": 1
-    },
-    {
-     "title": "‘A Diamond in a Rhinestone World’: Dolly Parton’s Life in Pictures",
-     "link": "https://www.rollingstone.com/music/music-pictures/dolly-parton-life-in-pictures-1235614917/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-08-25T22:04:42+00:00",
-     "ts": 1787695482000,
      "count": 1
     },
     {
@@ -522,21 +522,39 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+     "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-08-26T07:00:00+00:00",
+     "ts": 1787727600000,
+     "count": 1
+    },
+    {
+     "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+     "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-26T05:49:20+00:00",
+     "ts": 1787723360000,
+     "count": 1
+    },
+    {
+     "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+     "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-08-26T05:09:07+00:00",
+     "ts": 1787720947000,
+     "count": 1
+    },
+    {
      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
      "source": "TechCrunch",
      "image": "",
      "published": "2026-08-26T03:30:00+00:00",
      "ts": 1787715000000,
-     "count": 1
-    },
-    {
-     "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-     "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-26T03:23:50+00:00",
-     "ts": 1787714630000,
      "count": 1
     },
     {
@@ -567,7 +585,7 @@
      "count": 1
     },
     {
-     "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+     "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
      "source": "TechCrunch",
      "image": "",
@@ -729,7 +747,7 @@
      "count": 1
     },
     {
-     "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+     "title": "When str.lower() is a security vulnerability in Python",
      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -754,24 +772,6 @@
      "published": "2026-08-25T20:38:37+00:00",
      "ts": 1787690317000,
      "count": 1
-    },
-    {
-     "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-     "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-08-25T20:34:22+00:00",
-     "ts": 1787690062000,
-     "count": 1
-    },
-    {
-     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-     "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-08-25T19:38:24+00:00",
-     "ts": 1787686704000,
-     "count": 1
     }
    ]
   },
@@ -779,6 +779,78 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "Australia news live: PM, premiers and chief ministers sign firearms agreement; Sarah Hanson-Young scathing on Malcolm Roberts’ gay rights comments",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/060012e86d4aa977f143239f2f3a5f65fd704e16/413_296_2296_1838/master/2296.jpg?width=140&quality=85&auto=format&fit=max&s=d3040fb195d8a606c5c7f3afe34b1182",
+     "published": "2026-08-26T06:57:26+00:00",
+     "ts": 1787727446000,
+     "count": 1
+    },
+    {
+     "title": "Tributes pour in after country music legend Dolly Parton dies – latest updates",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/0e08b227a9ae9781b9d354c759cf93763c741f16/363_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=51fb110178055dbfa34d397d06af9ac7",
+     "published": "2026-08-26T06:49:18+00:00",
+     "ts": 1787726958000,
+     "count": 1
+    },
+    {
+     "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=fee209537618f9914ec287e4b22b3e28",
+     "published": "2026-08-26T06:44:23+00:00",
+     "ts": 1787726663000,
+     "count": 1
+    },
+    {
+     "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T06:31:58+00:00",
+     "ts": 1787725918000,
+     "count": 1
+    },
+    {
+     "title": "Britons face highest price cap in three years as energy bills rise 4% from October",
+     "link": "https://www.theguardian.com/money/2026/aug/26/energy-price-cap-great-britain-to-rise-from-october",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/aab036bfd86c0c3cd3b1a77cfc9f264015c10d8a/329_0_1527_1221/master/1527.jpg?width=140&quality=85&auto=format&fit=max&s=ddc2c414b28a0c304ea92b3afb335198",
+     "published": "2026-08-26T06:04:34+00:00",
+     "ts": 1787724274000,
+     "count": 1
+    },
+    {
+     "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-08-26T06:02:13+00:00",
+     "ts": 1787724133000,
+     "count": 1
+    },
+    {
+     "title": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f80bcd4116068bd46b305ceb1a7e6ff1f7ac9e27/401_850_3002_2403/master/3002.jpg?width=140&quality=85&auto=format&fit=max&s=0fbfe5fd45d6a7921f2472b9e118c1c5",
+     "published": "2026-08-26T06:01:22+00:00",
+     "ts": 1787724082000,
+     "count": 1
+    },
+    {
+     "title": "Wednesday briefing: How Canada has turned a trade dispute into a defence of its sovereignty",
+     "link": "https://www.theguardian.com/world/2026/aug/26/wednesday-briefing-how-canada-has-turned-a-trade-dispute-into-a-defence-of-its-sovereignty",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d566017a6a71b6186f521cb125afc3f2a9a400c6/165_292_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=80206c3dc2491fabad38fdb861786c75",
+     "published": "2026-08-26T05:47:32+00:00",
+     "ts": 1787723252000,
+     "count": 1
+    },
     {
      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
      "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
@@ -798,26 +870,8 @@
      "count": 1
     },
     {
-     "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
-     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/0e08b227a9ae9781b9d354c759cf93763c741f16/363_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=51fb110178055dbfa34d397d06af9ac7",
-     "published": "2026-08-26T05:38:34+00:00",
-     "ts": 1787722714000,
-     "count": 1
-    },
-    {
-     "title": "Australia news live: Chalmers hits back at WA premier’s ‘east coast clowns’ sledge; NSW police investigate alleged theft of 400,000 oysters",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b849ebe6cd0edde35af18b1ab40f402228d3c1d3/581_468_3527_2822/master/3527.jpg?width=140&quality=85&auto=format&fit=max&s=f353ec1d773ed15782b351b5ef283877",
-     "published": "2026-08-26T05:32:56+00:00",
-     "ts": 1787722376000,
-     "count": 1
-    },
-    {
-     "title": "Pakistan: Islamabad hospital fire kills 15 infants",
-     "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
+     "title": "Pakistan: Islamabad hospital fire kills at least 14 infants",
+     "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-at-least-14-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
      "published": "2026-08-26T05:23:00+00:00",
@@ -933,7 +987,7 @@
      "count": 1
     },
     {
-     "title": "At least 15 newborns killed in Pakistan hospital fire",
+     "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
      "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -975,60 +1029,6 @@
      "image": "https://i.guim.co.uk/img/media/cecc0b2135602c76d6ff1050b553e25a90b8d3f1/771_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=54c7af4ca8927d29156852da1301608b",
      "published": "2026-08-26T04:00:33+00:00",
      "ts": 1787716833000,
-     "count": 1
-    },
-    {
-     "title": "Antisemitism royal commission ends hearings but delays report to avoid ‘distraction’ from Bondi anniversary",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ae947d5f48470cb45ffff6dc2090fa82166d8be2/398_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=ea6bcc440cc642247413a720f2e79b96",
-     "published": "2026-08-26T03:55:27+00:00",
-     "ts": 1787716527000,
-     "count": 1
-    },
-    {
-     "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-     "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T03:49:23+00:00",
-     "ts": 1787716163000,
-     "count": 1
-    },
-    {
-     "title": "China: Dissident artist jailed for satirical Mao sculptures",
-     "link": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-08-26T03:46:00+00:00",
-     "ts": 1787715960000,
-     "count": 1
-    },
-    {
-     "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
-     "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T03:40:26+00:00",
-     "ts": 1787715626000,
-     "count": 1
-    },
-    {
-     "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
-     "link": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=1f6fdb6e37ad9363da3b473f159f0def",
-     "published": "2026-08-26T03:31:54+00:00",
-     "ts": 1787715114000,
-     "count": 1
-    },
-    {
-     "title": "Who were the Syrian Democratic Forces and why dissolve?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-08-26T03:28:43+00:00",
-     "ts": 1787714923000,
      "count": 1
     }
    ]
@@ -1221,7 +1221,7 @@
      "title": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
      "link": "https://elpais.com/us/entretenimiento/2026-08-26/dolly-parton-la-estrella-que-se-nego-a-elegir-un-bando-politico-pero-nunca-se-quedo-callada.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/E2XRKIKCDVPG3OGD3Y7XVRD2ME.jpg?auth=de438397afa2870df798ac35f2e23226aa60531bc90f6f7658dd18678480e61a",
+     "image": "https://imagenes.elpais.com/resizer/v2/UBIFB6JI7JBOZNTJREOZKDZ3UQ.JPG?auth=f180416654e915b2fe557673662636313482d3ced371dfcbcff4991d0252094a",
      "published": "2026-08-26T04:00:00+00:00",
      "ts": 1787716800000,
      "count": 1
@@ -1296,12 +1296,30 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "M 2.5 - 10 km NNW of Corcoran, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75425232",
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031121",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-26T07:05:01+00:00",
+     "ts": 1787727901000,
+     "count": 128
+    },
+    {
+     "title": "Green forest fire notification in Botswana",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031057",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-08-26T07:03:04+00:00",
+     "ts": 1787727784000,
+     "count": 267
+    },
+    {
+     "title": "M 4.8 - southwest of Africa",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbx8",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-08-26T05:32:24.544000+00:00",
-     "ts": 1787722344544,
+     "published": "2026-08-26T06:39:31.040000+00:00",
+     "ts": 1787726371040,
      "count": 1
     },
     {
@@ -1309,9 +1327,45 @@
      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104102",
      "source": "GDACS RSS information",
      "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104102.png",
-     "published": "2026-08-26T05:18:59+00:00",
-     "ts": 1787721539000,
+     "published": "2026-08-26T06:26:49+00:00",
+     "ts": 1787725609000,
      "count": 13
+    },
+    {
+     "title": "M 3.9 - 10 km WSW of Nanwalek, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qvlgrk",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-26T06:05:40.042000+00:00",
+     "ts": 1787724340042,
+     "count": 2
+    },
+    {
+     "title": "M 2.8 - 19 km W of Volcano, Hawaii",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75024057",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-26T06:01:17.790000+00:00",
+     "ts": 1787724077790,
+     "count": 1
+    },
+    {
+     "title": "M 3.1 - 16 km NW of Mentone, Texas",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qtlaoj",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-26T05:54:07.711000+00:00",
+     "ts": 1787723647711,
+     "count": 1
+    },
+    {
+     "title": "M 2.5 - 10 km NNW of Corcoran, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75425232",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-08-26T05:32:24.544000+00:00",
+     "ts": 1787722344544,
+     "count": 1
     },
     {
      "title": "M 4.0 - 38 km NE of Sarāhan, India",
@@ -1348,33 +1402,6 @@
      "published": "2026-08-26T05:10:12.188000+00:00",
      "ts": 1787721012188,
      "count": 1
-    },
-    {
-     "title": "M 3.1 - 16 km NW of Mentone, Texas",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qtlaoj",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-26T05:07:50.739000+00:00",
-     "ts": 1787720870739,
-     "count": 1
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031088",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-26T03:56:54+00:00",
-     "ts": 1787716614000,
-     "count": 128
-    },
-    {
-     "title": "Green forest fire notification in Angola",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031146",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-08-26T03:56:48+00:00",
-     "ts": 1787716608000,
-     "count": 266
     },
     {
      "title": "M 2.6 - 143 km W of Ferndale, California",
@@ -1519,33 +1546,6 @@
      "published": "2026-08-25T21:16:59.040000+00:00",
      "ts": 1787692619040,
      "count": 1
-    },
-    {
-     "title": "M 2.9 - 56 km ESE of Denali National Park, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qvdggc",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-25T21:09:29.040000+00:00",
-     "ts": 1787692169040,
-     "count": 1
-    },
-    {
-     "title": "M 3.4 - 56 km WNW of Nanwalek, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qvlfsy",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-25T21:04:16.040000+00:00",
-     "ts": 1787691856040,
-     "count": 1
-    },
-    {
-     "title": "M 2.7 - 24 km SE of Emajagua, Puerto Rico",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529788",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-08-25T20:42:41.200000+00:00",
-     "ts": 1787690561200,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,24 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "With no friends left to burn, Trump is running out of diplomatic ammunition | Rafael Behr",
+     "link": "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/90463752a97809961ae8d6982f90bf188c18beed/0_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=0d38bf89c926a67460cebf936a85b33c",
+     "published": "2026-08-26T07:00:37+00:00",
+     "ts": 1787727637000,
+     "count": 1
+    },
+    {
+     "title": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman",
+     "link": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/070e7a2e-a112-11f1-89c5-005056bfb2b6/w:1024/p:16x9/000-C4CF7ZV.jpg",
+     "published": "2026-08-26T06:04:05+00:00",
+     "ts": 1787724245000,
+     "count": 1
+    },
     {
      "title": "Iran seeks to criminalise all contact with foreign media in latest ‘chilling’ crackdown",
      "link": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
@@ -1786,24 +1804,6 @@
      "published": "2026-08-24T13:52:23+00:00",
      "ts": 1787579543000,
      "count": 1
-    },
-    {
-     "title": "What could new US sanctions on Iran entail?",
-     "link": "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/ac1a90c8-9fc0-11f1-8016-005056bfb2b6/w:1024/p:16x9/AP26236475592468.jpg",
-     "published": "2026-08-24T13:42:25+00:00",
-     "ts": 1787578945000,
-     "count": 1
-    },
-    {
-     "title": "US unveils expanded sanctions aimed at Iran's 'economic asphyxiation'",
-     "link": "https://www.france24.com/en/middle-east/20260824-us-unveils-fresh-sanctions-to-sever-every-economic-lifeline-sustaining-iran",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/552900fe-9ff4-11f1-9dfb-005056bfb2b6/w:1024/p:16x9/348da3527c6d3d2c0b2149d797c9ea9560ee6767.jpg",
-     "published": "2026-08-24T13:27:10+00:00",
-     "ts": 1787578030000,
-     "count": 1
     }
    ]
   },
@@ -1812,7 +1812,61 @@
    "name": "China",
    "items": [
     {
-     "title": "‘Squeezed further’: calls for SME energy subsidies as power fuel surcharges soar",
+     "title": "Vietnam’s Ho Chi Minh City plans low-emission zone to clear downtown air",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3365307/vietnams-ho-chi-minh-city-plans-low-emission-zone-clear-downtown-air?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/5d0d8a14-323a-46bf-a819-3e860e5f1663_71efc314.jpg?itok=nbcWcAA8&v=1787727605",
+     "published": "2026-08-26T07:00:16+00:00",
+     "ts": 1787727616000,
+     "count": 1
+    },
+    {
+     "title": "Monk remanded after alleged theft of Monkey King statue from Hong Kong temple",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365304/monk-remanded-after-alleged-theft-monkey-king-statue-hong-kong-temple?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/9090eea8-2c3d-443f-8845-8252ffb54712_2a9841a2.jpg?itok=gCfI-5x9&v=1787726911",
+     "published": "2026-08-26T06:48:42+00:00",
+     "ts": 1787726922000,
+     "count": 1
+    },
+    {
+     "title": "Indonesia opens its skies to Malaysian rainmakers as haze crisis deepens",
+     "link": "https://www.scmp.com/week-asia/health-environment/article/3365303/indonesia-opens-its-skies-malaysian-rainmakers-haze-crisis-deepens?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/ee076541-62f7-489f-b244-3c0527b64904_817a2e94.jpg?itok=BA0MDu-4&v=1787727371",
+     "published": "2026-08-26T06:45:48+00:00",
+     "ts": 1787726748000,
+     "count": 1
+    },
+    {
+     "title": "Shellfish thieves in Australia make off with 400,000 oysters worth US$250,000",
+     "link": "https://www.scmp.com/news/asia/australasia/article/3365302/shellfish-thieves-australia-make-400000-oysters-worth-us250000?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/3cf30704-c99a-47b8-9f30-084dae76547a_f743f61e.jpg?itok=OsY5lS6Y&v=1787726597",
+     "published": "2026-08-26T06:43:17+00:00",
+     "ts": 1787726597000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong man loses HK$2.8 million in investment scam, among 50 cases in past week",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365299/hong-kong-man-loses-hk28-million-investment-scam-among-50-cases-past-week?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/0b21865c-f597-4c5c-ab90-a1a7a9c3c31c_a13fba3e.jpg?itok=qXjIn1Vi&v=1787725750",
+     "published": "2026-08-26T06:29:24+00:00",
+     "ts": 1787725764000,
+     "count": 1
+    },
+    {
+     "title": "15 newborns die in Pakistan hospital fire triggered by air-con fault",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3365296/15-newborns-die-pakistan-hospital-fire-triggered-air-con-fault?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/8ca0bca7-e078-4d98-bdde-cec4e03e118d_0379b77a.jpg?itok=dpyOEmZy&v=1787724092",
+     "published": "2026-08-26T06:01:35+00:00",
+     "ts": 1787724095000,
+     "count": 1
+    },
+    {
+     "title": "‘Squeezed further’: calls for SME energy subsidies as Hong Kong power fuel surcharges soar",
      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365292/squeezed-further-calls-sme-energy-subsidies-power-fuel-surcharges-soar?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/84c26094-36d2-42a8-9ebc-69435942401b_afebe59c.jpg?itok=CZpnCQuK&v=1787723103",
@@ -2007,60 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/fa41baa0-cbcb-4e46-8343-9948efb5ad0e_378cfc95.jpg?itok=cQM7kWKK&v=1787706034",
      "published": "2026-08-26T01:00:45+00:00",
      "ts": 1787706045000,
-     "count": 1
-    },
-    {
-     "title": "Why Philippine, US forces tried to ‘scope’ a Chinese-linked steel plant in Mindanao",
-     "link": "https://www.scmp.com/week-asia/politics/article/3365243/why-philippine-us-forces-tried-scope-chinese-linked-steel-plant-mindanao?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/b4033e73-f1f4-4ae9-a55c-00352b37a28d_c9c4c16b.jpg?itok=1-qHekWh&v=1787672762",
-     "published": "2026-08-26T01:00:08+00:00",
-     "ts": 1787706008000,
-     "count": 1
-    },
-    {
-     "title": "China event asks if Apec’s rules can close growing AI gap between rich and poor",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3365224/could-apecs-rules-help-close-growing-ai-gap-between-rich-and-poor?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/a686d7b1-5d95-44a8-ba91-66759c72c093_e2a1c268.jpg?itok=dlTDgb1d&v=1787657563",
-     "published": "2026-08-26T01:00:06+00:00",
-     "ts": 1787706006000,
-     "count": 1
-    },
-    {
-     "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
-     "link": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e4d1e145ebc3b43707e361e18f1503af",
-     "published": "2026-08-26T00:47:38+00:00",
-     "ts": 1787705258000,
-     "count": 1
-    },
-    {
-     "title": "In Australia, Disney’s Ooshies send Woolworths whooshing ahead of Coles",
-     "link": "https://www.scmp.com/news/asia/australasia/article/3365260/australia-disneys-ooshies-send-woolworths-whooshing-ahead-coles?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/14236a88-d117-4815-a56a-9addcb1fe8d2_7bc2de6a.jpg?itok=-Bl2RPAq&v=1787705159",
-     "published": "2026-08-26T00:46:11+00:00",
-     "ts": 1787705171000,
-     "count": 1
-    },
-    {
-     "title": "Mainland Chinese firms share risks to deliver Northern Metropolis success: analysts",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365244/mainland-chinese-firms-share-risks-deliver-northern-metropolis-success-analysts?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/ba38d1f4-f38a-4162-a042-556db3bff1f8_a08c73b0.jpg?itok=6lswrcRT&v=1787673643",
-     "published": "2026-08-26T00:32:23+00:00",
-     "ts": 1787704343000,
-     "count": 1
-    },
-    {
-     "title": "What is really behind Japan’s planned cabinet shake-up?",
-     "link": "https://www.scmp.com/week-asia/politics/article/3365185/what-really-behind-japans-planned-cabinet-shake?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/9d597921-fbd7-475c-8bcc-2c0952d7d583_7a2a6aac.jpg?itok=hV8Xih8I&v=1787644426",
-     "published": "2026-08-26T00:00:13+00:00",
-     "ts": 1787702413000,
      "count": 1
     }
    ]
