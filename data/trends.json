@@ -1,72 +1,112 @@
 {
- "updated": "2026-08-26T23:41:33.957020+00:00",
+ "updated": "2026-08-27T09:56:38.972288+00:00",
  "terms": [
   {
+   "term": "nepal",
+   "count": 16
+  },
+  {
    "term": "iran",
-   "count": 17
-  },
-  {
-   "term": "trump",
-   "count": 15
-  },
-  {
-   "term": "china",
-   "count": 13
+   "count": 14
   },
   {
    "term": "dolly",
-   "count": 12
-  },
-  {
-   "term": "parton",
    "count": 11
   },
   {
-   "term": "nepal",
+   "term": "parton",
    "count": 10
-  },
-  {
-   "term": "sanctions",
-   "count": 10
-  },
-  {
-   "term": "alaska",
-   "count": 8
-  },
-  {
-   "term": "deal",
-   "count": 7
-  },
-  {
-   "term": "work",
-   "count": 6
-  },
-  {
-   "term": "meta",
-   "count": 6
   },
   {
    "term": "hong",
-   "count": 5
+   "count": 9
   },
   {
    "term": "kong",
-   "count": 5
+   "count": 9
+  },
+  {
+   "term": "alaska",
+   "count": 9
+  },
+  {
+   "term": "trump",
+   "count": 9
+  },
+  {
+   "term": "flood",
+   "count": 8
+  },
+  {
+   "term": "sanctions",
+   "count": 8
+  },
+  {
+   "term": "artist",
+   "count": 7
+  },
+  {
+   "term": "flash",
+   "count": 7
   },
   {
    "term": "green",
-   "count": 5
+   "count": 7
   },
   {
-   "term": "economic",
-   "count": 5
+   "term": "tibet",
+   "count": 6
   },
   {
-   "term": "world",
-   "count": 4
+   "term": "fire",
+   "count": 6
+  },
+  {
+   "term": "china",
+   "count": 6
+  },
+  {
+   "term": "calls",
+   "count": 5
   },
   {
    "term": "down",
+   "count": 5
+  },
+  {
+   "term": "yayoi",
+   "count": 5
+  },
+  {
+   "term": "kusama",
+   "count": 5
+  },
+  {
+   "term": "2026",
+   "count": 5
+  },
+  {
+   "term": "deal",
+   "count": 5
+  },
+  {
+   "term": "desaparecidos",
+   "count": 5
+  },
+  {
+   "term": "notification",
+   "count": 5
+  },
+  {
+   "term": "japan",
+   "count": 5
+  },
+  {
+   "term": "colombia",
+   "count": 4
+  },
+  {
+   "term": "next",
    "count": 4
   },
   {
@@ -74,81 +114,45 @@
    "count": 4
   },
   {
-   "term": "time",
+   "term": "power",
    "count": 4
   },
   {
-   "term": "museum",
+   "term": "nvidia",
    "count": 4
-  },
-  {
-   "term": "artist",
-   "count": 4
-  },
-  {
-   "term": "openai",
-   "count": 4
-  },
-  {
-   "term": "agents",
-   "count": 4
-  },
-  {
-   "term": "border",
-   "count": 4
-  },
-  {
-   "term": "flash",
-   "count": 4
-  },
-  {
-   "term": "israel",
-   "count": 4
-  },
-  {
-   "term": "puerto",
-   "count": 4
-  },
-  {
-   "term": "rico",
-   "count": 4
-  },
-  {
-   "term": "hormuz",
-   "count": 4
-  },
-  {
-   "term": "remembers",
-   "count": 3
   }
  ],
  "entities": [
   {
-   "name": "Iran",
+   "name": "Nepal",
    "count": 16
   },
   {
-   "name": "Trump",
+   "name": "Iran",
    "count": 14
   },
   {
-   "name": "China",
-   "count": 13
-  },
-  {
-   "name": "Nepal",
-   "count": 10
-  },
-  {
    "name": "Alaska",
-   "count": 8
+   "count": 9
   },
   {
-   "name": "Meta",
-   "count": 6
+   "name": "Trump",
+   "count": 9
   },
   {
    "name": "Green",
+   "count": 7
+  },
+  {
+   "name": "Hong Kong",
+   "count": 7
+  },
+  {
+   "name": "Tibet",
+   "count": 6
+  },
+  {
+   "name": "Japan",
    "count": 5
   },
   {
@@ -156,39 +160,43 @@
    "count": 4
   },
   {
-   "name": "OpenAI",
+   "name": "Colombia",
    "count": 4
   },
   {
-   "name": "Israel",
+   "name": "Yayoi Kusama",
    "count": 4
+  },
+  {
+   "name": "Nvidia",
+   "count": 4
+  },
+  {
+   "name": "Tíbet",
+   "count": 4
+  },
+  {
+   "name": "China",
+   "count": 4
+  },
+  {
+   "name": "Artist",
+   "count": 3
+  },
+  {
+   "name": "Russia",
+   "count": 3
+  },
+  {
+   "name": "Meta",
+   "count": 3
   },
   {
    "name": "Puerto Rico",
-   "count": 4
+   "count": 3
   },
   {
    "name": "Hormuz",
-   "count": 4
-  },
-  {
-   "name": "Hong Kong",
-   "count": 4
-  },
-  {
-   "name": "Work",
-   "count": 3
-  },
-  {
-   "name": "Tim Curry",
-   "count": 3
-  },
-  {
-   "name": "Google",
-   "count": 3
-  },
-  {
-   "name": "Palestinian",
    "count": 3
   },
   {
@@ -200,23 +208,15 @@
    "count": 3
   },
   {
-   "name": "Angel",
+   "name": "Chinese",
+   "count": 3
+  },
+  {
+   "name": "Lithium",
    "count": 2
   },
   {
-   "name": "My Side",
-   "count": 2
-  },
-  {
-   "name": "Together",
-   "count": 2
-  },
-  {
-   "name": "Artist",
-   "count": 2
-  },
-  {
-   "name": "Sliman Mansour",
+   "name": "Dies",
    "count": 2
   }
  ]
