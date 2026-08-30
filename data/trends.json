@@ -1,8 +1,12 @@
 {
- "updated": "2026-08-30T21:12:12.735618+00:00",
+ "updated": "2026-08-30T23:34:02.007124+00:00",
  "terms": [
   {
    "term": "iran",
+   "count": 11
+  },
+  {
+   "term": "trump",
    "count": 10
   },
   {
@@ -10,11 +14,11 @@
    "count": 9
   },
   {
-   "term": "trump",
+   "term": "strikes",
    "count": 9
   },
   {
-   "term": "nepal",
+   "term": "larak",
    "count": 8
   },
   {
@@ -50,7 +54,7 @@
    "count": 7
   },
   {
-   "term": "world",
+   "term": "israeli",
    "count": 7
   },
   {
@@ -62,12 +66,20 @@
    "count": 6
   },
   {
-   "term": "israeli",
+   "term": "world",
+   "count": 6
+  },
+  {
+   "term": "island",
    "count": 6
   },
   {
    "term": "green",
    "count": 6
+  },
+  {
+   "term": "space",
+   "count": 5
   },
   {
    "term": "china",
@@ -78,20 +90,12 @@
    "count": 5
   },
   {
+   "term": "nepal",
+   "count": 5
+  },
+  {
    "term": "islands",
    "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
-  },
-  {
-   "term": "next",
-   "count": 4
   },
   {
    "term": "song",
@@ -102,38 +106,30 @@
    "count": 4
   },
   {
-   "term": "space",
-   "count": 4
-  },
-  {
    "term": "2026",
    "count": 4
   },
   {
-   "term": "floods",
+   "term": "iranian",
    "count": 4
   },
   {
-   "term": "disaster",
+   "term": "launchers",
    "count": 4
   },
   {
-   "term": "strikes",
+   "term": "hormuz",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 10
-  },
-  {
-   "name": "Nepal",
-   "count": 8
+   "count": 11
   },
   {
    "name": "Trump",
-   "count": 7
+   "count": 8
   },
   {
    "name": "West Bank",
@@ -145,6 +141,26 @@
   },
   {
    "name": "Israeli",
+   "count": 5
+  },
+  {
+   "name": "Nepal",
+   "count": 5
+  },
+  {
+   "name": "Iranian",
+   "count": 4
+  },
+  {
+   "name": "Larak",
+   "count": 4
+  },
+  {
+   "name": "Hormuz",
+   "count": 4
+  },
+  {
+   "name": "Larak Island",
    "count": 4
   },
   {
@@ -160,23 +176,27 @@
    "count": 3
   },
   {
+   "name": "Gaza",
+   "count": 3
+  },
+  {
    "name": "Cyprus",
    "count": 3
   },
   {
-   "name": "Palestinian",
+   "name": "Espriella",
    "count": 3
   },
   {
-   "name": "Tibet",
+   "name": "Colombia",
    "count": 3
   },
   {
-   "name": "Hormuz",
+   "name": "Alaska",
    "count": 3
   },
   {
-   "name": "Hong Kong",
+   "name": "China",
    "count": 3
   },
   {
@@ -197,26 +217,6 @@
   },
   {
    "name": "Sydney",
-   "count": 2
-  },
-  {
-   "name": "Life",
-   "count": 2
-  },
-  {
-   "name": "Anthropic",
-   "count": 2
-  },
-  {
-   "name": "Larak Island",
-   "count": 2
-  },
-  {
-   "name": "Germany",
-   "count": 2
-  },
-  {
-   "name": "Merz",
    "count": 2
   }
  ]
