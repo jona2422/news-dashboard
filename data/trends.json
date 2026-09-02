@@ -1,44 +1,48 @@
 {
- "updated": "2026-09-02T16:39:25.389001+00:00",
+ "updated": "2026-09-02T19:50:21.141522+00:00",
  "terms": [
   {
+   "term": "israel",
+   "count": 14
+  },
+  {
    "term": "iran",
-   "count": 20
+   "count": 14
   },
   {
    "term": "trump",
-   "count": 11
+   "count": 13
   },
   {
-   "term": "wedding",
+   "term": "green",
    "count": 10
   },
   {
-   "term": "china",
-   "count": 10
+   "term": "gaza",
+   "count": 9
   },
   {
    "term": "alaska",
    "count": 9
   },
   {
-   "term": "green",
-   "count": 8
-  },
-  {
-   "term": "israel",
-   "count": 8
-  },
-  {
-   "term": "2026",
+   "term": "china",
    "count": 7
   },
   {
-   "term": "four",
+   "term": "wedding",
+   "count": 7
+  },
+  {
+   "term": "2026",
    "count": 6
   },
   {
-   "term": "strikes",
+   "term": "strike",
+   "count": 6
+  },
+  {
+   "term": "attack",
    "count": 6
   },
   {
@@ -46,63 +50,63 @@
    "count": 6
   },
   {
-   "term": "russian",
+   "term": "killed",
    "count": 5
   },
   {
-   "term": "strike",
+   "term": "plan",
    "count": 5
+  },
+  {
+   "term": "israeli",
+   "count": 5
+  },
+  {
+   "term": "trade",
+   "count": 5
+  },
+  {
+   "term": "forest",
+   "count": 5
+  },
+  {
+   "term": "notification",
+   "count": 5
+  },
+  {
+   "term": "album",
+   "count": 4
+  },
+  {
+   "term": "show",
+   "count": 4
+  },
+  {
+   "term": "artist",
+   "count": 4
+  },
+  {
+   "term": "wins",
+   "count": 4
+  },
+  {
+   "term": "south",
+   "count": 4
+  },
+  {
+   "term": "four",
+   "count": 4
   },
   {
    "term": "google",
-   "count": 5
-  },
-  {
-   "term": "gaza",
-   "count": 5
-  },
-  {
-   "term": "ataque",
-   "count": 5
-  },
-  {
-   "term": "three",
    "count": 4
   },
   {
-   "term": "sale",
+   "term": "saudi",
    "count": 4
   },
   {
-   "term": "music",
-   "count": 4
-  },
-  {
-   "term": "people",
-   "count": 4
-  },
-  {
-   "term": "east",
-   "count": 4
-  },
-  {
-   "term": "artists",
-   "count": 4
-  },
-  {
-   "term": "minister",
-   "count": 4
-  },
-  {
-   "term": "egypt",
-   "count": 4
-  },
-  {
-   "term": "killed",
-   "count": 4
-  },
-  {
-   "term": "crime",
+   "term": "strait",
    "count": 4
   },
   {
@@ -110,53 +114,45 @@
    "count": 4
   },
   {
-   "term": "policía",
+   "term": "lebanon",
    "count": 4
   },
   {
-   "term": "forest",
-   "count": 4
-  },
-  {
-   "term": "notification",
+   "term": "strikes",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Iran",
-   "count": 20
+   "name": "Israel",
+   "count": 14
   },
   {
-   "name": "China",
-   "count": 10
+   "name": "Iran",
+   "count": 14
+  },
+  {
+   "name": "Gaza",
+   "count": 9
+  },
+  {
+   "name": "Green",
+   "count": 9
   },
   {
    "name": "Alaska",
    "count": 9
   },
   {
-   "name": "Israel",
+   "name": "Trump",
    "count": 8
   },
   {
-   "name": "Trump",
+   "name": "China",
    "count": 7
-  },
-  {
-   "name": "Green",
-   "count": 7
-  },
-  {
-   "name": "Gaza",
-   "count": 5
   },
   {
    "name": "Google",
-   "count": 4
-  },
-  {
-   "name": "Egypt",
    "count": 4
   },
   {
@@ -164,7 +160,7 @@
    "count": 4
   },
   {
-   "name": "Policía",
+   "name": "Lebanon",
    "count": 4
   },
   {
@@ -176,19 +172,31 @@
    "count": 3
   },
   {
-   "name": "Anthropic",
+   "name": "Saudi Arabia",
    "count": 3
   },
   {
-   "name": "Russian",
+   "name": "Iranian",
    "count": 3
   },
   {
-   "name": "Germany",
+   "name": "Hormuz",
    "count": 3
   },
   {
-   "name": "Lebanon",
+   "name": "Palestinians",
+   "count": 3
+  },
+  {
+   "name": "Israeli",
+   "count": 3
+  },
+  {
+   "name": "Netanyahu",
+   "count": 3
+  },
+  {
+   "name": "Egypt",
    "count": 3
   },
   {
@@ -196,27 +204,19 @@
    "count": 3
   },
   {
-   "name": "Keffe",
+   "name": "Here",
    "count": 2
   },
   {
-   "name": "Eddie",
+   "name": "Removal",
    "count": 2
   },
   {
-   "name": "Sale",
+   "name": "Linux",
    "count": 2
   },
   {
-   "name": "Olivia Rodrigo",
-   "count": 2
-  },
-  {
-   "name": "Kennedy Center",
-   "count": 2
-  },
-  {
-   "name": "Erie Canal",
+   "name": "Range Rover",
    "count": 2
   }
  ]
