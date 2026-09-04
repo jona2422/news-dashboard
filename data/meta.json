@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T22:38:23.153628+00:00",
+ "updated": "2026-09-04T01:02:52.022029+00:00",
  "sources_ok": 34,
  "sources_total": 38,
  "beats": [
@@ -46,6 +46,14 @@
  ],
  "feeds": [
   {
+   "beat": "china",
+   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
+   "source": "globaltimes.cn",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out"
+  },
+  {
    "beat": "desastres",
    "url": "https://reliefweb.int/disasters/rss.xml",
    "source": "reliefweb.int",
@@ -62,27 +70,19 @@
    "error": "HTTP Error 403: Forbidden"
   },
   {
-   "beat": "panama_latam",
-   "url": "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
-   "source": "prensa.com",
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
    "ok": false,
    "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "tech",
-   "url": "https://hnrss.org/frontpage",
-   "source": "hnrss.org",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
+   "error": "HTTP Error 415: Unsupported Media Type"
   },
   {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": ""
   },
   {
@@ -114,7 +114,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 137,
+   "count": 135,
    "error": ""
   },
   {
@@ -167,14 +167,6 @@
   },
   {
    "beat": "china",
-   "url": "https://www.globaltimes.cn/rss/outbrain.xml",
-   "source": "outbrain",
-   "ok": true,
-   "count": 50,
-   "error": ""
-  },
-  {
-   "beat": "china",
    "url": "https://www.theguardian.com/world/china/rss",
    "source": "China | The Guardian",
    "ok": true,
@@ -194,7 +186,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 394,
+   "count": 397,
    "error": ""
   },
   {
@@ -255,14 +247,6 @@
   },
   {
    "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
-   "error": ""
-  },
-  {
-   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -279,10 +263,18 @@
   },
   {
    "beat": "panama_latam",
+   "url": "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
+   "source": "La Prensa",
+   "ok": true,
+   "count": 100,
+   "error": ""
+  },
+  {
+   "beat": "panama_latam",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 106,
+   "count": 107,
    "error": ""
   },
   {
@@ -306,7 +298,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 32,
+   "count": 25,
    "error": ""
   },
   {
@@ -314,7 +306,7 @@
    "url": "https://www.france24.com/es/rss",
    "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": ""
   },
   {
@@ -345,6 +337,14 @@
    "beat": "tech",
    "url": "https://techcrunch.com/feed/",
    "source": "TechCrunch",
+   "ok": true,
+   "count": 20,
+   "error": ""
+  },
+  {
+   "beat": "tech",
+   "url": "https://hnrss.org/frontpage",
+   "source": "Hacker News: Front Page",
    "ok": true,
    "count": 20,
    "error": ""
