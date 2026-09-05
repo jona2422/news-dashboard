@@ -1,24 +1,20 @@
 {
- "updated": "2026-09-05T16:51:29.034158+00:00",
+ "updated": "2026-09-05T19:05:19.570545+00:00",
  "terms": [
   {
    "term": "west",
+   "count": 10
+  },
+  {
+   "term": "death",
    "count": 9
-  },
-  {
-   "term": "israel",
-   "count": 8
-  },
-  {
-   "term": "iran",
-   "count": 8
   },
   {
    "term": "years",
    "count": 7
   },
   {
-   "term": "china",
+   "term": "trump",
    "count": 7
   },
   {
@@ -26,7 +22,7 @@
    "count": 7
   },
   {
-   "term": "israeli",
+   "term": "iranian",
    "count": 7
   },
   {
@@ -34,15 +30,35 @@
    "count": 7
   },
   {
+   "term": "killed",
+   "count": 7
+  },
+  {
+   "term": "israeli",
+   "count": 7
+  },
+  {
+   "term": "israel",
+   "count": 7
+  },
+  {
    "term": "bank",
    "count": 7
   },
   {
-   "term": "trump",
+   "term": "iran",
+   "count": 7
+  },
+  {
+   "term": "china",
    "count": 6
   },
   {
-   "term": "iranian",
+   "term": "hong",
+   "count": 6
+  },
+  {
+   "term": "kong",
    "count": 6
   },
   {
@@ -50,23 +66,11 @@
    "count": 6
   },
   {
-   "term": "nepal",
-   "count": 6
-  },
-  {
-   "term": "killed",
-   "count": 6
-  },
-  {
-   "term": "green",
-   "count": 6
-  },
-  {
-   "term": "talks",
+   "term": "show",
    "count": 5
   },
   {
-   "term": "death",
+   "term": "right",
    "count": 5
   },
   {
@@ -74,43 +78,23 @@
    "count": 5
   },
   {
-   "term": "flood",
+   "term": "military",
    "count": 5
   },
   {
-   "term": "estados",
+   "term": "puerto",
    "count": 5
   },
   {
-   "term": "unidos",
-   "count": 5
-  },
-  {
-   "term": "tres",
-   "count": 5
-  },
-  {
-   "term": "indonesia",
-   "count": 5
-  },
-  {
-   "term": "hong",
-   "count": 5
-  },
-  {
-   "term": "kong",
-   "count": 5
+   "term": "2026",
+   "count": 4
   },
   {
    "term": "beyoncé",
    "count": 4
   },
   {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "ground",
+   "term": "talks",
    "count": 4
   },
   {
@@ -118,21 +102,37 @@
    "count": 4
   },
   {
-   "term": "world",
+   "term": "people",
+   "count": 4
+  },
+  {
+   "term": "openai",
+   "count": 4
+  },
+  {
+   "term": "lebanon",
+   "count": 4
+  },
+  {
+   "term": "attacks",
+   "count": 4
+  },
+  {
+   "term": "missile",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Israel",
-   "count": 8
-  },
-  {
-   "name": "Iran",
-   "count": 8
+   "name": "Iranian",
+   "count": 7
   },
   {
    "name": "Israeli",
+   "count": 7
+  },
+  {
+   "name": "Israel",
    "count": 7
   },
   {
@@ -140,43 +140,27 @@
    "count": 7
   },
   {
-   "name": "Iranian",
-   "count": 6
-  },
-  {
-   "name": "Nepal",
-   "count": 6
-  },
-  {
-   "name": "Green",
-   "count": 6
-  },
-  {
-   "name": "China",
-   "count": 6
+   "name": "Iran",
+   "count": 7
   },
   {
    "name": "Trump",
-   "count": 5
+   "count": 6
+  },
+  {
+   "name": "Hong Kong",
+   "count": 6
   },
   {
    "name": "Gaza",
    "count": 5
   },
   {
-   "name": "Estados Unidos",
+   "name": "China",
    "count": 5
   },
   {
-   "name": "Indonesia",
-   "count": 5
-  },
-  {
-   "name": "Hong Kong",
-   "count": 5
-  },
-  {
-   "name": "Dover",
+   "name": "OpenAI",
    "count": 4
   },
   {
@@ -188,11 +172,27 @@
    "count": 4
   },
   {
-   "name": "Death",
-   "count": 3
+   "name": "Estados Unidos",
+   "count": 4
   },
   {
-   "name": "OpenAI",
+   "name": "Alaska",
+   "count": 4
+  },
+  {
+   "name": "Green",
+   "count": 4
+  },
+  {
+   "name": "Puerto Rico",
+   "count": 4
+  },
+  {
+   "name": "Indonesia",
+   "count": 4
+  },
+  {
+   "name": "Death",
    "count": 3
   },
   {
@@ -200,24 +200,24 @@
    "count": 3
   },
   {
+   "name": "Putin",
+   "count": 3
+  },
+  {
    "name": "Ukraine",
    "count": 3
   },
   {
-   "name": "Chile",
+   "name": "Nepal",
    "count": 3
   },
   {
-   "name": "Puerto Rico",
+   "name": "Vanuatu",
    "count": 3
   },
   {
    "name": "Palestinian",
    "count": 3
-  },
-  {
-   "name": "Here",
-   "count": 2
   }
  ]
 }
