@@ -1,28 +1,32 @@
 {
- "updated": "2026-09-06T13:42:39.925067+00:00",
+ "updated": "2026-09-06T17:07:27.003182+00:00",
  "terms": [
   {
-   "term": "world",
-   "count": 9
+   "term": "china",
+   "count": 13
   },
   {
    "term": "iran",
-   "count": 9
-  },
-  {
-   "term": "gaza",
    "count": 8
   },
   {
-   "term": "west",
+   "term": "right",
    "count": 7
   },
   {
-   "term": "china",
-   "count": 7
+   "term": "trump",
+   "count": 6
   },
   {
    "term": "death",
+   "count": 6
+  },
+  {
+   "term": "world",
+   "count": 6
+  },
+  {
+   "term": "anhalt",
    "count": 6
   },
   {
@@ -30,19 +34,15 @@
    "count": 6
   },
   {
-   "term": "hong",
-   "count": 6
-  },
-  {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "there",
+   "term": "wins",
    "count": 5
   },
   {
-   "term": "american",
+   "term": "show",
+   "count": 5
+  },
+  {
+   "term": "west",
    "count": 5
   },
   {
@@ -50,11 +50,27 @@
    "count": 5
   },
   {
-   "term": "alaska",
+   "term": "israeli",
    "count": 5
   },
   {
-   "term": "show",
+   "term": "lebanon",
+   "count": 5
+  },
+  {
+   "term": "hong",
+   "count": 5
+  },
+  {
+   "term": "kong",
+   "count": 5
+  },
+  {
+   "term": "dead",
+   "count": 4
+  },
+  {
+   "term": "there",
    "count": 4
   },
   {
@@ -66,11 +82,19 @@
    "count": 4
   },
   {
-   "term": "trump",
+   "term": "german",
    "count": 4
   },
   {
-   "term": "german",
+   "term": "state",
+   "count": 4
+  },
+  {
+   "term": "military",
+   "count": 4
+  },
+  {
+   "term": "envoys",
    "count": 4
   },
   {
@@ -78,23 +102,7 @@
    "count": 4
   },
   {
-   "term": "palestinians",
-   "count": 4
-  },
-  {
-   "term": "kushner",
-   "count": 4
-  },
-  {
-   "term": "witkoff",
-   "count": 4
-  },
-  {
-   "term": "minister",
-   "count": 4
-  },
-  {
-   "term": "drone",
+   "term": "nepal",
    "count": 4
   },
   {
@@ -102,41 +110,33 @@
    "count": 4
   },
   {
+   "term": "alaska",
+   "count": 4
+  },
+  {
    "term": "islands",
    "count": 4
   },
   {
-   "term": "israeli",
+   "term": "among",
    "count": 4
-  },
-  {
-   "term": "lebanon",
-   "count": 4
-  },
-  {
-   "term": "texas",
-   "count": 3
-  },
-  {
-   "term": "country",
-   "count": 3
   }
  ],
  "entities": [
   {
-   "name": "Iran",
+   "name": "China",
    "count": 9
   },
   {
-   "name": "Gaza",
-   "count": 7
+   "name": "Iran",
+   "count": 8
   },
   {
-   "name": "Israel",
+   "name": "Anhalt",
    "count": 6
   },
   {
-   "name": "Hong Kong",
+   "name": "Israel",
    "count": 6
   },
   {
@@ -144,23 +144,31 @@
    "count": 5
   },
   {
-   "name": "Alaska",
+   "name": "Israeli",
    "count": 5
+  },
+  {
+   "name": "Lebanon",
+   "count": 5
+  },
+  {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
+   "name": "Trump",
+   "count": 4
+  },
+  {
+   "name": "German",
+   "count": 4
   },
   {
    "name": "Putin",
    "count": 4
   },
   {
-   "name": "Palestinians",
-   "count": 4
-  },
-  {
-   "name": "Kushner",
-   "count": 4
-  },
-  {
-   "name": "Witkoff",
+   "name": "Nepal",
    "count": 4
   },
   {
@@ -168,15 +176,11 @@
    "count": 4
   },
   {
-   "name": "Israeli",
+   "name": "Alaska",
    "count": 4
   },
   {
-   "name": "Lebanon",
-   "count": 4
-  },
-  {
-   "name": "China",
+   "name": "Gaza",
    "count": 4
   },
   {
@@ -184,15 +188,27 @@
    "count": 3
   },
   {
-   "name": "Trump",
-   "count": 3
-  },
-  {
-   "name": "German",
+   "name": "NetBSD",
    "count": 3
   },
   {
    "name": "Germany",
+   "count": 3
+  },
+  {
+   "name": "Saxony",
+   "count": 3
+  },
+  {
+   "name": "Kyiv",
+   "count": 3
+  },
+  {
+   "name": "Sajonia",
+   "count": 3
+  },
+  {
+   "name": "Golpe",
    "count": 3
   },
   {
@@ -202,22 +218,6 @@
   {
    "name": "West Bank",
    "count": 3
-  },
-  {
-   "name": "Kanye West",
-   "count": 2
-  },
-  {
-   "name": "Europe",
-   "count": 2
-  },
-  {
-   "name": "OpenAI",
-   "count": 2
-  },
-  {
-   "name": "Ukraine",
-   "count": 2
   }
  ]
 }
