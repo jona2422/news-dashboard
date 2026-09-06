@@ -1,24 +1,24 @@
 {
- "updated": "2026-09-05T23:57:25.699386+00:00",
+ "updated": "2026-09-06T04:46:53.772125+00:00",
  "terms": [
   {
-   "term": "west",
-   "count": 9
-  },
-  {
    "term": "trump",
-   "count": 8
+   "count": 11
   },
   {
    "term": "iran",
+   "count": 10
+  },
+  {
+   "term": "west",
    "count": 8
   },
   {
    "term": "killed",
-   "count": 7
+   "count": 8
   },
   {
-   "term": "israel",
+   "term": "indonesia",
    "count": 7
   },
   {
@@ -26,27 +26,19 @@
    "count": 6
   },
   {
-   "term": "three",
+   "term": "german",
    "count": 6
   },
   {
-   "term": "israeli",
+   "term": "attacks",
    "count": 6
   },
   {
-   "term": "puerto",
+   "term": "israel",
    "count": 6
   },
   {
-   "term": "alaska",
-   "count": 6
-  },
-  {
-   "term": "bank",
-   "count": 6
-  },
-  {
-   "term": "years",
+   "term": "show",
    "count": 5
   },
   {
@@ -54,31 +46,59 @@
    "count": 5
   },
   {
+   "term": "three",
+   "count": 5
+  },
+  {
+   "term": "israeli",
+   "count": 5
+  },
+  {
+   "term": "gaza",
+   "count": 5
+  },
+  {
+   "term": "green",
+   "count": 5
+  },
+  {
+   "term": "alaska",
+   "count": 5
+  },
+  {
+   "term": "bank",
+   "count": 5
+  },
+  {
+   "term": "hong",
+   "count": 5
+  },
+  {
+   "term": "kong",
+   "count": 5
+  },
+  {
+   "term": "2026",
+   "count": 4
+  },
+  {
+   "term": "years",
+   "count": 4
+  },
+  {
    "term": "space",
-   "count": 5
-  },
-  {
-   "term": "german",
-   "count": 5
-  },
-  {
-   "term": "beyoncé",
    "count": 4
   },
   {
-   "term": "show",
+   "term": "rocket",
    "count": 4
   },
   {
-   "term": "talks",
+   "term": "lebanon",
    "count": 4
   },
   {
-   "term": "least",
-   "count": 4
-  },
-  {
-   "term": "putin",
+   "term": "tankers",
    "count": 4
   },
   {
@@ -86,97 +106,77 @@
    "count": 4
   },
   {
-   "term": "attack",
-   "count": 4
-  },
-  {
-   "term": "king",
-   "count": 4
-  },
-  {
-   "term": "argentina",
-   "count": 4
-  },
-  {
-   "term": "military",
-   "count": 4
-  },
-  {
-   "term": "bajo",
-   "count": 4
-  },
-  {
-   "term": "green",
-   "count": 4
-  },
-  {
-   "term": "rico",
-   "count": 4
-  },
-  {
-   "term": "indonesia",
-   "count": 4
-  },
-  {
    "term": "iranian",
    "count": 4
+  },
+  {
+   "term": "kanye",
+   "count": 3
+  },
+  {
+   "term": "beyoncé",
+   "count": 3
+  },
+  {
+   "term": "anniversary",
+   "count": 3
   }
  ],
  "entities": [
   {
-   "name": "Iran",
-   "count": 8
+   "name": "Trump",
+   "count": 10
   },
   {
-   "name": "Trump",
+   "name": "Iran",
+   "count": 10
+  },
+  {
+   "name": "Indonesia",
    "count": 7
   },
   {
    "name": "Israel",
-   "count": 7
-  },
-  {
-   "name": "Israeli",
-   "count": 6
-  },
-  {
-   "name": "Alaska",
-   "count": 6
-  },
-  {
-   "name": "West Bank",
    "count": 6
   },
   {
    "name": "German",
-   "count": 4
+   "count": 5
   },
   {
-   "name": "Putin",
-   "count": 4
-  },
-  {
-   "name": "Green",
-   "count": 4
-  },
-  {
-   "name": "Puerto Rico",
-   "count": 4
-  },
-  {
-   "name": "Indonesia",
-   "count": 4
-  },
-  {
-   "name": "Iranian",
-   "count": 4
+   "name": "Israeli",
+   "count": 5
   },
   {
    "name": "Gaza",
+   "count": 5
+  },
+  {
+   "name": "Green",
+   "count": 5
+  },
+  {
+   "name": "Alaska",
+   "count": 5
+  },
+  {
+   "name": "West Bank",
+   "count": 5
+  },
+  {
+   "name": "Hong Kong",
+   "count": 5
+  },
+  {
+   "name": "Lebanon",
    "count": 4
   },
   {
    "name": "China",
+   "count": 4
+  },
+  {
+   "name": "Iranian",
    "count": 4
   },
   {
@@ -188,11 +188,19 @@
    "count": 3
   },
   {
-   "name": "Colombia",
+   "name": "Ukraine",
    "count": 3
   },
   {
-   "name": "Argentina",
+   "name": "Putin",
+   "count": 3
+  },
+  {
+   "name": "Magnitude",
+   "count": 3
+  },
+  {
+   "name": "Depth",
    "count": 3
   },
   {
@@ -204,19 +212,11 @@
    "count": 3
   },
   {
-   "name": "Lebanon",
-   "count": 3
-  },
-  {
-   "name": "Hong Kong",
-   "count": 3
-  },
-  {
-   "name": "Chinese",
-   "count": 3
-  },
-  {
    "name": "Kanye West",
+   "count": 2
+  },
+  {
+   "name": "Dolly Parton",
    "count": 2
   }
  ]
