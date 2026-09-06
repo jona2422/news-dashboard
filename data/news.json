@@ -1,10 +1,19 @@
 {
- "updated": "2026-09-06T19:15:27.010331+00:00",
+ "updated": "2026-09-06T21:27:04.442716+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "‘B’Day’ at 20: Behind the Album That Helped Beyoncé Define Her Career",
+     "link": "https://www.rollingstone.com/music/music-features/beyonce-bday-20-anniversary-legacy-1235622160/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-09-06T21:15:02+00:00",
+     "ts": 1788729302000,
+     "count": 1
+    },
     {
      "title": "14 People Hospitalized During The Chainsmokers Concert in San Jose",
      "link": "https://consequence.net/2026/09/14-people-hospitalized-during-the-chainsmokers-concert-in-san-jose/",
@@ -201,15 +210,6 @@
      "image": "",
      "published": "2026-09-05T15:04:58+00:00",
      "ts": 1788620698000,
-     "count": 1
-    },
-    {
-     "title": "CDs Are Back, and We Think We Know Why",
-     "link": "https://www.rollingstone.com/music/music-features/cds-revival-gen-z-compact-discs-1235614874/",
-     "source": "Music – Rolling Stone",
-     "image": "",
-     "published": "2026-09-05T15:00:00+00:00",
-     "ts": 1788620400000,
      "count": 1
     },
     {
@@ -522,16 +522,106 @@
    "name": "Tecnología & IA",
    "items": [
     {
-     "title": "Following legal advice, the Nitter project will continue",
-     "link": "https://github.com/zedeus/nitter",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T17:51:23+00:00",
-     "ts": 1788717083000,
+     "title": "An Amazon cargo plane crashed at Miami International Airport",
+     "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-09-06T20:59:21+00:00",
+     "ts": 1788728361000,
      "count": 1
     },
     {
-     "title": "Nitter is unarchived and will continue",
+     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-09-06T20:47:37+00:00",
+     "ts": 1788727657000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+     "link": "https://github.com/marsbos/mador",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T20:45:13+00:00",
+     "ts": 1788727513000,
+     "count": 1
+    },
+    {
+     "title": "It took a year to ship WebAssembly in Anubis",
+     "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T20:32:38+00:00",
+     "ts": 1788726758000,
+     "count": 1
+    },
+    {
+     "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+     "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T20:24:00+00:00",
+     "ts": 1788726240000,
+     "count": 1
+    },
+    {
+     "title": "Human archive: They were only human",
+     "link": "https://sayyss.github.io/human-archive/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T20:17:30+00:00",
+     "ts": 1788725850000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+     "link": "https://getvodforge.com/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T20:07:30+00:00",
+     "ts": 1788725250000,
+     "count": 1
+    },
+    {
+     "title": "The car industry A/B tested selling a car with and without CarPlay",
+     "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T19:53:23+00:00",
+     "ts": 1788724403000,
+     "count": 1
+    },
+    {
+     "title": "There Gonna Be a Shortage of Everything",
+     "link": "https://out-of-hell.xylon.me.uk/shortage.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T19:45:39+00:00",
+     "ts": 1788723939000,
+     "count": 1
+    },
+    {
+     "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
+     "link": "https://news.ycombinator.com/item?id=49589730",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-06T19:06:54+00:00",
+     "ts": 1788721614000,
+     "count": 1
+    },
+    {
+     "title": "Europe has its first commercial orbital rocket",
+     "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-09-06T19:04:22+00:00",
+     "ts": 1788721462000,
+     "count": 1
+    },
+    {
+     "title": "Nitter and XCancel resume service after legal advice",
      "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -555,15 +645,6 @@
      "image": "",
      "published": "2026-09-06T16:45:00+00:00",
      "ts": 1788713100000,
-     "count": 1
-    },
-    {
-     "title": "We monitor internal coding agents for misalignment",
-     "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T16:37:55+00:00",
-     "ts": 1788712675000,
      "count": 1
     },
     {
@@ -621,24 +702,6 @@
      "count": 1
     },
     {
-     "title": "Recreating Minecraft Is Not a Benchmark",
-     "link": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T14:52:07+00:00",
-     "ts": 1788706327000,
-     "count": 1
-    },
-    {
-     "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-     "link": "https://github.com/scastiel/kado",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T14:34:46+00:00",
-     "ts": 1788705286000,
-     "count": 1
-    },
-    {
      "title": "A/I shuts down – Stay human",
      "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
      "source": "Hacker News: Front Page",
@@ -648,8 +711,8 @@
      "count": 1
     },
     {
-     "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-     "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+     "title": "Asahi Linux on M3",
+     "link": "https://asahilinux.org/2026/09/m2-episode-1/",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-09-06T14:08:59+00:00",
@@ -666,39 +729,12 @@
      "count": 1
     },
     {
-     "title": "QBittorrent breaks out of sandbox to commit crimes",
-     "link": "https://beige.party/@intransitivelie/117057396732763183",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T13:02:41+00:00",
-     "ts": 1788699761000,
-     "count": 1
-    },
-    {
-     "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-     "link": "https://shukla.io/quantum-oracle-engineering/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T13:00:34+00:00",
-     "ts": 1788699634000,
-     "count": 1
-    },
-    {
      "title": "DIY plug-in solar gains momentum in the US",
      "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
      "source": "The Verge",
      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
      "published": "2026-09-06T12:13:19+00:00",
      "ts": 1788696799000,
-     "count": 1
-    },
-    {
-     "title": "The pencil case model of creativity",
-     "link": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T12:05:34+00:00",
-     "ts": 1788696334000,
      "count": 1
     },
     {
@@ -736,42 +772,6 @@
      "published": "2026-09-06T10:00:35+00:00",
      "ts": 1788688835000,
      "count": 1
-    },
-    {
-     "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-     "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T07:21:06+00:00",
-     "ts": 1788679266000,
-     "count": 1
-    },
-    {
-     "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-     "link": "https://cloudinabottle.org/blog/launch-post",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T00:03:29+00:00",
-     "ts": 1788653009000,
-     "count": 1
-    },
-    {
-     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-09-05T22:49:55+00:00",
-     "ts": 1788648595000,
-     "count": 1
-    },
-    {
-     "title": "Explore the globe in field recordings",
-     "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-09-05T21:31:34+00:00",
-     "ts": 1788643894000,
-     "count": 1
     }
    ]
   },
@@ -780,12 +780,165 @@
    "name": "Actualidad Global",
    "items": [
     {
+     "title": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
+     "link": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/257_0_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=bbb43d994ae96a7dac92da3092a5dcf8",
+     "published": "2026-09-06T21:16:19+00:00",
+     "ts": 1788729379000,
+     "count": 1
+    },
+    {
+     "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+     "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T21:11:01+00:00",
+     "ts": 1788729061000,
+     "count": 3
+    },
+    {
+     "title": "At least 10 killed in central Mexico fireworks blast during festival",
+     "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T21:08:30+00:00",
+     "ts": 1788728910000,
+     "count": 1
+    },
+    {
+     "title": "Amazon Prime plane overruns runway at Miami Airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T21:08:24+00:00",
+     "ts": 1788728904000,
+     "count": 1
+    },
+    {
+     "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+     "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-09-06T21:04:00+00:00",
+     "ts": 1788728640000,
+     "count": 1
+    },
+    {
+     "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+     "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
+     "published": "2026-09-06T20:52:12+00:00",
+     "ts": 1788727932000,
+     "count": 1
+    },
+    {
+     "title": "Can AfD form Germany’s first far-right state government since World War II?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T20:52:01+00:00",
+     "ts": 1788727921000,
+     "count": 1
+    },
+    {
      "title": "German far-right set for big win in eastern state, projections show",
      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-     "published": "2026-09-06T19:13:51+00:00",
-     "ts": 1788722031000,
+     "published": "2026-09-06T20:45:11+00:00",
+     "ts": 1788727511000,
+     "count": 1
+    },
+    {
+     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b8/live/737c2df0-aa36-11f1-aed2-8d6da8d75094.jpg",
+     "published": "2026-09-06T20:41:58+00:00",
+     "ts": 1788727318000,
+     "count": 1
+    },
+    {
+     "title": "Video shows damaged Amazon cargo plane after crash",
+     "link": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f28f/live/73735120-aa32-11f1-a291-b542ee92de7c.jpg",
+     "published": "2026-09-06T20:41:48+00:00",
+     "ts": 1788727308000,
+     "count": 1
+    },
+    {
+     "title": "Susan Sarandon says she still loses film roles over support for Palestine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T20:40:52+00:00",
+     "ts": 1788727252000,
+     "count": 1
+    },
+    {
+     "title": "Will Israelis re-elect Benjamin Netanyahu?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T20:20:47+00:00",
+     "ts": 1788726047000,
+     "count": 1
+    },
+    {
+     "title": "At least five killed in New Delhi building collapse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T20:05:32+00:00",
+     "ts": 1788725132000,
+     "count": 1
+    },
+    {
+     "title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
+     "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
+     "published": "2026-09-06T20:00:14+00:00",
+     "ts": 1788724814000,
+     "count": 1
+    },
+    {
+     "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
+     "link": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-09-06T19:59:00+00:00",
+     "ts": 1788724740000,
+     "count": 1
+    },
+    {
+     "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+     "link": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T19:45:36+00:00",
+     "ts": 1788723936000,
+     "count": 1
+    },
+    {
+     "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
+     "link": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/4ec21ba47fba56699afd8ea34f2aed0f3e55bbc5/422_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=cc2d770cfe60f8c3731fa70e350ab7d5",
+     "published": "2026-09-06T19:12:36+00:00",
+     "ts": 1788721956000,
+     "count": 1
+    },
+    {
+     "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+     "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-09-06T19:08:00+00:00",
+     "ts": 1788721680000,
      "count": 1
     },
     {
@@ -795,6 +948,15 @@
      "image": "https://i.guim.co.uk/img/media/decca5c97cd9355e54501230b725d5eb392a637a/502_30_5505_4404/master/5505.jpg?width=140&quality=85&auto=format&fit=max&s=a83397e4a7ba3379919781e3c77e8dbc",
      "published": "2026-09-06T19:00:12+00:00",
      "ts": 1788721212000,
+     "count": 1
+    },
+    {
+     "title": "Indonesia volcano eruption disrupts hundreds of flights",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-06T18:58:35+00:00",
+     "ts": 1788721115000,
      "count": 1
     },
     {
@@ -852,15 +1014,6 @@
      "count": 1
     },
     {
-     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
-     "published": "2026-09-06T18:33:50+00:00",
-     "ts": 1788719630000,
-     "count": 1
-    },
-    {
      "title": "Saxony-Anhalt election: Why the AfD is so strong",
      "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
@@ -870,165 +1023,12 @@
      "count": 1
     },
     {
-     "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T18:28:27+00:00",
-     "ts": 1788719307000,
-     "count": 1
-    },
-    {
-     "title": "Far-right AfD wins key German state election but may fail to secure majority",
-     "link": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/eabad25ad64cbcb78ce194592dff54c12e76611f/357_0_4806_3847/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=712145630863ef8f234361e326ac967e",
-     "published": "2026-09-06T18:13:29+00:00",
-     "ts": 1788718409000,
-     "count": 1
-    },
-    {
-     "title": "Sabalenka through to US Open quarterfinals",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T18:12:06+00:00",
-     "ts": 1788718326000,
-     "count": 1
-    },
-    {
-     "title": "Algerian boy found dead after four days trapped in a well",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T18:10:49+00:00",
-     "ts": 1788718249000,
-     "count": 1
-    },
-    {
-     "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T17:56:13+00:00",
-     "ts": 1788717373000,
-     "count": 1
-    },
-    {
-     "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
-     "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T17:50:17+00:00",
-     "ts": 1788717017000,
-     "count": 1
-    },
-    {
-     "title": "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/f1-leader-kimi-antonelli-wins-italian-gp-after-epic-charge-from-the-back?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T17:40:41+00:00",
-     "ts": 1788716441000,
-     "count": 1
-    },
-    {
-     "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-     "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ccc6df5c5160ccabf5586177abf886151fbfd850/617_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=481353dc743fd11d1f4eace055478217",
-     "published": "2026-09-06T17:39:10+00:00",
-     "ts": 1788716350000,
-     "count": 1
-    },
-    {
-     "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-     "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/514934ca4b4e8c7dba4e71b2c01cec9431eddf58/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f53910d64a67d88ed74232c9faeacdc5",
-     "published": "2026-09-06T17:05:11+00:00",
-     "ts": 1788714311000,
-     "count": 1
-    },
-    {
-     "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-     "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T17:03:20+00:00",
-     "ts": 1788714200000,
-     "count": 1
-    },
-    {
-     "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-     "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+     "title": "Germany's far-right AfD celebrate projected win in state election",
+     "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-     "published": "2026-09-06T17:00:56+00:00",
-     "ts": 1788714056000,
-     "count": 1
-    },
-    {
-     "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
-     "link": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6b6dafbc404b0c27d0aaba0086da073b6f8e0bbc/43_9_4094_3274/master/4094.jpg?width=140&quality=85&auto=format&fit=max&s=b7955ddbacf0869078b57be7314c1cda",
-     "published": "2026-09-06T17:00:10+00:00",
-     "ts": 1788714010000,
-     "count": 1
-    },
-    {
-     "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-     "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T16:59:04+00:00",
-     "ts": 1788713944000,
-     "count": 1
-    },
-    {
-     "title": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T16:55:38+00:00",
-     "ts": 1788713738000,
-     "count": 1
-    },
-    {
-     "title": "Dozens feared trapped in collapsed building in Delhi",
-     "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
-     "published": "2026-09-06T16:54:34+00:00",
-     "ts": 1788713674000,
-     "count": 1
-    },
-    {
-     "title": "German exit polls suggest far-right party has big lead in regional election",
-     "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3376x2251+0+0/resize/3376x2251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F2b%2F18c9cb3346b3b36ea5ce83575239%2Fap26249325207672.jpg",
-     "published": "2026-09-06T16:36:48+00:00",
-     "ts": 1788712608000,
-     "count": 1
-    },
-    {
-     "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
-     "link": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3f384f89bef7e9e74d066a3ab9aa76ecf2a3faa4/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=1de05a315f5bdff129336b2667bd5526",
-     "published": "2026-09-06T16:23:02+00:00",
-     "ts": 1788711782000,
-     "count": 1
-    },
-    {
-     "title": "Iran touts military response as US maintains blockade, hits tankers",
-     "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-06T16:17:06+00:00",
-     "ts": 1788711426000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031a/live/5ff6ef10-aa20-11f1-aed2-8d6da8d75094.jpg",
+     "published": "2026-09-06T18:32:53+00:00",
+     "ts": 1788719573000,
      "count": 1
     }
    ]
@@ -1037,6 +1037,222 @@
    "id": "panama_latam",
    "name": "Panamá · LatAm",
    "items": [
+    {
+     "title": "\"Las influencers que fingen sumisión a sus maridos manejan imperios multimillonarios\", la autora de la novela que analiza a las \"tradwives\" o esposas tradicionales",
+     "link": "https://www.bbc.com/mundo/articles/cz9zkpxqvq7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/763a/live/e42b6a60-89c1-11f1-965a-d70ca8fc6275.png",
+     "published": "2026-09-06T21:13:46+00:00",
+     "ts": 1788729226000,
+     "count": 1
+    },
+    {
+     "title": "\"Me dijeron que jamás lo volvería a ver\": las más de 250.000 solteras que fueron forzadas a dar sus hijos en adopción a mediados del siglo pasado en Reino Unido",
+     "link": "https://www.prensa.com/bbc/me-dijeron-que-jamas-lo-volveria-a-ver-las-mas-de-250000-solteras-que-fueron-forzadas-a-dar-sus-hijos-en-adopcion-a-mediados-del-siglo-pasado-en-reino-unido/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/IY4ANTFZQFAU3JSILAWPYHFN6M.jpg?auth=941f263b87550f3d5282f72da668e278abdc16253f09f51ba9afd04fcf4a7fba&smart=true&width=1920&height=1080",
+     "published": "2026-09-06T21:12:00+00:00",
+     "ts": 1788729120000,
+     "count": 2
+    },
+    {
+     "title": "Un avión de carga de Amazon se estrella en el aeropuerto de Miami",
+     "link": "https://www.prensa.com/mundo/un-avion-de-carga-de-amazon-se-estrella-en-el-aeropuerto-de-miami/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/NJ6SLUCL4NAIZMWTSZE5XWS55E.jpg?auth=54a56bc4bd81db1b816b76b9cfc95a9ae8e79e5ecbffe90f43ffd5c7851183b2&smart=true&width=900&height=600",
+     "published": "2026-09-06T21:10:25+00:00",
+     "ts": 1788729025000,
+     "count": 3
+    },
+    {
+     "title": "Así ve el mundo el triunfo de AfD en Sajonia-Anhalt",
+     "link": "https://www.dw.com/es/así-ve-el-mundo-el-triunfo-de-afd-en-sajonia-anhalt/a-79104220?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-09-06T21:04:00+00:00",
+     "ts": 1788728640000,
+     "count": 1
+    },
+    {
+     "title": "AfD rasguña mayoría absoluta en elecciones de Sajonia-Anhalt",
+     "link": "https://www.dw.com/es/afd-rasguña-mayoría-absoluta-en-elecciones-de-sajonia-anhalt/live-79053413?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-09-06T21:02:00+00:00",
+     "ts": 1788728520000,
+     "count": 1
+    },
+    {
+     "title": "La extrema derecha arrasa en Sajonia-Anhalt y opta a gobernar por primera vez en un Estado alemán",
+     "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/X6MMF255EJDTTDCUYZ2THXBESQ.jpg?auth=089b4d97646ab272e9b3bee1a5e7cdbf58141131c65660fce3a88af18dcd08e3",
+     "published": "2026-09-06T20:56:25+00:00",
+     "ts": 1788728185000,
+     "count": 1
+    },
+    {
+     "title": "El poder del relato: el nuevo rol del CEO",
+     "link": "https://www.prensa.com/opinion/el-poder-del-relato-el-nuevo-rol-del-ceo/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/FRF76AJAUVB4VAE426DKTZAU5Q.jpg?auth=d8f4c611b1cc430061c9badefd1a3e410e3faedb764a38488600748efdb82ee7&smart=true&width=1536&height=1024",
+     "published": "2026-09-06T20:38:15+00:00",
+     "ts": 1788727095000,
+     "count": 1
+    },
+    {
+     "title": "Gianni Infantino buscará su reelección como presidente de la FIFA",
+     "link": "https://www.france24.com/es/video/20260906-gianni-infantino-buscar%C3%A1-su-reelecci%C3%B3n-como-presidente-de-la-fifa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/e0bef942-aa31-11f1-987c-005056a90284/w:1024/p:16x9/ES-20260906-141327-141453-CS.jpg",
+     "published": "2026-09-06T20:38:06+00:00",
+     "ts": 1788727086000,
+     "count": 1
+    },
+    {
+     "title": "El presidente De La Espriella dice tener identificados a quienes dispararon al aire en el recibimiento del cuerpo de 'Bendito Menor' en Riohacha",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/el-presidente-de-la-espriella-dice-tener-identificados-a-quienes-dispararon-al-aire-en-el-recibimiento-del-cuerpo-de-bendito-menor-en-riohacha-3584012",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9dc947e0394.png",
+     "published": "2026-09-06T20:36:08+00:00",
+     "ts": 1788726968000,
+     "count": 1
+    },
+    {
+     "title": "Indonesia: potente erupción del Anak Krakatoa provoca cancelación de vuelos y capa intensa de ceniza",
+     "link": "https://www.france24.com/es/video/20260906-indonesia-potente-erupci%C3%B3n-del-anak-krakatoa-provoca-cancelaci%C3%B3n-de-vuelos-y-capa-intensa-de-ceniza",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/06109b1a-aa32-11f1-9003-005056bf30b7/w:1024/p:16x9/2026-09-06T070304Z-1945576238-RC2IDNA9H9FS-RTRMADP-3-INDONESIA-VOLCANO.jpg",
+     "published": "2026-09-06T20:35:21+00:00",
+     "ts": 1788726921000,
+     "count": 1
+    },
+    {
+     "title": "Bombardeos de Israel golpean al sur del Líbano: Tel Aviv asegura que responde a ataques de Hezbolá",
+     "link": "https://www.france24.com/es/video/20260906-bombardeos-de-israel-golpean-al-sur-del-l%C3%ADbano-tel-aviv-asegura-que-responde-a-ataques-de-hezbol%C3%A1",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4078dea0-aa2f-11f1-89ec-005056bf30b7/w:1024/p:16x9/ES-20260906-140457-140640-CS.jpg",
+     "published": "2026-09-06T20:30:41+00:00",
+     "ts": 1788726641000,
+     "count": 1
+    },
+    {
+     "title": "Lotería del domingo 6 de septiembre de 2026",
+     "link": "https://www.prensa.com/loterias/loteria-del-domingo-6-de-septiembre-de-2026/",
+     "source": "La Prensa",
+     "image": "",
+     "published": "2026-09-06T20:30:03+00:00",
+     "ts": 1788726603000,
+     "count": 1
+    },
+    {
+     "title": "Arquidiócesis anuncia cambios de sacerdotes en diferentes parroquias y monseñor llama a panameños a ‘bajar el tono’",
+     "link": "https://www.prensa.com/sociedad/arquidiocesis-anuncia-cambios-de-sacerdotes-en-diferentes-parroquias-y-monsenor-llama-a-panamenos-a-bajar-el-tono/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/UP627VRD4RBQNA6XZZITQ2ZR7E.jpeg?auth=c655fc86054b36e3e8414bee6d8db79bb872612f792ffe034229983a11c79a20&smart=true&width=832&height=555",
+     "published": "2026-09-06T20:26:41+00:00",
+     "ts": 1788726401000,
+     "count": 1
+    },
+    {
+     "title": "Irán declarará zona de prohibición cerca de Ormuz",
+     "link": "https://www.dw.com/es/irán-declarará-zona-de-prohibición-cerca-de-ormuz/a-79100003?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-09-06T20:24:00+00:00",
+     "ts": 1788726240000,
+     "count": 1
+    },
+    {
+     "title": "Dos corredores sufrieron complicaciones de salud durante la Maratón Medellín: reporte del alcalde Federico Gutiérrez",
+     "link": "https://www.eltiempo.com/colombia/medellin/dos-corredores-sufrieron-complicaciones-de-salud-durante-la-maraton-medellin-reporte-del-alcalde-federico-gutierrez-3584010",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9dc7eb765ba.png",
+     "published": "2026-09-06T20:10:34+00:00",
+     "ts": 1788725434000,
+     "count": 1
+    },
+    {
+     "title": "Susan Sarandon encarna el último amor loco de Bertolucci",
+     "link": "https://elpais.com/cultura/cine/2026-09-06/susan-sarandon-encarna-el-ultimo-amor-loco-de-bertolucci.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/IWHCFO74FRGGTFPFLA3ADGS6CY.jpg?auth=931c51b2d230772d1bb8e7e3add117320349af4d95c60f48a663c8588d9efdb9",
+     "published": "2026-09-06T20:07:03+00:00",
+     "ts": 1788725223000,
+     "count": 1
+    },
+    {
+     "title": "Un avión de Amazon se accidenta en el aeropuerto de Miami",
+     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260906-un-avi%C3%B3n-de-amazon-se-accidenta-en-el-aeropuerto-de-miami",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/419b9884-aa2c-11f1-bf66-005056bf30b7/w:1024/p:16x9/2026-09-06T194628Z-1848729900-RC2VDNAWFMR2-RTRMADP-3-USA-CRASH-PLANE-MIAMI.jpg",
+     "published": "2026-09-06T19:55:02+00:00",
+     "ts": 1788724502000,
+     "count": 1
+    },
+    {
+     "title": "Tensión en Riohacha: sepelio de policía asesinado en Putumayo coincidiría con el de escolta del ‘Bendito Menor’",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/tension-en-riohacha-sepelio-de-policia-asesinado-en-putumayo-coincidiria-con-el-de-escolta-del-bendito-menor-3584008",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9dc07109690.png",
+     "published": "2026-09-06T19:41:18+00:00",
+     "ts": 1788723678000,
+     "count": 1
+    },
+    {
+     "title": "Trump deja caer en su red social la posibilidad de cambiar el nombre del Estado de Nuevo México por el de “Nuevo América”",
+     "link": "https://elpais.com/us/2026-09-06/trump-deja-caer-en-su-red-social-la-posibilidad-de-cambiar-el-nombre-del-estado-de-nuevo-mexico-por-el-de-nuevo-america.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/CXQEI6SWEBIW3HGSIYVSI4JKXQ.jpg?auth=6777555c9fcb54e0cf83b15080991c5a69c91171ed711db93d8b500cf92422a7",
+     "published": "2026-09-06T19:38:36+00:00",
+     "ts": 1788723516000,
+     "count": 1
+    },
+    {
+     "title": "Informe desde Berlín: partido AfD estaría cerca de formar su primer gobierno regional",
+     "link": "https://www.france24.com/es/video/20260906-informe-desde-berl%C3%ADn-partido-afd-estar%C3%ADa-cerca-de-formar-su-primer-gobierno-regional",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/e5f9f972-aa25-11f1-8509-005056bf30b7/w:1024/p:16x9/ES-20260906-123136-123522-CS.jpg",
+     "published": "2026-09-06T19:31:45+00:00",
+     "ts": 1788723105000,
+     "count": 1
+    },
+    {
+     "title": "Luto en el periodismo antioqueño: la vida de Juan Guillermo Ríos, la voz que marcó una época en la televisión",
+     "link": "https://www.eltiempo.com/colombia/medellin/luto-en-el-periodismo-antioqueno-el-conmovedor-adios-a-juan-guillermo-rios-la-voz-que-marco-una-epoca-en-la-television-3584005",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9db861d9fd0.r_d.99-259-0.png",
+     "published": "2026-09-06T19:28:10+00:00",
+     "ts": 1788722890000,
+     "count": 1
+    },
+    {
+     "title": "Familiares del ‘Bendito Menor’ y de alias ‘Casi Loco’ organizan una caravana para sus sepelios en Riohacha",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/familiares-del-bendito-menor-y-de-alias-casi-loco-organizan-una-caravana-para-sus-sepelios-en-riohacha-3584007",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9dc55c72bef.png",
+     "published": "2026-09-06T19:26:01+00:00",
+     "ts": 1788722761000,
+     "count": 1
+    },
+    {
+     "title": "Los aciertos y errores de 3 mapas que usamos hoy y por qué el aprobado ahora por la ONU tampoco representa correctamente al mundo",
+     "link": "https://www.prensa.com/bbc/los-aciertos-y-errores-de-3-mapas-que-usamos-hoy-y-por-que-el-aprobado-ahora-por-la-onu-tampoco-representa-correctamente-al-mundo/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/MSZIG4XTJZH7FP3ZM7QS6LED3U.jpg?auth=34f10f2349ac5b15589df34e2823409e64007933946c7d55db464ad4918c4002&smart=true&width=925&height=520",
+     "published": "2026-09-06T19:23:40+00:00",
+     "ts": 1788722620000,
+     "count": 2
+    },
+    {
+     "title": "Refugio entre las cenizas: el rescate de la fauna silvestre que sobrevive a los devastadores incendios que azotan el departamento del Tolima",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/refugio-entre-las-cenizas-el-rescate-de-la-fauna-silvestre-que-sobrevive-a-los-devastadores-incendios-que-azotan-el-departamento-del-tolima-3583996",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9da67e1dd2a.jpeg",
+     "published": "2026-09-06T19:10:12+00:00",
+     "ts": 1788721812000,
+     "count": 1
+    },
     {
      "title": "Descubrimiento: Suiza prueba mantas de lana biodegradables para proteger sus glaciares",
      "link": "https://www.prensa.com/mundo/suiza-prueba-mantas-de-lana-biodegradables-para-proteger-sus-glaciares/",
@@ -1065,228 +1281,12 @@
      "count": 1
     },
     {
-     "title": "Primeros sondeos dan amplia ventaja a AfD en Sajonia-Anhalt",
-     "link": "https://www.dw.com/es/primeros-sondeos-dan-amplia-ventaja-a-afd-en-sajonia-anhalt/live-79053413?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-06T18:42:00+00:00",
-     "ts": 1788720120000,
-     "count": 1
-    },
-    {
      "title": "Infantino desafía la presión y buscará un cuarto mandato al frente de la FIFA",
      "link": "https://www.france24.com/es/deportes/20260906-infantino-desaf%C3%ADa-la-presi%C3%B3n-y-buscar%C3%A1-un-cuarto-mandato-al-frente-de-la-fifa",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
      "image": "https://s.france24.com/media/display/f26105ce-aa21-11f1-9fc4-005056a90284/w:1024/p:16x9/2026-09-05T133614Z-910119427-UP1EM9510SQ8A-RTRMADP-3-SOCCER-WORLDCUPU20-POL-ARG.jpg",
      "published": "2026-09-06T18:38:45+00:00",
      "ts": 1788719925000,
-     "count": 1
-    },
-    {
-     "title": "HAY FESTIVAL 2026 | Alma Guillermoprieto, Óscar Martínez y Gabriela Warkentin en conversación con Beatriz Guillén",
-     "link": "https://elpais.com/mexico/2026-09-06/hay-festival-2026-alma-guillermoprieto-oscar-martinez-y-gabriela-warkentin-en-conversacion-con-beatriz-guillen.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ER7HRLKI4RGRHG2QLOGPXCMQKQ.png?auth=5671ad5859c1fce048748e551a63d6f26f5965cd003e01fef0c2e4c87b91621c",
-     "published": "2026-09-06T18:33:53+00:00",
-     "ts": 1788719633000,
-     "count": 1
-    },
-    {
-     "title": "Susan Sarandon encarna el último amor loco de Bertolucci",
-     "link": "https://elpais.com/cultura/cine/2026-09-06/susan-sarandon-encarna-el-ultimo-amor-loco-de-bertolucci.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/IWHCFO74FRGGTFPFLA3ADGS6CY.jpg?auth=931c51b2d230772d1bb8e7e3add117320349af4d95c60f48a663c8588d9efdb9",
-     "published": "2026-09-06T18:21:23+00:00",
-     "ts": 1788718883000,
-     "count": 1
-    },
-    {
-     "title": "Proyectan la  primera victoria estatal para el AfD, el partido de ultraderecha en Alemania",
-     "link": "https://www.bbc.com/mundo/articles/c62e92x7yn4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-     "published": "2026-09-06T18:16:16+00:00",
-     "ts": 1788718576000,
-     "count": 1
-    },
-    {
-     "title": "Cali confirma que sus vías y puentes son seguros tras el terremoto y acelera su recuperación",
-     "link": "https://www.eltiempo.com/colombia/cali/cali-confirma-que-sus-vias-y-puentes-son-seguros-tras-el-terremoto-y-acelera-su-recuperacion-3583998",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/27/6a9083a557815.r_d.730-548-0.jpeg",
-     "published": "2026-09-06T18:12:06+00:00",
-     "ts": 1788718326000,
-     "count": 1
-    },
-    {
-     "title": "Barcelona supera al Valencia y se ubica como líder solitario",
-     "link": "https://www.prensa.com/deportes/barcelona-supera-al-valencia-y-se-ubica-como-lider-solitario/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/NLEUI27OF5EEJNAD6ZZGVH7DHA.jpg?auth=aa392378f39a7d77995c5e863838be2c3a3bbde6e1594507d3daaa4819e0e7ae&smart=true&width=900&height=598",
-     "published": "2026-09-06T18:08:54+00:00",
-     "ts": 1788718134000,
-     "count": 1
-    },
-    {
-     "title": "Así va reconstrucción en Cali tras terremoto con 864 casas y 24 bienes de narcos para los damnificados: 'El Presidente escuchó las preocupaciones'",
-     "link": "https://www.eltiempo.com/colombia/cali/asi-va-la-reconstruccion-en-cali-tras-el-terremoto-de-7-4-864-casas-y-24-bienes-de-narcos-se-destinaran-a-los-damnificados-3583993",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9da3165d1c9.jpeg",
-     "published": "2026-09-06T18:06:16+00:00",
-     "ts": 1788717976000,
-     "count": 1
-    },
-    {
-     "title": "Refugio entre las cenizas: el rescate de la fauna silvestre que sobrevive a los devastadores incendios que azotan el departamento del Tolima",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/refugio-entre-las-cenizas-el-rescate-de-la-fauna-silvestre-que-sobrevive-a-los-devastadores-incendios-que-azotan-el-departamento-del-tolima-3583996",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9da67e1dd2a.jpeg",
-     "published": "2026-09-06T18:02:40+00:00",
-     "ts": 1788717760000,
-     "count": 1
-    },
-    {
-     "title": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
-     "link": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a6b/live/902a3480-aa1b-11f1-8046-e7e0d3946c1a.jpg",
-     "published": "2026-09-06T17:59:07+00:00",
-     "ts": 1788717547000,
-     "count": 1
-    },
-    {
-     "title": "Netanyahu ordena evacuación de algunos puestos colonos en Cisjordania",
-     "link": "https://www.dw.com/es/netanyahu-ordena-evacuación-de-algunos-puestos-colonos-en-cisjordania/a-79083077?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-06T17:59:00+00:00",
-     "ts": 1788717540000,
-     "count": 1
-    },
-    {
-     "title": "Tres personas murieron tras un aparatoso choque de motocicletas en la vía Medellín-Costa Atlántica: estas son las identidades de las víctimas",
-     "link": "https://www.eltiempo.com/colombia/medellin/tres-personas-murieron-tras-un-aparatoso-choque-de-motocicletas-en-la-via-medellin-costa-atlantica-estas-son-las-identidades-de-las-victimas-3583997",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9da82ede38e.jpeg",
-     "published": "2026-09-06T17:58:46+00:00",
-     "ts": 1788717526000,
-     "count": 1
-    },
-    {
-     "title": "El partido ultraderechista AfD ocupa primer lugar de unas elecciones clave en Alemania, según primeros resultados",
-     "link": "https://www.france24.com/es/europa/20260906-el-partido-ultraderechistas-afd-se-encamina-a-la-victoria-de-unas-elecciones-clave-en-alemania",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/727d2c16-aa12-11f1-ac8b-005056bf30b7/w:1024/p:16x9/AP26249584038776-1.jpg",
-     "published": "2026-09-06T17:56:06+00:00",
-     "ts": 1788717366000,
-     "count": 1
-    },
-    {
-     "title": "Hansi Flick: “Estos jugadores tienen hambre de conseguir más”",
-     "link": "https://elpais.com/deportes/futbol/2026-09-06/hansi-flick-estos-jugadores-tienen-hambre-de-conseguir-mas.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/S5RAS73QVRNURCJ4XRUWJIFBYQ.jpg?auth=de8cbe12534214a6a835a8a4fe74d8dbfd438173718c25e9622c0aa9797cb9c9",
-     "published": "2026-09-06T17:33:32+00:00",
-     "ts": 1788716012000,
-     "count": 1
-    },
-    {
-     "title": "Una jueza dicta prisión preventiva para los dos presuntos asesinos del músico de Camilo Séptimo y su familia",
-     "link": "https://elpais.com/mexico/2026-09-06/una-jueza-dicta-prision-preventiva-para-los-dos-presuntos-asesinos-del-musico-de-camilo-septimo-y-su-familia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JXL3NIZITJEVBFTXRTZJFZVR3E.jpg?auth=04198bde2aa3e393fddb5f2fce9d2662a50023d43597767705078ae9e9844928",
-     "published": "2026-09-06T17:31:00+00:00",
-     "ts": 1788715860000,
-     "count": 1
-    },
-    {
-     "title": "¿Quién es Luis Alfonso Escobar?: el gobernador de una tierra ancestral afro de Nariño protagoniza rifirrafe con el presidente De La Espriella",
-     "link": "https://www.eltiempo.com/colombia/cali/quien-es-luis-alfonso-escobar-el-gobernador-de-una-tierra-ancestral-afro-de-narino-que-protagoniza-rifirrafe-con-el-presidente-de-la-espriella-3583983",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d99fd5d3a8.r_d.792-207-0.jpeg",
-     "published": "2026-09-06T17:16:22+00:00",
-     "ts": 1788714982000,
-     "count": 1
-    },
-    {
-     "title": "Conversaciones con Zelenski fueron \"significativas\", dice Witkoff",
-     "link": "https://www.dw.com/es/conversaciones-con-zelenski-fueron-significativas-dice-witkoff/a-79078674?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-06T17:16:00+00:00",
-     "ts": 1788714960000,
-     "count": 1
-    },
-    {
-     "title": "De la Espriella, un mes de poder en Colombia: terremoto, mano dura y una Presidencia que busca controlar el mensaje",
-     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260906-de-la-espriella-un-mes-de-poder-en-colombia-terremoto-mano-dura-y-una-presidencia-que-busca-controlar-el-mensaje",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/fb33d7b6-aa13-11f1-b507-005056bf30b7/w:1024/p:16x9/2026-08-26T003510Z-54332484-RC2Z5NAQBVR4-RTRMADP-3-COLOMBIA-POLITICS.jpg",
-     "published": "2026-09-06T17:12:22+00:00",
-     "ts": 1788714742000,
-     "count": 1
-    },
-    {
-     "title": "Al menos diez muertos y decenas de heridos por una explosión de pirotecnia en una comunidad del Estado de México",
-     "link": "https://elpais.com/mexico/2026-09-06/muertos-y-heridos-por-una-explosion-de-pirotecnia-temascalcingo-estado-de-mexico.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JTWHU3SPKRCIPBPLQCBTSYPWWY.jpg?auth=e53659f60c2b164b72b0863d56d99d0bf36df9a7020c37cfb504500ce42a9019",
-     "published": "2026-09-06T17:05:54+00:00",
-     "ts": 1788714354000,
-     "count": 1
-    },
-    {
-     "title": "APEDE pide transparencia y controles rigurosos en el uso de recursos públicos durante la emergencia por El Niño",
-     "link": "https://www.prensa.com/economia/apede-pide-transparencia-y-controles-rigurosos-en-el-uso-de-recursos-publicos-durante-la-emergencia-por-el-nino/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/QIFEWFGGZZAMRCARE2O6KVJJDI.jpeg?auth=605482269133e3224ec9ae82fa4f74cd6fc57cb12086916730c12ca869ff8281&smart=true&width=1600&height=1200",
-     "published": "2026-09-06T17:04:06+00:00",
-     "ts": 1788714246000,
-     "count": 1
-    },
-    {
-     "title": "Alcaldía de Barranquilla cambia neveras viejas por nuevas en hogares de estratos 1 y 2 para evitar que terminen en esquinas o arroyos",
-     "link": "https://www.eltiempo.com/colombia/barranquilla/alcaldia-de-barranquilla-cambia-neveras-viejas-por-nuevas-en-hogares-de-estratos-1-y-2-para-evitar-que-terminen-en-esquinas-o-arroyos-3583982",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9d99a433f73.jpeg",
-     "published": "2026-09-06T16:59:05+00:00",
-     "ts": 1788713945000,
-     "count": 1
-    },
-    {
-     "title": "Mulino sale en defensa de sus viajes al exterior: ‘No vengo de shopping’",
-     "link": "https://www.prensa.com/politica/mulino-sale-en-defensa-de-sus-viajas-al-exterior-no-vengo-de-shopping/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GXZSJEIAG5CZNELI5ZN3QVTEI4.jpeg?auth=60e465ceef0249ca419fb5ce588fda27a46c37e91e949f8728d3c90e16948358&smart=true&width=1280&height=854",
-     "published": "2026-09-06T16:57:45+00:00",
-     "ts": 1788713865000,
-     "count": 1
-    },
-    {
-     "title": "María Elena Ríos: 'No solo somos víctimas del ácido, también del linchamiento mediático'",
-     "link": "https://www.france24.com/es/video/20260906-mar%C3%ADa-elena-r%C3%ADos-no-solo-somos-v%C3%ADctimas-del-%C3%A1cido-tambi%C3%A9n-del-linchamiento-medi%C3%A1tico",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5ffc2398-aa13-11f1-88cb-005056a97e36/w:1024/p:16x9/ES-20260906-100749-101455-CS.jpg",
-     "published": "2026-09-06T16:56:45+00:00",
-     "ts": 1788713805000,
-     "count": 1
-    },
-    {
-     "title": "La extrema derecha roza la mayoría absoluta en Sajonia-Anhalt, según los sondeos",
-     "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/X6MMF255EJDTTDCUYZ2THXBESQ.jpg?auth=089b4d97646ab272e9b3bee1a5e7cdbf58141131c65660fce3a88af18dcd08e3",
-     "published": "2026-09-06T16:56:09+00:00",
-     "ts": 1788713769000,
-     "count": 1
-    },
-    {
-     "title": "Quién es Ulrich Siegmund, cara del partido de ultraderecha que lidera los sondeos en Sajonia-Anhalt",
-     "link": "https://www.france24.com/es/video/20260906-qui%C3%A9n-es-ulrich-siegmund-cara-del-partido-de-ultraderecha-que-lidera-los-sondeos-en-sajonia-anhalt",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/374c1b32-aa0f-11f1-9f2c-005056a90284/w:1024/p:16x9/ES-20260906-100458-100707-CS.jpg",
-     "published": "2026-09-06T16:53:52+00:00",
-     "ts": 1788713632000,
      "count": 1
     }
    ]
@@ -1296,39 +1296,84 @@
    "name": "Desastres Naturales",
    "items": [
     {
+     "title": "M 4.9 - 243 km E of Levuka, Fiji",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tert",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-06T21:22:13.040000+00:00",
+     "ts": 1788729733040,
+     "count": 1
+    },
+    {
+     "title": "M 4.8 - 39 km SW of Copala, Mexico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-06T21:00:36.075000+00:00",
+     "ts": 1788728436075,
+     "count": 1
+    },
+    {
      "title": "M 3.2 - 4 km SSE of Compton, CA",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542024",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-09-06T19:13:09.218000+00:00",
-     "ts": 1788721989218,
+     "published": "2026-09-06T20:48:30.492000+00:00",
+     "ts": 1788727710492,
      "count": 1
     },
     {
-     "title": "Green forest fire notification in Tanzania",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031738",
+     "title": "Green forest fire notification in Angola",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031659",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-09-06T19:04:55+00:00",
-     "ts": 1788721495000,
-     "count": 337
+     "published": "2026-09-06T20:16:54+00:00",
+     "ts": 1788725814000,
+     "count": 360
     },
     {
      "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031734",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031592",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-09-06T19:03:25+00:00",
-     "ts": 1788721405000,
-     "count": 53
+     "published": "2026-09-06T20:14:20+00:00",
+     "ts": 1788725660000,
+     "count": 55
     },
     {
-     "title": "M 3.1 - 109 km SSW of Nikolski, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ter5",
+     "title": "M 4.5 - 98 km ENE of Donggang, Taiwan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teqz",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-09-06T18:58:05.040000+00:00",
-     "ts": 1788721085040,
+     "published": "2026-09-06T20:05:32.040000+00:00",
+     "ts": 1788725132040,
+     "count": 1
+    },
+    {
+     "title": "M 3.3 - 23 km NW of Stanley, Idaho",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teqw",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-06T19:49:02.040000+00:00",
+     "ts": 1788724142040,
+     "count": 1
+    },
+    {
+     "title": "M 3.1 - 10 km ENE of Coso Junction, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542152",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-06T19:39:18.040000+00:00",
+     "ts": 1788723558040,
+     "count": 1
+    },
+    {
+     "title": "M 3.6 - 95 km SSW of Nikolski, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ter6",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-06T19:24:34.109000+00:00",
+     "ts": 1788722674109,
      "count": 3
     },
     {
@@ -1336,8 +1381,8 @@
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqamip",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-09-06T18:15:33.698000+00:00",
-     "ts": 1788718533698,
+     "published": "2026-09-06T19:18:23.604000+00:00",
+     "ts": 1788722303604,
      "count": 1
     },
     {
@@ -1356,15 +1401,6 @@
      "image": "",
      "published": "2026-09-06T17:17:33.070000+00:00",
      "ts": 1788715053070,
-     "count": 1
-    },
-    {
-     "title": "M 3.1 - 10 km ENE of Coso Junction, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542152",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-06T16:09:37.098000+00:00",
-     "ts": 1788710977098,
      "count": 1
     },
     {
@@ -1510,42 +1546,6 @@
      "published": "2026-09-06T06:12:30.767000+00:00",
      "ts": 1788675150767,
      "count": 1
-    },
-    {
-     "title": "M 4.9 - 118 km ENE of Kuji, Japan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-06T05:34:11.040000+00:00",
-     "ts": 1788672851040,
-     "count": 1
-    },
-    {
-     "title": "M 4.6 - Kermadec Islands region",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-06T05:29:02.040000+00:00",
-     "ts": 1788672542040,
-     "count": 1
-    },
-    {
-     "title": "Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1563876",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1731527_1.png",
-     "published": "2026-09-06T04:25:39+00:00",
-     "ts": 1788668739000,
-     "count": 1
-    },
-    {
-     "title": "M 4.3 - 155 km SSW of Acajutla, El Salvador",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teme",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-06T04:12:02.040000+00:00",
-     "ts": 1788667922040,
-     "count": 1
     }
    ]
   },
@@ -1553,6 +1553,15 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
+     "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
+     "published": "2026-09-06T20:00:14+00:00",
+     "ts": 1788724814000,
+     "count": 1
+    },
     {
      "title": "Energy secretary says US might not reach nuclear agreement with Iran",
      "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
@@ -1795,15 +1804,6 @@
      "published": "2026-09-03T19:34:58+00:00",
      "ts": 1788464098000,
      "count": 1
-    },
-    {
-     "title": "No, UN chief Guterres did not call Francesca Albanese 'out of control'",
-     "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260903-no-un-chief-guterres-did-not-call-francesca-albanese-out-of-control",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/faa1685e-a7ca-11f1-a357-005056a97e36/w:1024/p:16x9/capture-447843536a99c5e4f335f7-83392847.jpg",
-     "published": "2026-09-03T19:34:29+00:00",
-     "ts": 1788464069000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,42 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "10 dead, 64 injured in Mexico fireworks explosion at church festival",
+     "link": "https://www.scmp.com/news/world/americas/article/3366568/10-dead-64-injured-mexico-fireworks-explosion-church-festival?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/fac256ac-39e8-4517-95b1-e55c11597003_a4a036e5.jpg?itok=z3RMld56&v=1788727695",
+     "published": "2026-09-06T20:50:06+00:00",
+     "ts": 1788727806000,
+     "count": 1
+    },
+    {
+     "title": "Amazon cargo plane crashes, bursts into flames at Miami airport after overshooting runway",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3366567/amazon-cargo-plane-crashes-bursts-flames-miami-airport-after-overshooting-runway?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/01fe4e1b-123f-42cc-8013-986502f9aef6_fc84287c.jpg?itok=1TLS4X30&v=1788726425",
+     "published": "2026-09-06T20:28:02+00:00",
+     "ts": 1788726482000,
+     "count": 1
+    },
+    {
+     "title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
+     "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
+     "published": "2026-09-06T20:00:14+00:00",
+     "ts": 1788724814000,
+     "count": 1
+    },
+    {
+     "title": "Iran will declare a ‘prohibited zone’ near Hormuz in coming days: security chief",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3366566/iran-will-declare-prohibited-zone-near-hormuz-coming-days-security-chief?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/c39f91b7-bd05-4412-b6eb-26db60745e2a_12f745be.jpg?itok=mdTOsljO&v=1788724218",
+     "published": "2026-09-06T19:53:02+00:00",
+     "ts": 1788724382000,
+     "count": 1
+    },
     {
      "title": "EU Commission chief Von der Leyen visits Greenland to sign new partnership deal",
      "link": "https://www.scmp.com/news/world/europe/article/3366565/eu-commission-chief-von-der-leyen-visits-greenland-sign-new-partnership-deal?utm_source=rss_feed",
@@ -1983,10 +2019,10 @@
      "count": 1
     },
     {
-     "title": "US envoys Witkoff, Kushner arrive in Kyiv after talks to Putin in Moscow",
+     "title": "Zelensky warns Ukraine war is likely to continue into winter after US talks",
      "link": "https://www.scmp.com/news/world/europe/article/3366544/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-putin-moscow?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/18ddf1a5-bf02-421b-a83b-35526e66d6fe_3ebfbf25.jpg?itok=fso8lBsu&v=1788692517",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/11462885-f9ac-4368-b685-7318222718f4_831184cf.jpg?itok=W4Y9cHa7&v=1788722816",
      "published": "2026-09-06T11:02:00+00:00",
      "ts": 1788692520000,
      "count": 1
@@ -2025,42 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/486b93d3-3ea0-4faa-8b19-f2d877478eaf_a8317374.jpg?itok=lKOJFW7H&v=1788664881",
      "published": "2026-09-06T10:00:16+00:00",
      "ts": 1788688816000,
-     "count": 1
-    },
-    {
-     "title": "Study that argued China’s solar policy hurt birds may have miscounted 2 billion egrets",
-     "link": "https://www.scmp.com/news/china/science/article/3366286/study-argued-chinas-solar-policy-hurt-birds-may-have-miscounted-2-billion-egrets?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/effc2bfc-c714-45e4-ac8b-fa20441fae45_cf5cd537.jpg?itok=7Ik9ig53&v=1788478016",
-     "published": "2026-09-06T09:00:06+00:00",
-     "ts": 1788685206000,
-     "count": 1
-    },
-    {
-     "title": "World’s most powerful lightning-chasing satellite joins China-Nepal flood relief efforts",
-     "link": "https://www.scmp.com/news/china/science/article/3366535/worlds-most-powerful-lightning-chasing-satellite-joins-china-nepal-flood-relief-efforts?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/dc5150ed-ea62-488a-ac88-4f5be4643d3d_f8a10a31.jpg?itok=r5vUzdNy&v=1788684371",
-     "published": "2026-09-06T08:47:12+00:00",
-     "ts": 1788684432000,
-     "count": 1
-    },
-    {
-     "title": "Why China’s shrinking population may be a blessing, not a curse",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3366015/why-chinas-shrinking-population-may-be-blessing-not-curse?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/01/3506fe22-1ffb-4544-aa8d-9595c2c1e02c_5f64ef35.jpg?itok=WaMJYILz&v=1788266383",
-     "published": "2026-09-06T08:30:07+00:00",
-     "ts": 1788683407000,
-     "count": 1
-    },
-    {
-     "title": "Which overseas property markets will be the winners and losers if Fed raises US rates?",
-     "link": "https://www.scmp.com/business/article/3366386/which-overseas-property-markets-will-be-winners-and-losers-if-fed-raises-us-rates?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/3182c6c0-ec18-423e-8033-142cb2113e5a_976675c5.jpg?itok=E1dVgcaK&v=1788514339",
-     "published": "2026-09-06T08:00:08+00:00",
-     "ts": 1788681608000,
      "count": 1
     }
    ]
