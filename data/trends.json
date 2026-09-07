@@ -1,84 +1,36 @@
 {
- "updated": "2026-09-06T23:59:32.262042+00:00",
+ "updated": "2026-09-07T04:50:40.162036+00:00",
  "terms": [
   {
    "term": "china",
-   "count": 10
-  },
-  {
-   "term": "miami",
-   "count": 10
-  },
-  {
-   "term": "amazon",
-   "count": 9
+   "count": 12
   },
   {
    "term": "iran",
+   "count": 10
+  },
+  {
+   "term": "alaska",
+   "count": 10
+  },
+  {
+   "term": "trump",
    "count": 9
   },
   {
-   "term": "anhalt",
-   "count": 8
-  },
-  {
-   "term": "killed",
-   "count": 7
-  },
-  {
-   "term": "dead",
-   "count": 6
-  },
-  {
-   "term": "country",
-   "count": 6
+   "term": "israel",
+   "count": 9
   },
   {
    "term": "show",
    "count": 6
   },
   {
-   "term": "world",
-   "count": 6
-  },
-  {
-   "term": "plane",
-   "count": 6
-  },
-  {
-   "term": "airport",
-   "count": 6
-  },
-  {
-   "term": "least",
-   "count": 6
-  },
-  {
-   "term": "israel",
-   "count": 6
-  },
-  {
-   "term": "alaska",
-   "count": 6
-  },
-  {
-   "term": "trump",
-   "count": 5
-  },
-  {
    "term": "west",
    "count": 5
   },
   {
-   "term": "talks",
-   "count": 5
-  },
-  {
    "term": "death",
-   "count": 5
-  },
-  {
-   "term": "cargo",
    "count": 5
   },
   {
@@ -90,11 +42,15 @@
    "count": 5
   },
   {
-   "term": "saxony",
+   "term": "warns",
    "count": 5
   },
   {
-   "term": "military",
+   "term": "israeli",
+   "count": 5
+  },
+  {
+   "term": "strikes",
    "count": 5
   },
   {
@@ -102,15 +58,19 @@
    "count": 5
   },
   {
-   "term": "american",
+   "term": "dead",
    "count": 4
   },
   {
-   "term": "australia",
+   "term": "wins",
    "count": 4
   },
   {
-   "term": "indonesia",
+   "term": "miami",
+   "count": 4
+  },
+  {
+   "term": "world",
    "count": 4
   },
   {
@@ -118,41 +78,73 @@
    "count": 4
   },
   {
-   "term": "ukraine",
+   "term": "australia",
    "count": 4
+  },
+  {
+   "term": "south",
+   "count": 4
+  },
+  {
+   "term": "korea",
+   "count": 4
+  },
+  {
+   "term": "gaza",
+   "count": 4
+  },
+  {
+   "term": "killed",
+   "count": 4
+  },
+  {
+   "term": "military",
+   "count": 4
+  },
+  {
+   "term": "hong",
+   "count": 4
+  },
+  {
+   "term": "kong",
+   "count": 4
+  },
+  {
+   "term": "beyoncé",
+   "count": 3
+  },
+  {
+   "term": "people",
+   "count": 3
+  },
+  {
+   "term": "country",
+   "count": 3
   }
  ],
  "entities": [
   {
-   "name": "Iran",
-   "count": 9
-  },
-  {
-   "name": "Miami",
-   "count": 8
-  },
-  {
-   "name": "Anhalt",
-   "count": 8
-  },
-  {
-   "name": "Amazon",
-   "count": 7
-  },
-  {
    "name": "China",
-   "count": 7
+   "count": 10
   },
   {
-   "name": "Israel",
-   "count": 6
+   "name": "Iran",
+   "count": 10
   },
   {
    "name": "Alaska",
+   "count": 10
+  },
+  {
+   "name": "Israel",
+   "count": 9
+  },
+  {
+   "name": "Trump",
    "count": 6
   },
   {
-   "name": "Saxony",
+   "name": "Israeli",
    "count": 5
   },
   {
@@ -160,27 +152,23 @@
    "count": 5
   },
   {
-   "name": "Australia",
-   "count": 4
-  },
-  {
-   "name": "Indonesia",
-   "count": 4
-  },
-  {
    "name": "Germany",
    "count": 4
   },
   {
-   "name": "Ukraine",
+   "name": "Australia",
    "count": 4
   },
   {
-   "name": "Israeli",
+   "name": "Gaza",
    "count": 4
   },
   {
-   "name": "Trump",
+   "name": "Hong Kong",
+   "count": 4
+  },
+  {
+   "name": "Miami",
    "count": 3
   },
   {
@@ -188,19 +176,7 @@
    "count": 3
   },
   {
-   "name": "Mexico",
-   "count": 3
-  },
-  {
-   "name": "The US",
-   "count": 3
-  },
-  {
-   "name": "Hawaii",
-   "count": 3
-  },
-  {
-   "name": "Sajonia",
+   "name": "Hormuz",
    "count": 3
   },
   {
@@ -212,11 +188,35 @@
    "count": 3
   },
   {
-   "name": "Gaza",
-   "count": 3
+   "name": "Asia",
+   "count": 2
   },
   {
    "name": "Death",
+   "count": 2
+  },
+  {
+   "name": "Show HN",
+   "count": 2
+  },
+  {
+   "name": "OpenAI",
+   "count": 2
+  },
+  {
+   "name": "Europe",
+   "count": 2
+  },
+  {
+   "name": "Research",
+   "count": 2
+  },
+  {
+   "name": "Francesca Albanese",
+   "count": 2
+  },
+  {
+   "name": "Miliband",
    "count": 2
   }
  ]
