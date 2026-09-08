@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T23:33:24.841216+00:00",
+ "updated": "2026-09-08T04:46:26.132597+00:00",
  "beats": [
   {
    "id": "musica",
@@ -264,6 +264,15 @@
    "name": "Arte · Cultura · Educación",
    "items": [
     {
+     "title": "Activist Group Labels Video Documenting Falling Ceiling Debris at the Kennedy Center ‘Propaganda’",
+     "link": "https://www.artnews.com/art-news/news/activist-group-falling-ceiling-kennedy-center-propaganda-1234797370/",
+     "source": "ARTnews.com",
+     "image": "",
+     "published": "2026-09-08T01:23:16+00:00",
+     "ts": 1788830596000,
+     "count": 1
+    },
+    {
      "title": "Geles Cabrera, Trailblazing Mexican Sculptor, Dies at 100",
      "link": "https://www.artnews.com/art-news/news/geles-cabrera-dead-mexican-sculptor-1234797352/",
      "source": "ARTnews.com",
@@ -471,15 +480,6 @@
      "count": 1
     },
     {
-     "title": "An Incisive Exhibition in Buffalo Defies Expectations of What Latinx Painting Should Look Like",
-     "link": "https://www.artnews.com/art-news/artists/let-us-gather-in-a-flourishing-way-latinx-painting-buffalo-akg-1234797184/",
-     "source": "ARTnews.com",
-     "image": "https://www.artnews.com/wp-content/uploads/2026/09/EXH4848-KarlaDiaz-version1.jpg?w=400",
-     "published": "2026-09-04T20:21:13+00:00",
-     "ts": 1788553273000,
-     "count": 1
-    },
-    {
      "title": "Did Renoir Actually Suck at Painting?",
      "link": "https://news.artnet.com/art-world/renoir-sucks-expert-debat-2791737",
      "source": "Artnet News",
@@ -522,30 +522,84 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+     "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-08T04:06:20+00:00",
+     "ts": 1788840380000,
+     "count": 1
+    },
+    {
+     "title": "How well do agents use test/verification techniques?",
+     "link": "https://danluu.com/agentic-testing/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-08T02:58:16+00:00",
+     "ts": 1788836296000,
+     "count": 1
+    },
+    {
+     "title": "Show HN: NYC MapTap – Learn NYC neighborhoods",
+     "link": "https://albertjoseph0.github.io/nyc-maptap/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-08T02:36:47+00:00",
+     "ts": 1788835007000,
+     "count": 1
+    },
+    {
+     "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+     "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-09-08T02:16:39+00:00",
+     "ts": 1788833799000,
+     "count": 1
+    },
+    {
+     "title": "Jellyfin 12.0",
+     "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-08T01:56:35+00:00",
+     "ts": 1788832595000,
+     "count": 1
+    },
+    {
+     "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+     "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-08T01:16:59+00:00",
+     "ts": 1788830219000,
+     "count": 1
+    },
+    {
+     "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+     "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&#038;strip=all&#038;crop=0,15.600243753809,62.2,75.399615618994",
+     "published": "2026-09-07T23:51:11+00:00",
+     "ts": 1788825071000,
+     "count": 1
+    },
+    {
+     "title": "TALA Is Open-Source",
+     "link": "https://d2lang.com/blog/tala-is-open-source/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-07T23:37:42+00:00",
+     "ts": 1788824262000,
+     "count": 1
+    },
+    {
      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
      "link": "https://github.com/Sadpainy/Stuxnet",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-09-07T22:12:38+00:00",
      "ts": 1788819158000,
-     "count": 1
-    },
-    {
-     "title": "The Education of a Doomer",
-     "link": "https://borretti.me/article/the-education-of-a-doomer",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-07T21:19:12+00:00",
-     "ts": 1788815952000,
-     "count": 1
-    },
-    {
-     "title": "Working on Economics with Fable 5",
-     "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-07T21:18:15+00:00",
-     "ts": 1788815895000,
      "count": 1
     },
     {
@@ -567,12 +621,12 @@
      "count": 1
     },
     {
-     "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
-     "link": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+     "title": "Emacs Bedrock 2.0",
+     "link": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-09-07T20:21:12+00:00",
-     "ts": 1788812472000,
+     "published": "2026-09-07T20:12:12+00:00",
+     "ts": 1788811932000,
      "count": 1
     },
     {
@@ -591,15 +645,6 @@
      "image": "",
      "published": "2026-09-07T19:24:00+00:00",
      "ts": 1788809040000,
-     "count": 1
-    },
-    {
-     "title": "Replaceable but Employed: Automation and the Meaning of Work",
-     "link": "https://www.nber.org/papers/w35559",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-07T19:06:01+00:00",
-     "ts": 1788807961000,
      "count": 1
     },
     {
@@ -648,15 +693,6 @@
      "count": 1
     },
     {
-     "title": "bzip3",
-     "link": "https://github.com/iczelia/bzip3",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-07T13:35:13+00:00",
-     "ts": 1788788113000,
-     "count": 1
-    },
-    {
      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
      "source": "MIT Technology Review",
@@ -690,15 +726,6 @@
      "image": "",
      "published": "2026-09-07T09:26:53+00:00",
      "ts": 1788773213000,
-     "count": 1
-    },
-    {
-     "title": "Live map of public transport in Belgium",
-     "link": "https://openbaarvervoerbelgie.be/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-07T09:02:47+00:00",
-     "ts": 1788771767000,
      "count": 1
     },
     {
@@ -745,33 +772,6 @@
      "published": "2026-09-06T20:59:21+00:00",
      "ts": 1788728361000,
      "count": 1
-    },
-    {
-     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-09-06T20:47:37+00:00",
-     "ts": 1788727657000,
-     "count": 1
-    },
-    {
-     "title": "Europe has its first commercial orbital rocket",
-     "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-09-06T19:04:22+00:00",
-     "ts": 1788721462000,
-     "count": 1
-    },
-    {
-     "title": "The Dataflow Model Revisited",
-     "link": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-06T18:10:53+00:00",
-     "ts": 1788718253000,
-     "count": 1
     }
    ]
   },
@@ -780,57 +780,156 @@
    "name": "Actualidad Global",
    "items": [
     {
-     "title": "Australia politics live: Joyce says One Nation ‘shouldn’t have to model’ super plan; Chaney condemns Labor ‘park barrelling’ allegations",
+     "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
      "link": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b878db6de8a76caf3f0595fbdca3f94efe3b1e96/609_0_6088_4870/master/6088.jpg?width=140&quality=85&auto=format&fit=max&s=d0b7aa2246a026c4c9ce9ecdfcf49a0b",
-     "published": "2026-09-07T23:19:55+00:00",
-     "ts": 1788823195000,
+     "image": "https://i.guim.co.uk/img/media/957f1d42cc6c7f84ad36fb570ad5bac06370a757/207_194_2698_2159/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=fa8681f12ebc65404b01228df5fb29c2",
+     "published": "2026-09-08T04:28:01+00:00",
+     "ts": 1788841681000,
      "count": 1
     },
     {
-     "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
-     "link": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
+     "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
+     "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T04:26:16+00:00",
+     "ts": 1788841576000,
+     "count": 1
+    },
+    {
+     "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T04:24:37+00:00",
+     "ts": 1788841477000,
+     "count": 1
+    },
+    {
+     "title": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
+     "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T04:16:55+00:00",
+     "ts": 1788841015000,
+     "count": 1
+    },
+    {
+     "title": "Flash floods fill the streets of a neighbourhood in central Morocco",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T04:01:18+00:00",
+     "ts": 1788840078000,
+     "count": 1
+    },
+    {
+     "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+     "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T04:01:12+00:00",
+     "ts": 1788840072000,
+     "count": 1
+    },
+    {
+     "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+     "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/49d7b3f457e0616c21017ac579210da91b6c4fa1/197_0_4948_3958/master/4948.jpg?width=140&quality=85&auto=format&fit=max&s=028bee693e271b0d9c60d2dc4ad7d677",
-     "published": "2026-09-07T23:01:20+00:00",
-     "ts": 1788822080000,
+     "image": "https://i.guim.co.uk/img/media/3666a1ce74d1e19c28b75db6e1c1573cb4409fb5/213_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ede34a542994aa71ffdff514d66fa400",
+     "published": "2026-09-08T04:00:59+00:00",
+     "ts": 1788840059000,
      "count": 1
     },
     {
-     "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
-     "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T22:41:27+00:00",
-     "ts": 1788820887000,
+     "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+     "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8fe8026e236cc5ba1a9f19e4b6faddfdba2da4bb/0_0_1238_990/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7844319cdceeff428658a549b50f724b",
+     "published": "2026-09-08T04:00:27+00:00",
+     "ts": 1788840027000,
      "count": 1
     },
     {
-     "title": "Hawaii braces for Hurricane Lowell",
-     "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T22:37:25+00:00",
-     "ts": 1788820645000,
+     "title": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
+     "link": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2a5028d419651d2f1d4a4dd9d99f0cd1cdcdd343/905_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=8d16c6c659071e49cf59960dbea9e77d",
+     "published": "2026-09-08T04:00:26+00:00",
+     "ts": 1788840026000,
      "count": 1
     },
     {
-     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+     "title": "North Korea and Russia open first road bridge linking both countries",
+     "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
-     "published": "2026-09-07T22:23:03+00:00",
-     "ts": 1788819783000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg",
+     "published": "2026-09-08T03:53:27+00:00",
+     "ts": 1788839607000,
      "count": 1
     },
     {
-     "title": "Eiffel Tower employees strike after female staff removed",
-     "link": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine updates: Explosions rock Kyiv as 3-day truce ends",
+     "link": "https://www.dw.com/en/ukraine-updates-explosions-rock-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "published": "2026-09-07T22:23:00+00:00",
-     "ts": 1788819780000,
+     "published": "2026-09-08T03:33:00+00:00",
+     "ts": 1788838380000,
+     "count": 1
+    },
+    {
+     "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/80d336defb3c38629c645f5cdc112aa75a36d583/314_0_4461_3570/master/4461.jpg?width=140&quality=85&auto=format&fit=max&s=864a48f1a5d8f8af89b4382fe80c2252",
+     "published": "2026-09-08T03:25:18+00:00",
+     "ts": 1788837918000,
+     "count": 1
+    },
+    {
+     "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+     "link": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T03:08:28+00:00",
+     "ts": 1788836908000,
+     "count": 1
+    },
+    {
+     "title": "Yemeni forces launch counter-offensive against Houthis, vow to retake Sanaa",
+     "link": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T03:01:38+00:00",
+     "ts": 1788836498000,
+     "count": 1
+    },
+    {
+     "title": "Barnaby Joyce says he’s not ‘Jesus Christ’ and admits One Nation has not modelled super policy in fiery interviews",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/08/barnaby-joyce-not-jesus-christ-one-nation-early-access-super-policy",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2ba3b41e1014e2a245750f6928c4e4d9c8e87354/675_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=e0dcfead2b15aae17f2d3575caa42ee8",
+     "published": "2026-09-08T02:18:21+00:00",
+     "ts": 1788833901000,
+     "count": 1
+    },
+    {
+     "title": "Eiffel Tower closed in row over women removed for Hindu group",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T02:17:10+00:00",
+     "ts": 1788833830000,
+     "count": 1
+    },
+    {
+     "title": "What does Mondlane’s trial mean for Mozambique?",
+     "link": "https://www.aljazeera.com/news/2026/9/8/what-does-mondlanes-trial-mean-for-mozambique?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-08T02:11:40+00:00",
+     "ts": 1788833500000,
      "count": 1
     },
     {
@@ -838,197 +937,98 @@
      "link": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
      "source": "World news | The Guardian",
      "image": "https://i.guim.co.uk/img/media/bece57a5aeb9d207907d0004ae506280861c3cbd/525_0_6027_4822/master/6027.jpg?width=140&quality=85&auto=format&fit=max&s=c63a266c0d23a48899d5b4bef4b598d8",
-     "published": "2026-09-07T22:06:49+00:00",
-     "ts": 1788818809000,
+     "published": "2026-09-08T02:04:56+00:00",
+     "ts": 1788833096000,
      "count": 1
     },
     {
-     "title": "Federal investigators search for cause of Amazon cargo jet crash that killed five",
-     "link": "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport",
+     "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+     "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/13d51d4aa2d01dec344ac34b138fc3d73f48c8e7/240_0_2396_1917/master/2396.jpg?width=140&quality=85&auto=format&fit=max&s=3f8b43bb57560059c90ec00d11bdb178",
-     "published": "2026-09-07T21:49:14+00:00",
-     "ts": 1788817754000,
+     "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=3af8f82f816ebd3d11dcdcccd67070d8",
+     "published": "2026-09-08T02:00:24+00:00",
+     "ts": 1788832824000,
      "count": 1
     },
     {
-     "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-     "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+     "title": "EU pledges more than $200m to Greenland amid Trump annexation threats",
+     "link": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-07T21:17:12+00:00",
-     "ts": 1788815832000,
+     "published": "2026-09-08T01:52:45+00:00",
+     "ts": 1788832365000,
      "count": 1
     },
     {
-     "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-     "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+     "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+     "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ded/live/26dbafb0-aaff-11f1-a2a8-b5ca0233056a.jpg",
-     "published": "2026-09-07T21:12:37+00:00",
-     "ts": 1788815557000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/270b/live/676c01e0-ab24-11f1-993d-a17289144c06.jpg",
+     "published": "2026-09-08T01:50:55+00:00",
+     "ts": 1788832255000,
      "count": 1
     },
     {
-     "title": "Indian temple collapses into Ganges as riverbank erodes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+     "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+     "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-07T21:09:44+00:00",
-     "ts": 1788815384000,
+     "published": "2026-09-08T01:50:37+00:00",
+     "ts": 1788832237000,
      "count": 1
     },
     {
-     "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-     "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+     "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+     "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png",
+     "published": "2026-09-08T01:32:56+00:00",
+     "ts": 1788831176000,
+     "count": 1
+    },
+    {
+     "title": "Panama Canal may cut ship traffic further as El Niño strengthens",
+     "link": "https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-07T21:00:58+00:00",
-     "ts": 1788814858000,
+     "published": "2026-09-08T01:16:10+00:00",
+     "ts": 1788830170000,
      "count": 1
     },
     {
-     "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
+     "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+     "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/44b56530-ab09-11f1-a291-b542ee92de7c.jpg",
+     "published": "2026-09-08T01:07:47+00:00",
+     "ts": 1788829667000,
+     "count": 1
+    },
+    {
+     "title": "‘Flamingo Revolution’ enters 100th day against Kushner-linked resort",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flamingo-revolution-enters-100th-day-against-kushner-linked-resort?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-07T20:59:56+00:00",
-     "ts": 1788814796000,
+     "published": "2026-09-08T00:59:23+00:00",
+     "ts": 1788829163000,
      "count": 1
     },
     {
-     "title": "Robots protest in Poland over AI regulation concerns",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T20:59:12+00:00",
-     "ts": 1788814752000,
-     "count": 1
-    },
-    {
-     "title": "Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam",
-     "link": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
+     "title": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
+     "link": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d92ba61bed6d2fc1c2a97e2998218bad268c6688/291_0_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=8520d44af6514ff2d8aec11b7976db7d",
-     "published": "2026-09-07T20:25:33+00:00",
-     "ts": 1788812733000,
+     "image": "https://i.guim.co.uk/img/media/eaed8dd07123749fede2b9dfe1d9e9d22992d090/959_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=52c1d86387860121c2975a646c8b59ca",
+     "published": "2026-09-08T00:58:09+00:00",
+     "ts": 1788829089000,
      "count": 1
     },
     {
-     "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
-     "link": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/8ab9befadd491a27434c5c4f1be2af8b111c64c5/0_0_1895_1516/master/1895.jpg?width=140&quality=85&auto=format&fit=max&s=0dd4499bff8f09fb5d80a931abe00b3d",
-     "published": "2026-09-07T19:59:07+00:00",
-     "ts": 1788811147000,
-     "count": 1
-    },
-    {
-     "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
-     "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:58:48+00:00",
-     "ts": 1788811128000,
-     "count": 1
-    },
-    {
-     "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:50:05+00:00",
-     "ts": 1788810605000,
-     "count": 1
-    },
-    {
-     "title": "UK government refuses slavery reparations as Jamaica urges king to act",
-     "link": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:48:48+00:00",
-     "ts": 1788810528000,
-     "count": 1
-    },
-    {
-     "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-     "link": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:31:05+00:00",
-     "ts": 1788809465000,
-     "count": 1
-    },
-    {
-     "title": "Moment shop worker dives into traffic to save child",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:27:57+00:00",
-     "ts": 1788809277000,
-     "count": 1
-    },
-    {
-     "title": "Police used batons and pepper spray on far-right protesters in Portsmouth unrest",
-     "link": "https://www.theguardian.com/uk-news/2026/sep/07/police-used-batons-and-pepper-spray-on-far-right-protesters-in-portsmouth-unrest",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/c677eb37876d1d7e585eb6cb93d7b8a552cbb463/0_593_1507_1205/master/1507.jpg?width=140&quality=85&auto=format&fit=max&s=0cca0eb59f9f0e6a9f91bdd99fc5655b",
-     "published": "2026-09-07T19:12:16+00:00",
-     "ts": 1788808336000,
-     "count": 1
-    },
-    {
-     "title": "The domestic armed threat facing Iran",
-     "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:06:22+00:00",
-     "ts": 1788807982000,
-     "count": 1
-    },
-    {
-     "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-     "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:03:29+00:00",
-     "ts": 1788807809000,
-     "count": 1
-    },
-    {
-     "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-     "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-07T19:01:51+00:00",
-     "ts": 1788807711000,
-     "count": 1
-    },
-    {
-     "title": "3 years on, Morocco earthquake victims still wait for help",
-     "link": "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "published": "2026-09-07T18:57:00+00:00",
-     "ts": 1788807420000,
-     "count": 1
-    },
-    {
-     "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
-     "link": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6c4415f3e6bbf82f997ff31bf6ad7cacba9da300/0_0_3841_3072/master/3841.jpg?width=140&quality=85&auto=format&fit=max&s=688860463ad74907176b5fa9a015b9c7",
-     "published": "2026-09-07T18:49:04+00:00",
-     "ts": 1788806944000,
-     "count": 1
-    },
-    {
-     "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
-     "link": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a4f6226b391e4d444522dbf5d467fe78aeeb6baa/317_0_3264_2612/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=71caaf161ac6826ab11d5ed8ad35ef4e",
-     "published": "2026-09-07T18:34:37+00:00",
-     "ts": 1788806077000,
+     "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+     "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
+     "published": "2026-09-08T00:48:43+00:00",
+     "ts": 1788828523000,
      "count": 1
     }
    ]
@@ -1038,255 +1038,255 @@
    "name": "Panamá · LatAm",
    "items": [
     {
-     "title": "'No coma cuento': la Alcaldía de Cali aclara que no habrá simulacro de evacuación por terremoto este martes 8 de septiembre",
-     "link": "https://www.eltiempo.com/colombia/cali/no-coma-cuento-la-alcaldia-de-cali-aclara-que-no-habra-simulacro-de-evacuacion-este-martes-8-de-septiembre-3584308",
+     "title": "Dos discursos y un relevo: lo que dijeron Vásquez y Espino de Marotta, la nueva administradora del Canal",
+     "link": "https://www.prensa.com/economia/dos-discursos-y-un-relevo-lo-que-dijeron-vasquez-y-espino-de-marotta-la-nueva-administradora-del-canal/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/2G4XTKZELJCH7EQZDJ5YFO7XMU.jpg?auth=50ce8e56f0eb391f83ddbbd5067106c7a001357c1d7927f85330b47e688893ff&smart=true&width=1920&height=1080",
+     "published": "2026-09-08T05:05:00+00:00",
+     "ts": 1788843900000,
+     "count": 1
+    },
+    {
+     "title": "Contraloría cautela bienes por cerca de $50 millones tras auditorías",
+     "link": "https://www.prensa.com/politica/contraloria-cautela-bienes-por-cerca-de-50-millones-tras-auditorias/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/6WTJCGQBJ5AWNDQTEB4KWIP3EQ.jpg?auth=5b04e7bf47f09a4eedd3bf6bbe5f7d402b0ffa622786586979c840075adae4f4&smart=true&width=1079&height=652",
+     "published": "2026-09-08T05:02:00+00:00",
+     "ts": 1788843720000,
+     "count": 1
+    },
+    {
+     "title": "‘Yo sí creo en las pruebas’: Ventura Vega frente a las pruebas PISA",
+     "link": "https://www.prensa.com/sociedad/yo-si-creo-en-las-pruebas-ventura-vega-frente-a-las-pruebas-pisa/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/V7RIKFOEQNHEFDQKBSXTTLF5YQ.jpg?auth=b2a55e16d7a4b45fddb537de1ad482e09add01404cb98bfffdadf1e7027ce0d4&smart=true&width=6048&height=4032",
+     "published": "2026-09-08T05:01:00+00:00",
+     "ts": 1788843660000,
+     "count": 1
+    },
+    {
+     "title": "La ciudad de Cali comienza a demoler edificios afectados por el terremoto",
+     "link": "https://www.prensa.com/mundo/la-ciudad-de-cali-comienza-a-demoler-edificios-afectados-por-el-terremoto/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/D25AY2DSOFGFJKJTELXT55IS6U.jpg?auth=6dfbabcd733b17f14173611471d1c78dbc95c9ebf9f635a02d3b0cbe95a5345f&smart=true&width=1920&height=1280",
+     "published": "2026-09-08T04:25:00+00:00",
+     "ts": 1788841500000,
+     "count": 1
+    },
+    {
+     "title": "Ofensiva total contra el fuego en Dapa y Cerro Gordo: así combaten la emergencia ambiental en Yumbo",
+     "link": "https://www.eltiempo.com/colombia/cali/ofensiva-total-contra-el-fuego-en-dapa-y-cerro-gordo-asi-combaten-la-emergencia-ambiental-en-yumbo-3584362",
      "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f42e94a673.png",
-     "published": "2026-09-07T23:15:04+00:00",
-     "ts": 1788822904000,
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/06/6a9e29356a28a.jpeg",
+     "published": "2026-09-08T04:10:23+00:00",
+     "ts": 1788840623000,
      "count": 1
     },
     {
-     "title": "El rey Carlos III deja claro que Harry y Meghan siguen sin ejercer funciones para la monarquía británica",
-     "link": "https://www.prensa.com/vivir/el-rey-carlos-iii-deja-claro-que-harry-y-meghan-siguen-sin-ejercer-funciones-para-la-monarquia-britanica/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ST7BAGLONFEFHJSPTBVWBAYFFM.jpg?auth=a83ee2ea402eff54b78b133e4b1d7e789ce974ab8b9eeabd91f2cbc0a4e39272&smart=true&width=3102&height=1745",
-     "published": "2026-09-07T23:12:23+00:00",
-     "ts": 1788822743000,
-     "count": 2
-    },
-    {
-     "title": "La princesa Leonor inicia sus estudios de Ciencias Políticas en la Universidad Carlos III",
-     "link": "https://www.prensa.com/status-k/la-princesa-leonor-inicia-sus-estudios-de-ciencias-politicas-en-la-universidad-carlos-iii/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LWTJAISKCRHDNBA2I3O6UUEVLE.jpg?auth=19fd16880a67ab9c2701ab3c4a6b658dc64a90f3bfc611c2efb30ac2e4920d94&smart=true&width=1920&height=1278",
-     "published": "2026-09-07T23:05:00+00:00",
-     "ts": 1788822300000,
+     "title": "Extorsionaban a camioneros y quemaban tractomulas en el Valle del Cauca: así era el engranaje criminal de 'el Crespo' y 'Sinisterra'",
+     "link": "https://www.eltiempo.com/colombia/cali/extorsionaban-a-camioneros-y-quemaban-tractomulas-en-el-valle-del-cauca-asi-era-el-engranaje-criminal-de-el-crespo-y-sinisterra-3584351",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f7d68bf7bf.jpeg",
+     "published": "2026-09-08T04:00:02+00:00",
+     "ts": 1788840002000,
      "count": 1
     },
     {
-     "title": "María Eugenia de Preciado es ratificada como fiscal general electoral",
-     "link": "https://www.prensa.com/politica/maria-eugenia-de-preciado-es-ratificada-como-fiscal-general-electoral/",
+     "title": "El estatus tributario de la ACP y una sentencia histórica",
+     "link": "https://www.prensa.com/opinion/el-estatus-tributario-de-la-acp-y-una-sentencia-historica/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/CJHVH7K7RZHMTPKSLCMDPVIMBU.JPG?auth=a1c65038b3e119e64d10273386f4c2727cd7a7344309ab76597a6f32f095c0e3&smart=true&width=4032&height=6048",
-     "published": "2026-09-07T23:04:11+00:00",
-     "ts": 1788822251000,
+     "image": "https://www.prensa.com/resizer/v2/N47SML5BAREVLBXJLGWU6MPV4U.jpg?auth=0a9df13e9e678fdc7389f5b069b2330a7c0b02c880b6760deb12c48c758fa657&smart=true&width=1200&height=868",
+     "published": "2026-09-08T04:00:00+00:00",
+     "ts": 1788840000000,
      "count": 1
     },
     {
-     "title": "Indonesia reabre varios aeropuertos tras erupción volcánica",
-     "link": "https://www.dw.com/es/indonesia-reabre-varios-aeropuertos-tras-erupción-volcánica/a-79152994?maca=spa-rss-sp-all-1122-rdf",
+     "title": "Los vínculos con Arabia Saudita del hombre en el centro de una multimillonaria demanda por los ataques del 11-S",
+     "link": "https://www.bbc.com/mundo/articles/clyk8dve3zko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa04/live/6f606310-ab05-11f1-a291-b542ee92de7c.png",
+     "published": "2026-09-08T03:50:49+00:00",
+     "ts": 1788839449000,
+     "count": 1
+    },
+    {
+     "title": "Las autoridades investigan las causas del accidente de avión que dejó al menos 5 muertos tras chocar con varios vehículos en el aeropuerto de Miami",
+     "link": "https://www.bbc.com/mundo/articles/cj641kkdekno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed4c/live/814b61b0-aa51-11f1-a291-b542ee92de7c.jpg",
+     "published": "2026-09-08T03:49:48+00:00",
+     "ts": 1788839388000,
+     "count": 1
+    },
+    {
+     "title": "El repliegue que nunca fue",
+     "link": "https://www.prensa.com/opinion/el-repliegue-que-nunca-fue/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/N7RQZERVBFGARHDU5B3QEVKF7M.png?auth=af138cc2f3ccd51f74a3f9140004bd56fef8b5b08476ec7c7471c6627a0fe0fd&smart=true&width=1536&height=1024",
+     "published": "2026-09-08T03:45:00+00:00",
+     "ts": 1788839100000,
+     "count": 1
+    },
+    {
+     "title": "Italia celebra la hazaña de Kimi Antonelli, ‘el prodigio’ nacional",
+     "link": "https://www.prensa.com/deportes/italia-celebra-la-hazana-de-kimi-antonelli-el-prodigio-nacional/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/N32BH3H4ENFNRCULBZUAB473IE.jpg?auth=cda771d44e66fa82c645b7cad624e0c721941c1b5681fdaef377b3c6bc03cd88&smart=true&width=1920&height=1492",
+     "published": "2026-09-08T03:25:00+00:00",
+     "ts": 1788837900000,
+     "count": 1
+    },
+    {
+     "title": "Hola, Panamá: perdimos la primera coa",
+     "link": "https://www.prensa.com/opinion/hola-panama-perdimos-la-primera-coa/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/4NOIB6VMX5AF7LWAWOOXNMHPQU.jpg?auth=eaa6cc6ef65b407c629348a7b4641d065d628183700ab015b4a542deaf234478&smart=true&width=5975&height=3983",
+     "published": "2026-09-08T03:15:00+00:00",
+     "ts": 1788837300000,
+     "count": 1
+    },
+    {
+     "title": "'Son de Pajarito', el baile casi extinto del Caribe que una estudiante convirtió en documental, festival y patrimonio vivo antes de que desapareciera",
+     "link": "https://www.eltiempo.com/colombia/barranquilla/son-de-pajarito-el-baile-casi-extinto-del-caribe-que-una-estudiante-convirtio-en-documental-festival-y-patrimonio-vivo-antes-de-que-desapareciera-3580217",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a8a0b23ae26f.r_d.1390-1104-0.jpeg",
+     "published": "2026-09-08T03:08:35+00:00",
+     "ts": 1788836915000,
+     "count": 1
+    },
+    {
+     "title": "Rusia reanuda ataques contra Kiev tras tres días de pausa",
+     "link": "https://www.dw.com/es/rusia-reanuda-ataques-contra-kiev-tras-tres-días-de-pausa/a-79153494?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "published": "2026-09-07T22:57:00+00:00",
-     "ts": 1788821820000,
+     "published": "2026-09-08T02:59:00+00:00",
+     "ts": 1788836340000,
      "count": 1
     },
     {
-     "title": "Cuatro días en la selva: así escapó un cabo de la Legión Francesa de las disidencias de las FARC",
-     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260907-cuatro-d%C3%ADas-en-la-selva-as%C3%AD-escap%C3%B3-un-cabo-de-la-legi%C3%B3n-francesa-de-las-disidencias-de-las-farc",
+     "title": "El terror por El Niño: tránsito marítimo afectado, inseguridad alimentaria y desastres naturales",
+     "link": "https://www.france24.com/es/medio-ambiente/20260908-el-terror-por-el-ni%C3%B1o-tr%C3%A1nsito-mar%C3%ADtimo-afectado-inseguridad-alimentaria-y-desastres-naturale",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/2f57d844-a5c3-11f1-aeb0-005056a90284/w:1024/p:16x9/AP24236497026995.jpg",
-     "published": "2026-09-07T22:56:37+00:00",
-     "ts": 1788821797000,
+     "image": "https://s.france24.com/media/display/9e5e7a68-ab2c-11f1-927d-005056bfb2b6/w:1024/p:16x9/2026-09-04T222704Z-1412716936-RC2CCNA9BFQM-RTRMADP-3-PANAMA-CANAL.jpg",
+     "published": "2026-09-08T02:36:57+00:00",
+     "ts": 1788835017000,
      "count": 1
     },
     {
-     "title": "Directo a... Ciudad de Panamá y el plan estructural para controlar la sequía en el Canal",
-     "link": "https://www.france24.com/es/video/20260907-directo-a-ciudad-de-panam%C3%A1-y-el-plan-estructural-para-controlar-la-sequ%C3%ADa-en-el-canal",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/e6e4ed2e-ab06-11f1-9dd9-005056bfb2b6/w:1024/p:16x9/ES-20260907-124455-125245-CS.jpg",
-     "published": "2026-09-07T22:45:13+00:00",
-     "ts": 1788821113000,
-     "count": 1
-    },
-    {
-     "title": "Tutela falló a favor del alcalde de Medellín: Federico Gutiérrez no tendrá que retractarse tras calificar a Daniel Quintero como el 'jefe de la banda'",
-     "link": "https://www.eltiempo.com/colombia/medellin/tutela-fallo-a-favor-del-alcalde-de-medellin-federico-gutierrez-no-tendra-que-retractarse-tras-calificar-a-daniel-quintero-como-el-jefe-de-la-banda-3584297",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/03/14/65f3252aaf012.r_d.475-237-0.jpeg",
-     "published": "2026-09-07T22:44:37+00:00",
-     "ts": 1788821077000,
-     "count": 1
-    },
-    {
-     "title": "Así era la vida de Marco David Pirajón, capitán asesinado en Ocaña: su padre, el mayor (r) Marco Binicio Pirajón, rompió silencio sobre su muerte",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/asi-era-la-vida-de-marco-david-pirajon-capitan-asesinado-en-ocana-su-padre-el-mayor-r-marco-binicio-pirajon-rompio-silencio-sobre-su-muerte-3584279",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9f362fac6a2.r_d.522-139-1.jpeg",
-     "published": "2026-09-07T22:20:32+00:00",
-     "ts": 1788819632000,
-     "count": 1
-    },
-    {
-     "title": "El 11-S, minuto a minuto: el día que cambió a Estados Unidos hace 25 años",
-     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260907-el-11-s-minuto-a-minuto-el-d%C3%ADa-que-cambi%C3%B3-a-estados-unidos-hace-25-a%C3%B1os",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/f5c572f4-1110-11ec-83ae-005056a90284/w:1024/p:16x9/AP010911012226.jpg",
-     "published": "2026-09-07T22:13:34+00:00",
-     "ts": 1788819214000,
-     "count": 1
-    },
-    {
-     "title": "Trabajo articulado logró apagar un voraz incendio forestal de más de 5 hectáreas en Guatapé, Antioquia",
-     "link": "https://www.eltiempo.com/colombia/medellin/trabajo-articulado-logro-apagar-un-voraz-incendio-forestal-de-mas-de-5-hectareas-en-guatape-antioquia-3584284",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f34e45f005.jpeg",
-     "published": "2026-09-07T22:11:55+00:00",
-     "ts": 1788819115000,
-     "count": 1
-    },
-    {
-     "title": "El avión de Amazon que se estrelló en Miami chocó con una furgoneta con siete pasajeros",
-     "link": "https://www.prensa.com/mundo/el-avion-de-amazon-que-se-estrello-en-miami-choco-con-una-furgoneta-con-siete-pasajeros/",
+     "title": "Intercambio de disparos tras intento de robo a camión blindado en Marbella",
+     "link": "https://www.prensa.com/judiciales/intercambio-de-disparos-tras-intento-de-robo-a-camion-blindado-en-marbella/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/6TWXQ45RORBBFKPEAR6DCZYLKY.jpg?auth=6885f395ef5b5d4ad481cc7c5e08e70226e0b850b80d991fd1078074f1f94445&smart=true&width=1920&height=1280",
-     "published": "2026-09-07T22:08:01+00:00",
-     "ts": 1788818881000,
+     "image": "https://www.prensa.com/resizer/v2/L4732P3B2JGAZA36K7M4OPTU5I.jpg?auth=9fece70e71363b55d54d89dccdbd38bba1814735796f7320574642cd3fef10e3&smart=true&width=1170&height=878",
+     "published": "2026-09-08T02:35:33+00:00",
+     "ts": 1788834933000,
      "count": 1
     },
     {
-     "title": "Vendía tamales y rifas en Montería para cumplir su sueño de celebrar sus 15 años: su artista favorito llegó de sorpresa y le cantó en plena fiesta",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/vendia-tamales-y-rifas-en-monteria-para-cumplir-su-sueno-de-celebrar-sus-15-anos-su-artista-favorito-llego-de-sorpresa-y-le-canto-en-plena-fiesta-3584272",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f32a2ced9b.png",
-     "published": "2026-09-07T22:06:44+00:00",
-     "ts": 1788818804000,
+     "title": "Ante la crisis, Volkswagen apunta a un nuevo negocio: la producción de componentes de defensa",
+     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260908-ante-la-crisis-volkswagen-apunta-a-un-nuevo-negocio-la-producci%C3%B3n-de-componentes-de-defensa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/97611510-ab25-11f1-9582-005056bf30b7/w:1024/p:16x9/AP18320515571609.jpg",
+     "published": "2026-09-08T02:33:05+00:00",
+     "ts": 1788834785000,
      "count": 1
     },
     {
-     "title": "Fin de 'la Esperanza' en el norte del Valle: autoridades desarticulan red criminal que generaba hasta $ 45 millones mensuales",
-     "link": "https://www.eltiempo.com/colombia/cali/fin-de-la-esperanza-en-el-norte-del-valle-autoridades-desarticulan-red-criminal-que-generaba-hasta-45-millones-mensuales-3584277",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f2f0ec0a74.png",
-     "published": "2026-09-07T22:06:27+00:00",
-     "ts": 1788818787000,
-     "count": 1
-    },
-    {
-     "title": "Flávio Bolsonaro evoca a su padre para movilizar a la derecha ante las elecciones y echar a Lula y al juez Moraes",
-     "link": "https://elpais.com/america/2026-09-07/flavio-bolsonaro-evoca-a-su-padre-para-movilizar-a-la-derecha-ante-las-elecciones-y-echar-a-lula-y-al-juez-moraes.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/J46QI5E7SNIKNAAWBMALZ3FSKY.jpg?auth=ba912cac84ecb706318f5ed703d54e122124bbadd3770d2feb9886a50ae98c03",
-     "published": "2026-09-07T21:53:17+00:00",
-     "ts": 1788817997000,
-     "count": 1
-    },
-    {
-     "title": "Conductor de plataforma es imputado por el homicidio del empresario suizo-español Miguel Ángel González",
-     "link": "https://www.prensa.com/judiciales/conductor-de-plataforma-es-imputado-por-el-homicidio-del-empresario-suizo-espanol-miguel-angel-gonzalez/",
+     "title": "Una medalla, un Cristo y un partido",
+     "link": "https://www.prensa.com/opinion/una-medalla-un-cristo-y-un-partido/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/2KG5DY4M6FD2FMIMN2GAOYGBIE.jpg?auth=a831b050ba985a062abe5fcccf11c5faf7d4cd8fc60eb7673b7ffd74fcad3642&smart=true&width=3277&height=2513",
-     "published": "2026-09-07T21:51:42+00:00",
-     "ts": 1788817902000,
+     "image": "https://www.prensa.com/resizer/v2/HVSKEEALRFAIXMFXMMBXKMWJIY.JPG?auth=55104dab164d73de1df579dc545e370a32bd890fe23a38d0605d5ba293647553&smart=true&width=6048&height=4032",
+     "published": "2026-09-08T02:30:00+00:00",
+     "ts": 1788834600000,
      "count": 1
     },
     {
-     "title": "Avión de Amazon accidentado en Miami chocó con furgoneta",
-     "link": "https://www.dw.com/es/avión-de-amazon-accidentado-en-miami-chocó-con-furgoneta/a-79152970?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-07T21:47:00+00:00",
-     "ts": 1788817620000,
-     "count": 1
-    },
-    {
-     "title": "La UE anuncia millonaria inversión en Groenlandia: ¿se contrarresta la influencia de EE. UU.?",
-     "link": "https://www.france24.com/es/video/20260907-la-ue-anuncia-millonaria-inversi%C3%B3n-en-groenlandia-se-contrarresta-la-influencia-de-ee-uu",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/1b1b6c4e-aaf8-11f1-baf0-005056a97e36/w:1024/p:16x9/ES-20260907-131245-131434-CS.jpg",
-     "published": "2026-09-07T21:38:39+00:00",
-     "ts": 1788817119000,
-     "count": 1
-    },
-    {
-     "title": "Termo del senador Carlos Meisel cayó sobre una pasajera durante un vuelo de Barranquilla a Bogotá: esto dijo el congresista",
-     "link": "https://www.eltiempo.com/colombia/barranquilla/termo-del-senador-carlos-meisel-cayo-sobre-una-pasajera-durante-un-vuelo-de-barranquilla-a-bogota-esto-dijo-el-congresista-3584271",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/05/28/68378ac40efbc.r_d.587-877-0.jpeg",
-     "published": "2026-09-07T21:33:28+00:00",
-     "ts": 1788816808000,
-     "count": 1
-    },
-    {
-     "title": "Murió en aparatoso accidente de moto un joven DJ de champeta en la loma de Turbaco, Bolívar; mujer que lo acompañaba está gravemente herida",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/murio-en-aparatoso-accidente-de-moto-un-joven-dj-de-champeta-en-la-loma-de-turbaco-bolivar-mujer-que-lo-acompanaba-esta-gravemente-herida-3584249",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9f1f802bf02.r_d.300-55-0.png",
-     "published": "2026-09-07T21:32:43+00:00",
-     "ts": 1788816763000,
-     "count": 1
-    },
-    {
-     "title": "¿Cuál es el balance del primer mes de Abelardo de la Espriella en el poder?",
-     "link": "https://www.france24.com/es/video/20260907-cu%C3%A1l-es-el-balance-del-primer-mes-de-abelardo-de-la-espriella-en-el-poder",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/b2d67590-aafa-11f1-a1eb-005056a90284/w:1024/p:16x9/ES-20260907-131701-132850-CS.jpg",
-     "published": "2026-09-07T21:28:57+00:00",
-     "ts": 1788816537000,
-     "count": 1
-    },
-    {
-     "title": "Informe desde Madrid: España investiga rol de Marruecos en crisis de Ceuta",
-     "link": "https://www.france24.com/es/video/20260907-informe-desde-madrid-espa%C3%B1a-investiga-rol-de-marruecos-en-crisis-de-ceuta",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/a510b276-aaf6-11f1-899d-005056a97e36/w:1024/p:16x9/ES-20260907-131024-131215-CS.jpg",
-     "published": "2026-09-07T21:27:25+00:00",
-     "ts": 1788816445000,
-     "count": 1
-    },
-    {
-     "title": "Rusia ordena cierre del consulado alemán en San Petersburgo en represalia a acusaciones",
-     "link": "https://www.france24.com/es/video/20260907-rusia-ordena-cierre-del-consulado-alem%C3%A1n-en-san-petersburgo-en-represalia-a-acusaciones",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/d7428892-aaf5-11f1-8415-005056a90284/w:1024/p:16x9/ES-20260907-130746-130956-CS.jpg",
-     "published": "2026-09-07T21:26:06+00:00",
-     "ts": 1788816366000,
-     "count": 1
-    },
-    {
-     "title": "Medellín | Venteros del Atanasio Girardot protestan por 66 módulos ante el montaje de EDC Colombia y reclaman claridad sobre el futuro de sus negocios",
-     "link": "https://www.eltiempo.com/colombia/medellin/venteros-del-atanasio-girardot-protestan-por-66-modulos-ante-el-montaje-de-edc-colombia-y-reclaman-claridad-sobre-el-futuro-de-sus-negocios-3584268",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/05/07/69fcee5d2cd99.r_d.1516-1289-0.jpeg",
-     "published": "2026-09-07T21:23:24+00:00",
-     "ts": 1788816204000,
-     "count": 1
-    },
-    {
-     "title": "El sector pesquero, encabezado por el camarón, se consolida como el principal motor exportador de Panamá en 2026",
-     "link": "https://www.prensa.com/economia/el-sector-pesquero-se-consolida-como-el-principal-motor-exportador-de-panama-en-2026/",
+     "title": "Cultivando raíces de la paz: una apuesta por la niñez",
+     "link": "https://www.prensa.com/opinion/cultivando-raices-de-la-paz-una-apuesta-por-la-ninez/",
      "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/FSZUEICSTREJ7I4UBYSEMGOCVE.jfif?auth=1105a7cbc1b6d4feff7bb3eeb40d115802287c9c8b6835a6de433c05383b27fb&smart=true&width=1600&height=1066",
-     "published": "2026-09-07T21:14:14+00:00",
-     "ts": 1788815654000,
+     "image": "https://www.prensa.com/resizer/v2/3ATNGQ6265B6TK6O5VQNUDHPIY.jpg?auth=e356a848597d7d079f6920323d299bc029d93115488c9305d74c31d756482a5d&smart=true&width=3864&height=2576",
+     "published": "2026-09-08T02:15:00+00:00",
+     "ts": 1788833700000,
      "count": 1
     },
     {
-     "title": "Retiran un mes después la camioneta atascada que dañó Pampa del Leoncito, joya natural del norte argentino",
-     "link": "https://elpais.com/argentina/2026-09-07/retiran-un-mes-despues-la-camioneta-atascada-que-dano-pampa-del-leoncito-joya-natural-del-norte-argentino.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MYSEC4V6IVCJDDQ72EFKWOIVKY.jpg?auth=c18f641b56d333281194a813329bb97192d045da199d282a0429715a4e86ae09",
-     "published": "2026-09-07T21:08:22+00:00",
-     "ts": 1788815302000,
+     "title": "Beata Wojna: \"La victoria del AfD podría ser señal de fortaleza de la derecha radical en Europa\"",
+     "link": "https://www.france24.com/es/video/20260908-beata-wojna-la-victoria-del-afd-podr%C3%ADa-ser-se%C3%B1al-de-fortaleza-de-la-derecha-radical-en-europa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/2fe7b888-ab27-11f1-9b49-005056bf30b7/w:1024/p:16x9/ES-20260907-200753-201447-CS.jpg",
+     "published": "2026-09-08T02:01:27+00:00",
+     "ts": 1788832887000,
      "count": 1
     },
     {
-     "title": "Recuperan celular de turista hurtado en el Centro Histórico de Cartagena: video del robo ayudó a activar investigación que sigue abierta",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/recuperan-celular-de-turista-hurtado-en-el-centro-historico-de-cartagena-video-del-robo-ayudo-a-activar-investigacion-que-sigue-abierta-3584260",
+     "title": "Urge inyectarle liquidez al sector productivo",
+     "link": "https://www.prensa.com/opinion/urge-inyectarle-liquidez-al-sector-productivo/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/SGQY4IYXXFFGXNIC2TAJFCRE6A.jpg?auth=2f4bd706dd2660c478e58a37b79c84a721364c6b64c948e709abd3c96569cd17&smart=true&width=5568&height=3712",
+     "published": "2026-09-08T02:00:00+00:00",
+     "ts": 1788832800000,
+     "count": 1
+    },
+    {
+     "title": "Informe desde Buenos Aires: Argentina demanda a petroleras en Malvinas",
+     "link": "https://www.france24.com/es/video/20260908-informe-desde-buenos-aires-argentina-demanda-a-petroleras-en-malvinas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/adab692a-ab24-11f1-aea9-005056a97e36/w:1024/p:16x9/ES-20260907-200216-200318-CS.jpg",
+     "published": "2026-09-08T01:59:40+00:00",
+     "ts": 1788832780000,
+     "count": 1
+    },
+    {
+     "title": "Cuba denuncia pérdidas por el bloqueo de EE. UU.; asegura que no hay negociaciones en curso",
+     "link": "https://www.france24.com/es/video/20260908-cuba-denuncia-p%C3%A9rdidas-por-el-bloqueo-de-ee-uu-asegura-que-no-hay-negociaciones-en-curso",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/63fca7fa-ab1d-11f1-be24-005056a90284/w:1024/p:16x9/ES-20260907-190232-190416-CS.jpg",
+     "published": "2026-09-08T01:57:15+00:00",
+     "ts": 1788832635000,
+     "count": 1
+    },
+    {
+     "title": "El Canal de Panamá busca soluciones frente a la sequía y el fenómeno de El Niño",
+     "link": "https://www.france24.com/es/video/20260908-el-canal-de-panam%C3%A1-busca-soluciones-frente-a-la-sequ%C3%ADa-y-el-fen%C3%B3meno-de-el-ni%C3%B1o",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/de7a1924-ab1b-11f1-beba-005056bfb2b6/w:1024/p:16x9/ES-20260907-180225-180414-CS.jpg",
+     "published": "2026-09-08T01:53:52+00:00",
+     "ts": 1788832432000,
+     "count": 1
+    },
+    {
+     "title": "En imágenes | A doble turno y con maquinaria de 20 toneladas: el edificio María Mercedes abrió el plan de demolición de 11 inmuebles críticos en Cali",
+     "link": "https://www.eltiempo.com/colombia/cali/en-imagenes-a-doble-turno-y-con-maquinaria-de-20-toneladas-el-edificio-maria-mercedes-abrio-el-plan-de-demolicion-de-11-inmuebles-criticos-en-cali-3584335",
      "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f22e5899d9.png",
-     "published": "2026-09-07T21:01:26+00:00",
-     "ts": 1788814886000,
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/07/6a9f6578de254.jpeg",
+     "published": "2026-09-08T01:48:00+00:00",
+     "ts": 1788832080000,
      "count": 1
     },
     {
-     "title": "Carlos III: Enrique y Meghan no son miembros activos de la familia real",
-     "link": "https://www.dw.com/es/carlos-iii-enrique-y-meghan-no-son-miembros-activos-de-la-familia-real/a-79152921?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-07T20:58:00+00:00",
-     "ts": 1788814680000,
+     "title": "¿Cómo nos impactan las elecciones en Estados Unidos?",
+     "link": "https://www.prensa.com/opinion/como-nos-impactan-las-elecciones-en-estados-unidos/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/Y6NIWIRJK5FHVEOAUTZWX5BM3Q.jpg?auth=ef203b701e076d3e35fd54585c7ef702ee5da33a694282d86d5faf8c2395aaf5&smart=true&width=667&height=375",
+     "published": "2026-09-08T01:45:00+00:00",
+     "ts": 1788831900000,
+     "count": 1
+    },
+    {
+     "title": "EU destruye un quinto barco, supuestamente vinculado a la banda ecuatoriana Los Choneros",
+     "link": "https://www.prensa.com/mundo/eu-destruye-un-quinto-barco-supuestamente-vinculado-a-la-banda-ecuatoriana-los-choneros/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/AXHEDBU3VZBXJCSIQY6U7MRZ4M.jpg?auth=3c64811c92254216fd9f06cbf7e3b45e120cce786e2b055ea8b39944c587dad4&smart=true&width=679&height=381",
+     "published": "2026-09-08T01:35:00+00:00",
+     "ts": 1788831300000,
+     "count": 1
+    },
+    {
+     "title": "Trump - De la Espriella: tres claves de la visita de Marco Rubio a Colombia",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260908-trump-de-la-espriella-tres-claves-de-la-visita-de-marco-rubio-a-colombia",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/c1afb544-6f7d-11f1-8dd5-005056a97e36/w:1024/p:16x9/trump-espriella.jpg",
+     "published": "2026-09-08T01:06:45+00:00",
+     "ts": 1788829605000,
      "count": 1
     }
    ]
@@ -1296,12 +1296,129 @@
    "name": "Desastres Naturales",
    "items": [
     {
+     "title": "M 4.3 - 5 km WSW of Antirrio, Greece",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqz",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T04:38:50.798000+00:00",
+     "ts": 1788842330798,
+     "count": 1
+    },
+    {
+     "title": "M 2.5 - 16 km W of Salamatof, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ruccoc",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T04:33:36.984000+00:00",
+     "ts": 1788842016984,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Zambia",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031815",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-09-08T04:33:26+00:00",
+     "ts": 1788842006000,
+     "count": 324
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031658",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-09-08T04:28:57+00:00",
+     "ts": 1788841737000,
+     "count": 42
+    },
+    {
+     "title": "M 4.3 - 13 km ESE of Pogradec, Albania",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr0",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T04:21:05.921000+00:00",
+     "ts": 1788841265921,
+     "count": 1
+    },
+    {
+     "title": "M 4.6 - 176 km SSE of Vilyuchinsk, Russia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqv",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T04:01:41.040000+00:00",
+     "ts": 1788840101040,
+     "count": 1
+    },
+    {
+     "title": "M 4.4 - 21 km SW of Sipí, Colombia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfql",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T03:52:57.040000+00:00",
+     "ts": 1788839577040,
+     "count": 1
+    },
+    {
+     "title": "M 2.8 - 76 km S of Kaktovik, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtxhvg",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T03:39:28.040000+00:00",
+     "ts": 1788838768040,
+     "count": 1
+    },
+    {
      "title": "M 3.7 - 35 km E of Hydesville, CA",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431397",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-09-07T23:27:45.335000+00:00",
-     "ts": 1788823665335,
+     "published": "2026-09-08T03:16:51.038000+00:00",
+     "ts": 1788837411038,
+     "count": 1
+    },
+    {
+     "title": "M 4.3 - 88 km W of San Antonio de los Cobres, Argentina",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqh",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T02:34:28.040000+00:00",
+     "ts": 1788834868040,
+     "count": 1
+    },
+    {
+     "title": "M 3.0 - 56 km N of Charlotte Amalie, U.S. Virgin Islands",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531163",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T02:16:52.720000+00:00",
+     "ts": 1788833812720,
+     "count": 2
+    },
+    {
+     "title": "M 4.5 - south of the Fiji Islands",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T02:01:34.040000+00:00",
+     "ts": 1788832894040,
+     "count": 1
+    },
+    {
+     "title": "M 5.1 - 92 km ESE of Isangel, Vanuatu",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-08T01:48:07.040000+00:00",
+     "ts": 1788832087040,
+     "count": 1
+    },
+    {
+     "title": "M 4.4 - 213 km ENE of Levuka, Fiji",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tf1q",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-07T23:39:11.040000+00:00",
+     "ts": 1788824351040,
      "count": 1
     },
     {
@@ -1314,24 +1431,6 @@
      "count": 1
     },
     {
-     "title": "Green forest fire notification in Zambia",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031802",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-09-07T23:22:09+00:00",
-     "ts": 1788823329000,
-     "count": 323
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031795",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-09-07T23:17:24+00:00",
-     "ts": 1788823044000,
-     "count": 42
-    },
-    {
      "title": "M 4.5 - 129 km ENE of Taltal, Chile",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tez1",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1339,15 +1438,6 @@
      "published": "2026-09-07T23:12:52.040000+00:00",
      "ts": 1788822772040,
      "count": 1
-    },
-    {
-     "title": "M 4.0 - 152 km WSW of Elfin Cove, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsblne",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T22:37:08.551000+00:00",
-     "ts": 1788820628551,
-     "count": 2
     },
     {
      "title": "M 3.5 - 44 km SSW of Cantwell, Alaska",
@@ -1377,15 +1467,6 @@
      "count": 1
     },
     {
-     "title": "M 5.3 - off the coast of Oregon",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesi",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg",
-     "published": "2026-09-07T19:40:31.075000+00:00",
-     "ts": 1788810031075,
-     "count": 2
-    },
-    {
      "title": "Green forest fire notification in Bosnia and Herzegovina",
      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031787",
      "source": "GDACS RSS information",
@@ -1401,15 +1482,6 @@
      "image": "",
      "published": "2026-09-07T18:24:45.760000+00:00",
      "ts": 1788805485760,
-     "count": 1
-    },
-    {
-     "title": "M 3.3 - 85 km SSW of Nikolski, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rscjwd",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T17:31:37.274000+00:00",
-     "ts": 1788802297274,
      "count": 1
     },
     {
@@ -1431,6 +1503,15 @@
      "count": 1
     },
     {
+     "title": "Green forest fire notification in Russian Federation",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031771",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-09-07T15:01:05+00:00",
+     "ts": 1788793265000,
+     "count": 7
+    },
+    {
      "title": "M 3.2 - 7 km WNW of Maricao, Puerto Rico",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531133",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1449,15 +1530,6 @@
      "count": 1
     },
     {
-     "title": "M 3.0 - 38 km N of Charlotte Amalie, U.S. Virgin Islands",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531143",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T11:53:39.480000+00:00",
-     "ts": 1788782019480,
-     "count": 1
-    },
-    {
      "title": "M 2.8 - 61 km N of Petersville, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rslsel",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1473,78 +1545,6 @@
      "image": "",
      "published": "2026-09-07T10:03:56.040000+00:00",
      "ts": 1788775436040,
-     "count": 2
-    },
-    {
-     "title": "M 5.5 - southeast of the Loyalty Islands",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T07:56:59.549000+00:00",
-     "ts": 1788767819549,
-     "count": 1
-    },
-    {
-     "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI>=-.",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1564048",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1731719_1.png",
-     "published": "2026-09-07T06:12:24+00:00",
-     "ts": 1788761544000,
-     "count": 1
-    },
-    {
-     "title": "M 3.6 - 8 km SSW of Salvaleón de Higüey, Dominican Republic",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026250001",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T05:45:28.450000+00:00",
-     "ts": 1788759928450,
-     "count": 1
-    },
-    {
-     "title": "M 4.5 - south of the Fiji Islands",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teta",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T04:48:05.040000+00:00",
-     "ts": 1788756485040,
-     "count": 1
-    },
-    {
-     "title": "M 3.3 - 8 km W of Dutch Harbor, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teti",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T04:26:19.040000+00:00",
-     "ts": 1788755179040,
-     "count": 2
-    },
-    {
-     "title": "M 4.4 - 124 km S of Dampit, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tetc",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T04:21:17.040000+00:00",
-     "ts": 1788754877040,
-     "count": 1
-    },
-    {
-     "title": "M 3.2 - 103 km NE of Miches, Dominican Republic",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tetb",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T04:02:56.040000+00:00",
-     "ts": 1788753776040,
-     "count": 1
-    },
-    {
-     "title": "M 2.6 - 134 km W of Dunes City, Oregon",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet8",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-07T03:45:37.040000+00:00",
-     "ts": 1788752737040,
      "count": 1
     }
    ]
@@ -1553,6 +1553,15 @@
    "id": "medio_oriente",
    "name": "Medio Oriente",
    "items": [
+    {
+     "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+     "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/8fe8026e236cc5ba1a9f19e4b6faddfdba2da4bb/0_0_1238_990/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7844319cdceeff428658a549b50f724b",
+     "published": "2026-09-08T04:00:27+00:00",
+     "ts": 1788840027000,
+     "count": 1
+    },
     {
      "title": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
      "link": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
@@ -1795,15 +1804,6 @@
      "published": "2026-09-05T11:08:31+00:00",
      "ts": 1788606511000,
      "count": 1
-    },
-    {
-     "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
-     "link": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9ac708749be218885612be0edce28f76ab14d983/223_0_6815_5452/master/6815.jpg?width=140&quality=85&auto=format&fit=max&s=52bef96c04ddd9414eac954b45f631a9",
-     "published": "2026-09-05T10:00:33+00:00",
-     "ts": 1788602433000,
-     "count": 1
     }
    ]
   },
@@ -1812,7 +1812,151 @@
    "name": "China",
    "items": [
     {
-     "title": "Trump posts Space Force uniforms derived from 'fascist'-inspired Starship Troopers outfits",
+     "title": "Nepal flood survivors face economic ruin as migration beckons",
+     "link": "https://www.scmp.com/week-asia/health-environment/article/3366720/nepal-flood-survivors-face-economic-ruin-migration-beckons?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/dfbb30db-8269-498d-8ce2-007a35138522_549cef10.jpg?itok=29XoOH24&v=1788842188",
+     "published": "2026-09-08T04:36:38+00:00",
+     "ts": 1788842198000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong families hit as volcanic ash strands up to 200 helpers in Indonesia",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3366717/hong-kong-families-hit-volcanic-ash-strands-200-helpers-indonesia?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/0c347a15-9f52-4e14-8074-8381aa9f7f98_279a3e4a.jpg?itok=V054j6Ir&v=1788841347",
+     "published": "2026-09-08T04:22:37+00:00",
+     "ts": 1788841357000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/c76c7ee2-a7fc-4c30-8075-9040f5247dd0_97f6dde9.jpg?itok=N2z2PkzV&v=1788838585",
+     "published": "2026-09-08T04:00:13+00:00",
+     "ts": 1788840013000,
+     "count": 1
+    },
+    {
+     "title": "Chinese PLA aircraft to headline Egypt air show in display of export potential",
+     "link": "https://www.scmp.com/news/china/military/article/3366666/chinese-pla-aircraft-headline-egypt-air-show-display-export-potential?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/d043305a-3033-4e03-bd16-2962743f5b6c_5a5f8929.jpg?itok=8r8ILRph&v=1788782696",
+     "published": "2026-09-08T04:00:10+00:00",
+     "ts": 1788840010000,
+     "count": 1
+    },
+    {
+     "title": "Russia resumes strikes on Kyiv after pause for Trump envoys’ visit",
+     "link": "https://www.scmp.com/news/world/europe/article/3366714/russia-resumes-strikes-kyiv-after-pause-trump-envoys-visit?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/e0666218-b604-4b5a-bd15-d3bfaad301da_97dc204b.jpg?itok=S2W2-pRr&v=1788839952",
+     "published": "2026-09-08T03:59:14+00:00",
+     "ts": 1788839954000,
+     "count": 1
+    },
+    {
+     "title": "How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign",
+     "link": "https://www.theguardian.com/world/2026/sep/08/nepal-tibet-flood-disaster-china-clean-internet-media-censorship-suppression",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f7b9646bc90696bbcded27e23f51305b5e2427f2/762_180_4715_3773/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=c33aa802842705152127e02652a418bd",
+     "published": "2026-09-08T03:14:43+00:00",
+     "ts": 1788837283000,
+     "count": 1
+    },
+    {
+     "title": "In Gyirong Port, small items speak of the human cost of the China-Nepal disaster",
+     "link": "https://www.scmp.com/news/china/politics/article/3366706/gyirong-port-small-items-speak-human-cost-china-nepal-disaster?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/7b80c0b6-29f2-4488-ac69-3c79857c1216_3201451c.jpg?itok=kJJXvLrC&v=1788837153",
+     "published": "2026-09-08T03:13:40+00:00",
+     "ts": 1788837220000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong emerges as leading Asian study destination for Kazakhstani students",
+     "link": "https://www.scmp.com/news/hong-kong/education/article/3366700/hong-kong-emerges-leading-asian-study-destination-kazakhstani-students?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/4983db23-f521-4ad4-9691-1c40d7d0029a_79d84d1b.jpg?itok=_lRF2RBN&v=1788828672",
+     "published": "2026-09-08T02:30:08+00:00",
+     "ts": 1788834608000,
+     "count": 1
+    },
+    {
+     "title": "Australia nears treaty with Solomon Islands in bid to limit China’s influence",
+     "link": "https://www.scmp.com/news/asia/australasia/article/3366702/australia-nears-treaty-solomon-islands-bid-limit-chinas-influence?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/1951a1e4-2c91-4f7a-80e1-038da550f8a3_31117819.jpg?itok=bbbmX521&v=1788832758",
+     "published": "2026-09-08T01:59:27+00:00",
+     "ts": 1788832767000,
+     "count": 1
+    },
+    {
+     "title": "Can Japan, South Korea move past the ‘comfort women’ issue?",
+     "link": "https://www.scmp.com/week-asia/politics/article/3366655/can-japan-south-korea-move-past-comfort-women-issue?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/47d37dfe-22b8-4ff5-9190-7c9b86eda480_22f94239.jpg?itok=K9gui2ch&v=1788778081",
+     "published": "2026-09-08T01:30:10+00:00",
+     "ts": 1788831010000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong aviation success today means more than just adding routes",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366027/hong-kong-aviation-success-today-means-more-just-adding-routes?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/bf623a0e-ca84-437e-b2a6-aaa346d4b72b_ea56460a.jpg?itok=3fC0BjMC&v=1788748206",
+     "published": "2026-09-08T01:30:06+00:00",
+     "ts": 1788831006000,
+     "count": 1
+    },
+    {
+     "title": "Chinese woman sues son for US$54,000 in childcare fees after 15 years, sparking debate",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3366701/chinese-woman-sues-son-us54000-childcare-fees-after-15-years-sparking-debate?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/757cb5e3-e38a-44a6-a918-4f2b1f88a9bb_0b8da8da.jpg?itok=gceJmiL_&v=1788829384",
+     "published": "2026-09-08T01:03:16+00:00",
+     "ts": 1788829396000,
+     "count": 1
+    },
+    {
+     "title": "Should Chinese schools demote English as a core subject?",
+     "link": "https://www.scmp.com/news/china/politics/article/3366668/should-chinese-schools-demote-english-core-subject-discuss?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/7c990370-5f8c-4397-b305-98582781dea3_57fa9b7c.jpg?itok=yRTFAwLL&v=1788830654",
+     "published": "2026-09-08T01:00:12+00:00",
+     "ts": 1788829212000,
+     "count": 1
+    },
+    {
+     "title": "AI, chip firms among bidders for flagship Northern Metropolis tech hub at border",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366667/ai-chip-firms-among-bidders-flagship-northern-metropolis-tech-hub-border?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/eb6c3b95-30b9-45ba-84a8-d399e47cc32a_474cd379.jpg?itok=XL_MmtXk&v=1788782755",
+     "published": "2026-09-08T00:30:06+00:00",
+     "ts": 1788827406000,
+     "count": 1
+    },
+    {
+     "title": "In Singapore, malls for shopping only are going out of style",
+     "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366678/singapore-malls-shopping-only-are-going-out-style?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/6363d500-8fe8-4d4b-af61-e600006b229d_c8d2ffaa.jpg?itok=K4Tcr6aZ&v=1788791024",
+     "published": "2026-09-08T00:00:28+00:00",
+     "ts": 1788825628000,
+     "count": 1
+    },
+    {
+     "title": "Foreign, mainland students flock to Hong Kong sparking property demand in education sector",
+     "link": "https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/54e6ed36-2c47-4d11-bf25-22d816f0fa97_d32da076.jpg?itok=gYNaZtrp&v=1788748883",
+     "published": "2026-09-08T00:00:12+00:00",
+     "ts": 1788825612000,
+     "count": 1
+    },
+    {
+     "title": "Trump posts US Space Force uniforms based on Nazi-inspired movie outfits",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3366698/trump-posts-space-force-uniforms-derived-fascist-inspired-starship-troopers-outfits?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/16a0b9a5-8700-4bdb-a140-47f14670ff88_1d1c56f9.jpg?itok=7QsfV2pr&v=1788823484",
@@ -1830,7 +1974,7 @@
      "count": 1
     },
     {
-     "title": "Black boxes recovered from Amazon cargo plane crash in Miami",
+     "title": "Black boxes recovered from Amazon cargo plane that overran Miami runway",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3366697/black-boxes-recovered-amazon-cargo-plane-crash-miami?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/ac760fb7-7891-4eb1-a9d8-39041cedcb92_53304f84.jpg?itok=LfGxgHu3&v=1788821819",
@@ -1839,10 +1983,10 @@
      "count": 1
     },
     {
-     "title": "UK’s Burnham risks Trump anger with new sanctions on Israel",
+     "title": "Burnham risks friction with Trump over Israeli West Bank settlement sanctions",
      "link": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/ff735d31-4373-4066-bbc8-5f7f696267fe_88db368a.jpg?itok=iHQWNH89&v=1788820901",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/d1590cd4-e86e-4f29-9787-8baec4db808a_45ddb76b.jpg?itok=2WUZBf76&v=1788836585",
      "published": "2026-09-07T22:42:58+00:00",
      "ts": 1788820978000,
      "count": 1
@@ -1866,28 +2010,28 @@
      "count": 1
     },
     {
-     "title": "Netanyahu’s main challenger accuses Israeli PM of prioritising survival over security",
+     "title": "Netanyahu’s main election rival accuses Israeli PM of prioritising survival over security",
      "link": "https://www.scmp.com/news/world/middle-east/article/3366694/netanyahus-main-challenger-accuses-israeli-pm-prioritising-survival-over-security?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/ae159a7c-d7c6-42c1-a8a4-fed69eaaf63d_8a81c207.jpg?itok=uoquq0Sw&v=1788817227",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/ae159a7c-d7c6-42c1-a8a4-fed69eaaf63d_56ae41c1.jpg?itok=dRXi4n9l&v=1788831340",
      "published": "2026-09-07T20:51:15+00:00",
      "ts": 1788814275000,
      "count": 1
     },
     {
-     "title": "Canada set to hit back at Trump tariffs, risking wider trade war",
+     "title": "Canada’s retaliatory tariffs on US goods take effect as Trump targets Bombardier",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3366693/canada-set-hit-back-trump-tariffs-risking-wider-trade-war?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/68f9d322-bf3b-45ec-8200-63aa37ddd5be_294f3438.jpg?itok=HIEGgscx&v=1788811657",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/68f9d322-bf3b-45ec-8200-63aa37ddd5be_176dbd33.jpg?itok=xwfhOVgh&v=1788841881",
      "published": "2026-09-07T20:08:51+00:00",
      "ts": 1788811731000,
      "count": 1
     },
     {
-     "title": "New Panama Canal chief considers more cuts in transits due to El Nino",
+     "title": "New Panama Canal chief says El Nino could force further transit cuts",
      "link": "https://www.scmp.com/news/world/americas/article/3366692/new-panama-canal-chief-considers-more-cuts-transits-due-el-nino?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/d669f391-18b5-4a7d-82af-0e1641b92da8_093b3448.jpg?itok=GPg6oSQl&v=1788812520",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/121db748-9c13-4bf4-97be-9f88669f7f9c_3ee5785a.jpg?itok=UF0lBml1&v=1788829484",
      "published": "2026-09-07T19:43:10+00:00",
      "ts": 1788810190000,
      "count": 1
@@ -1902,7 +2046,7 @@
      "count": 1
     },
     {
-     "title": "Alleged killers of Australian, US surfers go on trial in Mexico",
+     "title": "Trial opens in Mexico over alleged murders of Australian, US surfers",
      "link": "https://www.scmp.com/news/world/americas/article/3366691/alleged-killers-australian-us-surfers-go-trial-mexico?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/46ed06db-42d4-4e5c-bc63-2e1230aeed20_d5ef43fb.jpg?itok=axDxITEA&v=1788807180",
@@ -1911,156 +2055,12 @@
      "count": 1
     },
     {
-     "title": "UN chief urges ‘accountability’ after 23 die in US immigration custody in 2026",
+     "title": "UN demands accountability after 23 die in US immigration custody in 2026",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3366690/un-chief-urges-accountability-after-23-die-us-immigration-custody-2026?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/35c5a6f5-82c4-4f33-9fc1-4ee7a978bde2_ec2086c0.jpg?itok=UV9HEa0R&v=1788803603",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/e82a9eb7-0c89-4122-8cdb-61637547ea50_e3d81684.jpg?itok=xK8G4uEl&v=1788828639",
      "published": "2026-09-07T17:32:59+00:00",
      "ts": 1788802379000,
-     "count": 1
-    },
-    {
-     "title": "King Charles clarifies status of Harry and Meghan after their return to UK",
-     "link": "https://www.scmp.com/news/world/europe/article/3366689/king-charles-clarifies-status-harry-and-meghan-after-their-return-uk?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/a9321d2b-b096-4786-b241-471944cb5a74_2ac71839.jpg?itok=zafknVrU&v=1788809359",
-     "published": "2026-09-07T17:14:09+00:00",
-     "ts": 1788801249000,
-     "count": 1
-    },
-    {
-     "title": "Sweden buys US rocket artillery for US$730 million amid Russia fears",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3366688/sweden-buys-us-rocket-artillery-us730-million?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/0e2b0b78-571c-45fc-a76d-cac917373165_28073bdf.jpg?itok=J4ab-raH&v=1788804095",
-     "published": "2026-09-07T16:49:27+00:00",
-     "ts": 1788799767000,
-     "count": 1
-    },
-    {
-     "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
-     "link": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/4e5e6607-b18c-403e-804b-3dc67ae6cb70_2ce607b7.jpg?itok=OZ214Lij&v=1788797556",
-     "published": "2026-09-07T16:14:24+00:00",
-     "ts": 1788797664000,
-     "count": 1
-    },
-    {
-     "title": "Kazakhstan, Hong Kong ‘can build biotech unicorns by linking talent and capital’",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366686/kazakhstan-hong-kong-can-build-biotech-unicorns-linking-talent-and-capital?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/b5d87b29-6fa3-4a4f-b9e0-a803bbb12c4d_07791f6b.jpg?itok=wkZfsarY&v=1788800268",
-     "published": "2026-09-07T15:53:57+00:00",
-     "ts": 1788796437000,
-     "count": 1
-    },
-    {
-     "title": "UN expert warns evidence of Israel’s ‘atrocity crimes’ risks being removed",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3366684/un-expert-warns-evidence-israels-atrocity-crimes-risks-being-removed?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/bcea027f-a8b7-46fc-9fe5-ede01e6aa9df_0282768c.jpg?itok=4__ZR5KK&v=1788808236",
-     "published": "2026-09-07T15:45:05+00:00",
-     "ts": 1788795905000,
-     "count": 1
-    },
-    {
-     "title": "How can Hong Kong, Central Asia build momentum on growing ties and go beyond MOUs?",
-     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366685/hong-kong-central-asia-push-deeper-economic-ties-beyond-finance?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/3305417c-e244-4f86-8fe9-30e5400731b0_accd7f61.jpg?itok=jFIvp0pa&v=1788807261",
-     "published": "2026-09-07T15:38:58+00:00",
-     "ts": 1788795538000,
-     "count": 1
-    },
-    {
-     "title": "North Korea, Russia open first road bridge in ‘new symbol of friendship’",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/e36a45fd-878e-494f-b9e1-0e59ebdbc09a_2fcb3509.jpg?itok=cftHwtR2&v=1788791482",
-     "published": "2026-09-07T15:00:18+00:00",
-     "ts": 1788793218000,
-     "count": 1
-    },
-    {
-     "title": "As clock counts down to Trump summit, Xi boosts global clout with diplomatic blitz",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3366643/clock-counts-down-trump-summit-xi-boosts-global-clout-diplomatic-blitz?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/08/588071aa-7c22-49b9-89b6-727592bcc8e9_1acf4160.jpg?itok=BEd2s7Gh&v=1788801921",
-     "published": "2026-09-07T15:00:11+00:00",
-     "ts": 1788793211000,
-     "count": 1
-    },
-    {
-     "title": "Hong Kong restaurant prosecuted after live newborn rat found in takeaway lunchbox",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3366649/hong-kong-restaurant-prosecuted-over-live-newborn-rat-found-takeaway-lunchbox?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/0cff7998-e0ff-4def-83ce-cdd942bb5357_8882b2c2.jpg?itok=HFJPZzQu&v=1788776657",
-     "published": "2026-09-07T14:54:23+00:00",
-     "ts": 1788792863000,
-     "count": 1
-    },
-    {
-     "title": "Hong Kong’s Nepalis gather for prayers on 13th day of flood mourning",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3366681/hong-kongs-nepalis-gather-prayers-13th-day-flood-mourning?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/dd4abcdd-490f-4b4e-83c0-0035c333a991_c8a4dcae.jpg?itok=PlUjuoYu&v=1788791836",
-     "published": "2026-09-07T14:45:34+00:00",
-     "ts": 1788792334000,
-     "count": 1
-    },
-    {
-     "title": "China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/565f327c-b13d-4775-971f-9cef5cd7b4fa_ebabd993.jpg?itok=IjS4n1Nc&v=1788791973",
-     "published": "2026-09-07T14:39:35+00:00",
-     "ts": 1788791975000,
-     "count": 1
-    },
-    {
-     "title": "War criminal Ratko Mladic buried with military honours in Serbia despite EU warnings",
-     "link": "https://www.scmp.com/news/world/europe/article/3366676/war-criminal-mladic-buried-military-honours-serbia-despite-eu-warnings?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/0b104a26-5604-46ac-8aa5-597c9c20d622_6f5092bb.jpg?itok=k2ZgJbfl&v=1788790714",
-     "published": "2026-09-07T14:18:53+00:00",
-     "ts": 1788790733000,
-     "count": 1
-    },
-    {
-     "title": "PLA Rocket Force highlights ‘major danger signal’ from Japan in nuclear terror study",
-     "link": "https://www.scmp.com/news/china/science/article/3366653/pla-rocket-force-highlights-major-danger-signal-japan-nuclear-terror-study?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/05d0f1c6-d136-4078-9854-12ce82bfbb2b_16252c2e.jpg?itok=esO05MFZ&v=1788777871",
-     "published": "2026-09-07T14:00:10+00:00",
-     "ts": 1788789610000,
-     "count": 1
-    },
-    {
-     "title": "Rare drone film of suspected dumping spurs Chinese agencies into investigation",
-     "link": "https://www.scmp.com/news/china/article/3366675/rare-drone-film-suspected-dumping-spurs-chinese-agencies-investigation?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/554caaaa-3a15-402d-91c4-de7086210aec_622b0de1.jpg?itok=e1PAXuCo&v=1788789499",
-     "published": "2026-09-07T13:58:22+00:00",
-     "ts": 1788789502000,
-     "count": 1
-    },
-    {
-     "title": "UN rights chief warns AI could pose ‘existential’ risk to humanity’",
-     "link": "https://www.scmp.com/news/world/europe/article/3366672/un-rights-chief-warns-ai-could-pose-existential-risk-humanity?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/f03cb0dc-2bd9-4cc1-8251-d38ab23adef1_3a8f2850.jpg?itok=RqX_15BX&v=1788786936",
-     "published": "2026-09-07T13:15:50+00:00",
-     "ts": 1788786950000,
-     "count": 1
-    },
-    {
-     "title": "Japan’s Shinjuku to ban more than half of holiday rentals",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3366670/japans-shinjuku-ban-more-half-holiday-rentals?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/0544dede-5d4b-4898-8bc9-b24b7a11a8f4_01970ccd.jpg?itok=3Ue3rNjU&v=1788785292",
-     "published": "2026-09-07T13:15:08+00:00",
-     "ts": 1788786908000,
      "count": 1
     }
    ]
