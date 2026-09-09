@@ -1,24 +1,36 @@
 {
- "updated": "2026-09-09T00:19:10.484030+00:00",
+ "updated": "2026-09-09T06:03:12.925862+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 11
+   "count": 14
   },
   {
    "term": "israeli",
    "count": 10
   },
   {
-   "term": "attacks",
-   "count": 8
+   "term": "hong",
+   "count": 9
+  },
+  {
+   "term": "kong",
+   "count": 9
+  },
+  {
+   "term": "sanctions",
+   "count": 7
+  },
+  {
+   "term": "trade",
+   "count": 7
   },
   {
    "term": "settlements",
    "count": 7
   },
   {
-   "term": "west",
+   "term": "israel",
    "count": 7
   },
   {
@@ -26,20 +38,20 @@
    "count": 7
   },
   {
-   "term": "china",
-   "count": 7
-  },
-  {
-   "term": "sanctions",
+   "term": "attacks",
    "count": 6
   },
   {
-   "term": "tankers",
+   "term": "alaska",
    "count": 6
   },
   {
-   "term": "colombia",
+   "term": "west",
    "count": 6
+  },
+  {
+   "term": "book",
+   "count": 5
   },
   {
    "term": "museum",
@@ -50,7 +62,7 @@
    "count": 5
   },
   {
-   "term": "five",
+   "term": "targets",
    "count": 5
   },
   {
@@ -58,59 +70,23 @@
    "count": 5
   },
   {
-   "term": "france",
-   "count": 5
-  },
-  {
-   "term": "goods",
-   "count": 5
-  },
-  {
    "term": "iran",
    "count": 5
   },
   {
-   "term": "iranian",
+   "term": "tankers",
    "count": 5
   },
   {
-   "term": "illegal",
+   "term": "china",
    "count": 5
   },
   {
-   "term": "rubio",
+   "term": "chinese",
    "count": 5
   },
   {
-   "term": "alaska",
-   "count": 5
-  },
-  {
-   "term": "middle",
-   "count": 5
-  },
-  {
-   "term": "east",
-   "count": 5
-  },
-  {
-   "term": "israel",
-   "count": 5
-  },
-  {
-   "term": "saudi",
-   "count": 5
-  },
-  {
-   "term": "2027",
-   "count": 4
-  },
-  {
-   "term": "book",
-   "count": 4
-  },
-  {
-   "term": "2026",
+   "term": "open",
    "count": 4
   },
   {
@@ -120,71 +96,87 @@
   {
    "term": "american",
    "count": 4
+  },
+  {
+   "term": "announces",
+   "count": 4
+  },
+  {
+   "term": "world",
+   "count": 4
+  },
+  {
+   "term": "smithsonian",
+   "count": 4
+  },
+  {
+   "term": "british",
+   "count": 4
+  },
+  {
+   "term": "france",
+   "count": 4
+  },
+  {
+   "term": "other",
+   "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
+   "count": 11
+  },
+  {
+   "name": "Hong Kong",
    "count": 9
   },
   {
    "name": "Israeli",
+   "count": 8
+  },
+  {
+   "name": "Israel",
    "count": 7
   },
   {
-   "name": "France",
-   "count": 5
+   "name": "Alaska",
+   "count": 6
   },
   {
    "name": "Iran",
    "count": 5
   },
   {
+   "name": "France",
+   "count": 4
+  },
+  {
+   "name": "Australia",
+   "count": 4
+  },
+  {
    "name": "Iranian",
-   "count": 5
+   "count": 4
   },
   {
-   "name": "Colombia",
-   "count": 5
-  },
-  {
-   "name": "Alaska",
-   "count": 5
+   "name": "Hawaii",
+   "count": 4
   },
   {
    "name": "Middle East",
-   "count": 5
+   "count": 4
   },
   {
-   "name": "Israel",
-   "count": 5
+   "name": "Chinese",
+   "count": 4
   },
   {
    "name": "China",
-   "count": 5
-  },
-  {
-   "name": "Meta",
    "count": 4
   },
   {
-   "name": "Canada",
-   "count": 4
-  },
-  {
-   "name": "Venezuela",
-   "count": 3
-  },
-  {
-   "name": "Singapore",
-   "count": 3
-  },
-  {
-   "name": "Champions League",
-   "count": 3
-  },
-  {
-   "name": "Albania",
+   "name": "Jordan",
    "count": 3
   },
   {
@@ -192,15 +184,11 @@
    "count": 3
   },
   {
-   "name": "Chinese",
+   "name": "Taiwan",
    "count": 3
   },
   {
-   "name": "Rubio",
-   "count": 3
-  },
-  {
-   "name": "Estados Unidos",
+   "name": "Canada",
    "count": 3
   },
   {
@@ -208,16 +196,28 @@
    "count": 3
   },
   {
-   "name": "Hawaii",
-   "count": 3
-  },
-  {
-   "name": "Israeli West Bank",
-   "count": 3
-  },
-  {
    "name": "West Bank",
    "count": 3
+  },
+  {
+   "name": "Netanyahu",
+   "count": 3
+  },
+  {
+   "name": "Asteroid",
+   "count": 2
+  },
+  {
+   "name": "Jerusalem",
+   "count": 2
+  },
+  {
+   "name": "Lucien Smith",
+   "count": 2
+  },
+  {
+   "name": "Dies",
+   "count": 2
   }
  ]
 }
