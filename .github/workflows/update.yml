@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: update-data
@@ -28,6 +29,10 @@ jobs:
       - name: Bajar datos (sismos, mercados, indicadores)
         run: python3 scripts/fetch_data.py
 
+      - name: Revisar salud de las fuentes
+        id: salud
+        run: python3 scripts/check_health.py
+
       - name: Commit de datos si hay cambios
         run: |
           git config user.name  "github-actions[bot]"
@@ -39,3 +44,13 @@ jobs:
             git commit -m "chore: actualizar datos $(date -u +%FT%TZ)"
             git push
           fi
+
+      - name: Avisar si hay fuentes caidas
+        if: steps.salud.outputs.alert == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CUERPO: ${{ steps.salud.outputs.body }}
+        run: |
+          gh issue create \
+            --title "NEWSDESK: fuentes caidas ($(date -u +%F))" \
+            --body "$CUERPO" || echo "No se pudo abrir el issue (no bloquea la corrida)."

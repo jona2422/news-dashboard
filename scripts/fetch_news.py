@@ -20,7 +20,10 @@ ROOT = os.path.dirname(HERE)
 DATA = os.path.join(ROOT, "data")
 SOURCES = os.path.join(HERE, "sources.json")
 
-UA = "Mozilla/5.0 (compatible; NewsDashboard/1.0; +https://github.com)"
+# UA de navegador real: varios medios (Times of Israel, ReliefWeb) devuelven 403 o
+# respuestas vacias a User-Agents que se identifican como bot.
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
 TIMEOUT = 20          # segundos por feed
 PER_BEAT = 28         # titulares maximos por seccion
 
@@ -37,6 +40,7 @@ def fetch(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
         "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
     })
     ctx = ssl.create_default_context()
     with _OPENER.open(req, timeout=TIMEOUT) as r:

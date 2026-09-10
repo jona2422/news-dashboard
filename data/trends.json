@@ -1,16 +1,20 @@
 {
- "updated": "2026-09-10T16:29:42.789452+00:00",
+ "updated": "2026-09-10T17:12:24.575803+00:00",
  "terms": [
   {
-   "term": "iran",
-   "count": 10
-  },
-  {
    "term": "2026",
-   "count": 8
+   "count": 9
   },
   {
-   "term": "trump",
+   "term": "iran",
+   "count": 9
+  },
+  {
+   "term": "china",
+   "count": 9
+  },
+  {
+   "term": "yemen",
    "count": 8
   },
   {
@@ -18,39 +22,51 @@
    "count": 8
   },
   {
-   "term": "sanctions",
-   "count": 8
+   "term": "tour",
+   "count": 7
   },
   {
-   "term": "china",
-   "count": 8
+   "term": "fire",
+   "count": 7
+  },
+  {
+   "term": "trump",
+   "count": 6
   },
   {
    "term": "green",
    "count": 6
   },
   {
-   "term": "hong",
+   "term": "houthis",
    "count": 6
   },
   {
-   "term": "kong",
+   "term": "port",
    "count": 6
+  },
+  {
+   "term": "israel",
+   "count": 6
+  },
+  {
+   "term": "show",
+   "count": 5
   },
   {
    "term": "world",
    "count": 5
   },
   {
-   "term": "tour",
+   "term": "north",
    "count": 5
   },
   {
-   "term": "fire",
+   "term": "strategic",
    "count": 5
   },
   {
-   "term": "houthis",
+   "term": "netanyahu",
    "count": 5
   },
   {
@@ -58,12 +74,12 @@
    "count": 5
   },
   {
-   "term": "israel",
+   "term": "hong",
    "count": 5
   },
   {
-   "term": "geese",
-   "count": 4
+   "term": "kong",
+   "count": 5
   },
   {
    "term": "take",
@@ -74,15 +90,27 @@
    "count": 4
   },
   {
+   "term": "control",
+   "count": 4
+  },
+  {
+   "term": "city",
+   "count": 4
+  },
+  {
    "term": "israeli",
    "count": 4
   },
   {
-   "term": "global",
+   "term": "gaza",
    "count": 4
   },
   {
-   "term": "yemen",
+   "term": "seize",
+   "count": 4
+  },
+  {
+   "term": "hutíes",
    "count": 4
   },
   {
@@ -90,45 +118,17 @@
    "count": 4
   },
   {
-   "term": "terremoto",
+   "term": "global",
    "count": 4
-  },
-  {
-   "term": "notification",
-   "count": 4
-  },
-  {
-   "term": "settlements",
-   "count": 4
-  },
-  {
-   "term": "announce",
-   "count": 3
-  },
-  {
-   "term": "2027",
-   "count": 3
-  },
-  {
-   "term": "album",
-   "count": 3
-  },
-  {
-   "term": "north",
-   "count": 3
-  },
-  {
-   "term": "music",
-   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Iran",
-   "count": 10
+   "count": 9
   },
   {
-   "name": "Trump",
+   "name": "Yemen",
    "count": 8
   },
   {
@@ -140,39 +140,47 @@
    "count": 7
   },
   {
-   "name": "Hong Kong",
+   "name": "Trump",
    "count": 6
   },
   {
    "name": "Houthis",
-   "count": 5
+   "count": 6
+  },
+  {
+   "name": "Israel",
+   "count": 6
   },
   {
    "name": "Green",
    "count": 5
   },
   {
-   "name": "Israel",
+   "name": "Hong Kong",
    "count": 5
   },
   {
-   "name": "Yemen",
+   "name": "Red Sea",
    "count": 4
   },
   {
-   "name": "Mocha",
-   "count": 3
-  },
-  {
    "name": "Israeli",
+   "count": 4
+  },
+  {
+   "name": "Gaza",
+   "count": 4
+  },
+  {
+   "name": "Netanyahu",
+   "count": 4
+  },
+  {
+   "name": "Missouri",
    "count": 3
   },
   {
-   "name": "Colombia",
-   "count": 3
-  },
-  {
-   "name": "Mandeb",
+   "name": "Mocha",
    "count": 3
   },
   {
@@ -184,7 +192,7 @@
    "count": 2
   },
   {
-   "name": "Middle East",
+   "name": "Amazon",
    "count": 2
   },
   {
@@ -192,19 +200,7 @@
    "count": 2
   },
   {
-   "name": "Google",
-   "count": 2
-  },
-  {
    "name": "Neki",
-   "count": 2
-  },
-  {
-   "name": "Astra",
-   "count": 2
-  },
-  {
-   "name": "European",
    "count": 2
   },
   {
@@ -212,11 +208,15 @@
    "count": 2
   },
   {
-   "name": "Missouri",
+   "name": "DR Congo",
    "count": 2
   },
   {
-   "name": "Russia",
+   "name": "October",
+   "count": 2
+  },
+  {
+   "name": "Mokha",
    "count": 2
   }
  ]

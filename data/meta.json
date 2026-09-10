@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-10T16:29:42.789452+00:00",
- "sources_ok": 35,
+ "updated": "2026-09-10T17:12:24.575803+00:00",
+ "sources_ok": 38,
  "sources_total": 38,
  "beats": [
   {
@@ -46,35 +46,11 @@
  ],
  "feeds": [
   {
-   "beat": "china",
-   "url": "https://chinadigitaltimes.net/feed/",
-   "source": "chinadigitaltimes.net",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "beat": "desastres",
-   "url": "https://reliefweb.int/disasters/rss.xml",
-   "source": "reliefweb.int",
-   "ok": false,
-   "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "medio_oriente",
-   "url": "https://www.timesofisrael.com/feed/",
-   "source": "timesofisrael.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": ""
   },
   {
@@ -174,11 +150,27 @@
    "error": ""
   },
   {
+   "beat": "china",
+   "url": "https://thediplomat.com/regions/east-asia/feed/",
+   "source": "East Asia – The Diplomat",
+   "ok": true,
+   "count": 96,
+   "error": ""
+  },
+  {
    "beat": "desastres",
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
    "count": 365,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
+   "url": "https://reliefweb.int/disasters/rss.xml",
+   "source": "ReliefWeb - Disasters",
+   "ok": true,
+   "count": 20,
    "error": ""
   },
   {
@@ -211,6 +203,14 @@
    "source": "Middle East and north Africa | The Guardian",
    "ok": true,
    "count": 20,
+   "error": ""
+  },
+  {
+   "beat": "medio_oriente",
+   "url": "https://www.timesofisrael.com/feed/",
+   "source": "The Times of Israel",
+   "ok": true,
+   "count": 13,
    "error": ""
   },
   {
@@ -274,7 +274,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 115,
+   "count": 116,
    "error": ""
   },
   {
