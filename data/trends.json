@@ -1,9 +1,13 @@
 {
- "updated": "2026-09-09T22:36:11.362280+00:00",
+ "updated": "2026-09-10T01:08:31.542814+00:00",
  "terms": [
   {
    "term": "apple",
-   "count": 15
+   "count": 13
+  },
+  {
+   "term": "iran",
+   "count": 13
   },
   {
    "term": "sanctions",
@@ -11,23 +15,19 @@
   },
   {
    "term": "trump",
-   "count": 10
-  },
-  {
-   "term": "israeli",
-   "count": 10
-  },
-  {
-   "term": "israel",
-   "count": 9
-  },
-  {
-   "term": "iran",
-   "count": 9
+   "count": 11
   },
   {
    "term": "iphone",
-   "count": 8
+   "count": 9
+  },
+  {
+   "term": "china",
+   "count": 9
+  },
+  {
+   "term": "israeli",
+   "count": 9
   },
   {
    "term": "west",
@@ -38,7 +38,11 @@
    "count": 8
   },
   {
-   "term": "china",
+   "term": "israel",
+   "count": 8
+  },
+  {
+   "term": "alaska",
    "count": 7
   },
   {
@@ -46,23 +50,11 @@
    "count": 7
   },
   {
-   "term": "alaska",
+   "term": "announces",
    "count": 6
   },
   {
    "term": "song",
-   "count": 5
-  },
-  {
-   "term": "announces",
-   "count": 5
-  },
-  {
-   "term": "2026",
-   "count": 5
-  },
-  {
-   "term": "council",
    "count": 5
   },
   {
@@ -86,15 +78,7 @@
    "count": 4
   },
   {
-   "term": "show",
-   "count": 4
-  },
-  {
    "term": "world",
-   "count": 4
-  },
-  {
-   "term": "history",
    "count": 4
   },
   {
@@ -102,49 +86,69 @@
    "count": 4
   },
   {
-   "term": "south",
-   "count": 4
-  },
-  {
-   "term": "chinese",
-   "count": 4
-  },
-  {
-   "term": "australia",
-   "count": 4
-  },
-  {
-   "term": "burnham",
+   "term": "midterm",
    "count": 4
   },
   {
    "term": "security",
    "count": 4
+  },
+  {
+   "term": "terremoto",
+   "count": 4
+  },
+  {
+   "term": "plan",
+   "count": 4
+  },
+  {
+   "term": "green",
+   "count": 4
+  },
+  {
+   "term": "notification",
+   "count": 4
+  },
+  {
+   "term": "hong",
+   "count": 4
+  },
+  {
+   "term": "kong",
+   "count": 4
+  },
+  {
+   "term": "tour",
+   "count": 3
   }
  ],
  "entities": [
   {
-   "name": "Trump",
-   "count": 10
-  },
-  {
-   "name": "Apple",
-   "count": 9
-  },
-  {
    "name": "Iran",
-   "count": 9
+   "count": 13
   },
   {
-   "name": "Israel",
-   "count": 8
-  },
-  {
-   "name": "Israeli",
-   "count": 8
+   "name": "Trump",
+   "count": 11
   },
   {
    "name": "China",
+   "count": 9
+  },
+  {
+   "name": "Apple",
+   "count": 8
+  },
+  {
+   "name": "Israel",
+   "count": 7
+  },
+  {
+   "name": "Alaska",
+   "count": 7
+  },
+  {
+   "name": "Israeli",
    "count": 7
   },
   {
@@ -152,15 +156,11 @@
    "count": 6
   },
   {
-   "name": "Alaska",
-   "count": 6
-  },
-  {
-   "name": "Australia",
+   "name": "Green",
    "count": 4
   },
   {
-   "name": "Green",
+   "name": "Hong Kong",
    "count": 4
   },
   {
@@ -168,23 +168,19 @@
    "count": 3
   },
   {
-   "name": "Apple Watch",
+   "name": "Australia",
    "count": 3
   },
   {
-   "name": "Ukraine",
+   "name": "Republican",
    "count": 3
   },
   {
-   "name": "Burnham",
+   "name": "Anthropic",
    "count": 3
   },
   {
-   "name": "UN Security Council",
-   "count": 3
-  },
-  {
-   "name": "Hong Kong",
+   "name": "Colombia",
    "count": 3
   },
   {
@@ -204,19 +200,23 @@
    "count": 2
   },
   {
-   "name": "South Park",
+   "name": "Muse",
    "count": 2
   },
   {
-   "name": "South America",
+   "name": "There",
+   "count": 2
+  },
+  {
+   "name": "Apple Watch",
+   "count": 2
+  },
+  {
+   "name": "Democrat John Fetterman",
    "count": 2
   },
   {
    "name": "Land",
-   "count": 2
-  },
-  {
-   "name": "Starmer",
    "count": 2
   }
  ]
