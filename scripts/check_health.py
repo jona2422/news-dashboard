@@ -82,6 +82,12 @@ def main():
             alerted[clave] = now.isoformat()
             nuevos.append("- La seccion **%s** se quedo sin titulares." % beat.get("name", beat["id"]))
 
+    # Un feed que se saca de sources.json no debe seguir arrastrando su racha.
+    vigentes = {f.get("url") for f in meta.get("feeds", [])}
+    vigentes |= {"beat:" + b["id"] for b in meta.get("beats", [])}
+    streaks = {k: v for k, v in streaks.items() if k in vigentes}
+    alerted = {k: v for k, v in alerted.items() if k in vigentes}
+
     health = {"streaks": streaks, "alerted": alerted, "checked": now.isoformat()}
     with open(HEALTH, "w", encoding="utf-8") as f:
         json.dump(health, f, ensure_ascii=False, indent=1)

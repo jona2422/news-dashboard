@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-10T17:14:36.636544+00:00",
- "sources_ok": 36,
- "sources_total": 38,
+ "updated": "2026-09-10T17:18:17.023921+00:00",
+ "sources_ok": 40,
+ "sources_total": 40,
  "beats": [
   {
    "id": "musica",
@@ -45,22 +45,6 @@
   }
  ],
  "feeds": [
-  {
-   "beat": "desastres",
-   "url": "https://reliefweb.int/disasters/rss.xml",
-   "source": "reliefweb.int",
-   "ok": false,
-   "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "medio_oriente",
-   "url": "https://www.timesofisrael.com/feed/",
-   "source": "timesofisrael.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
-  },
   {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -198,6 +182,22 @@
    "error": ""
   },
   {
+   "beat": "desastres",
+   "url": "https://www.unocha.org/rss.xml",
+   "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+   "ok": true,
+   "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
+   "url": "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss",
+   "source": "NASA Science",
+   "ok": true,
+   "count": 10,
+   "error": ""
+  },
+  {
    "beat": "medio_oriente",
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "source": "BBC News",
@@ -219,6 +219,22 @@
    "source": "Latest news from the Middle East, daily international news reports - France 24",
    "ok": true,
    "count": 29,
+   "error": ""
+  },
+  {
+   "beat": "medio_oriente",
+   "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+   "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+   "ok": true,
+   "count": 26,
+   "error": ""
+  },
+  {
+   "beat": "medio_oriente",
+   "url": "https://www.aljazeera.com/xml/rss/all.xml",
+   "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+   "ok": true,
+   "count": 25,
    "error": ""
   },
   {

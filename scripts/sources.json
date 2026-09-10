@@ -61,9 +61,10 @@
       "name": "Desastres Naturales",
       "feeds": [
         "https://www.gdacs.org/xml/rss.xml",
-        "https://reliefweb.int/disasters/rss.xml",
         "https://www.theguardian.com/world/natural-disasters/rss",
-        "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom"
+        "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
+        "https://www.unocha.org/rss.xml",
+        "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss"
       ]
     },
     {
@@ -72,8 +73,9 @@
       "feeds": [
         "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
         "https://www.theguardian.com/world/middleeast/rss",
-        "https://www.timesofisrael.com/feed/",
-        "https://www.france24.com/en/middle-east/rss"
+        "https://www.france24.com/en/middle-east/rss",
+        "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+        "https://www.aljazeera.com/xml/rss/all.xml"
       ]
     },
     {
