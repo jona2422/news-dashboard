@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-10T17:12:24.575803+00:00",
- "sources_ok": 38,
+ "updated": "2026-09-10T17:14:36.636544+00:00",
+ "sources_ok": 36,
  "sources_total": 38,
  "beats": [
   {
@@ -45,6 +45,22 @@
   }
  ],
  "feeds": [
+  {
+   "beat": "desastres",
+   "url": "https://reliefweb.int/disasters/rss.xml",
+   "source": "reliefweb.int",
+   "ok": false,
+   "count": 0,
+   "error": "sin items"
+  },
+  {
+   "beat": "medio_oriente",
+   "url": "https://www.timesofisrael.com/feed/",
+   "source": "timesofisrael.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
+  },
   {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -167,14 +183,6 @@
   },
   {
    "beat": "desastres",
-   "url": "https://reliefweb.int/disasters/rss.xml",
-   "source": "ReliefWeb - Disasters",
-   "ok": true,
-   "count": 20,
-   "error": ""
-  },
-  {
-   "beat": "desastres",
    "url": "https://www.theguardian.com/world/natural-disasters/rss",
    "source": "Natural disasters and extreme weather | The Guardian",
    "ok": true,
@@ -203,14 +211,6 @@
    "source": "Middle East and north Africa | The Guardian",
    "ok": true,
    "count": 20,
-   "error": ""
-  },
-  {
-   "beat": "medio_oriente",
-   "url": "https://www.timesofisrael.com/feed/",
-   "source": "The Times of Israel",
-   "ok": true,
-   "count": 13,
    "error": ""
   },
   {
