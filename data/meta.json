@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-11T06:04:52.865080+00:00",
- "sources_ok": 39,
+ "updated": "2026-09-11T11:29:37.037319+00:00",
+ "sources_ok": 40,
  "sources_total": 40,
  "beats": [
   {
@@ -46,19 +46,11 @@
  ],
  "feeds": [
   {
-   "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "brooklynvegan.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 415: Unsupported Media Type"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": ""
   },
   {
@@ -90,7 +82,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 136,
+   "count": 135,
    "error": ""
   },
   {
@@ -170,7 +162,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 326,
+   "count": 330,
    "error": ""
   },
   {
@@ -263,6 +255,14 @@
   },
   {
    "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "BrooklynVegan",
+   "ok": true,
+   "count": 15,
+   "error": ""
+  },
+  {
+   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -290,7 +290,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 113,
+   "count": 105,
    "error": ""
   },
   {
@@ -314,7 +314,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 28,
+   "count": 31,
    "error": ""
   },
   {
