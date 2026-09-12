@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T05:53:23.850204+00:00",
+ "updated": "2026-09-12T10:54:08.219949+00:00",
  "beats": [
   {
    "id": "musica",
@@ -264,6 +264,15 @@
    "name": "Arte · Cultura · Educación",
    "items": [
     {
+     "title": "The Battle of New York",
+     "link": "https://hyperallergic.com/the-battle-of-new-york/",
+     "source": "Hyperallergic",
+     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/IMG_4748.JPG",
+     "published": "2026-09-12T10:00:23+00:00",
+     "ts": 1789207223000,
+     "count": 1
+    },
+    {
      "title": "Thomas Ruff’s 9/11 JPEGs Broke My Heart All Over Again",
      "link": "https://news.artnet.com/art-world/thomas-ruff-9-11-photographs-david-zwirner-2808768",
      "source": "Artnet News",
@@ -505,15 +514,6 @@
      "published": "2026-09-11T13:23:23+00:00",
      "ts": 1789133003000,
      "count": 1
-    },
-    {
-     "title": "Go Rogue! Kenny Schachter Has Advice for Artists—and as Usual, Scoops!",
-     "link": "https://news.artnet.com/art-world/kenny-schachter-artist-advice-vito-acconci-yayoi-kusama-2810003",
-     "source": "Artnet News",
-     "image": "",
-     "published": "2026-09-11T13:16:08+00:00",
-     "ts": 1789132568000,
-     "count": 1
     }
    ]
   },
@@ -522,12 +522,39 @@
    "name": "Tecnología & IA",
    "items": [
     {
-     "title": "OpenAI agents attacked RubyGems back in May",
-     "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+     "title": "At this point I feel like AI companies selling Fear",
+     "link": "https://news.ycombinator.com/item?id=49670907",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-09-12T04:46:43+00:00",
-     "ts": 1789188403000,
+     "published": "2026-09-12T10:26:40+00:00",
+     "ts": 1789208800000,
+     "count": 1
+    },
+    {
+     "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+     "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-12T09:08:54+00:00",
+     "ts": 1789204134000,
+     "count": 1
+    },
+    {
+     "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+     "link": "https://eiln.github.io/posts/ane.html",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-12T07:54:03+00:00",
+     "ts": 1789199643000,
+     "count": 1
+    },
+    {
+     "title": "WeWorm: Zero-Click WeChat Worm",
+     "link": "https://calif.io/research/weworm",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-09-12T05:49:10+00:00",
+     "ts": 1789192150000,
      "count": 1
     },
     {
@@ -540,7 +567,7 @@
      "count": 1
     },
     {
-     "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+     "title": "Navier-Stokes Announcement",
      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
      "source": "Hacker News: Front Page",
      "image": "",
@@ -549,39 +576,12 @@
      "count": 1
     },
     {
-     "title": "Google no longer provides direct URLs in search results",
+     "title": "google.com/goto: Google's anti-scraping update",
      "link": "https://www.autom.dev/blog/google-search-goto-links",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-09-12T03:14:20+00:00",
      "ts": 1789182860000,
-     "count": 1
-    },
-    {
-     "title": "Pandas Should Go Extinct",
-     "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-12T02:42:08+00:00",
-     "ts": 1789180928000,
-     "count": 1
-    },
-    {
-     "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-     "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-12T00:40:32+00:00",
-     "ts": 1789173632000,
-     "count": 1
-    },
-    {
-     "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-     "link": "https://github.com/zachsaw/graphify-csharp",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-12T00:16:10+00:00",
-     "ts": 1789172170000,
      "count": 1
     },
     {
@@ -636,15 +636,6 @@
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
      "published": "2026-09-11T21:41:16+00:00",
      "ts": 1789162876000,
-     "count": 1
-    },
-    {
-     "title": "AI researchers debate how close we are to recursive self-improvement",
-     "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-09-11T21:35:29+00:00",
-     "ts": 1789162529000,
      "count": 1
     },
     {
@@ -772,6 +763,15 @@
      "published": "2026-09-11T19:00:00+00:00",
      "ts": 1789153200000,
      "count": 1
+    },
+    {
+     "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+     "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-09-11T18:58:01+00:00",
+     "ts": 1789153081000,
+     "count": 1
     }
    ]
   },
@@ -780,255 +780,255 @@
    "name": "Actualidad Global",
    "items": [
     {
-     "title": "In an exclusive interview with DW, Zelenskyy says he would be open to meeting with Putin at the G20 summit in Miami",
-     "link": "https://www.dw.com/en/in-an-exclusive-interview-with-dw-zelenskyy-says-he-would-be-open-to-meeting-with-putin-at-the-g20-summit-in-miami/a-79241703?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/940819e55a0c4db9da28dac9e164b246df7aa257/449_316_2551_2042/master/2551.jpg?width=140&quality=85&auto=format&fit=max&s=cd4dee037fe8d15f321ae96aa3cd2d79",
+     "published": "2026-09-12T10:44:16+00:00",
+     "ts": 1789209856000,
+     "count": 1
+    },
+    {
+     "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+     "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381d/live/31f31f20-ae8b-11f1-b92e-1f49080ec3cb.jpg",
+     "published": "2026-09-12T10:41:53+00:00",
+     "ts": 1789209713000,
+     "count": 1
+    },
+    {
+     "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+     "link": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cad574533a5de5a1eb333d303a2c514eb446b225/167_0_1498_1198/master/1498.jpg?width=140&quality=85&auto=format&fit=max&s=cbfe041890ee75078bf20407aa9466c9",
+     "published": "2026-09-12T10:37:48+00:00",
+     "ts": 1789209468000,
+     "count": 1
+    },
+    {
+     "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T10:37:10+00:00",
+     "ts": 1789209430000,
+     "count": 1
+    },
+    {
+     "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
+     "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T10:36:18+00:00",
+     "ts": 1789209378000,
+     "count": 2
+    },
+    {
+     "title": "London Underground workers exposed to asbestos without protective masks, documents reveal",
+     "link": "https://www.theguardian.com/environment/2026/sep/12/london-underground-workers-exposed-to-asbestos-without-protective-masks-documents-reveal",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/db76c34e97619d029e19ba52f162ef81ec03e4e1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=83e1cb8b4cf6b5c99f94e028f5fb7915",
+     "published": "2026-09-12T10:00:32+00:00",
+     "ts": 1789207232000,
+     "count": 1
+    },
+    {
+     "title": "Trump personality cult alive and well in Dallas – will it power Republican midterm success?",
+     "link": "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e242e61f3242e545a1b11e891ef78e2b119f549d/0_0_2505_2005/master/2505.jpg?width=140&quality=85&auto=format&fit=max&s=d650af10671e837a10f082f7def02d53",
+     "published": "2026-09-12T10:00:32+00:00",
+     "ts": 1789207232000,
+     "count": 1
+    },
+    {
+     "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+     "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee6/live/5bc27210-ad1e-11f1-826f-933990eae6f0.jpg",
+     "published": "2026-09-12T10:00:05+00:00",
+     "ts": 1789207205000,
+     "count": 1
+    },
+    {
+     "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+     "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fed%2F67dc55c34bc4922aa2c467bf9e69%2F009rajashehadeh.jpg",
+     "published": "2026-09-12T10:00:00+00:00",
+     "ts": 1789207200000,
+     "count": 1
+    },
+    {
+     "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T09:53:59+00:00",
+     "ts": 1789206839000,
+     "count": 1
+    },
+    {
+     "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
+     "link": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "published": "2026-09-12T05:46:00+00:00",
-     "ts": 1789191960000,
+     "published": "2026-09-12T09:37:00+00:00",
+     "ts": 1789205820000,
      "count": 1
     },
     {
-     "title": "‘War on terror’: How 9/11 changed the language of conflict",
-     "link": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+     "title": "What did US intelligence know before the 9/11 attacks?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T05:26:05+00:00",
-     "ts": 1789190765000,
+     "published": "2026-09-12T09:30:51+00:00",
+     "ts": 1789205451000,
      "count": 1
     },
     {
-     "title": "Chileans clash over 9/11 military coup legacy",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss",
+     "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+     "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T05:22:29+00:00",
-     "ts": 1789190549000,
+     "published": "2026-09-12T09:30:46+00:00",
+     "ts": 1789205446000,
      "count": 1
     },
     {
-     "title": "BRICS meets in India: What’s on the agenda, why it matters",
-     "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+     "title": "Why are the people building the most powerful AI so worried about what it could do?",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ff0%2Fa0340bef40fdbbc96a5c5127de82%2Fgettyimages-2285103434.jpg",
+     "published": "2026-09-12T09:00:00+00:00",
+     "ts": 1789203600000,
+     "count": 1
+    },
+    {
+     "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3668+0+0/resize/5500x3668!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F03%2Fd62a2bdb4a0eb5a218f50b31beb6%2F2025-09-29t144314z-1005934355-rc2q1hardga2-rtrmadp-3-usa-shooting-kirk.JPG",
+     "published": "2026-09-12T09:00:00+00:00",
+     "ts": 1789203600000,
+     "count": 1
+    },
+    {
+     "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg",
+     "published": "2026-09-12T09:00:00+00:00",
+     "ts": 1789203600000,
+     "count": 1
+    },
+    {
+     "title": "Corals as climate archive: Are El Niños intensifying?",
+     "link": "https://www.dw.com/en/corals-as-climate-archive-are-el-niños-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-09-12T08:53:00+00:00",
+     "ts": 1789203180000,
+     "count": 1
+    },
+    {
+     "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+     "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T05:22:09+00:00",
-     "ts": 1789190529000,
+     "published": "2026-09-12T08:49:01+00:00",
+     "ts": 1789202941000,
      "count": 1
     },
     {
-     "title": "Saudi Arabia shuts down oil pipeline, blaming drones from Iraq",
-     "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5522d0dc1ce938b9cf8dd25dc20f8c37ab803777/481_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5d590a412e7133a4302ff1b7f8572b28",
-     "published": "2026-09-12T05:22:01+00:00",
-     "ts": 1789190521000,
-     "count": 1
-    },
-    {
-     "title": "Sweden’s extremely close election could see far right enter government",
-     "link": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1892f1c9dfe4158cc24ba9a46d6fb9f6ca8b9d57/1263_0_4128_3302/master/4128.jpg?width=140&quality=85&auto=format&fit=max&s=678b3be3b864ec4bfe20a64ed45c5deb",
-     "published": "2026-09-12T05:00:30+00:00",
-     "ts": 1789189230000,
-     "count": 1
-    },
-    {
-     "title": "From black-clad agitators to an appeal for ‘Tommo’s Mum’: an unsettling week with the Patriot Platform",
-     "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/12/from-black-clad-agitators-to-an-appeal-for-tommos-mum-an-unsettling-week-with-the-patriot-platform",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/16d8b8745359c07dfd5fbf269af557d0d3998ebf/0_933_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=b490ec62e6a5fa368f7209830a12fcdd",
-     "published": "2026-09-12T05:00:30+00:00",
-     "ts": 1789189230000,
-     "count": 1
-    },
-    {
-     "title": "Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites",
-     "link": "https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d0882a446f99bc981a027c6281257de371c965f7/0_367_1939_1551/master/1939.jpg?width=140&quality=85&auto=format&fit=max&s=655df0908102b6b8328cfabeddbcaf96",
-     "published": "2026-09-12T05:00:24+00:00",
-     "ts": 1789189224000,
-     "count": 1
-    },
-    {
-     "title": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
-     "link": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/a27835cebb9f406a865b3b8e073a3bed081a1781/102_0_1498_1199/master/1498.jpg?width=140&quality=85&auto=format&fit=max&s=d3b83fef57dd82f01dc4ff5fb7dddbef",
-     "published": "2026-09-12T04:53:10+00:00",
-     "ts": 1789188790000,
-     "count": 1
-    },
-    {
-     "title": "‘The family paid the price’: India’s deadly online gambling crisis",
-     "link": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
+     "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
+     "link": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T04:46:56+00:00",
-     "ts": 1789188416000,
+     "published": "2026-09-12T08:47:19+00:00",
+     "ts": 1789202839000,
      "count": 1
     },
     {
-     "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-     "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5eff73a7a26c674254ad73697082a0fbe13b4973/0_254_4682_3746/master/4682.jpg?width=140&quality=85&auto=format&fit=max&s=d660079edc8a487ae03fde4a142d6057",
-     "published": "2026-09-12T04:45:28+00:00",
-     "ts": 1789188328000,
+     "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T08:42:28+00:00",
+     "ts": 1789202548000,
      "count": 1
     },
     {
-     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-     "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+     "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T08:38:48+00:00",
+     "ts": 1789202328000,
+     "count": 1
+    },
+    {
+     "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+     "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea8/live/13141950-ae5a-11f1-96a4-f736214d52e1.jpg",
-     "published": "2026-09-12T04:43:10+00:00",
-     "ts": 1789188190000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg",
+     "published": "2026-09-12T08:04:16+00:00",
+     "ts": 1789200256000,
      "count": 1
     },
     {
-     "title": "Alleged drone operator charged with murder after mistaken identity shooting in Sydney",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/12/alleged-drone-operator-charged-murder-mistaken-identity-shooting-western-sydney-ntwnfb",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/aa1a0c58c737ff251151ac120dbe8c86cccc3922/103_0_2440_1953/master/2440.jpg?width=140&quality=85&auto=format&fit=max&s=d8534ac180d8e0904acf3e08fce6e5ef",
-     "published": "2026-09-12T04:37:50+00:00",
-     "ts": 1789187870000,
+     "title": "Uber leaves two key African markets — and their drivers in despair",
+     "link": "https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-09-12T07:56:00+00:00",
+     "ts": 1789199760000,
      "count": 1
     },
     {
-     "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
-     "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
+     "title": "Trump may be BRICS’s best recruitment agent",
+     "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T04:27:27+00:00",
-     "ts": 1789187247000,
+     "published": "2026-09-12T07:44:06+00:00",
+     "ts": 1789199046000,
      "count": 1
     },
     {
-     "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-     "link": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d87abdac0b036f500e399324f955f7bf9c4a0a0d/472_0_2630_2104/master/2630.jpg?width=140&quality=85&auto=format&fit=max&s=88cbfe973d82d6d2e480804a02ed6bb3",
-     "published": "2026-09-12T04:00:24+00:00",
-     "ts": 1789185624000,
-     "count": 1
-    },
-    {
-     "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-     "link": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/77c897b509cf0697ded118227ba6c384383862e2/577_177_4910_3928/master/4910.jpg?width=140&quality=85&auto=format&fit=max&s=4652070efdb3a4522149da86bcedf615",
-     "published": "2026-09-12T04:00:23+00:00",
-     "ts": 1789185623000,
-     "count": 1
-    },
-    {
-     "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
+     "title": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+     "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T04:00:23+00:00",
-     "ts": 1789185623000,
+     "published": "2026-09-12T07:40:50+00:00",
+     "ts": 1789198850000,
      "count": 1
     },
     {
-     "title": "Mexico rescues eight from clandestine clinic run by violent Jalisco cartel",
-     "link": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
+     "title": "How to plan a wedding when you don’t know what tomorrow will bring",
+     "link": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "published": "2026-09-12T03:32:54+00:00",
-     "ts": 1789183974000,
+     "published": "2026-09-12T07:33:24+00:00",
+     "ts": 1789198404000,
      "count": 1
     },
     {
-     "title": "Court case brought by Zionist federation against journalist Mary Kostakidis ended ‘by consent’",
-     "link": "https://www.theguardian.com/media/2026/sep/12/journalist-mary-kostakidis-court-case-zionist-federation-australia-discontinued-by-consent-ntwnfb",
+     "title": "Reform UK given record £36m donation by British crypto billionaire",
+     "link": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-given-record-36m-donation-by-british-crypto-billionaire",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ec9a46f3bb24cbf4f513ab30030e55271ad72895/296_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b54dec9fa24d9b6310034315c4382283",
-     "published": "2026-09-12T03:21:50+00:00",
-     "ts": 1789183310000,
+     "image": "https://i.guim.co.uk/img/media/319efaaa8a51b89f1a7c7c8d9f333b4f9a9a3f10/3526_1231_3953_3162/master/3953.jpg?width=140&quality=85&auto=format&fit=max&s=7c6b52523ffdf9d0b1b0a492b7c0d198",
+     "published": "2026-09-12T07:23:22+00:00",
+     "ts": 1789197802000,
      "count": 1
     },
     {
-     "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-     "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
-     "published": "2026-09-12T03:02:28+00:00",
-     "ts": 1789182148000,
-     "count": 1
-    },
-    {
-     "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-     "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
-     "published": "2026-09-12T02:29:49+00:00",
-     "ts": 1789180189000,
-     "count": 1
-    },
-    {
-     "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-     "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T02:25:59+00:00",
-     "ts": 1789179959000,
-     "count": 1
-    },
-    {
-     "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T02:22:29+00:00",
-     "ts": 1789179749000,
-     "count": 1
-    },
-    {
-     "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T02:18:52+00:00",
-     "ts": 1789179532000,
-     "count": 1
-    },
-    {
-     "title": "US rapper Lil Durk found not guilty of murder-for-hire scheme",
-     "link": "https://www.theguardian.com/us-news/2026/sep/11/lil-durk-not-guilty-murder-for-hire-scheme",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1cf695e9e0ab14072ffd6995fb3a7022ecab68c7/371_0_3680_2944/master/3680.jpg?width=140&quality=85&auto=format&fit=max&s=be8e28916baa67135c15e67d0ba6fbbe",
-     "published": "2026-09-12T02:00:58+00:00",
-     "ts": 1789178458000,
-     "count": 1
-    },
-    {
-     "title": "Trump keeps touting $5,000 payments if Republicans retain control of Congress as some in his party question feasibility – as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/707512c9ed8bcd809bdbecffde64e09a38178b76/0_0_4408_3530/master/4408.jpg?width=140&quality=85&auto=format&fit=max&s=7cd441a2f328742db9235c664914a1be",
-     "published": "2026-09-12T01:58:55+00:00",
-     "ts": 1789178335000,
-     "count": 1
-    },
-    {
-     "title": "NSW police seize 36 illegal ebikes on northern beaches that are now destined for the crusher",
-     "link": "https://www.theguardian.com/world/2026/sep/12/nsw-police-seize-illegal-ebikes-northern-beaches-crushed",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/44fdbcef82225b9534c275ebaf0a0ef8dbc3ab90/995_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7d0e558a4c32a4a06c0480d1a31ab928",
-     "published": "2026-09-12T01:53:23+00:00",
-     "ts": 1789178003000,
-     "count": 1
-    },
-    {
-     "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
-     "link": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=140&quality=85&auto=format&fit=max&s=506207a5edcc635293e92a29e3466b72",
-     "published": "2026-09-12T01:37:17+00:00",
-     "ts": 1789177037000,
+     "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+     "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4878x3156+0+0/resize/4878x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2Fc9%2F5351d0454768a98200435fec42c0%2Fap26254344695170.jpg",
+     "published": "2026-09-12T07:18:55+00:00",
+     "ts": 1789197535000,
      "count": 1
     }
    ]
@@ -1038,6 +1038,96 @@
    "name": "Panamá · LatAm",
    "items": [
     {
+     "title": "Cómo el rápido avance de los hutíes en Yemen puede sumar una nueva y peligrosa dimensión a la guerra de Irán",
+     "link": "https://www.bbc.com/mundo/articles/crr4elkypzyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg",
+     "published": "2026-09-12T10:03:58+00:00",
+     "ts": 1789207438000,
+     "count": 1
+    },
+    {
+     "title": "La Administración de Sheinbaum se aleja de la política de hidrocarburos de López Obrador",
+     "link": "https://elpais.com/mexico/2026-09-12/la-administracion-de-sheinbaum-se-aleja-de-la-politica-de-hidrocarburos-de-lopez-obrador.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/SXC2CNZFXBPZPN5JKUAE7WGFMU.jpg?auth=851f550ba2052c145a110c114fa2fa3c8c044a7fcb156c259225cec0c653e19d",
+     "published": "2026-09-12T09:30:00+00:00",
+     "ts": 1789205400000,
+     "count": 1
+    },
+    {
+     "title": "Galápagos, el paraíso bajo asedio criminal",
+     "link": "https://elpais.com/america/2026-09-12/galapagos-el-paraiso-bajo-asedio-criminal.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/43JQW6F6ONGZFAODLCVHYG7ZJE.jpg?auth=e0ce91fb34b9b79e4860822363c748c25e6144cffd651be4293c6442fcfe4d4e",
+     "published": "2026-09-12T09:30:00+00:00",
+     "ts": 1789205400000,
+     "count": 1
+    },
+    {
+     "title": "El retorno de Flor Pucarina, la gran estrella de la música andina que cantaba para el futuro",
+     "link": "https://elpais.com/america-futura/el-chasqui-americano/2026-09-12/el-retorno-de-flor-pucarina-la-gran-estrella-de-la-musica-andina-que-cantaba-para-el-futuro.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/GSDFZLEHF5CDTBDQ2H42BOLCXI.jpg?auth=7f4ade63ff8e309a5513439477df07e7492aab17274bee8f9ea9ee19f64d5284",
+     "published": "2026-09-12T09:30:00+00:00",
+     "ts": 1789205400000,
+     "count": 1
+    },
+    {
+     "title": "EN FOTOS: Las protestas en Chile tras la decisión de Kast de no realizar ceremonias oficiales para conmemorar el golpe contra Salvador Allende",
+     "link": "https://www.bbc.com/mundo/articles/cz9z15k5kxpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e316/live/7f639ab0-ae8a-11f1-b92e-1f49080ec3cb.jpg",
+     "published": "2026-09-12T09:27:15+00:00",
+     "ts": 1789205235000,
+     "count": 1
+    },
+    {
+     "title": "Nueve horas frente a un computador: un niño de 11 años espera su turno en una audiencia masiva de menores migrantes",
+     "link": "https://elpais.com/us/migracion/2026-09-12/nueve-horas-frente-a-un-computador-un-nino-de-11-anos-espera-su-turno-en-una-audiencia-masiva-de-menores-migrantes.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/QA3J6CWQHVGMFLEYIEL6NPA3GE.jpg?auth=2c5c03b2a1e60f3526a5e06918a1b0821f31146d8f39fc9bb92490031ef423dd",
+     "published": "2026-09-12T09:00:00+00:00",
+     "ts": 1789203600000,
+     "count": 1
+    },
+    {
+     "title": "La angustia por entrar a una “mega audiencia” migratoria: “Si no llego, me ponen una orden de deportación”",
+     "link": "https://elpais.com/us/migracion/2026-09-12/la-angustia-por-entrar-a-una-mega-audiencia-migratoria-si-no-llego-me-ponen-una-orden-de-deportacion.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/NWQD22YY5ZHWDFXVVLMVOWSNU4.JPG?auth=7bf105881595078f991a6656716dd01550af53847eda2872141191d445777e8c",
+     "published": "2026-09-12T09:00:00+00:00",
+     "ts": 1789203600000,
+     "count": 1
+    },
+    {
+     "title": "Los BRICS se citan en Nueva Delhi en un contexto global complicado",
+     "link": "https://www.dw.com/es/los-brics-se-citan-en-nueva-delhi-en-un-contexto-global-complicado/a-79243413?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-09-12T08:26:00+00:00",
+     "ts": 1789201560000,
+     "count": 1
+    },
+    {
+     "title": "Carín León, el primer latino en la Sphere de Las Vegas, deja roncos a sus 20.000 fans tras la cancelación del jueves",
+     "link": "https://elpais.com/us/entretenimiento/2026-09-12/carin-leon-el-primer-latino-en-la-sphere-de-las-vegas-deja-roncos-a-sus-20000-fans-tras-la-cancelacion-del-jueves.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/47OWTG3WSVGSJOCL4UEK77FU54.jpg?auth=6402e9b94ce2b7a8675bdd03554ef8c1cac6943e729ff87a44148f6453a9bb32",
+     "published": "2026-09-12T08:13:27+00:00",
+     "ts": 1789200807000,
+     "count": 1
+    },
+    {
+     "title": "Volidimir Zelenski se muestra en DW dispuesto a reunirse con Putin en Miami",
+     "link": "https://www.dw.com/es/volidimir-zelenski-se-muestra-en-dw-dispuesto-a-reunirse-con-putin-en-miami/a-79242877?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-09-12T07:07:00+00:00",
+     "ts": 1789196820000,
+     "count": 1
+    },
+    {
      "title": "Hoy por hoy: Modernizar el sector eléctrico",
      "link": "https://www.prensa.com/opinion/hoy-por-hoy-modernizar-el-sector-electrico/",
      "source": "La Prensa",
@@ -1045,15 +1135,6 @@
      "published": "2026-09-12T05:18:05+00:00",
      "ts": 1789190285000,
      "count": 2
-    },
-    {
-     "title": "La ausencia de Trump en Nueva York marca el 25º aniversario del 11-S, presidido por el recuerdo a las víctimas",
-     "link": "https://elpais.com/us/2026-09-11/la-ausencia-de-trump-marca-el-25-aniversario-del-11-s-en-nueva-york-presidido-por-el-recuerdo-a-las-victimas.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/XHQLUOB7YNLZ3PDJID7DBFRFV4.jpg?auth=e18508b0b19289166a4c0d4c439066ccd7700127dd5ce5592585debdb2a28993",
-     "published": "2026-09-12T05:12:08+00:00",
-     "ts": 1789189928000,
-     "count": 1
     },
     {
      "title": "PASE-U: fechas para retirar la tarjeta en San Miguelito y Panamá Norte",
@@ -1071,15 +1152,6 @@
      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/11/6aa4db26c5766.jpeg",
      "published": "2026-09-12T05:09:19+00:00",
      "ts": 1789189759000,
-     "count": 1
-    },
-    {
-     "title": "Carín León y la decepción de 20.000 fans: el sonorense cancela un concierto en la Sphere y lo pospone un año",
-     "link": "https://elpais.com/us/entretenimiento/2026-09-11/carin-leon-y-la-decepcion-de-20000-fans-el-sonorense-cancela-un-concierto-en-la-sphere-y-lo-pospone-un-ano.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ODWBCQBSSFGAZAJFWJ32XWTMKM.jpg?auth=7b165dbafeaf4718c68f10b681b5c9d4eceb1c36caa4a7da6f6962959cff0b79",
-     "published": "2026-09-12T05:06:31+00:00",
-     "ts": 1789189591000,
      "count": 1
     },
     {
@@ -1173,120 +1245,48 @@
      "count": 1
     },
     {
-     "title": "Por qué España registró sus peores resultados educativos en la historia del informe PISA (y las causas de que hayan caído en todo el mundo)",
-     "link": "https://www.bbc.com/mundo/articles/cz6z0407lnlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc79/live/f9380c00-ae07-11f1-b561-83a33482e04f.jpg",
-     "published": "2026-09-12T03:58:57+00:00",
-     "ts": 1789185537000,
-     "count": 1
-    },
-    {
-     "title": "Al menos 26 niños mueren en un incendio en RD Congo",
-     "link": "https://www.dw.com/es/al-menos-26-niños-mueren-en-un-incendio-en-rd-congo/a-79241707?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-12T03:55:00+00:00",
-     "ts": 1789185300000,
-     "count": 1
-    },
-    {
-     "title": "La épica vida de Schwarzenegger, un culturista convertido en mito: “Si hubiera nacido en EE UU sería presidente”",
-     "link": "https://elpais.com/icon/2026-09-10/schwarzenegger-el-camino-a-la-perfeccion-de-un-mito-si-hubiera-nacido-en-ee-uu-seria-presidente.html",
+     "title": "Deported from the US to Liberia: ‘They had us chained up the whole trip’",
+     "link": "https://english.elpais.com/international/2026-09-12/deported-from-the-us-to-liberia-they-had-us-chained-up-the-whole-trip.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/3TEBI3FJNZHRVPLNC4V7LBXJPE.jpg?auth=93dee76f9a4c2d0b02d646aa757e0fe1764ab910dd9a1c67ab6bedf723e23ee0",
-     "published": "2026-09-12T03:30:00+00:00",
-     "ts": 1789183800000,
+     "image": "https://images.english.elpais.com/resizer/v2/QKZKIEP7IZAFPA7JPGRNSV4C4U.jpeg?auth=0635a2a6018bace41a20194a46519788b2c919fe9093709a660bce1c0bb1a1bd",
+     "published": "2026-09-12T04:00:00+00:00",
+     "ts": 1789185600000,
      "count": 1
     },
     {
-     "title": "PISA y la generación de las pantallas",
-     "link": "https://www.prensa.com/opinion/pisa-y-la-generacion-de-las-pantallas/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/KDIXJYAOUJC7RFDTKIR34K3NVM.jpg?auth=50fb798b80d03089c01053cbbcac72d3aa755004f5b7892187fca15b869571ec&smart=true&width=1024&height=822",
-     "published": "2026-09-12T03:00:00+00:00",
-     "ts": 1789182000000,
+     "title": "Claire Valdez, Democratic candidate for Congress: ‘We have to plan for life after the Trump administration’",
+     "link": "https://english.elpais.com/usa/2026-09-12/claire-valdez-democratic-candidate-for-congress-we-have-to-plan-for-life-after-the-trump-administration.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://images.english.elpais.com/resizer/v2/WNDBKSTMONGN5FY4D5DNOHBIIE.jpg?auth=5a25e5cd32a1558de1f4b9d620b2d6ce3ddaf645673104f90efdcdf90d63d013",
+     "published": "2026-09-12T04:00:00+00:00",
+     "ts": 1789185600000,
      "count": 1
     },
     {
-     "title": "El “vestido de la venganza” de Diana sale a subasta: el valor simbólico de una reivindicación personal",
-     "link": "https://www.france24.com/es/cultura/20260912-el-vestido-de-la-venganza-de-diana-sale-a-subasta-el-valor-simb%C3%B3lico-de-una-reivindicaci%C3%B3n-personal",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/67c2bbe0-ae47-11f1-aa52-005056a90284/w:1024/p:16x9/000-84L42ZQ.jpg",
-     "published": "2026-09-12T02:12:34+00:00",
-     "ts": 1789179154000,
+     "title": "The escalating threats on Europe’s borders",
+     "link": "https://english.elpais.com/international/2026-09-12/the-escalating-threats-on-europes-borders.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://images.english.elpais.com/resizer/v2/TRSFUI4SWVDRNL3HG3GZ2DWXGY.jpg?auth=3bbd1998286b35b7ba330899b5d5082e3f350a0dbbb0ccaf400089d9b32f950a",
+     "published": "2026-09-12T04:00:00+00:00",
+     "ts": 1789185600000,
      "count": 1
     },
     {
-     "title": "Temblor de 5.4 sacude Chiriquí",
-     "link": "https://www.prensa.com/sociedad/temblor-de-54-sacude-chiriqui/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/X3QHWBRIEND6RHK5XDO4C3QWG4.jpg?auth=0be653fab1fc1e4a05e54d6f00d5af7643d1b19e41d4b1e402b4c66c00405833&smart=true&width=1536&height=1043",
-     "published": "2026-09-12T02:09:24+00:00",
-     "ts": 1789178964000,
+     "title": "John Ternus, the hardware man who will steer Apple in the AI era",
+     "link": "https://english.elpais.com/technology/2026-09-12/john-ternus-the-hardware-man-who-will-steer-apple-in-the-ai-era.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://images.english.elpais.com/resizer/v2/6N3W6SOGAVOP3F7GDST4XHBBWM.jpg?auth=36ba9a389ebe0d07f3683711017cc9d13ea845762d72748b49e987687cfdfe9a",
+     "published": "2026-09-12T04:00:00+00:00",
+     "ts": 1789185600000,
      "count": 1
     },
     {
-     "title": "Política pública en Panamá: ¿quién paga la cuenta?",
-     "link": "https://www.prensa.com/opinion/politica-publica-en-panama-quien-paga-la-cuenta/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/LFRIJORWCRBEFOXW6YFJMOGTVU.jpeg?auth=768bbe48ff916f74944dbbe50d758aba910f38d4c6604bd5bcb011986230ea19&smart=true&width=4032&height=3024",
-     "published": "2026-09-12T02:00:00+00:00",
-     "ts": 1789178400000,
-     "count": 1
-    },
-    {
-     "title": "Corea del Norte lanzó múltiples misiles balísticos, asegura Seúl",
-     "link": "https://www.dw.com/es/corea-del-norte-lanzó-múltiples-misiles-balísticos-asegura-seúl/a-79241691?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-09-12T01:58:00+00:00",
-     "ts": 1789178280000,
-     "count": 1
-    },
-    {
-     "title": "Nuevos detalles de tiroteo en colegio de Medellín: joven de 17 años habría buscado a profesora; docente solicitó cambio a la Secretaría de Educación",
-     "link": "https://www.eltiempo.com/colombia/medellin/nuevos-detalles-de-tiroteo-en-colegio-de-medellin-joven-de-17-anos-habria-buscado-a-profesora-docente-solicito-cambio-a-la-secretaria-de-educacion-3585511",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/09/6aa1daf8e5241.jpeg",
-     "published": "2026-09-12T01:57:36+00:00",
-     "ts": 1789178256000,
-     "count": 1
-    },
-    {
-     "title": "Chile conmemora 53 años del golpe de Estado sin actos oficiales por primera vez en democracia",
-     "link": "https://www.france24.com/es/video/20260912-chile-conmemora-53-a%C3%B1os-del-golpe-de-estado-sin-actos-oficiales-por-primera-vez-en-democracia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/46f0e6a2-ae48-11f1-bd0d-005056bfb2b6/w:1024/p:16x9/ES-20260911-183411-183546-CS.jpg",
-     "published": "2026-09-12T01:26:55+00:00",
-     "ts": 1789176415000,
-     "count": 1
-    },
-    {
-     "title": "A siete meses de las elecciones, Marine Le Pen lidera las encuestas en Francia",
-     "link": "https://www.france24.com/es/video/20260912-a-siete-meses-de-las-elecciones-marine-le-pen-lidera-las-encuestas-en-francia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/eacd0cb2-ae46-11f1-b75f-005056a97e36/w:1024/p:16x9/ES-20260911-170930-171127-CS.jpg",
-     "published": "2026-09-12T01:25:35+00:00",
-     "ts": 1789176335000,
-     "count": 1
-    },
-    {
-     "title": "Nueva York conmemora los 25 años del 11-S con los nombres de las víctimas y un minuto de silencio",
-     "link": "https://www.france24.com/es/video/20260912-nueva-york-conmemora-los-25-a%C3%B1os-del-11-s-con-los-nombres-de-las-v%C3%ADctimas-y-un-minuto-de-silencio",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/ad2f5a60-ae3f-11f1-acde-005056bf30b7/w:1024/p:16x9/ES-20260911-170205-170404-CS.jpg",
-     "published": "2026-09-12T01:25:24+00:00",
-     "ts": 1789176324000,
-     "count": 1
-    },
-    {
-     "title": "¿Nos faltan médicos o nos falta un nuevo modelo sanitario?",
-     "link": "https://www.prensa.com/opinion/nos-faltan-medicos-o-nos-falta-un-nuevo-modelo-sanitario/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/DJFY7XOSJVGRJEU5VWHH32KPRE.png?auth=863766bae1a7494a1d82480ac80aa26a42600d2f59840f500e5c8541d565bd18&smart=true&width=1369&height=1149",
-     "published": "2026-09-12T01:25:00+00:00",
-     "ts": 1789176300000,
+     "title": "Carmody Grey, the philosopher who said no to Anthropic: ‘We are becoming lonelier and less intelligent’",
+     "link": "https://english.elpais.com/technology/2026-09-12/carmody-grey-the-philosopher-who-said-no-to-anthropic-we-are-becoming-lonelier-and-less-intelligent.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://images.english.elpais.com/resizer/v2/XJOUHM5DQ5DGNHGOJSZUWKSTIE.jpg?auth=8bd043eb801aa0ed240f96e5d54ce35b21d0c3cfcc550d664fb98ad02ce058a9",
+     "published": "2026-09-12T04:00:00+00:00",
+     "ts": 1789185600000,
      "count": 1
     }
    ]
@@ -1296,12 +1296,93 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "M 2.5 - 6 km SSW of Ojai, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545248",
+     "title": "M 3.5 - 86 km ENE of Punta Cana, Dominican Republic",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026255003",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-09-12T05:50:07.192000+00:00",
-     "ts": 1789192207192,
+     "published": "2026-09-12T10:38:51.294000+00:00",
+     "ts": 1789209531294,
+     "count": 1
+    },
+    {
+     "title": "M 3.4 - 9 km SW of Brentwood, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434122",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T09:58:55.449000+00:00",
+     "ts": 1789207135449,
+     "count": 1
+    },
+    {
+     "title": "M 2.7 - 5 km E of Lennox, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545392",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T09:56:56.480000+00:00",
+     "ts": 1789207016480,
+     "count": 1
+    },
+    {
+     "title": "M 6.6 - 115 km NNE of Teluknaga, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T09:55:55.038000+00:00",
+     "ts": 1789206955038,
+     "count": 1
+    },
+    {
+     "title": "M 4.9 - 147 km WNW of Sola, Vanuatu",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T09:54:07.040000+00:00",
+     "ts": 1789206847040,
+     "count": 1
+    },
+    {
+     "title": "M 4.5 - 63 km WSW of Santiago, Peru",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T09:47:54.066000+00:00",
+     "ts": 1789206474066,
+     "count": 1
+    },
+    {
+     "title": "M 2.6 - 7 km SSW of Volcano, Hawaii",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034072",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T09:41:48.560000+00:00",
+     "ts": 1789206108560,
+     "count": 2
+    },
+    {
+     "title": "M 4.2 - 57 km SSW of Ocós, Guatemala",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxv",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T08:53:39.040000+00:00",
+     "ts": 1789203219040,
+     "count": 1
+    },
+    {
+     "title": "M 3.9 - 62 km S of Cantwell, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbqvff",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T08:42:19.903000+00:00",
+     "ts": 1789202539903,
+     "count": 1
+    },
+    {
+     "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T08:11:57.520000+00:00",
+     "ts": 1789200717520,
      "count": 1
     },
     {
@@ -1309,9 +1390,99 @@
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156391",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-09-12T05:47:51.946000+00:00",
-     "ts": 1789192071946,
+     "published": "2026-09-12T07:50:48.762000+00:00",
+     "ts": 1789199448762,
      "count": 1
+    },
+    {
+     "title": "M 2.9 - 47 km E of Pedro Bay, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbnvva",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T07:49:57.040000+00:00",
+     "ts": 1789199397040,
+     "count": 1
+    },
+    {
+     "title": "M 2.7 - 10 km WNW of Wisdom, Montana",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxl",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T07:45:46.040000+00:00",
+     "ts": 1789199146040,
+     "count": 1
+    },
+    {
+     "title": "M 3.5 - 72 km NNE of Cruz Bay, U.S. Virgin Islands",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026255002",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T07:42:05.424000+00:00",
+     "ts": 1789198925424,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Albania",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031865",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-09-12T07:37:52+00:00",
+     "ts": 1789198672000,
+     "count": 188
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031887",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-09-12T07:27:04+00:00",
+     "ts": 1789198024000,
+     "count": 22
+    },
+    {
+     "title": "Green forest fire notification in Russian Federation, Kazakhstan",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031829",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-09-12T07:05:45+00:00",
+     "ts": 1789196745000,
+     "count": 2
+    },
+    {
+     "title": "M 3.6 - 139 km NNE of Suárez, Puerto Rico",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026255001",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T06:35:46.913000+00:00",
+     "ts": 1789194946913,
+     "count": 1
+    },
+    {
+     "title": "M 4.8 - 253 km WSW of Tual, Indonesia",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T06:31:47.040000+00:00",
+     "ts": 1789194707040,
+     "count": 1
+    },
+    {
+     "title": "M 2.5 - 6 km SSW of Ojai, CA",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545248",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-09-12T06:29:55.196000+00:00",
+     "ts": 1789194595196,
+     "count": 1
+    },
+    {
+     "title": "Green flood alert in Slovenia",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104152",
+     "source": "GDACS RSS information",
+     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2026_1104152.png",
+     "published": "2026-09-12T06:26:17+00:00",
+     "ts": 1789194377000,
+     "count": 14
     },
     {
      "title": "M 2.6 - 2 km E of Mount Vernon, Washington",
@@ -1330,33 +1501,6 @@
      "published": "2026-09-12T05:24:42.040000+00:00",
      "ts": 1789190682040,
      "count": 1
-    },
-    {
-     "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T05:18:56.709000+00:00",
-     "ts": 1789190336709,
-     "count": 1
-    },
-    {
-     "title": "M 2.9 - 47 km E of Pedro Bay, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbnvva",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T05:13:27.682000+00:00",
-     "ts": 1789190007682,
-     "count": 1
-    },
-    {
-     "title": "M 5.3 - 151 km WSW of Adak, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg",
-     "published": "2026-09-12T04:57:17.142000+00:00",
-     "ts": 1789189037142,
-     "count": 6
     },
     {
      "title": "M 2.9 - 5 km N of Stroud, Oklahoma",
@@ -1395,156 +1539,12 @@
      "count": 1
     },
     {
-     "title": "Green forest fire notification in Albania",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031865",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-09-12T03:38:32+00:00",
-     "ts": 1789184312000,
-     "count": 187
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031887",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-09-12T03:25:30+00:00",
-     "ts": 1789183530000,
-     "count": 22
-    },
-    {
-     "title": "M 6.6 - 115 km NNE of Teluknaga, Indonesia",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T03:15:58.212000+00:00",
-     "ts": 1789182958212,
-     "count": 1
-    },
-    {
      "title": "M 2.5 - 24 km SW of Petrolia, CA",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434022",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
      "published": "2026-09-12T03:07:21.019000+00:00",
      "ts": 1789182441019,
-     "count": 1
-    },
-    {
-     "title": "Green forest fire notification in Russian Federation, Kazakhstan",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031829",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-09-12T03:06:53+00:00",
-     "ts": 1789182413000,
-     "count": 2
-    },
-    {
-     "title": "M 3.2 - 23 km NW of Stanley, Idaho",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvy",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T02:31:39.040000+00:00",
-     "ts": 1789180299040,
-     "count": 1
-    },
-    {
-     "title": "M 2.7 - 22 km SSW of Sunrise, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbenku",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T02:19:36.879000+00:00",
-     "ts": 1789179576879,
-     "count": 1
-    },
-    {
-     "title": "M 4.9 - 235 km W of Puerto Chacabuco, Chile",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tguq",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T01:39:57.040000+00:00",
-     "ts": 1789177197040,
-     "count": 1
-    },
-    {
-     "title": "M 5.1 - South Sandwich Islands region",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T01:14:31.040000+00:00",
-     "ts": 1789175671040,
-     "count": 1
-    },
-    {
-     "title": "M 2.6 - 19 km NNW of Jal, New Mexico",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvj",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T01:01:31.040000+00:00",
-     "ts": 1789174891040,
-     "count": 1
-    },
-    {
-     "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-12T00:55:38.040000+00:00",
-     "ts": 1789174538040,
-     "count": 1
-    },
-    {
-     "title": "M 2.6 - 6 km W of Edwards Air Force Base, CA",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544704",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-11T22:37:13.760000+00:00",
-     "ts": 1789166233760,
-     "count": 1
-    },
-    {
-     "title": "M 2.5 - 104 km SSE of Old Harbor, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026savely",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-11T22:05:11.040000+00:00",
-     "ts": 1789164311040,
-     "count": 1
-    },
-    {
-     "title": "M 3.3 - 263 km SSE of Perryville, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrg",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-11T22:01:45.040000+00:00",
-     "ts": 1789164105040,
-     "count": 1
-    },
-    {
-     "title": "Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1564809",
-     "source": "GDACS RSS information",
-     "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1732548_1.png",
-     "published": "2026-09-11T21:43:40+00:00",
-     "ts": 1789163020000,
-     "count": 2
-    },
-    {
-     "title": "M 4.1 - 38 km WNW of Anse à Galets, Haiti",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrb",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-11T21:35:58.040000+00:00",
-     "ts": 1789162558040,
-     "count": 1
-    },
-    {
-     "title": "M 3.2 - 107 km SE of Akhiok, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saudea",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-09-11T21:15:25.040000+00:00",
-     "ts": 1789161325040,
      "count": 1
     }
    ]
@@ -1554,10 +1554,208 @@
    "name": "Medio Oriente",
    "items": [
     {
+     "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T10:37:10+00:00",
+     "ts": 1789209430000,
+     "count": 1
+    },
+    {
+     "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
+     "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T10:36:18+00:00",
+     "ts": 1789209378000,
+     "count": 1
+    },
+    {
+     "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T09:53:59+00:00",
+     "ts": 1789206839000,
+     "count": 1
+    },
+    {
+     "title": "Jewish ‘supercop’ runs on Arab ticket in Israeli polls – and sparks a storm",
+     "link": "https://www.france24.com/en/middle-east/20260912-jewish-supercop-runs-on-arab-ticket-in-israeli-polls-%E2%80%93-and-sparks-a-storm",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/2565ab34-a930-11f1-a8a8-005056a97e36/w:1024/p:16x9/000-C6XQ4JX.jpg",
+     "published": "2026-09-12T09:50:28+00:00",
+     "ts": 1789206628000,
+     "count": 1
+    },
+    {
+     "title": "Rosh Hashanah 2026: Humor, the shofar, and the ability to accept the absurdity of life",
+     "link": "https://www.jpost.com/judaism/jewish-holidays/article-908255",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2625,w_3937/737293",
+     "published": "2026-09-12T09:49:20+00:00",
+     "ts": 1789206560000,
+     "count": 1
+    },
+    {
+     "title": "Rosh Hashanah 2026: October 7 awakened Jewish connection - now we must make it last - opinion",
+     "link": "https://www.jpost.com/opinion/article-908219",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5190,w_7781/684295",
+     "published": "2026-09-12T09:48:59+00:00",
+     "ts": 1789206539000,
+     "count": 1
+    },
+    {
+     "title": "What did US intelligence know before the 9/11 attacks?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T09:30:51+00:00",
+     "ts": 1789205451000,
+     "count": 1
+    },
+    {
+     "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+     "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T09:30:46+00:00",
+     "ts": 1789205446000,
+     "count": 1
+    },
+    {
+     "title": "Explosion hits another weapons site in Bulgaria",
+     "link": "https://www.jpost.com/international/article-908409",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_719,w_1280/737516",
+     "published": "2026-09-12T09:22:37+00:00",
+     "ts": 1789204957000,
+     "count": 1
+    },
+    {
+     "title": "Syrian private airport plans spark outcry over mass graves, land rights",
+     "link": "https://www.jpost.com/middle-east/article-908408",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737515",
+     "published": "2026-09-12T08:50:22+00:00",
+     "ts": 1789203022000,
+     "count": 1
+    },
+    {
+     "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+     "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T08:49:01+00:00",
+     "ts": 1789202941000,
+     "count": 1
+    },
+    {
+     "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
+     "link": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T08:47:19+00:00",
+     "ts": 1789202839000,
+     "count": 1
+    },
+    {
+     "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T08:42:28+00:00",
+     "ts": 1789202548000,
+     "count": 1
+    },
+    {
+     "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T08:38:48+00:00",
+     "ts": 1789202328000,
+     "count": 1
+    },
+    {
+     "title": "How does breathing alter the brain? Inside the science of sighs with a world-leading neuroscientist",
+     "link": "https://www.jpost.com/health-and-wellness/article-908194",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_332,w_526/257552",
+     "published": "2026-09-12T07:49:49+00:00",
+     "ts": 1789199389000,
+     "count": 1
+    },
+    {
+     "title": "New robot helps Israeli surgeons crush kidney stones without the splash",
+     "link": "https://www.jpost.com/health-and-wellness/article-908199",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/649185",
+     "published": "2026-09-12T07:48:59+00:00",
+     "ts": 1789199339000,
+     "count": 1
+    },
+    {
+     "title": "Trump may be BRICS’s best recruitment agent",
+     "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T07:44:06+00:00",
+     "ts": 1789199046000,
+     "count": 1
+    },
+    {
+     "title": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+     "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T07:40:50+00:00",
+     "ts": 1789198850000,
+     "count": 1
+    },
+    {
+     "title": "How to plan a wedding when you don’t know what tomorrow will bring",
+     "link": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T07:33:24+00:00",
+     "ts": 1789198404000,
+     "count": 1
+    },
+    {
+     "title": "Man waving Palestinian flag tackled on Yankee Stadium field",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/man-waving-palestinian-flag-tackled-on-yankee-stadium-field?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T07:17:38+00:00",
+     "ts": 1789197458000,
+     "count": 1
+    },
+    {
+     "title": "Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/mondo-duplantis-jakob-ingebrigtsen-world-athletics-ultimate-championship?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T07:17:37+00:00",
+     "ts": 1789197457000,
+     "count": 1
+    },
+    {
+     "title": "Shelton advances to US Open 2026 men’s final for Zverev showdown",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-us-open-final-2026-alexander-zverev-tennis?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-09-12T06:40:00+00:00",
+     "ts": 1789195200000,
+     "count": 1
+    },
+    {
      "title": "Syrian national indicted for aiding 2025 Berlin Holocaust Memorial stabbing",
      "link": "https://www.jpost.com/diaspora/antisemitism/article-908407",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3335,w_5000/722952",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/722952",
      "published": "2026-09-12T06:22:53+00:00",
      "ts": 1789194173000,
      "count": 1
@@ -1606,204 +1804,6 @@
      "published": "2026-09-12T05:22:29+00:00",
      "ts": 1789190549000,
      "count": 1
-    },
-    {
-     "title": "BRICS meets in India: What’s on the agenda, why it matters",
-     "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T05:22:09+00:00",
-     "ts": 1789190529000,
-     "count": 1
-    },
-    {
-     "title": "Saudi Arabia shuts down oil pipeline, blaming drones from Iraq",
-     "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5522d0dc1ce938b9cf8dd25dc20f8c37ab803777/481_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5d590a412e7133a4302ff1b7f8572b28",
-     "published": "2026-09-12T05:22:01+00:00",
-     "ts": 1789190521000,
-     "count": 1
-    },
-    {
-     "title": "Live: Saudi Arabia oil pipeline shut down after drone attack launched from Iraq",
-     "link": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/fcfd196a-ae67-11f1-8755-005056bfb2b6/w:1024/p:16x9/000-C82R6NQ.jpg",
-     "published": "2026-09-12T05:19:32+00:00",
-     "ts": 1789190372000,
-     "count": 1
-    },
-    {
-     "title": "Call it the Miliband doctrine. Let’s hope the new Israeli settlement boycott is just the start | Steve Bloomfield",
-     "link": "https://www.theguardian.com/commentisfree/2026/sep/12/miliband-doctrine-israeli-settlement-boycott-uk-foreign-policy",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3bbeb2f7ecd8cbf67eebfdb2aa7db76274fc192c/1_0_4999_4000/master/4999.jpg?width=140&quality=85&auto=format&fit=max&s=97dd83aa90526badf09283fa5b5cb764",
-     "published": "2026-09-12T05:00:30+00:00",
-     "ts": 1789189230000,
-     "count": 1
-    },
-    {
-     "title": "‘The family paid the price’: India’s deadly online gambling crisis",
-     "link": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T04:46:56+00:00",
-     "ts": 1789188416000,
-     "count": 1
-    },
-    {
-     "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-     "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5eff73a7a26c674254ad73697082a0fbe13b4973/0_254_4682_3746/master/4682.jpg?width=140&quality=85&auto=format&fit=max&s=d660079edc8a487ae03fde4a142d6057",
-     "published": "2026-09-12T04:45:28+00:00",
-     "ts": 1789188328000,
-     "count": 1
-    },
-    {
-     "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
-     "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T04:27:27+00:00",
-     "ts": 1789187247000,
-     "count": 1
-    },
-    {
-     "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-     "link": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/d87abdac0b036f500e399324f955f7bf9c4a0a0d/472_0_2630_2104/master/2630.jpg?width=140&quality=85&auto=format&fit=max&s=88cbfe973d82d6d2e480804a02ed6bb3",
-     "published": "2026-09-12T04:00:24+00:00",
-     "ts": 1789185624000,
-     "count": 1
-    },
-    {
-     "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T04:00:23+00:00",
-     "ts": 1789185623000,
-     "count": 1
-    },
-    {
-     "title": "NYC Mayor Mamdani shares Rosh Hashanah message with Jewish community",
-     "link": "https://www.jpost.com/diaspora/article-908404",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3179,w_4769/736464",
-     "published": "2026-09-12T03:39:34+00:00",
-     "ts": 1789184374000,
-     "count": 1
-    },
-    {
-     "title": "Phuket Chabad House cancels Rosh Hashanah meal following anti-Israel protest",
-     "link": "https://www.jpost.com/diaspora/antisemitism/article-908402",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5179,w_7764/737511",
-     "published": "2026-09-12T03:39:31+00:00",
-     "ts": 1789184371000,
-     "count": 1
-    },
-    {
-     "title": "Mexico rescues eight from clandestine clinic run by violent Jalisco cartel",
-     "link": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T03:32:54+00:00",
-     "ts": 1789183974000,
-     "count": 1
-    },
-    {
-     "title": "CIA reveals Clinton administration was warned in 1998 of potential bin Laden plane attack",
-     "link": "https://www.jpost.com/international/article-908403",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_985,w_1846/737510",
-     "published": "2026-09-12T02:57:28+00:00",
-     "ts": 1789181848000,
-     "count": 1
-    },
-    {
-     "title": "Upcoming Israel-Lebanon talks to take place in Washington instead of Rome, US State Department says",
-     "link": "https://www.jpost.com/middle-east/article-908401",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3661,w_5486/727282",
-     "published": "2026-09-12T02:32:41+00:00",
-     "ts": 1789180361000,
-     "count": 1
-    },
-    {
-     "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-     "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T02:25:59+00:00",
-     "ts": 1789179959000,
-     "count": 1
-    },
-    {
-     "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T02:22:29+00:00",
-     "ts": 1789179749000,
-     "count": 1
-    },
-    {
-     "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T02:18:52+00:00",
-     "ts": 1789179532000,
-     "count": 1
-    },
-    {
-     "title": "Rosh Hashanah political quiz: What's going to happen in the Middle East in 5787?",
-     "link": "https://www.jpost.com/opinion/article-908291",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_405,w_720/670270",
-     "published": "2026-09-12T01:47:57+00:00",
-     "ts": 1789177677000,
-     "count": 1
-    },
-    {
-     "title": "CIA releases dozens of declassified documents on bin Laden prior to 9/11",
-     "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T01:22:41+00:00",
-     "ts": 1789176161000,
-     "count": 1
-    },
-    {
-     "title": "How Canadians are bracing for the impact of Trump’s trade war",
-     "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T00:52:00+00:00",
-     "ts": 1789174320000,
-     "count": 1
-    },
-    {
-     "title": "Gal Gadot and Jimmy Kimmel blow the shofar to celebrate Rosh Hashanah",
-     "link": "https://www.jpost.com/diaspora/article-908398",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2968,w_4000/737507",
-     "published": "2026-09-12T00:40:17+00:00",
-     "ts": 1789173617000,
-     "count": 1
-    },
-    {
-     "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
-     "link": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-09-12T00:36:44+00:00",
-     "ts": 1789173404000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,159 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+     "link": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/cad574533a5de5a1eb333d303a2c514eb446b225/167_0_1498_1198/master/1498.jpg?width=140&quality=85&auto=format&fit=max&s=cbfe041890ee75078bf20407aa9466c9",
+     "published": "2026-09-12T10:37:48+00:00",
+     "ts": 1789209468000,
+     "count": 1
+    },
+    {
+     "title": "Rescue operation launched after boat begins to sink at Hung Hom",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367304/rescue-operation-launched-after-boat-begins-sink-hung-hom?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/516bcefa-767a-43e7-a731-5cb422b8c58d_62ba772c.jpg?itok=Uz3vU2WK&v=1789209425",
+     "published": "2026-09-12T10:33:09+00:00",
+     "ts": 1789209189000,
+     "count": 1
+    },
+    {
+     "title": "Chinese leader Xi urges Brics to play its ‘due role’ in bringing peace to Middle East",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3367303/chinese-leader-xi-urges-brics-play-its-due-role-bringing-peace-middle-east?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/e158b47d-77ff-473e-8223-cd2d4ab32707_08a044e3.jpg?itok=K01mecO3&v=1789208462",
+     "published": "2026-09-12T10:21:03+00:00",
+     "ts": 1789208463000,
+     "count": 1
+    },
+    {
+     "title": "China urges US to ‘stop all spying’ or face retaliation, slams ‘gangster logic’",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3367300/china-urges-us-stop-all-spying-or-face-retaliation-slams-gangster-logic?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/80f56b17-58d7-4ee6-a6b2-b7b0672e8b5a_bf1d2c8e.jpg?itok=E9qtBr2N&v=1789207694",
+     "published": "2026-09-12T10:19:16+00:00",
+     "ts": 1789208356000,
+     "count": 1
+    },
+    {
+     "title": "A symbol of harmony: Chinese scientists discover earliest dragon-phoenix pairing in ancient tomb",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3367261/symbol-harmony-chinese-scientists-discover-earliest-dragon-phoenix-pairing-ancient-tomb?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/63404906-b42b-4ba9-944c-2e42d106d1a8_b5043bc8.jpg?itok=Q-sKLF6d&v=1789140284",
+     "published": "2026-09-12T10:00:08+00:00",
+     "ts": 1789207208000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong Police College becomes first government unit to roll out degree course",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367297/hong-kong-police-college-becomes-first-government-unit-roll-out-degree-course?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/e5953125-2623-46ce-a5ce-273c292f1b08_7ac648ce.jpg?itok=ej3W0bgL&v=1789206503",
+     "published": "2026-09-12T09:56:10+00:00",
+     "ts": 1789206970000,
+     "count": 1
+    },
+    {
+     "title": "Elderly couple found dead in Ma On Shan flat after foul odour reported",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3367296/elderly-couple-found-dead-ma-shan-flat-after-foul-odour-reported?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/73f2fc74-5f9e-4895-9530-53a5bd23b0c8_46536560.jpg?itok=4cxO8ZRo&v=1789205175",
+     "published": "2026-09-12T09:26:16+00:00",
+     "ts": 1789205176000,
+     "count": 1
+    },
+    {
+     "title": "Bodies from Philippine ferry arrive at port after fire killed at least 35",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3367295/bodies-philippine-ferry-arrive-port-after-fire-killed-least-35?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/9f0d4315-f5a0-4de8-9137-78e61da227e9_944ea558.jpg?itok=rYl0ZXME&v=1789204962",
+     "published": "2026-09-12T09:22:43+00:00",
+     "ts": 1789204963000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong’s ethnic minority groups can play key role in belt and road, summit hears",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3367293/hong-kongs-ethnic-minority-groups-can-play-key-role-belt-and-road-summit-hears?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/16c482ef-d36b-416f-a233-dd06228fc5e6_f17a43f9.jpg?itok=3guH_2-f&v=1789203130",
+     "published": "2026-09-12T08:52:20+00:00",
+     "ts": 1789203140000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong’s contemporary artists deserve a bigger stage in its museums",
+     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366824/hong-kongs-contemporary-artists-deserve-bigger-stage-its-museums?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/09/16aa83d8-8d11-4982-b536-3d0523e6f4b5_e3e31b7f.jpg?itok=92aJZfQp&v=1788951023",
+     "published": "2026-09-12T08:30:05+00:00",
+     "ts": 1789201805000,
+     "count": 1
+    },
+    {
+     "title": "Chinese men warned over bridal scams as marriage squeeze drives search for wives in Africa",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3367115/chinese-men-warned-over-bridal-scams-marriage-squeeze-drives-search-wives-africa?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/eea80e9b-5507-49fd-beda-aedc2ed58b61_9a95e1fe.jpg?itok=WM3JzK5p&v=1789087757",
+     "published": "2026-09-12T08:00:06+00:00",
+     "ts": 1789200006000,
+     "count": 1
+    },
+    {
+     "title": "No ‘red line’ for approving assemblies but security threats remain: police chief",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367291/no-red-line-approving-assemblies-security-threats-remain-police-chief?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/d3ddbd34-646e-45cf-bb0b-c79f515de706_40c1d2ed.jpg?itok=pYijOBDT&v=1789199723",
+     "published": "2026-09-12T07:55:26+00:00",
+     "ts": 1789199726000,
+     "count": 1
+    },
+    {
+     "title": "Probe launched after body of mainland Chinese woman found in sea off Lamma",
+     "link": "https://www.scmp.com/news/hong-kong/article/3367288/probe-launched-after-body-mainland-chinese-woman-found-sea-lamma?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/5a2595ba-8633-4ba8-ae0e-948615bae8bd_78b947f9.jpg?itok=ibnkKaDV&v=1789198947",
+     "published": "2026-09-12T07:42:34+00:00",
+     "ts": 1789198954000,
+     "count": 1
+    },
+    {
+     "title": "Police freeze HK$30 million in bank account of man who refused to share Mark Six prize",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367285/police-freeze-hk30-million-bank-account-man-who-refused-share-mark-six-prize?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/f7cd1040-0f06-445e-b6d0-ea4c518b1d73_51234c77.jpg?itok=jCj1H0eO&v=1789194888",
+     "published": "2026-09-12T06:34:57+00:00",
+     "ts": 1789194897000,
+     "count": 1
+    },
+    {
+     "title": "Alarm as Syria plans private jet hub on former torture site",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3367282/alarm-syria-plans-private-jet-hub-former-torture-site?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/f11c62f1-a6af-42f2-820d-c7c4f7701663_627ae7fa.jpg?itok=UIpRSEsP&v=1789192072",
+     "published": "2026-09-12T06:08:05+00:00",
+     "ts": 1789193285000,
+     "count": 1
+    },
+    {
+     "title": "US wants Taiwan to ‘serve as cannon fodder’ against mainland China: state media",
+     "link": "https://www.scmp.com/news/china/politics/article/3367283/us-wants-taiwan-serve-cannon-fodder-against-mainland-china-state-broadcaster-cctv?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/8a72fbf2-aeb8-4f98-bba6-79893a96d1e7_0a1453d9.jpg?itok=C_6CoSig&v=1789192732",
+     "published": "2026-09-12T06:00:16+00:00",
+     "ts": 1789192816000,
+     "count": 1
+    },
+    {
+     "title": "330-gram premature Chinese baby defies the odds to reach 2.5kg in 105 days, heads home",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3367257/330-gram-premature-chinese-baby-defies-odds-reach-25kg-105-days-heads-home?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/7a5a4eb3-873c-4a6d-963a-2f6db5809970_27cf8d90.jpg?itok=9AqWoViv&v=1789136219",
+     "published": "2026-09-12T06:00:13+00:00",
+     "ts": 1789192813000,
+     "count": 1
+    },
     {
      "title": "Hong Kong to table cooling-off period bill for beauty, fitness deals by mid-2027",
      "link": "https://www.scmp.com/news/hong-kong/society/article/3367280/hong-kong-table-cooling-period-bill-beauty-fitness-deals-mid-2027?utm_source=rss_feed",
@@ -1839,7 +1992,7 @@
      "count": 1
     },
     {
-     "title": "State funeral for Hong Kong’s first leader Tung Chee-hwa set for September 20",
+     "title": "State funeral for Hong Kong’s first chief executive Tung Chee-hwa set for September 20",
      "link": "https://www.scmp.com/news/hong-kong/politics/article/3367278/state-funeral-hong-kongs-first-leader-tung-chee-hwa-set-september-20?utm_source=rss_feed",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/4ac38697-9a12-444f-bba3-ee1c337b8e1a_52f4c79b.jpg?itok=OKQ8nUo4&v=1789186895",
@@ -1908,159 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/50e58e05-f55e-4c58-b42e-fb0634713b28_29a36dd8.jpg?itok=PQCPqmkL&v=1789178527",
      "published": "2026-09-12T02:02:16+00:00",
      "ts": 1789178536000,
-     "count": 1
-    },
-    {
-     "title": "Philippines bets big on rail, but can it fix a broken transport network?",
-     "link": "https://www.scmp.com/week-asia/economics/article/3367264/philippines-bets-big-rail-can-it-fix-broken-transport-network?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/85b83c5f-706c-440d-b0fe-43c3218215be_1460df5e.jpg?itok=LAwl1bz_&v=1789176919",
-     "published": "2026-09-12T02:00:08+00:00",
-     "ts": 1789178408000,
-     "count": 1
-    },
-    {
-     "title": "Internal splits threaten to slow Brics’ progress as bloc looks back on 20 years of growth",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3367252/internal-splits-threaten-slow-brics-progress-bloc-looks-back-20-years-growth?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/64f5ec13-e034-4216-9ee4-5eb78909b22e_75c89dec.jpg?itok=HgFc6pgK&v=1789134050",
-     "published": "2026-09-12T02:00:05+00:00",
-     "ts": 1789178405000,
-     "count": 1
-    },
-    {
-     "title": "Tung Chee-hwa had a clear vision for Hong Kong",
-     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367140/tung-chee-hwa-had-clear-vision-hong-kong?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/0ec15033-5f18-45f1-99d8-7c7a6a5bb511_0c38657d.jpg?itok=GDi7bMwO&v=1789098835",
-     "published": "2026-09-12T01:30:06+00:00",
-     "ts": 1789176606000,
-     "count": 1
-    },
-    {
-     "title": "China teen’s Hong Kong concert trip costs family government subsidies, sparking mixed reaction",
-     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3367251/china-teens-hong-kong-concert-trip-costs-family-government-subsidies-sparking-mixed-reaction?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/04b6f10d-80ec-47c2-96a9-6431b47861d3_f1d4d78a.jpg?itok=4ccQJQBq&v=1789133337",
-     "published": "2026-09-12T01:00:13+00:00",
-     "ts": 1789174813000,
-     "count": 1
-    },
-    {
-     "title": "North Korea launches missile salvo after US-South Korea-Japan drills",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3367271/north-korea-launches-missile-salvo-after-us-south-korea-japan-drills?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/9d92e14c-2ef2-4b16-bb90-03463ef81ed8_d19c6afb.jpg?itok=a-BERZrP&v=1789174801",
-     "published": "2026-09-12T01:00:11+00:00",
-     "ts": 1789174811000,
-     "count": 1
-    },
-    {
-     "title": "Taobao’s ‘ugly’ goods find a growing market among China’s young consumers",
-     "link": "https://www.scmp.com/business/china-business/article/3367218/taobaos-ugly-goods-find-growing-market-among-chinas-young-consumers?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/190bc846-0b90-4a67-a444-7b584cc9ff4c_535fc847.jpg?itok=fPQFt_ia&v=1789120428",
-     "published": "2026-09-12T01:00:09+00:00",
-     "ts": 1789174809000,
-     "count": 1
-    },
-    {
-     "title": "Senior official asked to resign over defective lifts at Queen Mary Hospital",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3367266/senior-official-asked-resign-over-defective-lifts-queen-mary-hospital?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/5d1050c7-98b4-4607-a492-149dc6b7d67c_d26e7a5b.jpg?itok=xrgwPJI1&v=1789148943",
-     "published": "2026-09-12T00:30:06+00:00",
-     "ts": 1789173006000,
-     "count": 1
-    },
-    {
-     "title": "Up in smoke: why Southeast Asia failed to halt the haze",
-     "link": "https://www.scmp.com/week-asia/health-environment/article/3367217/smoke-how-southeast-asia-bungled-its-haze-response?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/b178c2f2-da09-4b60-9234-21b6ee6f1e81_951cb934.jpg?itok=KsBPnEh-&v=1789120269",
-     "published": "2026-09-12T00:00:11+00:00",
-     "ts": 1789171211000,
-     "count": 1
-    },
-    {
-     "title": "Ex-Canada PM Jean Chretien tells US: ‘never mistake our generosity for weakness’",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3367270/ex-canada-pm-jean-chretien-tells-us-never-mistake-our-generosity-weakness?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/b98c7530-436b-4a2b-bec9-bb87a8d12c58_da7575e9.jpg?itok=hUdpTJSA&v=1789168450",
-     "published": "2026-09-11T23:14:21+00:00",
-     "ts": 1789168461000,
-     "count": 1
-    },
-    {
-     "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
-     "link": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/2fa2c2d2-c379-4b28-83ab-ce3757e0b054_2f8d7256.jpg?itok=y51S8wFZ&v=1789166171",
-     "published": "2026-09-11T22:36:20+00:00",
-     "ts": 1789166180000,
-     "count": 1
-    },
-    {
-     "title": "AI fight shadows final preparations for Xi Jinping’s White House visit to meet Donald Trump",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3367242/ai-fight-shadows-final-preparations-xi-jinpings-white-house-visit?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/c8859465-6ffc-4dad-9781-c0df85154926_e5198d5d.jpg?itok=q28Js8eG&v=1789127011",
-     "published": "2026-09-11T22:00:10+00:00",
-     "ts": 1789164010000,
-     "count": 1
-    },
-    {
-     "title": "Saudi pipeline that bypasses Hormuz shut after attacks",
-     "link": "https://www.scmp.com/news/world/middle-east/article/3367268/saudi-pipeline-bypasses-hormuz-shut-after-attacks?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/c0e2489d-be22-48e0-b480-78fd027d373f_ddbe8960.jpg?itok=OkQ3SOU0&v=1789158282",
-     "published": "2026-09-11T20:24:55+00:00",
-     "ts": 1789158295000,
-     "count": 1
-    },
-    {
-     "title": "US boy, 15, rescued after clinging to capsized boat for days in Alaska’s Bering Sea",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3367267/us-boy-15-rescued-after-clinging-capsized-boat-days-alaskas-bering-sea?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/56710ba1-d402-4b85-b598-6bcc261e66d0_d3c5a866.jpg?itok=Dw61vlPj&v=1789154789",
-     "published": "2026-09-11T19:26:39+00:00",
-     "ts": 1789154799000,
-     "count": 1
-    },
-    {
-     "title": "Americans mark 25 years since 9/11 attacks amid enduring grief, reflection",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3367265/americans-mark-25-years-9/11-attacks-amid-enduring-grief-reflection?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/6d93f737-5de2-45fb-bfb9-f3fcd6a8b38f_a3ffb4f7.jpg?itok=O9lG0qjx&v=1789146391",
-     "published": "2026-09-11T17:06:42+00:00",
-     "ts": 1789146402000,
-     "count": 1
-    },
-    {
-     "title": "Man arrested after allegedly refusing to share HK$30m Mark Six jackpot with group",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367263/man-arrested-after-allegedly-refusing-share-hk30m-mark-six-jackpot-group?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/bc95a1d5-5978-451a-919d-d22ff5c1b53b_0675b562.jpg?itok=jwf2aA4g&v=1789144240",
-     "published": "2026-09-11T16:15:08+00:00",
-     "ts": 1789143308000,
-     "count": 1
-    },
-    {
-     "title": "Brazil’s Flavio Bolsonaro under investigation over alleged corruption",
-     "link": "https://www.scmp.com/news/world/americas/article/3367262/brazils-flavio-bolsonaro-under-investigation-over-alleged-corruption?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/66346c39-c3a5-4c36-949c-b53ab7dc212b_8f1e2d83.jpg?itok=Yyn6Vwew&v=1789141545",
-     "published": "2026-09-11T15:45:55+00:00",
-     "ts": 1789141555000,
-     "count": 1
-    },
-    {
-     "title": "Sweden heads into final stretch before key election",
-     "link": "https://www.scmp.com/news/world/europe/article/3367260/sweden-heads-final-stretch-key-election?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/0775bae9-0712-44d7-9a8e-b8bc63a7646d_8558d142.jpg?itok=3daCiGzi&v=1789139510",
-     "published": "2026-09-11T15:12:02+00:00",
-     "ts": 1789139522000,
      "count": 1
     }
    ]
