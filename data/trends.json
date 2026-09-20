@@ -1,32 +1,48 @@
 {
- "updated": "2026-09-20T12:27:21.206619+00:00",
+ "updated": "2026-09-20T16:51:34.014110+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 11
+   "count": 15
+  },
+  {
+   "term": "drones",
+   "count": 10
+  },
+  {
+   "term": "hong",
+   "count": 9
+  },
+  {
+   "term": "kong",
+   "count": 9
   },
   {
    "term": "sheeran",
    "count": 8
   },
   {
-   "term": "hong",
+   "term": "china",
    "count": 8
   },
   {
-   "term": "kong",
-   "count": 8
-  },
-  {
-   "term": "saudi",
+   "term": "arch",
    "count": 7
+  },
+  {
+   "term": "military",
+   "count": 7
+  },
+  {
+   "term": "show",
+   "count": 6
   },
   {
    "term": "gaza",
    "count": 6
   },
   {
-   "term": "israeli",
+   "term": "complex",
    "count": 6
   },
   {
@@ -34,7 +50,7 @@
    "count": 6
   },
   {
-   "term": "china",
+   "term": "alaska",
    "count": 6
   },
   {
@@ -42,47 +58,35 @@
    "count": 6
   },
   {
+   "term": "macklemore",
+   "count": 5
+  },
+  {
+   "term": "behind",
+   "count": 5
+  },
+  {
+   "term": "washington",
+   "count": 5
+  },
+  {
+   "term": "tour",
+   "count": 4
+  },
+  {
+   "term": "record",
+   "count": 4
+  },
+  {
    "term": "album",
-   "count": 5
-  },
-  {
-   "term": "show",
-   "count": 5
-  },
-  {
-   "term": "years",
-   "count": 5
-  },
-  {
-   "term": "latest",
-   "count": 5
-  },
-  {
-   "term": "attack",
-   "count": 5
-  },
-  {
-   "term": "alaska",
-   "count": 5
+   "count": 4
   },
   {
    "term": "israel",
    "count": 4
   },
   {
-   "term": "west",
-   "count": 4
-  },
-  {
-   "term": "free",
-   "count": 4
-  },
-  {
-   "term": "does",
-   "count": 4
-  },
-  {
-   "term": "near",
+   "term": "together",
    "count": 4
   },
   {
@@ -90,57 +94,53 @@
    "count": 4
   },
   {
-   "term": "hundreds",
+   "term": "contra",
    "count": 4
   },
   {
-   "term": "drones",
-   "count": 4
+   "term": "philadelphia",
+   "count": 3
   },
   {
-   "term": "storm",
-   "count": 4
+   "term": "breaks",
+   "count": 3
   },
   {
-   "term": "japan",
-   "count": 4
+   "term": "west",
+   "count": 3
   },
   {
-   "term": "madrid",
-   "count": 4
+   "term": "week",
+   "count": 3
   },
   {
-   "term": "ukraine",
-   "count": 4
+   "term": "good",
+   "count": 3
   },
   {
-   "term": "años",
-   "count": 4
-  },
-  {
-   "term": "argentina",
-   "count": 4
+   "term": "contemporary",
+   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 9
+   "count": 13
   },
   {
    "name": "Hong Kong",
+   "count": 9
+  },
+  {
+   "name": "China",
    "count": 8
   },
   {
-   "name": "Gaza",
-   "count": 6
-  },
-  {
-   "name": "Israeli",
-   "count": 6
-  },
-  {
    "name": "Iran",
+   "count": 6
+  },
+  {
+   "name": "Alaska",
    "count": 6
   },
   {
@@ -148,63 +148,55 @@
    "count": 6
   },
   {
-   "name": "China",
+   "name": "Gaza",
    "count": 5
   },
   {
-   "name": "Saudi",
+   "name": "Washington",
    "count": 5
   },
   {
-   "name": "Alaska",
-   "count": 5
+   "name": "Israel",
+   "count": 4
   },
   {
    "name": "Moscow",
    "count": 4
   },
   {
+   "name": "Netanyahu",
+   "count": 3
+  },
+  {
+   "name": "Ucrania",
+   "count": 3
+  },
+  {
+   "name": "Moscú",
+   "count": 3
+  },
+  {
    "name": "Japan",
-   "count": 4
+   "count": 3
   },
   {
-   "name": "Ukraine",
-   "count": 4
-  },
-  {
-   "name": "Israel",
+   "name": "Israeli",
    "count": 3
   },
   {
    "name": "Ed Sheeran",
-   "count": 3
+   "count": 2
   },
   {
-   "name": "Google",
-   "count": 3
-  },
-  {
-   "name": "West Bank",
-   "count": 3
-  },
-  {
-   "name": "Chile",
-   "count": 3
-  },
-  {
-   "name": "Asian Games",
-   "count": 3
-  },
-  {
-   "name": "Puerto Rico",
-   "count": 3
-  },
-  {
-   "name": "Chinese",
-   "count": 3
+   "name": "Philadelphia Concert",
+   "count": 2
   },
   {
    "name": "Dropkick Murphys",
+   "count": 2
+  },
+  {
+   "name": "Germany",
    "count": 2
   },
   {
@@ -212,11 +204,19 @@
    "count": 2
   },
   {
-   "name": "Gemini",
+   "name": "Meta",
    "count": 2
   },
   {
-   "name": "Palestinian",
+   "name": "Huawei",
+   "count": 2
+  },
+  {
+   "name": "Kenya",
+   "count": 2
+  },
+  {
+   "name": "Ngetich",
    "count": 2
   }
  ]
