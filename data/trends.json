@@ -1,32 +1,52 @@
 {
- "updated": "2026-09-19T23:12:02.394726+00:00",
+ "updated": "2026-09-20T01:15:15.881631+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 18
+   "count": 13
+  },
+  {
+   "term": "saudi",
+   "count": 13
   },
   {
    "term": "china",
    "count": 10
   },
   {
-   "term": "force",
-   "count": 7
+   "term": "riyadh",
+   "count": 8
   },
   {
-   "term": "saudi",
-   "count": 7
+   "term": "sheeran",
+   "count": 6
   },
   {
-   "term": "iran",
-   "count": 7
+   "term": "gaza",
+   "count": 6
+  },
+  {
+   "term": "israel",
+   "count": 6
+  },
+  {
+   "term": "show",
+   "count": 6
   },
   {
    "term": "tour",
    "count": 6
   },
   {
-   "term": "israel",
+   "term": "houthis",
+   "count": 6
+  },
+  {
+   "term": "iran",
+   "count": 6
+  },
+  {
+   "term": "president",
    "count": 6
   },
   {
@@ -38,6 +58,26 @@
    "count": 6
   },
   {
+   "term": "macklemore",
+   "count": 5
+  },
+  {
+   "term": "near",
+   "count": 5
+  },
+  {
+   "term": "attack",
+   "count": 5
+  },
+  {
+   "term": "capital",
+   "count": 5
+  },
+  {
+   "term": "houthi",
+   "count": 5
+  },
+  {
    "term": "greenland",
    "count": 5
   },
@@ -46,15 +86,7 @@
    "count": 5
   },
   {
-   "term": "president",
-   "count": 5
-  },
-  {
    "term": "rico",
-   "count": 5
-  },
-  {
-   "term": "kippur",
    "count": 5
   },
   {
@@ -66,81 +98,57 @@
    "count": 4
   },
   {
-   "term": "show",
-   "count": 4
-  },
-  {
-   "term": "think",
-   "count": 4
-  },
-  {
-   "term": "head",
-   "count": 4
-  },
-  {
-   "term": "keep",
-   "count": 4
-  },
-  {
-   "term": "gaza",
-   "count": 4
-  },
-  {
    "term": "tech",
    "count": 4
   },
   {
-   "term": "riyadh",
+   "term": "security",
    "count": 4
   },
   {
-   "term": "pardons",
+   "term": "airport",
    "count": 4
   },
   {
-   "term": "wounded",
+   "term": "claim",
    "count": 4
   },
   {
-   "term": "houthis",
+   "term": "forces",
    "count": 4
   },
   {
-   "term": "create",
-   "count": 4
-  },
-  {
-   "term": "green",
-   "count": 4
-  },
-  {
-   "term": "fire",
-   "count": 4
-  },
-  {
-   "term": "notification",
+   "term": "attacks",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 17
+   "count": 12
+  },
+  {
+   "name": "Saudi",
+   "count": 10
+  },
+  {
+   "name": "Riyadh",
+   "count": 8
   },
   {
    "name": "China",
    "count": 8
   },
   {
-   "name": "Iran",
-   "count": 7
-  },
-  {
-   "name": "AI Force",
+   "name": "Gaza",
    "count": 6
   },
   {
-   "name": "Saudi",
+   "name": "Houthis",
+   "count": 6
+  },
+  {
+   "name": "Iran",
    "count": 6
   },
   {
@@ -148,11 +156,15 @@
    "count": 6
   },
   {
-   "name": "Greenland",
+   "name": "Israel",
    "count": 5
   },
   {
-   "name": "Israel",
+   "name": "Houthi",
+   "count": 5
+  },
+  {
+   "name": "Greenland",
    "count": 5
   },
   {
@@ -160,23 +172,11 @@
    "count": 5
   },
   {
-   "name": "Gaza",
+   "name": "Alaska",
    "count": 4
   },
   {
-   "name": "Riyadh",
-   "count": 4
-  },
-  {
-   "name": "Houthis",
-   "count": 4
-  },
-  {
-   "name": "Green",
-   "count": 4
-  },
-  {
-   "name": "Houthi",
+   "name": "AI Force",
    "count": 3
   },
   {
@@ -188,11 +188,15 @@
    "count": 3
   },
   {
-   "name": "Lebanon",
+   "name": "Colombia",
    "count": 3
   },
   {
-   "name": "Alaska",
+   "name": "Green",
+   "count": 3
+  },
+  {
+   "name": "Indonesia",
    "count": 3
   },
   {
@@ -204,19 +208,15 @@
    "count": 2
   },
   {
-   "name": "October",
+   "name": "Ed Sheeran",
    "count": 2
   },
   {
-   "name": "Microsoft",
+   "name": "Show HN",
    "count": 2
   },
   {
    "name": "Google",
-   "count": 2
-  },
-  {
-   "name": "Gemini",
    "count": 2
   }
  ]
