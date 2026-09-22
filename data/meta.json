@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-22T10:03:54.233219+00:00",
- "sources_ok": 40,
+ "updated": "2026-09-22T15:00:10.370552+00:00",
+ "sources_ok": 39,
  "sources_total": 40,
  "beats": [
   {
@@ -46,11 +46,19 @@
  ],
  "feeds": [
   {
+   "beat": "medio_oriente",
+   "url": "https://www.france24.com/en/middle-east/rss",
+   "source": "france24.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 37,
+   "count": 26,
    "error": ""
   },
   {
@@ -162,7 +170,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 380,
+   "count": 397,
    "error": ""
   },
   {
@@ -215,14 +223,6 @@
   },
   {
    "beat": "medio_oriente",
-   "url": "https://www.france24.com/en/middle-east/rss",
-   "source": "Latest news from the Middle East, daily international news reports - France 24",
-   "ok": true,
-   "count": 30,
-   "error": ""
-  },
-  {
-   "beat": "medio_oriente",
    "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
    "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
    "ok": true,
@@ -242,7 +242,7 @@
    "url": "https://pitchfork.com/rss/news/",
    "source": "RSS: News",
    "ok": true,
-   "count": 29,
+   "count": 13,
    "error": ""
   },
   {
