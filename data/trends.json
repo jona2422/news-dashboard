@@ -1,60 +1,64 @@
 {
- "updated": "2026-10-05T22:43:22.054174+00:00",
+ "updated": "2026-10-06T03:04:58.453231+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 12
+   "count": 20
   },
   {
    "term": "former",
+   "count": 10
+  },
+  {
+   "term": "murder",
    "count": 7
   },
   {
-   "term": "china",
-   "count": 7
-  },
-  {
-   "term": "tour",
+   "term": "hong",
    "count": 6
   },
   {
-   "term": "france",
+   "term": "kong",
    "count": 6
+  },
+  {
+   "term": "yemen",
+   "count": 6
+  },
+  {
+   "term": "cornell",
+   "count": 5
+  },
+  {
+   "term": "british",
+   "count": 5
   },
   {
    "term": "museum",
    "count": 5
   },
   {
-   "term": "plague",
+   "term": "military",
    "count": 5
-  },
-  {
-   "term": "siberia",
-   "count": 5
-  },
-  {
-   "term": "yemen",
-   "count": 5
-  },
-  {
-   "term": "israeli",
-   "count": 5
-  },
-  {
-   "term": "brasil",
-   "count": 5
-  },
-  {
-   "term": "three",
-   "count": 4
-  },
-  {
-   "term": "2027",
-   "count": 4
   },
   {
    "term": "october",
+   "count": 4
+  },
+  {
+   "term": "american",
+   "count": 4
+  },
+  {
+   "term": "idol",
+   "count": 4
+  },
+  {
+   "term": "life",
+   "count": 4
+  },
+  {
+   "term": "wife",
    "count": 4
   },
   {
@@ -66,35 +70,35 @@
    "count": 4
   },
   {
-   "term": "british",
+   "term": "singer",
    "count": 4
   },
   {
-   "term": "hong",
+   "term": "tour",
    "count": 4
   },
   {
-   "term": "kong",
+   "term": "artists",
    "count": 4
   },
   {
-   "term": "school",
+   "term": "fund",
    "count": 4
   },
   {
-   "term": "case",
+   "term": "years",
    "count": 4
   },
   {
-   "term": "dies",
+   "term": "taxpayers",
    "count": 4
   },
   {
-   "term": "russia",
+   "term": "8217",
    "count": 4
   },
   {
-   "term": "ethiopia",
+   "term": "city",
    "count": 4
   },
   {
@@ -102,53 +106,41 @@
    "count": 4
   },
   {
-   "term": "arabia",
+   "term": "measles",
    "count": 4
   },
   {
-   "term": "ukraine",
+   "term": "cases",
    "count": 4
   },
   {
-   "term": "victoria",
+   "term": "police",
    "count": 4
   },
   {
-   "term": "alaska",
+   "term": "state",
    "count": 4
-  },
-  {
-   "term": "2026",
-   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 11
+   "count": 19
   },
   {
-   "name": "China",
+   "name": "Yemen",
    "count": 6
   },
   {
-   "name": "France",
-   "count": 6
-  },
-  {
-   "name": "Siberia",
+   "name": "Hong Kong",
    "count": 5
   },
   {
-   "name": "Israeli",
-   "count": 5
+   "name": "Cornell",
+   "count": 4
   },
   {
-   "name": "Brasil",
-   "count": 5
-  },
-  {
-   "name": "Russia",
+   "name": "Former",
    "count": 4
   },
   {
@@ -156,8 +148,8 @@
    "count": 4
   },
   {
-   "name": "Alaska",
-   "count": 4
+   "name": "American Idol",
+   "count": 3
   },
   {
    "name": "Loma Linda",
@@ -172,23 +164,39 @@
    "count": 3
   },
   {
-   "name": "Brazil",
+   "name": "Caleb Flynn",
    "count": 3
   },
   {
-   "name": "Houthis",
+   "name": "New York",
    "count": 3
   },
   {
-   "name": "Ukraine",
+   "name": "Iran",
    "count": 3
   },
   {
-   "name": "Russian",
+   "name": "Jeffrey Archer",
    "count": 3
   },
   {
-   "name": "Yemen",
+   "name": "Brasil",
+   "count": 3
+  },
+  {
+   "name": "Papua New Guinea",
+   "count": 3
+  },
+  {
+   "name": "Indonesia",
+   "count": 3
+  },
+  {
+   "name": "Japan",
+   "count": 3
+  },
+  {
+   "name": "Alaska",
    "count": 3
   },
   {
@@ -196,27 +204,19 @@
    "count": 3
   },
   {
-   "name": "Hamas",
+   "name": "Beijing",
    "count": 3
   },
   {
-   "name": "Netanyahu",
+   "name": "Taiwan",
+   "count": 3
+  },
+  {
+   "name": "China",
    "count": 3
   },
   {
    "name": "October Prime Day",
-   "count": 2
-  },
-  {
-   "name": "Christie",
-   "count": 2
-  },
-  {
-   "name": "ChatGPT",
-   "count": 2
-  },
-  {
-   "name": "Reflection",
    "count": 2
   }
  ]
