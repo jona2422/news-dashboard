@@ -1,12 +1,24 @@
 {
- "updated": "2026-10-16T17:29:53.471485+00:00",
+ "updated": "2026-10-16T21:18:36.715186+00:00",
  "terms": [
+  {
+   "term": "trump",
+   "count": 14
+  },
+  {
+   "term": "alaska",
+   "count": 11
+  },
   {
    "term": "china",
    "count": 11
   },
   {
-   "term": "trump",
+   "term": "press",
+   "count": 8
+  },
+  {
+   "term": "secretary",
    "count": 8
   },
   {
@@ -14,71 +26,39 @@
    "count": 8
   },
   {
-   "term": "alaska",
-   "count": 8
-  },
-  {
-   "term": "israeli",
+   "term": "zacharia",
    "count": 7
   },
   {
-   "term": "bank",
-   "count": 7
-  },
-  {
-   "term": "some",
+   "term": "katie",
    "count": 6
-  },
-  {
-   "term": "week",
-   "count": 6
-  },
-  {
-   "term": "museum",
-   "count": 6
-  },
-  {
-   "term": "london",
-   "count": 6
-  },
-  {
-   "term": "west",
-   "count": 6
-  },
-  {
-   "term": "gaza",
-   "count": 6
-  },
-  {
-   "term": "stream",
-   "count": 5
-  },
-  {
-   "term": "show",
-   "count": 5
   },
   {
    "term": "city",
    "count": 5
   },
   {
-   "term": "announces",
+   "term": "house",
    "count": 5
   },
   {
-   "term": "shows",
+   "term": "gaza",
    "count": 5
   },
   {
-   "term": "attack",
-   "count": 5
+   "term": "behind",
+   "count": 4
   },
   {
-   "term": "russia",
-   "count": 5
+   "term": "some",
+   "count": 4
   },
   {
-   "term": "song",
+   "term": "week",
+   "count": 4
+  },
+  {
+   "term": "stream",
    "count": 4
   },
   {
@@ -86,23 +66,51 @@
    "count": 4
   },
   {
-   "term": "announce",
+   "term": "take",
    "count": 4
   },
   {
-   "term": "frieze",
+   "term": "show",
    "count": 4
   },
   {
-   "term": "inside",
+   "term": "edition",
    "count": 4
   },
   {
-   "term": "behind",
+   "term": "museum",
    "count": 4
   },
   {
-   "term": "york",
+   "term": "shows",
+   "count": 4
+  },
+  {
+   "term": "paris",
+   "count": 4
+  },
+  {
+   "term": "school",
+   "count": 4
+  },
+  {
+   "term": "brazil",
+   "count": 4
+  },
+  {
+   "term": "white",
+   "count": 4
+  },
+  {
+   "term": "days",
+   "count": 4
+  },
+  {
+   "term": "president",
+   "count": 4
+  },
+  {
+   "term": "israeli",
    "count": 4
   },
   {
@@ -110,61 +118,49 @@
    "count": 4
   },
   {
-   "term": "lebanon",
-   "count": 4
-  },
-  {
-   "term": "islands",
-   "count": 4
-  },
-  {
-   "term": "green",
+   "term": "chinese",
    "count": 4
   }
  ],
  "entities": [
   {
+   "name": "Trump",
+   "count": 13
+  },
+  {
+   "name": "Alaska",
+   "count": 11
+  },
+  {
    "name": "China",
    "count": 11
   },
   {
-   "name": "Trump",
-   "count": 8
-  },
-  {
-   "name": "Alaska",
-   "count": 8
-  },
-  {
    "name": "Ukraine",
-   "count": 7
+   "count": 8
   },
   {
-   "name": "Israeli",
-   "count": 6
-  },
-  {
-   "name": "West Bank",
+   "name": "Katie Zacharia",
    "count": 6
   },
   {
    "name": "Gaza",
-   "count": 6
+   "count": 5
   },
   {
-   "name": "Stream",
+   "name": "Brazil",
    "count": 4
   },
   {
-   "name": "Iran",
+   "name": "White House",
    "count": 4
   },
   {
-   "name": "Lebanon",
+   "name": "Israeli",
    "count": 4
   },
   {
-   "name": "Russia",
+   "name": "Putin",
    "count": 4
   },
   {
@@ -172,15 +168,7 @@
    "count": 4
   },
   {
-   "name": "Israel",
-   "count": 4
-  },
-  {
-   "name": "Show HN",
-   "count": 3
-  },
-  {
-   "name": "Brazil",
+   "name": "Stream",
    "count": 3
   },
   {
@@ -188,35 +176,47 @@
    "count": 3
   },
   {
+   "name": "Israel",
+   "count": 3
+  },
+  {
+   "name": "Oregon",
+   "count": 3
+  },
+  {
+   "name": "West Bank",
+   "count": 3
+  },
+  {
    "name": "Ethiopia",
    "count": 3
   },
   {
-   "name": "Indian",
+   "name": "Casa Blanca",
    "count": 3
   },
   {
-   "name": "New Delhi",
+   "name": "Russia",
    "count": 3
   },
   {
-   "name": "Zelensky",
-   "count": 3
+   "name": "Olivia Rodrigo",
+   "count": 2
   },
   {
-   "name": "Palestinian",
-   "count": 3
+   "name": "Shroom Clouds",
+   "count": 2
+  },
+  {
+   "name": "First Time",
+   "count": 2
+  },
+  {
+   "name": "Hate It",
+   "count": 2
   },
   {
    "name": "About You",
-   "count": 2
-  },
-  {
-   "name": "Fontaines",
-   "count": 2
-  },
-  {
-   "name": "Texas",
    "count": 2
   }
  ]
