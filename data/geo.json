@@ -1,58 +1,157 @@
 {
- "updated": "2026-10-16T12:33:28.251734+00:00",
- "total": 113,
+ "updated": "2026-10-16T17:29:53.471485+00:00",
+ "total": 123,
  "countries": [
+  {
+   "name": "United States",
+   "es": "Estados Unidos",
+   "lat": 39.8,
+   "lon": -98.6,
+   "count": 16,
+   "items": [
+    {
+     "title": "Russian drones kill three in Ukraine, cut power to 1 million as US, Russia seek further cooperation",
+     "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911932",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1365,w_2048/742261",
+     "ts": 1792177369000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Trump says he told Katie Zacharia she should ‘reconsider’ role of White House press secretary – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/03567490841356f576a04d24efa6484a16ef3f57/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b17da99353103a7515946c757d5611d4",
+     "ts": 1792170880000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Zelenski pide apoyo en la UE mientras crecen tensiones con EE. UU. y ataques rusos",
+     "link": "https://www.france24.com/es/video/20261016-zelenski-pide-apoyo-en-la-ue-mientras-crecen-tensiones-con-ee-uu-y-ataques-rusos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/87fb53a0-c980-11f1-a045-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-090349-090531-CS.jpg",
+     "ts": 1792170103000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "“Llegué a EE. UU., el país de la libertad, para perderla”: el limbo de un nicaragüense deportado a África",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261016-llegu%C3%A9-a-ee-uu-el-pa%C3%ADs-de-la-libertad-para-perderla-el-limbo-de-un-nicarag%C3%BCense-deportado-a-%C3%A1frica",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "ts": 1792169392000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Desire to Move Permanently to U.S. at New Low",
+     "link": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1792168682000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/eacefac392ed027227ecec0ab9c67d13ee077d57/560_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=038d95a2d40c5fbb7dc1081bf52e77b9",
+     "ts": 1792168498000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/eacefac392ed027227ecec0ab9c67d13ee077d57/560_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=038d95a2d40c5fbb7dc1081bf52e77b9",
+     "ts": 1792168498000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Colonos israelíes atacan brutalmente la aldea de Abu Falah y agreden a una fotógrafa de EE. UU.",
+     "link": "https://www.france24.com/es/video/20261016-colonos-israel%C3%ADes-atacan-brutalmente-la-aldea-de-abu-falah-y-agreden-a-una-fot%C3%B3grafa-de-ee-uu",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/60593992-c97c-11f1-ad5d-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261016-090822-091249-CS.jpg",
+     "ts": 1792168349000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "New White House press secretary faces more scrutiny – this time from Trump-friendly Fox News",
+     "link": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6bbd2c8ad7ed43d3573dd6aeaddf0f00b4f6ccad/361_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=ab78a18e1fb396bf35eba5c46ff366f4",
+     "ts": 1792167897000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+     "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "ts": 1792166582000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    }
+   ]
+  },
   {
    "name": "China",
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 17,
+   "count": 13,
    "items": [
     {
-     "title": "Why is China buying up gold?",
-     "link": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792150691000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Why is China buying up gold?",
-     "link": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792150691000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "3 arrested over missing fire-safety parts in 48 Hong Kong lifts, source says",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3371193/3-arrested-over-missing-fire-safety-parts-48-hong-kong-lifts-source-says?utm_source=rss_feed",
+     "title": "A US scholar’s take on how shifts in US-China relations are felt in a Tsinghua classroom",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3371126/us-scholars-take-how-shifts-us-china-relations-are-felt-tsinghua-classroom?utm_source=rss_feed",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/8a4a8eb0-4832-4535-8d22-1640b8800210_5cd3c86c.jpg?itok=Wsevr-qQ&v=1792150197",
-     "ts": 1792150201000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/c98cf6e7-948a-4aa0-8ca8-cc4a10b52185_85c9633e.jpg?itok=j8SBnG4o&v=1792167499",
+     "ts": 1792162807000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792150092000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Hong Kong police arrest 2 men over HK$1.7 million Kowloon break-in spree",
+     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371200/hong-kong-police-arrest-2-men-over-hk17-million-kowloon-break-spree?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/87b51f36-cb01-47d5-8a10-b4fe6941e1e2_c3f85ac0.jpg?itok=wNPOCR9u&v=1792155593",
+     "ts": 1792159492000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792150092000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Japan taps foreign tech to plug defence gaps as China’s power grows. Will it pay off?",
+     "link": "https://www.scmp.com/news/china/military/article/3371170/japan-taps-foreign-tech-plug-defence-gaps-chinas-power-grows-will-it-pay?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/5a59e4eb-de8b-44a2-8b10-3a8ca2a8c806_9ca7b376.jpg?itok=pi82lfGs&v=1792144660",
+     "ts": 1792159210000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "China’s R&D spending keeps up steady rise as No 1 US seeks further funding cuts",
+     "link": "https://www.scmp.com/news/china/science/article/3371198/chinas-rd-spending-keeps-steady-rise-no-1-us-seeks-further-funding-cuts?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/9644f43a-f217-4de4-8954-0f90f28ebbc8_9485e572.jpg?itok=Xgkii_tw&v=1792154417",
+     "ts": 1792155612000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Anti-China protectionism backfiring on American carmakers’ EV plans: analyst",
+     "link": "https://www.scmp.com/economy/global-economy/article/3371167/anti-china-protectionism-backfiring-american-carmakers-ev-plans-analyst?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/3dccab5d-e49c-416b-b315-25be45beea1a_bf58d44b.jpg?itok=cdaEgKMM&v=1792143985",
+     "ts": 1792155607000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
      "title": "China urges Israel to end West Bank settlement expansion and ease Gaza crisis",
@@ -102,200 +201,200 @@
    ]
   },
   {
-   "name": "Israel",
-   "es": "Israel",
-   "lat": 31.0,
-   "lon": 34.9,
-   "count": 13,
+   "name": "Palestine",
+   "es": "Palestina",
+   "lat": 31.9,
+   "lon": 35.2,
+   "count": 12,
    "items": [
     {
-     "title": "Hillel rabbi in Georgia's Emory fired over fiance's Israel criticism, pro-Palestinian posts",
-     "link": "https://www.jpost.com/diaspora/article-911914",
+     "title": "Italy investigating Katz, other senior officials over alleged torture of Gaza flotilla activists",
+     "link": "https://www.jpost.com/israel-news/article-911931",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_599,w_799/438318",
-     "ts": 1792159083000,
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4669,w_7003/742260",
+     "ts": 1792172823000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Middle Israel: From Caesar to Netanyahu, Israel prepares to enter a post-charisma era - opinion",
-     "link": "https://www.jpost.com/opinion/article-911881",
+     "title": "IDF kills Hamas Nukhba commander in Gaza who infiltrated Re'im base on October 7",
+     "link": "https://www.jpost.com/israel-news/defense-news/article-911929",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742201",
-     "ts": 1792158339000,
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1954,w_2560/742258",
+     "ts": 1792171055000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Right-wing activists affiliated with Otzma Yehudit invade Arab Joint List Tel Aviv headquarters",
-     "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911920",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742246",
-     "ts": 1792156158000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Likud MK Boaz Bismuth accuses media of targeting Netanyahu over Egypt intel. reports, Qatargate",
-     "link": "https://www.jpost.com/israel-news/article-911919",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2523,w_3785/720274",
-     "ts": 1792156041000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "The battle for Israel: As Netanyahu rallies the Right, Eisenkot makes his move for power",
-     "link": "https://www.jpost.com/israel-election-2026/article-911882",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1313,w_1969/742202",
-     "ts": 1792154780000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "'Egypt will never pose a threat': Netanyahu questioned Egypt's military expansion, Sisi says",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-911917",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/742245",
-     "ts": 1792153504000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/962a5c1ada7f0e3ce4aef2db2d44d4394e9eeaa0/925_0_2528_2023/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=80c7ca2ddfa707adee3fc8e8dda3a525",
-     "ts": 1792152010000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Shabbat candle lighting times for Israel and US",
-     "link": "https://www.jpost.com/judaism/article-911912",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://www.jpost.com/httphandlers/showimage.ashx?id=346815",
-     "ts": 1792151902000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
-     "link": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792151650000,
+     "title": "UK national security adviser under pressure over wife’s comment on supporting Palestine Action",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/16/uk-national-security-adviser-jonathan-powell-sarah-helm-sally-rooney-palestine-action",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d4ab1c134c4c8f31bad2e66b87319575193984da/1256_787_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=2abb77454d54086035cd503990bf8f54",
+     "ts": 1792170200000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
-     "link": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
+     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/eacefac392ed027227ecec0ab9c67d13ee077d57/560_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=038d95a2d40c5fbb7dc1081bf52e77b9",
+     "ts": 1792168498000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/eacefac392ed027227ecec0ab9c67d13ee077d57/560_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=038d95a2d40c5fbb7dc1081bf52e77b9",
+     "ts": 1792168498000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "American photojournalist recounts Israeli settler attack in the occupied West Bank – video",
+     "link": "https://www.theguardian.com/world/video/2026/oct/16/american-photojournalist-israeli-settler-attack-west-bank",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ecb359b3da333c567c87482816b22eae8e34793a/1011_0_909_727/master/909.jpg?width=140&quality=85&auto=format&fit=max&s=bf011d5f46450404659731ab76451576",
+     "ts": 1792168416000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "UN says Gaza malnutrition gains fragile as Israel halts commercial shipments",
+     "link": "https://www.jpost.com/israel-news/article-911928",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/742256",
+     "ts": 1792168042000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+     "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F6b%2F6f80e95a4323b7a2bf0a3456ca30%2Fgettyimages-2299901273.jpg",
+     "ts": 1792166247000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+     "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792151650000,
+     "ts": 1792165045000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+     "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792165045000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "United States",
-   "es": "Estados Unidos",
-   "lat": 39.8,
-   "lon": -98.6,
+   "name": "Ukraine",
+   "es": "Ucrania",
+   "lat": 48.4,
+   "lon": 31.2,
    "count": 12,
    "items": [
     {
-     "title": "Milei promociona su “milagro” económico en Estados Unidos y se da por reelegido en 2027",
-     "link": "https://elpais.com/argentina/2026-10-16/milei-promociona-su-milagro-economico-en-estados-unidos-y-se-da-por-reelegido-en-2027.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/BTEY7BNKNZKBLNPLXYPS7GV62E.jpg?auth=2ad0504aa44f3f0707916b9215f84aa6e8702405fa179c7516cd4192015dd192",
-     "ts": 1792153221000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-     "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg",
-     "ts": 1792153002000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Shabbat candle lighting times for Israel and US",
-     "link": "https://www.jpost.com/judaism/article-911912",
+     "title": "Russian drones kill three in Ukraine, cut power to 1 million as US, Russia seek further cooperation",
+     "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911932",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://www.jpost.com/httphandlers/showimage.ashx?id=346815",
-     "ts": 1792151902000,
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1365,w_2048/742261",
+     "ts": 1792177369000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-     "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc0/live/70180250-c959-11f1-8879-9d9deeb686e1.jpg",
-     "ts": 1792150918000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Zelenski pide apoyo en la UE mientras crecen tensiones con EE. UU. y ataques rusos",
+     "link": "https://www.france24.com/es/video/20261016-zelenski-pide-apoyo-en-la-ue-mientras-crecen-tensiones-con-ee-uu-y-ataques-rusos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/87fb53a0-c980-11f1-a045-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-090349-090531-CS.jpg",
+     "ts": 1792170103000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+     "title": "🔴 En directo: Macron habla sobre Ucrania y los desafíos de la seguridad europea tras la cumbre de líderes de la UE",
+     "link": "https://www.france24.com/es/europa/20261016-ucrania-depende-de-starlink-para-interceptar-drones-rusos-afirma-zelenski-en-bruselas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "ts": 1792169744000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Zelenski lanza un dardo a Trump al hablar de los europeos como “verdaderos líderes”",
+     "link": "https://elpais.com/internacional/2026-10-16/zelenski-lanza-un-dardo-a-trump-al-hablar-de-los-europeos-como-verdaderos-lideres.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/Y6WW7YQZ5ZMRNBXKKBO3WARMAU.jpg?auth=936e3a82061c500d470595e9deb425e2a7bcea7fc6afbd6245c84073db6fd456",
+     "ts": 1792168268000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Today's top news: Ethiopia, Yemen, Ukraine",
+     "link": "https://www.unocha.org/news/todays-top-news-ethiopia-yemen-ukraine",
+     "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+     "image": "https://www.unocha.org/sites/default/files/styles/medium/public/2026-10/Yemen%20UNFPA%20%281%29.jpg",
+     "ts": 1792166624000,
+     "beat": "desastres",
+     "beatName": "Desastres Naturales"
+    },
+    {
+     "title": "EU rallies in support of Ukraine amid Trump standoff",
+     "link": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792150092000,
+     "ts": 1792166533000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+     "title": "EU rallies in support of Ukraine amid Trump standoff",
+     "link": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792150092000,
+     "ts": 1792166533000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Washington Post photojournalist wounded in clash between Israelis, Palestinians in West Bank",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-911911",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_844,w_1125/742248",
-     "ts": 1792148765000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+     "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg",
+     "ts": 1792166370000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-     "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg",
-     "ts": 1792148453000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
+     "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+     "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg",
+     "ts": 1792165510000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Estados Unidos, contra Ilhan Omar: así persigue Trump a su mayor enemiga en el Congreso",
-     "link": "https://elpais.com/us/2026-10-16/estados-unidos-contra-ilhan-omar-asi-persigue-trump-a-su-mayor-enemiga-en-el-congreso.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/LXE7QYIWMRMTTM4GMJC76OH7HY.jpg?auth=f09a5ebc3014c1f8ed6c3314da6dafc666c722921f822b5c8ac51592e21aab64",
-     "ts": 1792143000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "El condado de Maricopa en Arizona, el “principal epicentro” del tráfico de armas de Estados Unidos a México",
-     "link": "https://elpais.com/mexico/2026-10-16/el-condado-de-maricopa-en-arizona-el-principal-epicentro-del-trafico-de-armas-de-estados-unidos-a-mexico.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MUYOEZ7FHNEXRJFG66GZ7J3MD4.jpg?auth=1758e8bb9894107dd97cb8ed85367ca86c4298af2a336dedd0a1738027982bfe",
-     "ts": 1792143000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+     "link": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/e4fbda919051a77fc285f1ca524e3f790033f75e/496_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fccfb071ccdf01f6dd78803b9c0801e4",
+     "ts": 1792165181000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     }
    ]
   },
@@ -304,52 +403,52 @@
    "es": "Reino Unido",
    "lat": 55.4,
    "lon": -3.4,
-   "count": 11,
+   "count": 8,
    "items": [
     {
-     "title": "UK expands sanction powers, enabling action against companies supporting West Bank settlements",
-     "link": "https://www.jpost.com/international/article-911918",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2126,w_2835/609787",
-     "ts": 1792154271000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Burnham says he wants to devolve power so places can ‘change things for themselves’ – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
+     "title": "UK national security adviser under pressure over wife’s comment on supporting Palestine Action",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/16/uk-national-security-adviser-jonathan-powell-sarah-helm-sally-rooney-palestine-action",
      "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/55c28b6894d9a811bebca2396c1bfcafe069bba4/583_61_3417_2735/master/3417.jpg?width=140&quality=85&auto=format&fit=max&s=60f4092bd7464a4946c631b9f71a4a47",
-     "ts": 1792152542000,
+     "image": "https://i.guim.co.uk/img/media/d4ab1c134c4c8f31bad2e66b87319575193984da/1256_787_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=2abb77454d54086035cd503990bf8f54",
+     "ts": 1792170200000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-     "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7603x5068+0+0/resize/7603x5068!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fd1%2F2a294d7b449d824a76e4ab2dec8c%2Fap26288402306967.jpg",
-     "ts": 1792150231000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Have Fashion Folk Ruined the Frieze London Experience?",
+     "link": "https://www.artnews.com/art-news/opinion/frieze-london-fashion-industry-experience-1234802660/",
+     "source": "ARTnews.com",
+     "image": "https://www.artnews.com/wp-content/uploads/2026/10/Tilda-Swinton-Frieze-London-2026.jpg?w=400",
+     "ts": 1792168837000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     },
     {
-     "title": "In pictures: Erol Alkan's North London studio",
-     "link": "https://www.musicradar.com/music-tech/studios/ive-a-trick-that-i-do-with-it-theres-a-workaround-if-you-experiment-with-the-patching-capabilities-you-can-get-some-pretty-amazing-deep-cranium-quaking-bass-from-it-a-classic-studio-tour-with-erol-alkan",
-     "source": "Latest from MusicRadar",
-     "image": "https://cdn.mos.cms.futurecdn.net/DryiDqXZfJ95csKM7Toa2W-1920-80.png",
-     "ts": 1792148400000,
-     "beat": "musica",
-     "beatName": "Música & Industria"
+     "title": "The Best Booths at Frieze London, From Scenes of Eroding UK Coastlines to an Installation Picturing AI Through the Human Digestive System",
+     "link": "https://www.artnews.com/list/art-news/market/frieze-london-2026-best-booths-1234802567/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1792163094000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     },
     {
-     "title": "Ana de Inglaterra destrona al príncipe Guillermo y Kate Middleton y se convierte en la figura más popular de la realeza británica",
-     "link": "https://elpais.com/gente/2026-10-16/ana-de-inglaterra-destrona-al-principe-guillermo-y-kate-middleton-y-se-convierte-en-la-figura-mas-popular-de-la-realeza-britanica.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/GKZHXXEEINHVVN66HNOG5KLMJ4.jpg?auth=e43be73a49d95f3bed9e71c9fac2ca8832261d7f8c693ce7b57d6c0f63a0f428",
-     "ts": 1792147049000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "London Invitational Targets the City’s Diverse Collectors Amid ‘Bullish’ and ‘Struggling’ Market",
+     "link": "https://www.artnews.com/art-news/market/london-invitational-international-collectors-frieze-1234802564/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1792161943000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "The Hits and Misses of London’s Frieze Week",
+     "link": "https://news.artnet.com/artnet-bulletin/london-frieze-week-oct-16-2823505",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1792156507000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     },
     {
      "title": "Sotheby’s Notches $61M at London Contemporary Sale, Buoyed by $12.9M de Kooning",
@@ -370,15 +469,6 @@
      "beatName": "Arte · Cultura · Educación"
     },
     {
-     "title": "Minor Attractions, a New London Fair In a Hotel, Finds Space for Emerging Galleries and Artists",
-     "link": "https://www.artnews.com/art-news/market/minor-attractions-finds-new-home-and-expands-footprint-1234802491/",
-     "source": "ARTnews.com",
-     "image": "",
-     "ts": 1792094834000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
      "title": "Ah, the Many Smells of Frieze London",
      "link": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
      "source": "Hyperallergic",
@@ -386,105 +476,69 @@
      "ts": 1792091284000,
      "beat": "arte",
      "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Phillips Kicks Off Its London Sales With $7.6M Richter, $2.1M Banksy",
-     "link": "https://news.artnet.com/market/phillips-modern-contemporary-sale-2026-banksy-2824233",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1792090634000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
   {
-   "name": "Ukraine",
-   "es": "Ucrania",
-   "lat": 48.4,
-   "lon": 31.2,
-   "count": 9,
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
+   "count": 6,
    "items": [
     {
-     "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-     "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg",
-     "ts": 1792153002000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "EU summit: European leaders pledge support for Ukraine's Zelenskyy",
-     "link": "https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1792152600000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ucrania “depende” de Starlink para interceptar drones rusos, afirma Zelenski en Bruselas",
+     "title": "🔴 En directo: Macron habla sobre Ucrania y los desafíos de la seguridad europea tras la cumbre de líderes de la UE",
      "link": "https://www.france24.com/es/europa/20261016-ucrania-depende-de-starlink-para-interceptar-drones-rusos-afirma-zelenski-en-bruselas",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/bc6904b8-c938-11f1-8783-638c1c1f5fd6/w:1024/p:16x9/2026-10-16T074430Z-1277359495-RC274OA461JD-RTRMADP-3-EU-SUMMIT.jpg",
-     "ts": 1792152297000,
+     "image": "",
+     "ts": 1792169744000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792148180000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792148180000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Bombardeos rusos dejan miles de hogares sin electricidad en Ucrania",
-     "link": "https://www.dw.com/es/bombardeos-rusos-dejan-miles-de-hogares-sin-electricidad-en-ucrania/a-79678741?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1792147500000,
+     "title": "Directo París y las movilizaciones convocadas por estudiantes, obreros y otros gremios",
+     "link": "https://www.france24.com/es/video/20261016-directo-par%C3%ADs-y-las-movilizaciones-convocadas-por-estudiantes-obreros-y-otros-gremios",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/46307944-c973-11f1-8ed9-d1d2c32ebb87/w:1024/p:16x9/ES-20261016-072143-072632-CS.jpg",
+     "ts": 1792168276000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-     "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd15/live/93347340-c954-11f1-9a39-31b474234113.jpg",
-     "ts": 1792147067000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "EU rallies around Zelensky as rift widens with Trump over Russia energy strikes",
-     "link": "https://www.scmp.com/news/world/europe/article/3371174/european-leaders-back-zelensky-ukraine-us-ties-fray-over-trumps-russia-sanctions-lift?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/70182c6c-3fa5-4e53-942a-a49f3cb0b113_4a478eb1.jpg?itok=lXqVytJB&v=1792145658",
-     "ts": 1792145669000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-     "link": "https://www.prensa.com/bbc/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/3VGDSSNEUZFAZISZJ65PIA2SXU.jpg?auth=8467e745ba45c5fa1b06bff4ad803775f1fe103f2ce893007f6be004e0b1dc9a&smart=true&width=976&height=549",
-     "ts": 1792144811000,
+     "title": "Francia y Alemania pactan flexibilizar para proteger a la industria automovilística europea",
+     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261016-francia-y-alemania-pactan-flexibilizar-para-proteger-a-la-industria-automovil%C3%ADstica-europea",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/f423831e-c96b-11f1-be6c-d1d2c32ebb87/w:1024/p:16x9/AP26115386688562.jpg",
+     "ts": 1792167550000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ooh Là Là! 10 Must-See Shows in Paris This Fall",
+     "link": "https://news.artnet.com/art-world/paris-exhibitions-to-see-fall-2026-2814745",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1792166438000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Inside the Paris Art Center Built on a ‘Cursed’ Island",
+     "link": "https://news.artnet.com/art-world/large-art-center-opening-2824650",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1792162159000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "Art Basel’s Karim Crippa Dishes on Paris",
+     "link": "https://news.artnet.com/market/karim-crippa-art-basel-paris-2824553",
+     "source": "Artnet News",
+     "image": "",
+     "ts": 1792091685000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -493,61 +547,43 @@
    "es": "Rusia",
    "lat": 61.5,
    "lon": 105.3,
-   "count": 8,
+   "count": 5,
    "items": [
     {
-     "title": "Zelenskyy defends himself after Trump’s claim he is more difficult to deal with than Putin – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/cd594094e95e362cb56583998f477f5825785f5e/747_0_4116_3293/master/4116.jpg?width=140&quality=85&auto=format&fit=max&s=77dc3a032dd5dde6bba36da782694331",
-     "ts": 1792152433000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792150092000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792150092000,
+     "title": "Russian drones kill three in Ukraine, cut power to 1 million as US, Russia seek further cooperation",
+     "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911932",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1365,w_2048/742261",
+     "ts": 1792177369000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Francesco Bonami Named Artistic Director of Russian Billionaire’s Moscow Art Complex",
+     "link": "https://www.artnews.com/art-news/news/francesco-bonami-artistic-director-ges-2-house-of-culture-moscow-1234802581/",
+     "source": "ARTnews.com",
      "image": "",
-     "ts": 1792148180000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "ts": 1792166632000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
     },
     {
-     "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792148180000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-     "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+     "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd15/live/93347340-c954-11f1-9a39-31b474234113.jpg",
-     "ts": 1792147067000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
+     "ts": 1792166430000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+     "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792159003000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
      "title": "EU rallies around Zelensky as rift widens with Trump over Russia energy strikes",
@@ -557,15 +593,6 @@
      "ts": 1792145669000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-     "link": "https://www.prensa.com/bbc/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/3VGDSSNEUZFAZISZJ65PIA2SXU.jpg?auth=8467e745ba45c5fa1b06bff4ad803775f1fe103f2ce893007f6be004e0b1dc9a&smart=true&width=976&height=549",
-     "ts": 1792144811000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -574,8 +601,35 @@
    "es": "India",
    "lat": 20.6,
    "lon": 79.0,
-   "count": 7,
+   "count": 5,
    "items": [
+    {
+     "title": "India’s Cockroach Janta party leader detained amid crackdown on protests",
+     "link": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/317eada2fa4d459e2638640a946dbd65a639d7e0/346_0_3809_3047/master/3809.jpg?width=140&quality=85&auto=format&fit=max&s=2c459ff2045857f1bd18014da80dbb1e",
+     "ts": 1792167752000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Indian protest leaders detained ahead of flag march in New Delhi",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792167373000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Indian protest leaders detained ahead of flag march in New Delhi",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792167373000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
     {
      "title": "Indian police detain ‘cockroach’ movement leader ahead of New Delhi protest",
      "link": "https://www.scmp.com/news/asia/south-asia/article/3371196/indian-police-detain-cockroach-movement-leader-ahead-new-delhi-protest?utm_source=rss_feed",
@@ -586,42 +640,6 @@
      "beatName": "China"
     },
     {
-     "title": "India's young workers have a new colleague: AI",
-     "link": "https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1792149720000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-     "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-     "source": "Ars Technica - All content",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg",
-     "ts": 1792148453000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
-    },
-    {
-     "title": "India vs West India: Fifth T20 International – teams, start, lineups, Hope",
-     "link": "https://www.aljazeera.com/sports/2026/10/16/india-vs-west-india-firth-t20-international-teams-prediction-lineups?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792147068000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "India vs West India: Fifth T20 International – teams, start, lineups, Hope",
-     "link": "https://www.aljazeera.com/sports/2026/10/16/india-vs-west-india-firth-t20-international-teams-prediction-lineups?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792147068000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
      "title": "India’s proposed social media ban for under-18s wins parents’ backing",
      "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371153/indias-proposed-social-media-ban-under-18s-wins-parents-backing?utm_source=rss_feed",
      "source": "News - South China Morning Post",
@@ -629,49 +647,85 @@
      "ts": 1792144813000,
      "beat": "china",
      "beatName": "China"
-    },
+    }
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "es": "Líbano",
+   "lat": 33.9,
+   "lon": 35.9,
+   "count": 4,
+   "items": [
     {
-     "title": "India’s mass voter purge is hollowing out democracy",
-     "link": "https://www.aljazeera.com/opinions/2026/10/16/indias-mass-voter-purge-is-hollowing-out-democracy?traffic_source=rss",
+     "title": "Division in Lebanon over Hezbollah’s confiscated explosives",
+     "link": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792144801000,
+     "ts": 1792166983000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Division in Lebanon over Hezbollah’s confiscated explosives",
+     "link": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792166983000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+     "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792160376000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792159268000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Palestine",
-   "es": "Palestina",
-   "lat": 31.9,
-   "lon": 35.2,
-   "count": 5,
+   "name": "Israel",
+   "es": "Israel",
+   "lat": 31.0,
+   "lon": 34.9,
+   "count": 4,
    "items": [
     {
-     "title": "UK expands sanction powers, enabling action against companies supporting West Bank settlements",
-     "link": "https://www.jpost.com/international/article-911918",
+     "title": "UN says Gaza malnutrition gains fragile as Israel halts commercial shipments",
+     "link": "https://www.jpost.com/israel-news/article-911928",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2126,w_2835/609787",
-     "ts": 1792154271000,
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/742256",
+     "ts": 1792168042000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-     "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0345/live/69e10530-c94f-11f1-bc2e-018d645d8d21.jpg",
-     "ts": 1792150841000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "'This is our homeland': Netanyahu responds to Obama accusations that Israel stole Palestinian land",
+     "link": "https://www.jpost.com/israel-news/article-911927",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2833,w_4249/742255",
+     "ts": 1792165804000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Washington Post photojournalist wounded in clash between Israelis, Palestinians in West Bank",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-911911",
+     "title": "Hillel rabbi in Georgia's Emory fired over fiance's Israel criticism, pro-Palestinian posts",
+     "link": "https://www.jpost.com/diaspora/article-911914",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_844,w_1125/742248",
-     "ts": 1792148765000,
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_599,w_799/438318",
+     "ts": 1792159083000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
@@ -683,132 +737,150 @@
      "ts": 1792148417000,
      "beat": "china",
      "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Brazil",
+   "es": "Brasil",
+   "lat": -14.2,
+   "lon": -51.9,
+   "count": 3,
+   "items": [
+    {
+     "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+     "link": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/d849b27b6454c97e931470b1c5fe256748d76ce4/377_0_4335_3467/master/4335.jpg?width=140&quality=85&auto=format&fit=max&s=b17977c8e67d5b6e448974d4d7709ddd",
+     "ts": 1792169255000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+     "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "link": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792145554000,
+     "ts": 1792168466000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "link": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792168466000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 4,
-   "items": [
-    {
-     "title": "Germany, France agree on deal to support Europe's struggling car industry",
-     "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1792146720000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Francia y Alemania acuerdan flexibilizar la prohibición de los motores de combustión prevista para 2035",
-     "link": "https://www.dw.com/es/francia-y-alemania-acuerdan-flexibilizar-la-prohibición-de-los-motores-de-combustión-prevista-para-2035/a-79678413?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1792145400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Art Basel’s Karim Crippa Dishes on Paris",
-     "link": "https://news.artnet.com/market/karim-crippa-art-basel-paris-2824553",
-     "source": "Artnet News",
-     "image": "",
-     "ts": 1792091685000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    },
-    {
-     "title": "Asia NOW 2026 Brings Contemporary Asian Art to Paris",
-     "link": "https://hyperallergic.com/asia-now-2026-brings-contemporary-asian-art-to-paris/",
-     "source": "Hyperallergic",
-     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/THE-Gallery_Thomas-Eller_Nomin-Bold_se--rie-_Oron_Close2_2023_gas-masks_150x160_.jpg",
-     "ts": 1792074471000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
+   "name": "Iran",
+   "es": "Irán",
+   "lat": 32.4,
+   "lon": 53.7,
    "count": 3,
    "items": [
     {
-     "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
-     "link": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
+     "title": "Iran’s president condemns environmental impact of war in Middle East",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792150370000,
+     "ts": 1792169103000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
-     "link": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
+     "title": "Iran’s president condemns environmental impact of war in Middle East",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792150370000,
+     "ts": 1792169103000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Malaysia’s Negeri Sembilan ruler orders chief minister out of sight in rare public rebuke",
-     "link": "https://www.scmp.com/week-asia/people/article/3371185/malaysias-negeri-sembilan-ruler-orders-chief-minister-out-sight-rare-public-rebuke?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/f360f428-aa8a-4bb0-9768-8ef4d9119722_3adae981.jpg?itok=5Ah0WlnM&v=1792148290",
-     "ts": 1792148300000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Iran manages to ship some gas, jet fuel despite US blockade, sanctions, data shows",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-911922",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2934,w_4400/725819",
+     "ts": 1792159291000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
+   "name": "Spain",
+   "es": "España",
+   "lat": 40.5,
+   "lon": -3.7,
    "count": 3,
    "items": [
     {
-     "title": "Alemania aprueba plan de pensiones para niños a partir de 6 años",
-     "link": "https://www.dw.com/es/alemania-aprueba-plan-de-pensiones-para-niños-a-partir-de-6-años/a-79680432?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
+     "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+     "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792152000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Germany, France agree on deal to support Europe's struggling car industry",
-     "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1792146720000,
+     "ts": 1792168532000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Francia y Alemania acuerdan flexibilizar la prohibición de los motores de combustión prevista para 2035",
-     "link": "https://www.dw.com/es/francia-y-alemania-acuerdan-flexibilizar-la-prohibición-de-los-motores-de-combustión-prevista-para-2035/a-79678413?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
+     "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+     "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792145400000,
+     "ts": 1792168532000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Directo España y la división en la izquierda de cara a las elecciones anticipadas",
+     "link": "https://www.france24.com/es/video/20261016-directo-espa%C3%B1a-y-la-divisi%C3%B3n-en-la-izquierda-de-cara-a-las-elecciones-anticipadas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/b555a330-c97d-11f1-a26b-2d1c143cdef3/w:1024/p:16x9/ES-20261016-074143-074809-CS.jpg",
+     "ts": 1792168363000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Ethiopia",
+   "es": "Etiopía",
+   "lat": 9.1,
+   "lon": 40.5,
+   "count": 3,
+   "items": [
+    {
+     "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
+     "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "ts": 1792167540000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Today's top news: Ethiopia, Yemen, Ukraine",
+     "link": "https://www.unocha.org/news/todays-top-news-ethiopia-yemen-ukraine",
+     "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+     "image": "https://www.unocha.org/sites/default/files/styles/medium/public/2026-10/Yemen%20UNFPA%20%281%29.jpg",
+     "ts": 1792166624000,
+     "beat": "desastres",
+     "beatName": "Desastres Naturales"
+    },
+    {
+     "title": "Ethiopia announces instalment of interim government in Tigray",
+     "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792158846000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -820,6 +892,15 @@
    "count": 2,
    "items": [
     {
+     "title": "Garbage Was Forced to Announce Free Mexico City Concert Early After Leak from City Government",
+     "link": "https://consequence.net/2026/10/garbage-announce-mexico-city-concert-after-government-leak/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/10/Garbage-Mexico-City-Concert-Leaked.jpg?quality=80",
+     "ts": 1792164262000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    },
+    {
      "title": "Mexico City: A Guide to the Capital’s Art and History",
      "link": "https://news.artnet.com/art-world/mexico-city-a-guide-to-the-capitals-art-and-history-2822996",
      "source": "Artnet News",
@@ -827,94 +908,85 @@
      "ts": 1792148433000,
      "beat": "arte",
      "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "es": "Nigeria",
+   "lat": 9.1,
+   "lon": 8.7,
+   "count": 2,
+   "items": [
+    {
+     "title": "The artisanal miners behind Nigeria’s lithium boom",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792167789000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "El condado de Maricopa en Arizona, el “principal epicentro” del tráfico de armas de Estados Unidos a México",
-     "link": "https://elpais.com/mexico/2026-10-16/el-condado-de-maricopa-en-arizona-el-principal-epicentro-del-trafico-de-armas-de-estados-unidos-a-mexico.html",
+     "title": "The artisanal miners behind Nigeria’s lithium boom",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792167789000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Italy",
+   "es": "Italia",
+   "lat": 41.9,
+   "lon": 12.6,
+   "count": 2,
+   "items": [
+    {
+     "title": "Italy investigating Katz, other senior officials over alleged torture of Gaza flotilla activists",
+     "link": "https://www.jpost.com/israel-news/article-911931",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4669,w_7003/742260",
+     "ts": 1792172823000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "El Vaticano difunde las primeras imágenes del Papa tras su operación y confirma una “mejoría constante”",
+     "link": "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MUYOEZ7FHNEXRJFG66GZ7J3MD4.jpg?auth=1758e8bb9894107dd97cb8ed85367ca86c4298af2a336dedd0a1738027982bfe",
-     "ts": 1792143000000,
+     "image": "https://imagenes.elpais.com/resizer/v2/KWTMK3NQ5ROV5FYDB4N3RUFONE.jpg?auth=6c98aa6ccfd268557193edd78211fe8ea5c4c78fe021e93b724f8e30e28ae0a6",
+     "ts": 1792168501000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Poland",
-   "es": "Polonia",
-   "lat": 51.9,
-   "lon": 19.1,
+   "name": "Qatar",
+   "es": "Catar",
+   "lat": 25.3,
+   "lon": 51.2,
    "count": 2,
    "items": [
     {
-     "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+     "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+     "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1792148180000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792148180000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Iran",
-   "es": "Irán",
-   "lat": 32.4,
-   "lon": 53.7,
-   "count": 2,
-   "items": [
-    {
-     "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-     "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792146072000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-     "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1792146072000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Egypt",
-   "es": "Egipto",
-   "lat": 26.8,
-   "lon": 30.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "Likud MK Boaz Bismuth accuses media of targeting Netanyahu over Egypt intel. reports, Qatargate",
-     "link": "https://www.jpost.com/israel-news/article-911919",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2523,w_3785/720274",
-     "ts": 1792156041000,
+     "ts": 1792160376000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "'Egypt will never pose a threat': Netanyahu questioned Egypt's military expansion, Sisi says",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-911917",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/742245",
-     "ts": 1792153504000,
+     "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792159268000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -948,72 +1020,54 @@
    ]
   },
   {
-   "name": "Kenya",
-   "es": "Kenia",
-   "lat": -0.02,
-   "lon": 37.9,
+   "name": "Canada",
+   "es": "Canadá",
+   "lat": 56.1,
+   "lon": -106.3,
    "count": 1,
    "items": [
     {
-     "title": "How prepared is Kenya for an Ebola outbreak?",
-     "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
+     "title": "Waymo’s robotaxis are headed to Canada",
+     "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+     "source": "TechCrunch",
      "image": "",
-     "ts": 1792147260000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "ts": 1792166798000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
     }
    ]
   },
   {
-   "name": "Italy",
-   "es": "Italia",
-   "lat": 41.9,
-   "lon": 12.6,
+   "name": "Peru",
+   "es": "Perú",
+   "lat": -9.2,
+   "lon": -75.0,
    "count": 1,
    "items": [
     {
-     "title": "Italy cuts air traffic in half amid data transmission issue",
-     "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1792147020000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "Milei promociona su “milagro” económico en Estados Unidos y se da por reelegido en 2027",
-     "link": "https://elpais.com/argentina/2026-10-16/milei-promociona-su-milagro-economico-en-estados-unidos-y-se-da-por-reelegido-en-2027.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/BTEY7BNKNZKBLNPLXYPS7GV62E.jpg?auth=2ad0504aa44f3f0707916b9215f84aa6e8702405fa179c7516cd4192015dd192",
-     "ts": 1792153221000,
+     "title": "En Perú quieren endurecer las normas en las escuelas con controvertido reglamento",
+     "link": "https://www.france24.com/es/video/20261016-en-per%C3%BA-quieren-endurecer-las-normas-en-las-escuelas-con-controvertido-reglamento",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/b606146e-c97c-11f1-a31e-d1d2c32ebb87/w:1024/p:16x9/Foto-Peru-Escuela.jpg",
+     "ts": 1792169133000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Belgium",
-   "es": "Bélgica",
-   "lat": 50.5,
-   "lon": 4.5,
+   "name": "Panama",
+   "es": "Panamá",
+   "lat": 8.5,
+   "lon": -80.8,
    "count": 1,
    "items": [
     {
-     "title": "Ucrania “depende” de Starlink para interceptar drones rusos, afirma Zelenski en Bruselas",
-     "link": "https://www.france24.com/es/europa/20261016-ucrania-depende-de-starlink-para-interceptar-drones-rusos-afirma-zelenski-en-bruselas",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/bc6904b8-c938-11f1-8783-638c1c1f5fd6/w:1024/p:16x9/2026-10-16T074430Z-1277359495-RC274OA461JD-RTRMADP-3-EU-SUMMIT.jpg",
-     "ts": 1792152297000,
+     "title": "746 réplicas tras el terremoto en Panamá: qué se sabe sobre las costas, las aguas y las fallas",
+     "link": "https://www.prensa.com/sociedad/746-replicas-tras-el-terremoto-en-panama-que-se-sabe-sobre-las-costas-las-aguas-y-las-fallas/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/QXSC6QPANJFD7J7O23T6UC5OFU.JPG?auth=63a97de59f348f730ae58486bfc4e6729399fdd10edeaf998b1c25bdd0c73f79&smart=true&width=3360&height=2240",
+     "ts": 1792168753000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1027,29 +1081,11 @@
    "count": 1,
    "items": [
     {
-     "title": "La Corte Interamericana de Derechos Humanos juzga la masacre chavista de abril de 2002 en Venezuela",
-     "link": "https://elpais.com/america/2026-10-16/la-corte-interamericana-de-derechos-humanos-juzga-la-masacre-chavista-de-abril-de-2002-en-venezuela.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/YTEBH2DOSBCRVFTAQKSOC2LPT4.jpg?auth=9a26dbcc0bd2f0094d96e8e676e41a2ee120ac6bf60d3a3b197ac00ba346147e",
-     "ts": 1792143000000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Brazil",
-   "es": "Brasil",
-   "lat": -14.2,
-   "lon": -51.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Video | “Retrocede, fascista”: la periferia de São Paulo rima contra Flávio Bolsonaro",
-     "link": "https://elpais.com/america/2026-10-16/video-retrocede-fascista-la-periferia-de-sao-paulo-rima-contra-flavio-bolsonaro.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/KRXYS7WVRZDHDCAFIAFKRZLMBM.png?auth=82379677b7f64e003e9a182e44cb82eb1c771cc959eed9cc5b5d310b31f7634f",
-     "ts": 1792143000000,
+     "title": "Caso Maduro: ¿Qué sigue en el proceso tras declararse no culpable de conspiración para tortura?",
+     "link": "https://www.france24.com/es/video/20261016-caso-maduro-qu%C3%A9-sigue-en-el-proceso-tras-declararse-no-culpable-de-conspiraci%C3%B3n-para-tortura",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8908a48a-c973-11f1-b22e-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-071154-072130-CS.jpg",
+     "ts": 1792168295000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -1063,13 +1099,157 @@
    "count": 1,
    "items": [
     {
-     "title": "De la Espriella le disputa a Galán la bandera del Metro de Bogotá",
-     "link": "https://elpais.com/america-colombia/2026-10-16/de-la-espriella-le-disputa-a-galan-la-bandera-del-metro-de-bogota.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/56G7CUCLQZCQDOSSUKMJW56JPE.jpg?auth=ce87cf4b981b5ad60b6d9af67e3cf0f0ac3ba3a58073a644e5d8aec198412571",
-     "ts": 1792143000000,
+     "title": "Él era César Augusto Quillupangui, líder transportador que transitaba las carreteras de Ecuador y Colombia, y una de las víctimas en vía Panamericana",
+     "link": "https://www.eltiempo.com/colombia/cali/el-era-cesar-augusto-quillupangui-lider-transportador-que-transitaba-las-carreteras-de-ecuador-y-colombia-y-una-de-las-victimas-en-via-panamericana-3594055",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad249141b82e.jpeg",
+     "ts": 1792167972000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "es": "Ecuador",
+   "lat": -1.8,
+   "lon": -78.2,
+   "count": 1,
+   "items": [
+    {
+     "title": "Él era César Augusto Quillupangui, líder transportador que transitaba las carreteras de Ecuador y Colombia, y una de las víctimas en vía Panamericana",
+     "link": "https://www.eltiempo.com/colombia/cali/el-era-cesar-augusto-quillupangui-lider-transportador-que-transitaba-las-carreteras-de-ecuador-y-colombia-y-una-de-las-victimas-en-via-panamericana-3594055",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad249141b82e.jpeg",
+     "ts": 1792167972000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "Francia y Alemania pactan flexibilizar para proteger a la industria automovilística europea",
+     "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261016-francia-y-alemania-pactan-flexibilizar-para-proteger-a-la-industria-automovil%C3%ADstica-europea",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/f423831e-c96b-11f1-be6c-d1d2c32ebb87/w:1024/p:16x9/AP26115386688562.jpg",
+     "ts": 1792167550000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Egypt",
+   "es": "Egipto",
+   "lat": 26.8,
+   "lon": 30.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "La crisis de Ormuz impulsa el reciclaje de plástico en Egipto",
+     "link": "https://www.france24.com/es/programas/en-foco/20261016-la-crisis-de-ormuz-impulsa-el-reciclaje-de-pl%C3%A1stico-en-egipto",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/04e82e7e-c97c-11f1-bf7d-6313a763b466/w:1024/p:16x9/AP26225352561256.jpg",
+     "ts": 1792167049000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Yemen",
+   "es": "Yemen",
+   "lat": 15.6,
+   "lon": 48.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "Today's top news: Ethiopia, Yemen, Ukraine",
+     "link": "https://www.unocha.org/news/todays-top-news-ethiopia-yemen-ukraine",
+     "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+     "image": "https://www.unocha.org/sites/default/files/styles/medium/public/2026-10/Yemen%20UNFPA%20%281%29.jpg",
+     "ts": 1792166624000,
+     "beat": "desastres",
+     "beatName": "Desastres Naturales"
+    }
+   ]
+  },
+  {
+   "name": "Czech Rep.",
+   "es": "Chequia",
+   "lat": 49.8,
+   "lon": 15.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "Saved from Nazi-occupied Prague, thousands of Torah scrolls find new life through a Satmar scribe",
+     "link": "https://www.jpost.com/history/article-911804",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1578,w_1200/742138",
+     "ts": 1792177923000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Afghanistan",
+   "es": "Afganistán",
+   "lat": 33.9,
+   "lon": 67.7,
+   "count": 1,
+   "items": [
+    {
+     "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+     "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792159003000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "es": "Pakistán",
+   "lat": 30.4,
+   "lon": 69.3,
+   "count": 1,
+   "items": [
+    {
+     "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+     "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1792159003000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
+   "count": 1,
+   "items": [
+    {
+     "title": "Japan taps foreign tech to plug defence gaps as China’s power grows. Will it pay off?",
+     "link": "https://www.scmp.com/news/china/military/article/3371170/japan-taps-foreign-tech-plug-defence-gaps-chinas-power-grows-will-it-pay?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/5a59e4eb-de8b-44a2-8b10-3a8ca2a8c806_9ca7b376.jpg?itok=pi82lfGs&v=1792144660",
+     "ts": 1792159210000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -1092,6 +1272,24 @@
    ]
   },
   {
+   "name": "Malaysia",
+   "es": "Malasia",
+   "lat": 4.2,
+   "lon": 102.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "Malaysia’s Negeri Sembilan ruler orders chief minister out of sight in rare public rebuke",
+     "link": "https://www.scmp.com/week-asia/people/article/3371185/malaysias-negeri-sembilan-ruler-orders-chief-minister-out-sight-rare-public-rebuke?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/f360f428-aa8a-4bb0-9768-8ef4d9119722_3adae981.jpg?itok=5Ah0WlnM&v=1792148290",
+     "ts": 1792148300000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
    "name": "Myanmar",
    "es": "Birmania",
    "lat": 21.9,
@@ -1104,42 +1302,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/e837ae96-43dc-455a-a130-cff8f3298e0f_7b14778f.jpg?itok=45WAqpc9&v=1792139474",
      "ts": 1792139480000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "Japan’s Okinawa drops opposition to hosting crash-prone US Osprey aircraft",
-     "link": "https://www.scmp.com/news/asia/east-asia/article/3371133/japans-okinawa-drops-opposition-hosting-crash-prone-us-osprey-aircraft?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/8944b001-d336-4ca9-9ce7-da89f9cf1b9b_4b677668.jpg?itok=h9oqa1Vw&v=1792135761",
-     "ts": 1792135763000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Philippines",
-   "es": "Filipinas",
-   "lat": 12.9,
-   "lon": 121.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Envoy says China could ‘easily win’ conflict as Manila claims it is ‘thinly veiled threat’",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3371121/envoy-says-china-could-easily-win-conflict-manila-claims-it-thinly-veiled-threat?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/f43c2b2e-15a2-4cbe-84be-de620910b430_74a7121c.jpg?itok=U9iNkQBa&v=1792133306",
-     "ts": 1792133939000,
      "beat": "china",
      "beatName": "China"
     }
