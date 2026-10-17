@@ -1,48 +1,56 @@
 {
- "updated": "2026-10-17T17:18:12.950126+00:00",
+ "updated": "2026-10-17T20:41:34.374776+00:00",
  "terms": [
   {
    "term": "fire",
    "count": 9
   },
   {
+   "term": "show",
+   "count": 8
+  },
+  {
+   "term": "police",
+   "count": 8
+  },
+  {
+   "term": "israeli",
+   "count": 8
+  },
+  {
+   "term": "israel",
+   "count": 8
+  },
+  {
+   "term": "alaska",
+   "count": 8
+  },
+  {
    "term": "paris",
    "count": 7
   },
   {
-   "term": "police",
+   "term": "india",
    "count": 7
   },
   {
-   "term": "protesters",
+   "term": "trump",
    "count": 7
   },
   {
-   "term": "alaska",
-   "count": 7
-  },
-  {
-   "term": "show",
+   "term": "protests",
    "count": 6
   },
   {
-   "term": "israel",
+   "term": "russia",
    "count": 6
   },
   {
-   "term": "hospital",
+   "term": "attack",
    "count": 6
   },
   {
-   "term": "cancer",
-   "count": 6
-  },
-  {
-   "term": "china",
-   "count": 6
-  },
-  {
-   "term": "forest",
+   "term": "west",
    "count": 6
   },
   {
@@ -50,48 +58,28 @@
    "count": 5
   },
   {
-   "term": "egypt",
-   "count": 5
-  },
-  {
-   "term": "thousands",
-   "count": 5
-  },
-  {
-   "term": "attack",
-   "count": 5
-  },
-  {
-   "term": "west",
-   "count": 5
-  },
-  {
-   "term": "bank",
-   "count": 5
-  },
-  {
-   "term": "protests",
-   "count": 5
-  },
-  {
-   "term": "lung",
-   "count": 5
-  },
-  {
-   "term": "surgery",
-   "count": 5
-  },
-  {
-   "term": "trump",
-   "count": 5
-  },
-  {
    "term": "time",
-   "count": 4
+   "count": 5
   },
   {
-   "term": "week",
-   "count": 4
+   "term": "settlers",
+   "count": 5
+  },
+  {
+   "term": "european",
+   "count": 5
+  },
+  {
+   "term": "attacks",
+   "count": 5
+  },
+  {
+   "term": "cancer",
+   "count": 5
+  },
+  {
+   "term": "china",
+   "count": 5
   },
   {
    "term": "world",
@@ -102,41 +90,69 @@
    "count": 4
   },
   {
-   "term": "take",
-   "count": 4
-  },
-  {
    "term": "museum",
    "count": 4
   },
   {
-   "term": "mexico",
+   "term": "egypt",
    "count": 4
   },
   {
-   "term": "settlers",
+   "term": "protesters",
    "count": 4
   },
   {
-   "term": "european",
+   "term": "diplomats",
+   "count": 4
+  },
+  {
+   "term": "bank",
+   "count": 4
+  },
+  {
+   "term": "jerusalem",
+   "count": 4
+  },
+  {
+   "term": "romanian",
+   "count": 4
+  },
+  {
+   "term": "lung",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Alaska",
-   "count": 7
+   "name": "Israeli",
+   "count": 8
   },
   {
-   "name": "Egypt",
-   "count": 5
+   "name": "Alaska",
+   "count": 8
   },
   {
    "name": "Israel",
+   "count": 7
+  },
+  {
+   "name": "India",
+   "count": 6
+  },
+  {
+   "name": "Russia",
+   "count": 6
+  },
+  {
+   "name": "Trump",
    "count": 5
   },
   {
    "name": "European",
+   "count": 5
+  },
+  {
+   "name": "Egypt",
    "count": 4
   },
   {
@@ -144,35 +160,11 @@
    "count": 4
   },
   {
-   "name": "France",
+   "name": "Romanian",
    "count": 4
   },
   {
-   "name": "Sisi",
-   "count": 4
-  },
-  {
-   "name": "Saudi Arabia",
-   "count": 4
-  },
-  {
-   "name": "Israeli",
-   "count": 4
-  },
-  {
-   "name": "Pope Leo",
-   "count": 4
-  },
-  {
-   "name": "Trump",
-   "count": 4
-  },
-  {
-   "name": "Russia",
-   "count": 4
-  },
-  {
-   "name": "China",
+   "name": "Francia",
    "count": 4
   },
   {
@@ -184,23 +176,31 @@
    "count": 3
   },
   {
-   "name": "French",
+   "name": "Show HN",
    "count": 3
   },
   {
-   "name": "Ilhan Omar",
+   "name": "Albanian",
    "count": 3
   },
   {
-   "name": "Mexico",
+   "name": "France",
    "count": 3
   },
   {
-   "name": "Francia",
+   "name": "Gaza",
    "count": 3
   },
   {
-   "name": "Hong Kong",
+   "name": "Saudi Arabia",
+   "count": 3
+  },
+  {
+   "name": "Pope Leo",
+   "count": 3
+  },
+  {
+   "name": "China",
    "count": 3
   },
   {
@@ -212,11 +212,11 @@
    "count": 2
   },
   {
-   "name": "Elon Musk",
+   "name": "Anthropic",
    "count": 2
   },
   {
-   "name": "Show HN",
+   "name": "TypeScript",
    "count": 2
   }
  ]
