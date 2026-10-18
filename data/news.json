@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:11:04.859134+00:00",
+ "updated": "2026-10-18T01:09:33.165410+00:00",
  "beats": [
   {
    "id": "musica",
@@ -522,6 +522,15 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "JDK 28",
+     "link": "https://openjdk.org/projects/jdk/28/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-10-17T21:37:07+00:00",
+     "ts": 1792273027000,
+     "count": 1
+    },
+    {
      "title": "Meta removes language that raised scraping and AI training concerns",
      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
      "source": "TechCrunch",
@@ -567,21 +576,12 @@
      "count": 1
     },
     {
-     "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+     "title": "Microsoft and CMU team up to train early career software engineers",
      "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
      "source": "Hacker News: Front Page",
      "image": "",
      "published": "2026-10-17T18:45:07+00:00",
      "ts": 1792262707000,
-     "count": 1
-    },
-    {
-     "title": "Pattern matching beats narrative reasoning",
-     "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-10-17T18:34:13+00:00",
-     "ts": 1792262053000,
      "count": 1
     },
     {
@@ -609,15 +609,6 @@
      "image": "",
      "published": "2026-10-17T17:36:17+00:00",
      "ts": 1792258577000,
-     "count": 1
-    },
-    {
-     "title": "Development statistics for the 7.2 kernel",
-     "link": "https://lwn.net/Articles/1088776/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-10-17T17:14:12+00:00",
-     "ts": 1792257252000,
      "count": 1
     },
     {
@@ -772,6 +763,15 @@
      "published": "2026-10-17T04:36:53+00:00",
      "ts": 1792211813000,
      "count": 1
+    },
+    {
+     "title": "Source code of the Estonian online voting system",
+     "link": "https://github.com/valimised/ivxv",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-10-17T03:18:39+00:00",
+     "ts": 1792207119000,
+     "count": 1
     }
    ]
   },
@@ -779,6 +779,96 @@
    "id": "actualidad",
    "name": "Actualidad Global",
    "items": [
+    {
+     "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+     "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
+     "image": "",
+     "published": "2026-10-18T00:51:00+00:00",
+     "ts": 1792284660000,
+     "count": 1
+    },
+    {
+     "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
+     "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
+     "published": "2026-10-18T00:01:12+00:00",
+     "ts": 1792281672000,
+     "count": 1
+    },
+    {
+     "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-10-18T00:00:11+00:00",
+     "ts": 1792281611000,
+     "count": 1
+    },
+    {
+     "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5d3ef148a542eda1fba384c5304087747c009bd4/212_0_4294_3437/master/4294.jpg?width=140&quality=85&auto=format&fit=max&s=e3320d349437156e599cd5bac2c96a2a",
+     "published": "2026-10-17T23:53:08+00:00",
+     "ts": 1792281188000,
+     "count": 1
+    },
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+     "published": "2026-10-17T23:52:38+00:00",
+     "ts": 1792281158000,
+     "count": 2
+    },
+    {
+     "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+     "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-10-17T23:40:59+00:00",
+     "ts": 1792280459000,
+     "count": 1
+    },
+    {
+     "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+     "link": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a1825e373dc059a7d60ace440568f406",
+     "published": "2026-10-17T23:40:11+00:00",
+     "ts": 1792280411000,
+     "count": 1
+    },
+    {
+     "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+     "link": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/a78115f167c62cf861f81f58446e1b9e6c266ea1/0_0_5417_4333/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=586a1cddf4151c0851d4bf6916b56e7d",
+     "published": "2026-10-17T23:24:40+00:00",
+     "ts": 1792279480000,
+     "count": 1
+    },
+    {
+     "title": "Two people, including child, killed after person drives through soccer game in Kansas",
+     "link": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ce7d7457e9fa3b7bfa25d9792cb8370c78feaa97/540_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=68d10d5c5759bff37a430bc12cbba0c7",
+     "published": "2026-10-17T23:22:06+00:00",
+     "ts": 1792279326000,
+     "count": 1
+    },
+    {
+     "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+     "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-10-17T23:21:57+00:00",
+     "ts": 1792279317000,
+     "count": 1
+    },
     {
      "title": "New York City police seek suspect in fatal subway station shooting",
      "link": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
@@ -940,96 +1030,6 @@
      "published": "2026-10-17T19:17:00+00:00",
      "ts": 1792264620000,
      "count": 1
-    },
-    {
-     "title": "More than 400 arrested as police clash with protesters across France",
-     "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
-     "published": "2026-10-17T19:15:03+00:00",
-     "ts": 1792264503000,
-     "count": 1
-    },
-    {
-     "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-10-17T19:04:00+00:00",
-     "ts": 1792263840000,
-     "count": 1
-    },
-    {
-     "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-10-17T19:03:49+00:00",
-     "ts": 1792263829000,
-     "count": 1
-    },
-    {
-     "title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
-     "link": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/567a271a1c0165c32f5f3a2c31432fcd861ea3a1/813_0_4087_3272/master/4087.jpg?width=140&quality=85&auto=format&fit=max&s=3c5d0013219bf6418a346f194a20bbb1",
-     "published": "2026-10-17T19:01:30+00:00",
-     "ts": 1792263690000,
-     "count": 1
-    },
-    {
-     "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
-     "link": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/1d991d732bb27d9133acb72455c5f4d4e767e6fa/89_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4e51ccbc844207afc6ef486fe0f271e5",
-     "published": "2026-10-17T19:00:41+00:00",
-     "ts": 1792263641000,
-     "count": 1
-    },
-    {
-     "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b8a8dcdafe9f90bfe19a2550a0320b7daf4f29c0/130_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=15fcdac68cb5f150670b1c3a8c07f652",
-     "published": "2026-10-17T19:00:40+00:00",
-     "ts": 1792263640000,
-     "count": 1
-    },
-    {
-     "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fb7f9558ce032aba14287c04852433e83741ccb5/80_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=cb7f23973fed7aef66da8d019e26f8fd",
-     "published": "2026-10-17T19:00:40+00:00",
-     "ts": 1792263640000,
-     "count": 1
-    },
-    {
-     "title": "Israeli settlers attack European diplomats in West Bank",
-     "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b9a3e348f316f5f39a4ebd9844c51cbc810845c9/0_1020_1192_953/master/1192.jpg?width=140&quality=85&auto=format&fit=max&s=b63ff2e62279e8e2b14337cfb6803fc2",
-     "published": "2026-10-17T18:57:56+00:00",
-     "ts": 1792263476000,
-     "count": 3
-    },
-    {
-     "title": "Is the US Embassy in Jerusalem for Israel or America?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-10-17T18:41:30+00:00",
-     "ts": 1792262490000,
-     "count": 1
-    },
-    {
-     "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-10-17T18:26:59+00:00",
-     "ts": 1792261619000,
-     "count": 1
     }
    ]
   },
@@ -1038,12 +1038,183 @@
    "name": "Panamá · LatAm",
    "items": [
     {
-     "title": "\"Día de furia\" en Francia: asaltos a edificios, incendios y más de 1.200 detenidos en multitudinarias protestas con acusaciones cruzadas entre el gobierno y la izquierda",
+     "title": "La acción penal: sus límites y controles jurisdiccionales en Panamá",
+     "link": "https://www.prensa.com/opinion/la-accion-penal-sus-limites-y-controles-jurisdiccionales-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/3W5TIJCVGFHBPOCVJY3BY3DFVU.jpg?auth=60de927b337be5208383a0144c276881c8ff2d177639965d139bbf76b0f4164a&smart=true&width=1140&height=712",
+     "published": "2026-10-18T01:00:00+00:00",
+     "ts": 1792285200000,
+     "count": 1
+    },
+    {
+     "title": "Asesinato de destacado exfiscal anticorrupción Juan Francisco Solórzano sacude a Guatemala",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261018-asesinato-de-destacado-exfiscal-anticorrupci%C3%B3n-juan-francisco-sol%C3%B3rzano-sacude-a-guatemala",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "published": "2026-10-18T00:53:44+00:00",
+     "ts": 1792284824000,
+     "count": 1
+    },
+    {
+     "title": "Universidad de Panamá: 91 años para construir el futuro",
+     "link": "https://www.prensa.com/opinion/universidad-de-panama-91-anos-para-construir-el-futuro/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/PBOW7LILOBBDHNWQJVPWXDR7YM.jpeg?auth=ffc0f1c909157ef449352fdead5cb36a5c01ff70a50f380f4db9cfdce8ffa6f3&smart=true&width=1024&height=682",
+     "published": "2026-10-18T00:45:10+00:00",
+     "ts": 1792284310000,
+     "count": 1
+    },
+    {
+     "title": "Tres periodistas para descifrar el México después de Trump: “Una de las claves para sobrevivir al cerco es tener alternativas”",
+     "link": "https://elpais.com/mexico/2026-10-18/tres-periodistas-para-descifrar-el-mexico-despues-de-trump-una-de-las-claves-para-sobrevivir-al-cerco-es-tener-alternativas.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/OYK7WBWKLJD7FGZH2PDZLJZ64Q.jpg?auth=8535ee47b7d618db47d072ea27d7740ed2fe2d9ffa2a7295685cb39b6f749c4c",
+     "published": "2026-10-18T00:43:39+00:00",
+     "ts": 1792284219000,
+     "count": 1
+    },
+    {
+     "title": "Jornada de protestas masivas en Francia termina en saqueos y enfrentamientos con la Fuerza Pública",
+     "link": "https://www.france24.com/es/video/20261018-jornada-de-protestas-masivas-en-francia-termina-en-saqueos-y-enfrentamientos-con-la-fuerza-p%C3%BAblica",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/fddeb2a0-ca8a-11f1-9ed5-638c1c1f5fd6/w:1024/p:16x9/ES-20261017-183207-183346-CS.jpg",
+     "published": "2026-10-18T00:40:30+00:00",
+     "ts": 1792284030000,
+     "count": 1
+    },
+    {
+     "title": "Arabia Saudita intercepta cuatro drones sobre Riad y otras zonas del pais",
+     "link": "https://www.dw.com/es/arabia-saudita-intercepta-cuatro-drones-sobre-riad-y-otras-zonas-del-pais/a-79690508?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-10-18T00:34:00+00:00",
+     "ts": 1792283640000,
+     "count": 1
+    },
+    {
+     "title": "Ulises Cortés: 'Los fallos de Meta contra cuentas de candidatos siempre tienen intensión'",
+     "link": "https://www.france24.com/es/video/20261018-ulises-cort%C3%A9s-los-fallos-de-meta-contra-cuentas-de-candidatos-siempre-tienen-intensi%C3%B3n",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/665449f0-ca89-11f1-b56c-d1d2c32ebb87/w:1024/p:16x9/ES-20261017-153936-154419-CS.jpg",
+     "published": "2026-10-18T00:33:28+00:00",
+     "ts": 1792283608000,
+     "count": 1
+    },
+    {
+     "title": "Papa León XIV regresa al Vaticano tras recibir el alta de su cirugía de pulmón",
+     "link": "https://www.france24.com/es/video/20261018-papa-le%C3%B3n-xiv-regresa-al-vaticano-tras-recibir-el-alta-de-su-cirug%C3%ADa-de-pulm%C3%B3n",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/38783d1e-ca86-11f1-9884-2d1c143cdef3/w:1024/p:16x9/ES-20261017-134312-134453-CS.jpg",
+     "published": "2026-10-18T00:31:26+00:00",
+     "ts": 1792283486000,
+     "count": 1
+    },
+    {
+     "title": "Colonos israelíes atacan en Taybeh a agricultores palestinos y una comitiva de diplomáticos europeos",
+     "link": "https://www.france24.com/es/video/20261018-colonos-israel%C3%ADes-atacan-en-taybeh-a-agricultores-palestinos-y-una-comitiva-de-diplom%C3%A1ticos-europeos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/64ce20b2-ca7d-11f1-aea5-2d1c143cdef3/w:1024/p:16x9/ES-20261017-133806-134008-CS.jpg",
+     "published": "2026-10-18T00:25:48+00:00",
+     "ts": 1792283148000,
+     "count": 1
+    },
+    {
+     "title": "Céline Dion culmina en París su regreso a escena: ‘He cumplido un sueño’",
+     "link": "https://www.prensa.com/vivir/celine-dion-culmina-en-paris-su-regreso-a-escena-he-cumplido-un-sueno/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/4JDJYCU4ZNBO7M2X4FTWO643QQ.jpg?auth=5b754d38d3019e6b71cb758eeaffae238d095486cea5757312a5194a749b71fb&smart=true&width=1920&height=1280",
+     "published": "2026-10-18T00:20:00+00:00",
+     "ts": 1792282800000,
+     "count": 1
+    },
+    {
+     "title": "Protestas No Kings en todo Estados Unidos alientan el voto anticipado a dos semanas de las elecciones de medio término",
+     "link": "https://www.dw.com/es/protestas-no-kings-en-todo-estados-unidos-alientan-el-voto-anticipado-a-dos-semanas-de-las-elecciones-de-medio-término/a-79690492?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-10-18T00:06:00+00:00",
+     "ts": 1792281960000,
+     "count": 1
+    },
+    {
+     "title": "\"No hay lugar para la violencia\": edificios en llamas, saqueos y más de 1.200 detenidos en multitudinarias protestas en Francia con acusaciones cruzadas entre el gobierno y la izquierda",
      "link": "https://www.bbc.com/mundo/articles/cvwy7rzx34r1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/756e/live/ecc2e080-ca68-11f1-a9a1-e109aa719673.jpg",
-     "published": "2026-10-17T22:29:03+00:00",
-     "ts": 1792276143000,
+     "published": "2026-10-18T00:04:26+00:00",
+     "ts": 1792281866000,
+     "count": 1
+    },
+    {
+     "title": "Lula denuncia a Flávio Bolsonaro ante la policía de Brasil y la ONU por las supuestas ventajas de Meta en la campaña",
+     "link": "https://elpais.com/america/2026-10-18/lula-denuncia-a-flavio-bolsonaro-ante-la-policia-de-brasil-y-la-onu-por-las-supuestas-ventajas-de-meta-en-la-campana.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/YJ5KS6DWPBB2LAJQKSSPX4KLTM.jpg?auth=452c7e9aa2f3157dbb030c75af3eb718ef0a74c38644b1cf2ee7d1c3250d4433",
+     "published": "2026-10-18T00:02:40+00:00",
+     "ts": 1792281760000,
+     "count": 1
+    },
+    {
+     "title": "Así protegerá Cartagena a sus corales de Varadero, el secreto mejor guardado de la ciencia en el Caribe",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/asi-protegera-cartagena-a-sus-corales-de-varadero-el-secreto-mejor-guardado-de-la-ciencia-en-el-caribe-3594180",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2b773a4992.jpeg",
+     "published": "2026-10-18T00:01:00+00:00",
+     "ts": 1792281660000,
+     "count": 1
+    },
+    {
+     "title": "Así se construye el Plan Nacional de Desarrollo de la región centro-sur: gobernadores pidieron una mirada al campo y acciones por la seguridad",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/asi-se-construye-el-plan-nacional-de-desarrollo-de-la-region-centro-sur-gobernadores-pidieron-una-mirada-al-campo-y-acciones-por-la-seguridad-3594340",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad4092feed80.jpeg",
+     "published": "2026-10-17T23:52:56+00:00",
+     "ts": 1792281176000,
+     "count": 1
+    },
+    {
+     "title": "Informe desde París: jornada de manifestaciones termina en violentos enfrentamientos",
+     "link": "https://www.france24.com/es/video/20261017-informe-desde-par%C3%ADs-jornada-de-manifestaciones-termina-en-violentos-enfrentamientos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/7bc87f90-ca7a-11f1-8cca-638c1c1f5fd6/w:1024/p:16x9/ES-20261017-133230-133653-CS.jpg",
+     "published": "2026-10-17T23:28:34+00:00",
+     "ts": 1792279714000,
+     "count": 1
+    },
+    {
+     "title": "Gobierno presenta nuevo informe sobre la emergencia por el terremoto en Panamá",
+     "link": "https://www.prensa.com/politica/gobierno-presenta-nuevo-informe-sobre-la-emergencia-por-el-terremoto-en-panama/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/422BQHFS5ZHGFAKXYMOY5Q53FA.jpg?auth=d6e01fe5202c91f896a61dcb8d995dab126d90f22d9c53a80d56c08a3d310a53&smart=true&width=1920&height=1280",
+     "published": "2026-10-17T23:19:51+00:00",
+     "ts": 1792279191000,
+     "count": 1
+    },
+    {
+     "title": "El juicio a una heredera millonaria que desató al mayor escándalo de espionaje de los últimos tiempos en Alemania",
+     "link": "https://www.prensa.com/mundo/el-juicio-a-una-heredera-millonaria-que-desato-al-mayor-escandalo-de-espionaje-de-los-ultimos-tiempos-en-alemania/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/X27FTBFQMZE7LANB6ANAEUTR54.jpg?auth=454ec5be7f31bf27068f059444609212a23db2107f792e20df8eab52c34e4621&smart=true&width=1001&height=563",
+     "published": "2026-10-17T23:15:34+00:00",
+     "ts": 1792278934000,
+     "count": 2
+    },
+    {
+     "title": "Imputan cargos y dictan arresto domiciliario a empresario por caso de la Junta Comunal de Barrio Sur",
+     "link": "https://www.prensa.com/judiciales/imputan-cargos-y-dictan-arresto-domiciliario-a-empresario-por-caso-de-la-junta-comunal-de-barrio-sur/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/RBSLWLFJTRHR3OBPBFQYYR27YE.png?auth=2f77871e63131e65933d0169d2bab9be2578f5d86b237b6501da6d954e4af2a3&smart=true&width=1446&height=847",
+     "published": "2026-10-17T23:10:00+00:00",
+     "ts": 1792278600000,
+     "count": 1
+    },
+    {
+     "title": "En imágenes: protestas, disturbios y enfrentamientos sacuden las calles de Europa y Estados Unidos",
+     "link": "https://www.france24.com/es/diaporama/20261017-en-im%C3%A1genes-protestas-disturbios-y-enfrentamientos-sacuden-las-calles-de-europa-y-estados-unidos",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "published": "2026-10-17T23:04:25+00:00",
+     "ts": 1792278265000,
      "count": 1
     },
     {
@@ -1117,177 +1288,6 @@
      "published": "2026-10-17T21:25:35+00:00",
      "ts": 1792272335000,
      "count": 1
-    },
-    {
-     "title": "Fe de errata: 17 de octubre de 2026",
-     "link": "https://www.prensa.com/correcciones/fe-de-errata-17-de-octubre-de-2026/",
-     "source": "La Prensa",
-     "image": "",
-     "published": "2026-10-17T21:12:50+00:00",
-     "ts": 1792271570000,
-     "count": 1
-    },
-    {
-     "title": "Presupuesto 2027: Asamblea propone $4 millones más para Sinaproc tras el terremoto",
-     "link": "https://www.prensa.com/politica/presupuesto-2027-asamblea-propone-4-millones-mas-para-sinaproc-tras-el-terremoto/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/3PHUU63F75EOJJ2H2KMYYWLK5I.jpg?auth=87799d4c0c78e92ae0095dfa9fdeebd379b22008cafa7dc4c621859c2d0dc6d8&smart=true&width=1920&height=1280",
-     "published": "2026-10-17T21:05:51+00:00",
-     "ts": 1792271151000,
-     "count": 1
-    },
-    {
-     "title": "Volodímir Zelenski teme que Trump \"continúe\" levantando las sanciones contra Rusia",
-     "link": "https://www.france24.com/es/europa/20261017-volod%C3%ADmir-zelenski-teme-que-trump-contin%C3%BAe-levantando-las-sanciones-contra-rusia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/038f57e6-c7f1-11f1-a09b-6313a763b466/w:1024/p:16x9/2026-10-14T162430Z-882460569-RC243OAO8BDR-RTRMADP-3-UKRAINE-CRISIS-BRITAIN.jpg",
-     "published": "2026-10-17T20:52:00+00:00",
-     "ts": 1792270320000,
-     "count": 1
-    },
-    {
-     "title": "MICI inspecciona Cobre Panamá y descarta afectaciones mientras vigila deslizamientos en mina de Remance",
-     "link": "https://www.prensa.com/economia/tras-deslizamientos-en-la-mina-de-remance-mici-inspecciona-cobre-panama-y-descarta-afectaciones/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/M6ZKPG2BM5FLRAKESIQJBXJMAI.jpeg?auth=d5c8d05c2a7acbd38ba96119a0925511b5420632ebe0a9ff70282c365b89f024&smart=true&width=1024&height=763",
-     "published": "2026-10-17T20:51:02+00:00",
-     "ts": 1792270262000,
-     "count": 1
-    },
-    {
-     "title": "Asesinan en Guatemala a Juan Francisco Solórzano Foppa, exfiscal anticorrupción",
-     "link": "https://www.prensa.com/mundo/asesinan-en-guatemala-a-juan-francisco-solorzano-foppa-exfiscal-anticorrupcion/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/CN7TASFL7JGGJEE2OWLWKLEQCI.jpg?auth=878667df46f9ff6036c7aac584284551db1021f87840d41694aaae9f11b6934f&smart=true&width=1920&height=1280",
-     "published": "2026-10-17T20:50:17+00:00",
-     "ts": 1792270217000,
-     "count": 1
-    },
-    {
-     "title": "Un orgulloso Betis tampoco frena la marcha triunfal del Barcelona",
-     "link": "https://www.prensa.com/deportes/un-orgulloso-betis-tampoco-frena-la-marcha-triunfal-del-barcelona/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/DOORBOBS3NESZGX57ZPOUGSK5U.jpg?auth=908fb3a73c7e0c40f8212bf978c383b2c2cdb3ba6fa64c032f1f124561a6e40f&smart=true&width=2960&height=1968",
-     "published": "2026-10-17T20:46:43+00:00",
-     "ts": 1792270003000,
-     "count": 1
-    },
-    {
-     "title": "ONU: el expresidente senegalés Macky Sall retira su candidatura al cargo de secretario general",
-     "link": "https://www.france24.com/es/%C3%A1frica/20261017-onu-el-expresidente-senegal%C3%A9s-macky-sall-retira-su-candidatura-al-cargo-de-secretario-general",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/37049f06-846b-11f1-9d48-005056a90284/w:1024/p:16x9/000-C2GT3FC.jpg",
-     "published": "2026-10-17T20:39:53+00:00",
-     "ts": 1792269593000,
-     "count": 1
-    },
-    {
-     "title": "Vigilia en Oregon por tres niños y una profesora asesinados en un tiroteo escolar",
-     "link": "https://www.france24.com/es/video/20261017-vigilia-en-oregon-por-tres-ni%C3%B1os-y-una-profesora-asesinados-en-un-tiroteo-escolar",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/03187584-ca69-11f1-85d7-6313a763b466/w:1024/p:16x9/ES-20261017-124212-124418-CS.jpg",
-     "published": "2026-10-17T20:35:04+00:00",
-     "ts": 1792269304000,
-     "count": 1
-    },
-    {
-     "title": "Estambul se prepara para una nueva jornada de lluvias y posibles inundaciones",
-     "link": "https://www.france24.com/es/video/20261017-estambul-se-prepara-para-una-nueva-jornada-de-lluvias-y-posibles-inundaciones",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/7bf0b13e-ca68-11f1-8c79-d1d2c32ebb87/w:1024/p:16x9/ES-20261017-123802-123937-CS.jpg",
-     "published": "2026-10-17T20:33:41+00:00",
-     "ts": 1792269221000,
-     "count": 1
-    },
-    {
-     "title": "‘Día de furia’ en Francia: asaltos a edificios y más de 400 detenidos en multitudinarias protestas por la educación y el costo de vida",
-     "link": "https://www.prensa.com/mundo/dia-de-furia-en-francia-un-edificio-en-llamas-y-mas-de-270-detenidos-en-multitudinarias-protestas-por-la-educacion-y-el-costo-de-vida/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/EWSMULALMZFNDCJO7ZDSMA3ZEE.jpg?auth=f6d6014776eb5e1e643bca7432758e440e59133fa667007d95ecb132e51a751b&smart=true&width=6000&height=3375",
-     "published": "2026-10-17T20:32:00+00:00",
-     "ts": 1792269120000,
-     "count": 1
-    },
-    {
-     "title": "Universidad de Panamá retomará clases presenciales de forma escalonada desde el 19 de octubre",
-     "link": "https://www.prensa.com/sociedad/universidad-de-panama-retomara-clases-presenciales-de-forma-escalonada-desde-el-19-de-octubre/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/3HXTPRD7PZCKLOCNVEFAFW7IBA.jpg?auth=bdafc7912d8aed7c98ddb53723cc9787c4503907496063cca30329481ba4af47&smart=true&width=966&height=613",
-     "published": "2026-10-17T20:30:31+00:00",
-     "ts": 1792269031000,
-     "count": 1
-    },
-    {
-     "title": "Líder del \"Partido de las Cucarachas\" queda en libertad tras una nueva detención en Nueva Delhi",
-     "link": "https://www.france24.com/es/video/20261017-l%C3%ADder-del-partido-de-las-cucarachas-queda-en-libertad-tras-una-nueva-detenci%C3%B3n-en-nueva-delhi",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/237df654-ca65-11f1-9048-6313a763b466/w:1024/p:16x9/ES-20261017-101300-101442-CS.jpg",
-     "published": "2026-10-17T20:21:32+00:00",
-     "ts": 1792268492000,
-     "count": 1
-    },
-    {
-     "title": "Trump suspende por orden ejecutiva las sanciones a Rusia pese al Congreso y Moscú lo celebra",
-     "link": "https://www.france24.com/es/video/20261017-trump-suspende-por-orden-ejecutiva-las-sanciones-a-rusia-pese-al-congreso-y-mosc%C3%BA-lo-celebra",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/7d350c66-ca5e-11f1-966f-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-070455-070627-CS.jpg",
-     "published": "2026-10-17T20:21:25+00:00",
-     "ts": 1792268485000,
-     "count": 1
-    },
-    {
-     "title": "Papa León XIV sale del hospital tras someterse a una cirugía de pulmón",
-     "link": "https://www.france24.com/es/video/20261017-papa-le%C3%B3n-xiv-sale-del-hospital-tras-someterse-a-una-cirug%C3%ADa-de-pulm%C3%B3n",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/b59b9780-ca5b-11f1-a350-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-070703-070946-CS.jpg",
-     "published": "2026-10-17T20:17:17+00:00",
-     "ts": 1792268237000,
-     "count": 3
-    },
-    {
-     "title": "Manifestantes en Francia cubren el Monumento de la República con un chaleco amarillo",
-     "link": "https://www.france24.com/es/video/20261017-manifestantes-en-francia-cubren-el-monumento-de-la-rep%C3%BAblica-con-un-chaleco-amarillo",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/948fdad2-ca66-11f1-840c-4dd8ac2cf3bf/w:1024/p:16x9/Francia-9.png",
-     "published": "2026-10-17T20:15:31+00:00",
-     "ts": 1792268131000,
-     "count": 1
-    },
-    {
-     "title": "El regreso de los ‘chalecos amarillos’ y la rabia estudiantil incendian Francia",
-     "link": "https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MCZE7DVERFEIZDALTM75N3HVG4.jpg?auth=8edcc575a4775e6e7233fa4fa9cbd6643d9a39cb1458ec758a454c859d4116eb",
-     "published": "2026-10-17T20:11:47+00:00",
-     "ts": 1792267907000,
-     "count": 1
-    },
-    {
-     "title": "Atlántico| Santa Verónica recupera 2,1 kilómetros de costa tras inversión de casi $94.000 millones para frenar la erosión y reactivar el turismo",
-     "link": "https://www.eltiempo.com/colombia/barranquilla/santa-veronica-recupera-2-1-kilometros-de-costa-tras-inversion-de-casi-94-000-millones-para-frenar-la-erosion-y-reactivar-el-turismo-en-el-atlantico-3594308",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad3c2ca8d70f.jpeg",
-     "published": "2026-10-17T20:01:00+00:00",
-     "ts": 1792267260000,
-     "count": 1
-    },
-    {
-     "title": "Temblor hoy en Colombia, 17 de octubre: reportan sismo de magnitud 3,2 en Tolima; esto se sabe del movimiento sísmico",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-17-de-octubre-reportan-sismo-de-magnitud-3-2-en-tolima-esto-se-sabe-del-movimiento-sismico-3594312",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad3d0aab2051.png",
-     "published": "2026-10-17T19:51:37+00:00",
-     "ts": 1792266697000,
-     "count": 1
-    },
-    {
-     "title": "\"Es una afrenta\": la \"contrarrevolución cultural\" de De la Espriella causa preocupación en Colombia",
-     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261017-es-una-afrenta-la-contrarrevoluci%C3%B3n-cultural-de-de-la-espriella-causa-preocupaci%C3%B3n-en-colombia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "",
-     "published": "2026-10-17T19:34:35+00:00",
-     "ts": 1792265675000,
-     "count": 1
     }
    ]
   },
@@ -1296,13 +1296,58 @@
    "name": "Desastres Naturales",
    "items": [
     {
-     "title": "Green forest fire notification in Mozambique",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032878",
+     "title": "M 2.5 - 55 km E of Pedro Bay, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upqxpc",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-10-18T00:25:00.783000+00:00",
+     "ts": 1792283100783,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in Brazil",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032890",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-10-17T23:04:46+00:00",
-     "ts": 1792278286000,
-     "count": 160
+     "published": "2026-10-17T23:18:44+00:00",
+     "ts": 1792279124000,
+     "count": 162
+    },
+    {
+     "title": "Green forest fire notification in Papua New Guinea",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032889",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-10-17T23:17:00+00:00",
+     "ts": 1792279020000,
+     "count": 16
+    },
+    {
+     "title": "M 2.5 - 1 km ENE of Summit Park, Utah",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160531",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-10-17T23:15:07.133000+00:00",
+     "ts": 1792278907133,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in The Democratic Republic of Congo",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032837",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-10-17T23:13:30+00:00",
+     "ts": 1792278810000,
+     "count": 1
+    },
+    {
+     "title": "Green forest fire notification in South Africa",
+     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032854",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-10-17T23:05:52+00:00",
+     "ts": 1792278352000,
+     "count": 1
     },
     {
      "title": "M 3.0 - 25 km SSW of Mina, Nevada",
@@ -1359,15 +1404,6 @@
      "count": 1
     },
     {
-     "title": "M 2.5 - 1 km ENE of Summit Park, Utah",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160531",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-10-17T21:40:52.499000+00:00",
-     "ts": 1792273252499,
-     "count": 1
-    },
-    {
      "title": "M 2.8 - 58 km WNW of Happy Valley, Alaska",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upisja",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1386,22 +1422,13 @@
      "count": 2
     },
     {
-     "title": "M 4.6 - 6 km NNE of Sámi, Greece",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-10-17T19:49:56.073000+00:00",
-     "ts": 1792266596073,
-     "count": 1
-    },
-    {
      "title": "M 2.5 - 58 km S of Whites City, New Mexico",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u31h",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
      "published": "2026-10-17T19:28:11.040000+00:00",
      "ts": 1792265291040,
-     "count": 2
+     "count": 1
     },
     {
      "title": "M 2.8 - 13 km ENE of Pāhala, Hawaii",
@@ -1410,7 +1437,7 @@
      "image": "",
      "published": "2026-10-17T19:27:19.350000+00:00",
      "ts": 1792265239350,
-     "count": 2
+     "count": 1
     },
     {
      "title": "M 3.1 - 19 km E of Forks, Washington",
@@ -1419,33 +1446,6 @@
      "image": "",
      "published": "2026-10-17T19:24:23.946000+00:00",
      "ts": 1792265063946,
-     "count": 1
-    },
-    {
-     "title": "Green forest fire notification in The Democratic Republic of Congo",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032837",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-10-17T19:11:44+00:00",
-     "ts": 1792264304000,
-     "count": 1
-    },
-    {
-     "title": "Green forest fire notification in Papua New Guinea",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032859",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-10-17T19:06:28+00:00",
-     "ts": 1792263988000,
-     "count": 14
-    },
-    {
-     "title": "Green forest fire notification in South Africa",
-     "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032854",
-     "source": "GDACS RSS information",
-     "image": "",
-     "published": "2026-10-17T19:04:35+00:00",
-     "ts": 1792263875000,
      "count": 1
     },
     {
@@ -1590,12 +1590,48 @@
      "count": 1
     },
     {
+     "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-10-18T00:00:11+00:00",
+     "ts": 1792281611000,
+     "count": 1
+    },
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+     "published": "2026-10-17T23:52:38+00:00",
+     "ts": 1792281158000,
+     "count": 2
+    },
+    {
+     "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+     "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-10-17T23:40:59+00:00",
+     "ts": 1792280459000,
+     "count": 1
+    },
+    {
      "title": "Huckabee condemns 'despicable' attack on photojournalist Heidi Levine in West Bank, demands arrests",
      "link": "https://www.jpost.com/israel-news/article-911990",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2288,w_3440/736563",
      "published": "2026-10-17T23:30:18+00:00",
      "ts": 1792279818000,
+     "count": 1
+    },
+    {
+     "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+     "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-10-17T23:21:57+00:00",
+     "ts": 1792279317000,
      "count": 1
     },
     {
@@ -1734,15 +1770,6 @@
      "count": 1
     },
     {
-     "title": "Israeli settlers attack European diplomats in West Bank",
-     "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b9a3e348f316f5f39a4ebd9844c51cbc810845c9/0_1020_1192_953/master/1192.jpg?width=140&quality=85&auto=format&fit=max&s=b63ff2e62279e8e2b14337cfb6803fc2",
-     "published": "2026-10-17T18:57:56+00:00",
-     "ts": 1792263476000,
-     "count": 2
-    },
-    {
      "title": "Is the US Embassy in Jerusalem for Israel or America?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -1777,33 +1804,6 @@
      "published": "2026-10-17T18:26:59+00:00",
      "ts": 1792261619000,
      "count": 1
-    },
-    {
-     "title": "Washington Post photojournalist undergoes surgery after settler attack, demands arrests - interview",
-     "link": "https://www.jpost.com/israel-news/crime-in-israel/article-911976",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5462,w_8192/742338",
-     "published": "2026-10-17T18:12:41+00:00",
-     "ts": 1792260761000,
-     "count": 1
-    },
-    {
-     "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-     "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-10-17T17:42:01+00:00",
-     "ts": 1792258921000,
-     "count": 1
-    },
-    {
-     "title": "Pope Leo returns to Vatican after lung cancer surgery",
-     "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-10-17T17:37:52+00:00",
-     "ts": 1792258672000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,51 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "How land power could help US forces counter China in the Indo-Pacific",
+     "link": "https://www.scmp.com/news/us/article/3371267/how-land-power-could-help-us-forces-counter-china-indo-pacific?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/753fa1f7-efaa-43aa-9886-9e49adf7853a_12ea42fd.jpg?itok=pE9Eq2ZX&v=1792240782",
+     "published": "2026-10-18T01:00:10+00:00",
+     "ts": 1792285210000,
+     "count": 1
+    },
+    {
+     "title": "Why is Hong Kong hosting the Apec Finance Ministers’ Meeting? There is another agenda",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371251/why-hong-kong-hosting-apec-finance-ministers-meeting-there-another-agenda?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/1a6c0831-36ab-4a8d-9a84-461f389bc75d_d360766c.jpg?itok=CnPWFZg7&v=1792240180",
+     "published": "2026-10-18T01:00:06+00:00",
+     "ts": 1792285206000,
+     "count": 1
+    },
+    {
+     "title": "Trump’s second Asean summit presence comes at a price for region",
+     "link": "https://www.scmp.com/week-asia/economics/article/3371132/trumps-second-asean-summit-presence-comes-price-region?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/efd2f097-26fc-40dd-b540-a3e6a51dead6_d602a822.jpg?itok=RLCE65Kc&v=1792135755",
+     "published": "2026-10-18T00:00:08+00:00",
+     "ts": 1792281608000,
+     "count": 1
+    },
+    {
+     "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/fbef6a36-4da4-48c7-9445-c19f43555873_db14d25d.jpg?itok=PE_PI0_-&v=1792281382",
+     "published": "2026-10-17T23:56:30+00:00",
+     "ts": 1792281390000,
+     "count": 1
+    },
+    {
+     "title": "19 dead, 25 hurt in stampede at India religious festival",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3371278/19-dead-25-hurt-stampede-india-religious-festival?utm_source=rss_feed",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/64fba989-a5c5-4fce-81d2-02a048cfa72b_3fa00724.jpg?itok=QzHzJAPu&v=1792279908",
+     "published": "2026-10-17T23:31:57+00:00",
+     "ts": 1792279917000,
+     "count": 1
+    },
     {
      "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
@@ -2016,51 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/71cc50b6-bc31-4559-9165-7306971768e9_c3561157.jpg?itok=GRaQ_l-O&v=1792053147",
      "published": "2026-10-17T08:00:09+00:00",
      "ts": 1792224009000,
-     "count": 1
-    },
-    {
-     "title": "European delegates walk out on Russian finance minister at IMF summit",
-     "link": "https://www.scmp.com/news/world/europe/article/3371248/european-delegates-walk-out-russian-finance-minister-imf-summit?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/deb90ce6-0390-4efe-8b2b-d5f318659bc7_5eded428.jpg?itok=_A_BQOS_&v=1792223487",
-     "published": "2026-10-17T07:51:33+00:00",
-     "ts": 1792223493000,
-     "count": 1
-    },
-    {
-     "title": "Police urge Apple to fix security after 110 reports of fraud over iPhone Duo",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371245/police-receive-over-100-reports-about-credit-card-charges-iphone-duo-pre-orders?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/deeec2be-a931-4768-9589-de9469de2b11_b531af30.jpg?itok=vzGYPEe9&v=1792222297",
-     "published": "2026-10-17T07:31:50+00:00",
-     "ts": 1792222310000,
-     "count": 1
-    },
-    {
-     "title": "Modi under pressure as India’s youth protests rise to highest level in a decade",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3371244/modi-under-pressure-indias-youth-protests-rise-highest-level-decade?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/d3ad1afa-9699-44a0-9e52-6704aba9c8e5_9dca1867.jpg?itok=W6ugt0lz&v=1792221209",
-     "published": "2026-10-17T07:13:37+00:00",
-     "ts": 1792221217000,
-     "count": 1
-    },
-    {
-     "title": "Security fears in Norway as Chinese smart cars record sensitive military data",
-     "link": "https://www.scmp.com/news/world/europe/article/3371243/security-fears-norway-chinese-smart-cars-record-sensitive-military-data?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/7df0bccf-e583-427a-813f-93a83e8a9caf_42f47055.jpg?itok=Y6tmlyhI&v=1792220892",
-     "published": "2026-10-17T07:08:23+00:00",
-     "ts": 1792220903000,
-     "count": 1
-    },
-    {
-     "title": "Abby Choi’s partner tells murder trial she hid ex-in-laws’ financial reliance on her",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371242/abby-chois-partner-tells-murder-trial-she-hid-ex-laws-financial-reliance-her?utm_source=rss_feed",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/dd7b8148-af5a-492d-8eea-a9403d322c6b_5f54e4ea.jpg?itok=wdGZLWxK&v=1792219150",
-     "published": "2026-10-17T07:00:10+00:00",
-     "ts": 1792220410000,
      "count": 1
     }
    ]

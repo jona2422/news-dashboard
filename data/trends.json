@@ -1,12 +1,8 @@
 {
- "updated": "2026-10-17T23:11:04.859134+00:00",
+ "updated": "2026-10-18T01:09:33.165410+00:00",
  "terms": [
   {
    "term": "police",
-   "count": 11
-  },
-  {
-   "term": "protests",
    "count": 10
   },
   {
@@ -18,19 +14,35 @@
    "count": 9
   },
   {
+   "term": "protests",
+   "count": 9
+  },
+  {
+   "term": "alaska",
+   "count": 9
+  },
+  {
    "term": "france",
    "count": 8
   },
   {
-   "term": "alaska",
+   "term": "china",
    "count": 8
   },
   {
-   "term": "china",
+   "term": "israeli",
    "count": 7
   },
   {
-   "term": "india",
+   "term": "israel",
+   "count": 7
+  },
+  {
+   "term": "trump",
+   "count": 7
+  },
+  {
+   "term": "early",
    "count": 6
   },
   {
@@ -38,23 +50,11 @@
    "count": 6
   },
   {
-   "term": "trump",
+   "term": "diplomats",
    "count": 6
   },
   {
-   "term": "israeli",
-   "count": 6
-  },
-  {
-   "term": "west",
-   "count": 6
-  },
-  {
-   "term": "israel",
-   "count": 6
-  },
-  {
-   "term": "francia",
+   "term": "protestas",
    "count": 6
   },
   {
@@ -66,15 +66,31 @@
    "count": 5
   },
   {
-   "term": "attack",
+   "term": "india",
    "count": 5
   },
   {
-   "term": "european",
+   "term": "kings",
+   "count": 5
+  },
+  {
+   "term": "settlers",
+   "count": 5
+  },
+  {
+   "term": "west",
    "count": 5
   },
   {
    "term": "bank",
+   "count": 5
+  },
+  {
+   "term": "killed",
+   "count": 5
+  },
+  {
+   "term": "drones",
    "count": 5
   },
   {
@@ -86,15 +102,7 @@
    "count": 4
   },
   {
-   "term": "2026",
-   "count": 4
-  },
-  {
    "term": "world",
-   "count": 4
-  },
-  {
-   "term": "years",
    "count": 4
   },
   {
@@ -102,57 +110,45 @@
    "count": 4
   },
   {
-   "term": "early",
+   "term": "mexico",
+   "count": 4
+  },
+  {
+   "term": "meta",
    "count": 4
   },
   {
    "term": "across",
    "count": 4
-  },
-  {
-   "term": "violent",
-   "count": 4
-  },
-  {
-   "term": "killed",
-   "count": 4
-  },
-  {
-   "term": "diplomats",
-   "count": 4
   }
  ],
  "entities": [
+  {
+   "name": "Alaska",
+   "count": 9
+  },
   {
    "name": "France",
    "count": 8
   },
   {
-   "name": "Alaska",
-   "count": 8
-  },
-  {
    "name": "Israel",
-   "count": 6
-  },
-  {
-   "name": "Francia",
-   "count": 6
-  },
-  {
-   "name": "India",
-   "count": 5
+   "count": 7
   },
   {
    "name": "Israeli",
-   "count": 5
+   "count": 6
   },
   {
-   "name": "European",
-   "count": 5
+   "name": "China",
+   "count": 6
   },
   {
    "name": "West Bank",
+   "count": 5
+  },
+  {
+   "name": "Trump",
    "count": 5
   },
   {
@@ -160,19 +156,39 @@
    "count": 5
   },
   {
-   "name": "China",
-   "count": 5
+   "name": "Meta",
+   "count": 4
   },
   {
-   "name": "Trump",
+   "name": "No Kings",
    "count": 4
+  },
+  {
+   "name": "Hormuz",
+   "count": 4
+  },
+  {
+   "name": "European",
+   "count": 4
+  },
+  {
+   "name": "India",
+   "count": 4
+  },
+  {
+   "name": "Francia",
+   "count": 4
+  },
+  {
+   "name": "Egypt",
+   "count": 3
   },
   {
    "name": "Show HN",
    "count": 3
   },
   {
-   "name": "Oregon",
+   "name": "Iran",
    "count": 3
   },
   {
@@ -188,15 +204,11 @@
    "count": 3
   },
   {
-   "name": "Russia",
+   "name": "Panamá",
    "count": 3
   },
   {
-   "name": "Texas",
-   "count": 3
-  },
-  {
-   "name": "Palestinians",
+   "name": "París",
    "count": 3
   },
   {
@@ -204,20 +216,8 @@
    "count": 3
   },
   {
-   "name": "Chinese",
+   "name": "Hong Kong",
    "count": 3
-  },
-  {
-   "name": "London",
-   "count": 2
-  },
-  {
-   "name": "Meta",
-   "count": 2
-  },
-  {
-   "name": "Anthropic",
-   "count": 2
   }
  ]
 }
