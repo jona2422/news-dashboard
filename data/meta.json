@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18T18:40:48.096130+00:00",
- "sources_ok": 38,
+ "updated": "2026-10-18T21:32:59.038051+00:00",
+ "sources_ok": 39,
  "sources_total": 40,
  "beats": [
   {
@@ -49,14 +49,6 @@
    "beat": "desastres",
    "url": "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss",
    "source": "earthobservatory.nasa.gov",
-   "ok": false,
-   "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "medio_oriente",
-   "url": "https://www.france24.com/en/middle-east/rss",
-   "source": "france24.com",
    "ok": false,
    "count": 0,
    "error": "sin items"
@@ -178,7 +170,7 @@
    "url": "https://www.gdacs.org/xml/rss.xml",
    "source": "GDACS RSS information",
    "ok": true,
-   "count": 218,
+   "count": 228,
    "error": ""
   },
   {
@@ -219,6 +211,14 @@
    "source": "Middle East and north Africa | The Guardian",
    "ok": true,
    "count": 20,
+   "error": ""
+  },
+  {
+   "beat": "medio_oriente",
+   "url": "https://www.france24.com/en/middle-east/rss",
+   "source": "Latest news from the Middle East, daily international news reports - France 24",
+   "ok": true,
+   "count": 30,
    "error": ""
   },
   {
@@ -290,7 +290,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 106,
+   "count": 93,
    "error": ""
   },
   {
