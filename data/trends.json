@@ -1,112 +1,72 @@
 {
- "updated": "2026-10-19T10:52:04.982472+00:00",
+ "updated": "2026-10-19T17:32:41.891449+00:00",
  "terms": [
   {
-   "term": "gaza",
-   "count": 9
-  },
-  {
-   "term": "china",
-   "count": 9
-  },
-  {
-   "term": "show",
-   "count": 7
-  },
-  {
-   "term": "protests",
-   "count": 7
-  },
-  {
-   "term": "world",
-   "count": 7
-  },
-  {
-   "term": "helen",
-   "count": 7
-  },
-  {
-   "term": "haines",
-   "count": 7
-  },
-  {
-   "term": "fire",
-   "count": 7
-  },
-  {
-   "term": "police",
-   "count": 6
-  },
-  {
-   "term": "attack",
-   "count": 6
-  },
-  {
-   "term": "france",
-   "count": 6
+   "term": "court",
+   "count": 8
   },
   {
    "term": "trump",
-   "count": 6
+   "count": 8
   },
   {
-   "term": "cuts",
-   "count": 6
+   "term": "2027",
+   "count": 7
   },
   {
-   "term": "hong",
-   "count": 6
+   "term": "attack",
+   "count": 7
   },
   {
-   "term": "kong",
-   "count": 6
-  },
-  {
-   "term": "base",
-   "count": 5
-  },
-  {
-   "term": "paris",
-   "count": 5
-  },
-  {
-   "term": "2026",
-   "count": 5
-  },
-  {
-   "term": "injured",
-   "count": 5
-  },
-  {
-   "term": "australian",
-   "count": 5
-  },
-  {
-   "term": "palestinians",
-   "count": 5
-  },
-  {
-   "term": "funding",
-   "count": 5
-  },
-  {
-   "term": "food",
-   "count": 5
+   "term": "china",
+   "count": 7
   },
   {
    "term": "green",
+   "count": 6
+  },
+  {
+   "term": "announces",
    "count": 5
   },
   {
-   "term": "museum",
-   "count": 4
+   "term": "tour",
+   "count": 5
   },
   {
-   "term": "boom",
-   "count": 4
+   "term": "show",
+   "count": 5
   },
   {
    "term": "america",
+   "count": 5
+  },
+  {
+   "term": "cult",
+   "count": 5
+  },
+  {
+   "term": "leader",
+   "count": 5
+  },
+  {
+   "term": "iran",
+   "count": 5
+  },
+  {
+   "term": "israel",
+   "count": 5
+  },
+  {
+   "term": "music",
+   "count": 4
+  },
+  {
+   "term": "announce",
+   "count": 4
+  },
+  {
+   "term": "2026",
    "count": 4
   },
   {
@@ -114,33 +74,61 @@
    "count": 4
   },
   {
-   "term": "jewish",
+   "term": "basel",
    "count": 4
   },
   {
-   "term": "programme",
+   "term": "louvre",
+   "count": 4
+  },
+  {
+   "term": "france",
+   "count": 4
+  },
+  {
+   "term": "protests",
+   "count": 4
+  },
+  {
+   "term": "found",
+   "count": 4
+  },
+  {
+   "term": "fund",
+   "count": 4
+  },
+  {
+   "term": "children",
+   "count": 4
+  },
+  {
+   "term": "guilty",
+   "count": 4
+  },
+  {
+   "term": "soldiers",
+   "count": 4
+  },
+  {
+   "term": "yemen",
+   "count": 4
+  },
+  {
+   "term": "kills",
+   "count": 4
+  },
+  {
+   "term": "security",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Gaza",
-   "count": 9
-  },
-  {
-   "name": "China",
-   "count": 9
-  },
-  {
-   "name": "France",
-   "count": 6
-  },
-  {
    "name": "Trump",
-   "count": 6
+   "count": 7
   },
   {
-   "name": "Palestinians",
+   "name": "Israel",
    "count": 5
   },
   {
@@ -148,31 +136,23 @@
    "count": 5
   },
   {
-   "name": "Helen Haines",
+   "name": "Yemen",
    "count": 4
   },
   {
-   "name": "World Food Programme",
+   "name": "Gaza",
    "count": 4
   },
   {
-   "name": "Alaska",
+   "name": "Francia",
    "count": 4
   },
   {
-   "name": "Anthropic",
-   "count": 3
+   "name": "China",
+   "count": 4
   },
   {
-   "name": "Israeli",
-   "count": 3
-  },
-  {
-   "name": "Vanuatu",
-   "count": 3
-  },
-  {
-   "name": "Hong Kong",
+   "name": "Apple",
    "count": 3
   },
   {
@@ -180,43 +160,63 @@
    "count": 3
   },
   {
-   "name": "Academy Museum Gala",
+   "name": "SpaceX",
+   "count": 3
+  },
+  {
+   "name": "India",
+   "count": 3
+  },
+  {
+   "name": "Iran",
+   "count": 3
+  },
+  {
+   "name": "Haiti",
+   "count": 3
+  },
+  {
+   "name": "Houthi",
+   "count": 3
+  },
+  {
+   "name": "Kenyan",
+   "count": 3
+  },
+  {
+   "name": "France",
+   "count": 3
+  },
+  {
+   "name": "Alaska",
+   "count": 3
+  },
+  {
+   "name": "Vanuatu",
+   "count": 3
+  },
+  {
+   "name": "Indonesia",
+   "count": 3
+  },
+  {
+   "name": "Hong Kong",
+   "count": 3
+  },
+  {
+   "name": "Years",
    "count": 2
   },
   {
-   "name": "Madonna",
+   "name": "Decade",
    "count": 2
   },
   {
-   "name": "London",
+   "name": "Amazon",
    "count": 2
   },
   {
-   "name": "Australian MP Helen Haines",
-   "count": 2
-  },
-  {
-   "name": "Greece",
-   "count": 2
-  },
-  {
-   "name": "Mexican",
-   "count": 2
-  },
-  {
-   "name": "Ukraine",
-   "count": 2
-  },
-  {
-   "name": "Cuts",
-   "count": 2
-  },
-  {
-   "name": "Canada",
-   "count": 2
-  },
-  {
-   "name": "Australian",
+   "name": "Indiana",
    "count": 2
   }
  ]
