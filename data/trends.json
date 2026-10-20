@@ -1,72 +1,80 @@
 {
- "updated": "2026-10-20T07:41:24.962470+00:00",
+ "updated": "2026-10-20T13:37:17.399508+00:00",
  "terms": [
   {
-   "term": "alaska",
-   "count": 8
+   "term": "china",
+   "count": 11
   },
   {
    "term": "fire",
-   "count": 7
+   "count": 8
+  },
+  {
+   "term": "country",
+   "count": 6
   },
   {
    "term": "trump",
-   "count": 7
+   "count": 6
   },
   {
-   "term": "alberta",
-   "count": 7
+   "term": "yemen",
+   "count": 6
+  },
+  {
+   "term": "attacks",
+   "count": 6
+  },
+  {
+   "term": "saudi",
+   "count": 6
+  },
+  {
+   "term": "arabia",
+   "count": 6
   },
   {
    "term": "green",
-   "count": 7
-  },
-  {
-   "term": "china",
-   "count": 7
-  },
-  {
-   "term": "show",
    "count": 6
   },
   {
-   "term": "reject",
+   "term": "alaska",
    "count": 6
   },
   {
-   "term": "canada",
+   "term": "chinese",
    "count": 6
-  },
-  {
-   "term": "attack",
-   "count": 6
-  },
-  {
-   "term": "francia",
-   "count": 6
-  },
-  {
-   "term": "year",
-   "count": 5
   },
   {
    "term": "years",
    "count": 5
   },
   {
-   "term": "japan",
+   "term": "show",
    "count": 5
   },
   {
-   "term": "voters",
+   "term": "closes",
    "count": 5
   },
   {
-   "term": "australian",
+   "term": "google",
    "count": 5
   },
   {
-   "term": "islands",
+   "term": "control",
+   "count": 5
+  },
+  {
+   "term": "iran",
+   "count": 5
+  },
+  {
+   "term": "help",
+   "count": 5
+  },
+  {
+   "term": "houthi",
    "count": 5
   },
   {
@@ -78,23 +86,19 @@
    "count": 5
   },
   {
-   "term": "hong",
-   "count": 5
+   "term": "tribute",
+   "count": 4
   },
   {
-   "term": "kong",
-   "count": 5
+   "term": "north",
+   "count": 4
+  },
+  {
+   "term": "year",
+   "count": 4
   },
   {
    "term": "right",
-   "count": 4
-  },
-  {
-   "term": "music",
-   "count": 4
-  },
-  {
-   "term": "dead",
    "count": 4
   },
   {
@@ -106,15 +110,11 @@
    "count": 4
   },
   {
-   "term": "face",
+   "term": "deepseek",
    "count": 4
   },
   {
-   "term": "talks",
-   "count": 4
-  },
-  {
-   "term": "help",
+   "term": "gaza",
    "count": 4
   },
   {
@@ -124,51 +124,55 @@
  ],
  "entities": [
   {
-   "name": "Alaska",
-   "count": 8
-  },
-  {
-   "name": "Alberta",
-   "count": 7
-  },
-  {
-   "name": "Green",
-   "count": 7
-  },
-  {
    "name": "China",
-   "count": 7
-  },
-  {
-   "name": "Canada",
-   "count": 6
-  },
-  {
-   "name": "Francia",
-   "count": 6
+   "count": 10
   },
   {
    "name": "Trump",
+   "count": 6
+  },
+  {
+   "name": "Yemen",
+   "count": 6
+  },
+  {
+   "name": "Green",
+   "count": 6
+  },
+  {
+   "name": "Alaska",
+   "count": 6
+  },
+  {
+   "name": "Chinese",
+   "count": 6
+  },
+  {
+   "name": "Iran",
    "count": 5
   },
   {
-   "name": "Japan",
+   "name": "Saudi Arabia",
    "count": 5
   },
   {
-   "name": "Hong Kong",
+   "name": "Houthi",
    "count": 5
   },
   {
-   "name": "Israel",
+   "name": "Google",
    "count": 4
   },
   {
-   "name": "Ukraine",
-   "count": 3
+   "name": "Gaza",
+   "count": 4
   },
   {
-   "name": "Zelenskyy",
+   "name": "India",
+   "count": 4
+  },
+  {
+   "name": "DeepSeek AI",
    "count": 3
   },
   {
@@ -176,7 +180,7 @@
    "count": 3
   },
   {
-   "name": "Panamá",
+   "name": "Ukraine",
    "count": 3
   },
   {
@@ -188,35 +192,31 @@
    "count": 3
   },
   {
+   "name": "Hong Kong",
+   "count": 3
+  },
+  {
+   "name": "Rosalía",
+   "count": 2
+  },
+  {
+   "name": "Perform",
+   "count": 2
+  },
+  {
+   "name": "Latin Grammys",
+   "count": 2
+  },
+  {
+   "name": "Auction",
+   "count": 2
+  },
+  {
    "name": "New York",
    "count": 2
   },
   {
-   "name": "OpenBSD",
-   "count": 2
-  },
-  {
-   "name": "India",
-   "count": 2
-  },
-  {
-   "name": "France",
-   "count": 2
-  },
-  {
-   "name": "Microsoft",
-   "count": 2
-  },
-  {
-   "name": "Russian",
-   "count": 2
-  },
-  {
-   "name": "Mars",
-   "count": 2
-  },
-  {
-   "name": "Morocco",
+   "name": "Japan",
    "count": 2
   }
  ]
