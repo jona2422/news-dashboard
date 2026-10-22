@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T13:52:42.701692+00:00",
- "sources_ok": 38,
+ "updated": "2026-10-22T18:36:13.737903+00:00",
+ "sources_ok": 39,
  "sources_total": 40,
  "beats": [
   {
@@ -47,14 +47,6 @@
  "feeds": [
   {
    "beat": "desastres",
-   "url": "https://www.gdacs.org/xml/rss.xml",
-   "source": "gdacs.org",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
-  },
-  {
-   "beat": "desastres",
    "url": "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss",
    "source": "earthobservatory.nasa.gov",
    "ok": false,
@@ -66,7 +58,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 38,
+   "count": 39,
    "error": ""
   },
   {
@@ -175,6 +167,14 @@
   },
   {
    "beat": "desastres",
+   "url": "https://www.gdacs.org/xml/rss.xml",
+   "source": "GDACS RSS information",
+   "ok": true,
+   "count": 286,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
    "url": "https://www.theguardian.com/world/natural-disasters/rss",
    "source": "Natural disasters and extreme weather | The Guardian",
    "ok": true,
@@ -202,7 +202,7 @@
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "source": "BBC News",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "error": ""
   },
   {
@@ -290,7 +290,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 116,
+   "count": 124,
    "error": ""
   },
   {
