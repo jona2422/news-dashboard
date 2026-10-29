@@ -1,100 +1,80 @@
 {
- "updated": "2026-10-28T23:17:06.226854+00:00",
+ "updated": "2026-10-29T02:32:08.862937+00:00",
  "terms": [
   {
    "term": "bolsonaro",
-   "count": 13
-  },
-  {
-   "term": "israel",
-   "count": 13
+   "count": 12
   },
   {
    "term": "election",
-   "count": 12
-  },
-  {
-   "term": "netanyahu",
-   "count": 12
-  },
-  {
-   "term": "china",
-   "count": 10
+   "count": 11
   },
   {
    "term": "trump",
+   "count": 11
+  },
+  {
+   "term": "china",
+   "count": 11
+  },
+  {
+   "term": "israel",
+   "count": 9
+  },
+  {
+   "term": "miami",
    "count": 8
-  },
-  {
-   "term": "2026",
-   "count": 7
-  },
-  {
-   "term": "brazil",
-   "count": 7
   },
   {
    "term": "green",
    "count": 7
   },
   {
-   "term": "flávio",
+   "term": "brazil",
    "count": 6
+  },
+  {
+   "term": "netanyahu",
+   "count": 6
+  },
+  {
+   "term": "forest",
+   "count": 6
+  },
+  {
+   "term": "fire",
+   "count": 6
+  },
+  {
+   "term": "notification",
+   "count": 6
+  },
+  {
+   "term": "years",
+   "count": 5
   },
   {
    "term": "announce",
    "count": 5
   },
   {
-   "term": "miami",
+   "term": "2026",
    "count": 5
   },
   {
-   "term": "microsoft",
+   "term": "studio",
    "count": 5
   },
   {
-   "term": "revenue",
+   "term": "flávio",
    "count": 5
   },
   {
-   "term": "leader",
+   "term": "counted",
    "count": 5
-  },
-  {
-   "term": "majority",
-   "count": 5
-  },
-  {
-   "term": "results",
-   "count": 5
-  },
-  {
-   "term": "forest",
-   "count": 5
-  },
-  {
-   "term": "fire",
-   "count": 5
-  },
-  {
-   "term": "notification",
-   "count": 5
-  },
-  {
-   "term": "years",
-   "count": 4
   },
   {
    "term": "song",
-   "count": 4
-  },
-  {
-   "term": "people",
-   "count": 4
-  },
-  {
-   "term": "show",
    "count": 4
   },
   {
@@ -102,11 +82,11 @@
    "count": 4
   },
   {
-   "term": "wants",
+   "term": "world",
    "count": 4
   },
   {
-   "term": "book",
+   "term": "gains",
    "count": 4
   },
   {
@@ -114,29 +94,49 @@
    "count": 4
   },
   {
-   "term": "growth",
+   "term": "plan",
    "count": 4
   },
   {
-   "term": "global",
+   "term": "microsoft",
+   "count": 4
+  },
+  {
+   "term": "revenue",
+   "count": 4
+  },
+  {
+   "term": "government",
+   "count": 4
+  },
+  {
+   "term": "ballots",
+   "count": 4
+  },
+  {
+   "term": "denies",
+   "count": 4
+  },
+  {
+   "term": "protests",
    "count": 4
   }
  ],
  "entities": [
   {
-   "name": "Israel",
-   "count": 13
-  },
-  {
-   "name": "Netanyahu",
-   "count": 11
-  },
-  {
    "name": "Trump",
-   "count": 7
+   "count": 10
   },
   {
-   "name": "Brazil",
+   "name": "Israel",
+   "count": 9
+  },
+  {
+   "name": "China",
+   "count": 8
+  },
+  {
+   "name": "Miami",
    "count": 7
   },
   {
@@ -144,47 +144,23 @@
    "count": 7
   },
   {
+   "name": "Netanyahu",
+   "count": 6
+  },
+  {
    "name": "Flávio Bolsonaro",
-   "count": 6
-  },
-  {
-   "name": "China",
-   "count": 6
-  },
-  {
-   "name": "Microsoft",
    "count": 5
   },
   {
+   "name": "Brazil",
+   "count": 5
+  },
+  {
+   "name": "Microsoft",
+   "count": 4
+  },
+  {
    "name": "Flavio Bolsonaro",
-   "count": 4
-  },
-  {
-   "name": "Miami",
-   "count": 4
-  },
-  {
-   "name": "Spain",
-   "count": 4
-  },
-  {
-   "name": "Brasil",
-   "count": 4
-  },
-  {
-   "name": "Japan",
-   "count": 4
-  },
-  {
-   "name": "Alaska",
-   "count": 4
-  },
-  {
-   "name": "Israeli",
-   "count": 4
-  },
-  {
-   "name": "Hong Kong",
    "count": 4
   },
   {
@@ -196,11 +172,31 @@
    "count": 3
   },
   {
+   "name": "Bolsonaro",
+   "count": 3
+  },
+  {
+   "name": "Arab",
+   "count": 3
+  },
+  {
+   "name": "Iran",
+   "count": 3
+  },
+  {
+   "name": "España",
+   "count": 3
+  },
+  {
    "name": "Cuba",
    "count": 3
   },
   {
-   "name": "Bolsonaro",
+   "name": "Brasil",
+   "count": 3
+  },
+  {
+   "name": "Japan",
    "count": 3
   },
   {
@@ -208,15 +204,19 @@
    "count": 3
   },
   {
-   "name": "Mini",
+   "name": "Chinese",
+   "count": 3
+  },
+  {
+   "name": "Hong Kong",
+   "count": 3
+  },
+  {
+   "name": "Dolores Huerta",
    "count": 2
   },
   {
    "name": "World Tour",
-   "count": 2
-  },
-  {
-   "name": "Akai",
    "count": 2
   }
  ]
