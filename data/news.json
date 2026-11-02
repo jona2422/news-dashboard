@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-01T21:14:09.676263+00:00",
+ "updated": "2026-11-02T00:51:56.418016+00:00",
  "beats": [
   {
    "id": "musica",
    "name": "Música & Industria",
    "items": [
+    {
+     "title": "Harry Styles Ended His Historic Madison Square Garden Run — And This Song Captured It All",
+     "link": "https://www.rollingstone.com/music/music-features/harry-styles-madison-square-garden-end-season-2-weight-loss-1235648505/",
+     "source": "Music – Rolling Stone",
+     "image": "",
+     "published": "2026-11-01T23:03:54+00:00",
+     "ts": 1793574234000,
+     "count": 1
+    },
     {
      "title": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
      "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
@@ -174,7 +183,7 @@
      "image": "https://consequence.net/wp-content/uploads/2026/10/Ian-Gillan.jpg?quality=80",
      "published": "2026-10-31T17:12:36+00:00",
      "ts": 1793466756000,
-     "count": 2
+     "count": 1
     },
     {
      "title": "Harry Styles Says the Scariest Thing This Halloween Is New York City’s Coffee Prices",
@@ -246,15 +255,6 @@
      "image": "https://cdn.mos.cms.futurecdn.net/kM8PCP4YjsLQLsEFnXzbMH-1920-80.jpg",
      "published": "2026-10-31T12:00:00+00:00",
      "ts": 1793448000000,
-     "count": 1
-    },
-    {
-     "title": "The making of the poignant Amy Winehouse classic that even wowed Prince",
-     "link": "https://www.musicradar.com/artists/the-chords-were-so-complicated-and-jazzy-i-was-like-man-you-just-play-this-song-i-dont-even-know-what-im-doing-right-now-so-she-did-the-making-of-the-poignant-amy-winehouse-classic-that-even-wowed-prince",
-     "source": "Latest from MusicRadar",
-     "image": "https://cdn.mos.cms.futurecdn.net/zNFXXygNLTxwbKubLCytgW-1920-80.png",
-     "published": "2026-10-31T10:00:00+00:00",
-     "ts": 1793440800000,
      "count": 1
     }
    ]
@@ -522,6 +522,51 @@
    "name": "Tecnología & IA",
    "items": [
     {
+     "title": "U.S. workers took home their smallest share of capital since at least 1947",
+     "link": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-11-01T23:20:31+00:00",
+     "ts": 1793575231000,
+     "count": 1
+    },
+    {
+     "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-11-01T22:10:45+00:00",
+     "ts": 1793571045000,
+     "count": 1
+    },
+    {
+     "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+     "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+     "source": "TechCrunch",
+     "image": "",
+     "published": "2026-11-01T21:55:23+00:00",
+     "ts": 1793570123000,
+     "count": 1
+    },
+    {
+     "title": "Flock keeps ignoring requests to cancel its contracts",
+     "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-11-01T21:27:52+00:00",
+     "ts": 1793568472000,
+     "count": 1
+    },
+    {
+     "title": "NASA hopes the commercial space industry can help save Hubble",
+     "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "published": "2026-11-01T21:09:21+00:00",
+     "ts": 1793567361000,
+     "count": 1
+    },
+    {
      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
      "source": "TechCrunch",
@@ -531,39 +576,12 @@
      "count": 1
     },
     {
-     "title": "Flock keeps ignoring requests to cancel its contracts",
-     "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "published": "2026-11-01T19:58:02+00:00",
-     "ts": 1793563082000,
-     "count": 1
-    },
-    {
-     "title": "It wasn't AI that flipped Proton's charge",
-     "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
+     "title": "Ask HN: Which TV do you recommend for privacy?",
+     "link": "https://news.ycombinator.com/item?id=50328896",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-11-01T18:53:55+00:00",
-     "ts": 1793559235000,
-     "count": 1
-    },
-    {
-     "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
-     "link": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-11-01T18:53:46+00:00",
-     "ts": 1793559226000,
-     "count": 1
-    },
-    {
-     "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-     "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-11-01T18:51:29+00:00",
-     "ts": 1793559089000,
+     "published": "2026-11-01T19:35:27+00:00",
+     "ts": 1793561727000,
      "count": 1
     },
     {
@@ -666,6 +684,15 @@
      "count": 1
     },
     {
+     "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+     "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+     "source": "Hacker News: Front Page",
+     "image": "",
+     "published": "2026-11-01T15:33:49+00:00",
+     "ts": 1793547229000,
+     "count": 1
+    },
+    {
      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
      "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
      "source": "TechCrunch",
@@ -738,39 +765,12 @@
      "count": 1
     },
     {
-     "title": "The AI cost of JavaScript frameworks",
-     "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+     "title": "Domain hacks with unusual Unicode characters (2018)",
+     "link": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
      "source": "Hacker News: Front Page",
      "image": "",
-     "published": "2026-11-01T06:06:19+00:00",
-     "ts": 1793513179000,
-     "count": 1
-    },
-    {
-     "title": "Data centers are now a midterm issue, even in Brooklyn",
-     "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-     "source": "TechCrunch",
-     "image": "",
-     "published": "2026-11-01T02:22:10+00:00",
-     "ts": 1793499730000,
-     "count": 1
-    },
-    {
-     "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-     "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-11-01T02:19:53+00:00",
-     "ts": 1793499593000,
-     "count": 1
-    },
-    {
-     "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-     "link": "https://arxiv.org/abs/2409.02292",
-     "source": "Hacker News: Front Page",
-     "image": "",
-     "published": "2026-11-01T01:46:29+00:00",
-     "ts": 1793497589000,
+     "published": "2026-11-01T10:44:20+00:00",
+     "ts": 1793529860000,
      "count": 1
     }
    ]
@@ -780,12 +780,201 @@
    "name": "Actualidad Global",
    "items": [
     {
+     "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+     "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-02T00:29:16+00:00",
+     "ts": 1793579356000,
+     "count": 1
+    },
+    {
+     "title": "Democrats have high hopes for midterms, but polls have let them down before",
+     "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1b/live/eaba2bb0-d48e-11f1-9a20-f717db279e3e.jpg",
+     "published": "2026-11-02T00:25:12+00:00",
+     "ts": 1793579112000,
+     "count": 1
+    },
+    {
+     "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/bd7c662bbdcb7022f36caae8cd4aa1f30f919f2e/452_0_4249_3398/master/4249.jpg?width=140&quality=85&auto=format&fit=max&s=4784244f9cab77973031a4217d73acda",
+     "published": "2026-11-02T00:16:25+00:00",
+     "ts": 1793578585000,
+     "count": 1
+    },
+    {
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
+     "published": "2026-11-02T00:15:30+00:00",
+     "ts": 1793578530000,
+     "count": 1
+    },
+    {
+     "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-02T00:14:22+00:00",
+     "ts": 1793578462000,
+     "count": 1
+    },
+    {
+     "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b74ef59dc193fbb01caa37d843c2625eeb29b433/111_0_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=cbf9e604b50c2516b75ee1714194ef1f",
+     "published": "2026-11-02T00:12:17+00:00",
+     "ts": 1793578337000,
+     "count": 1
+    },
+    {
+     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+     "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
+     "published": "2026-11-02T00:02:15+00:00",
+     "ts": 1793577735000,
+     "count": 1
+    },
+    {
+     "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-02T00:00:00+00:00",
+     "ts": 1793577600000,
+     "count": 1
+    },
+    {
+     "title": "Nine people dead after Learjet crashes in Florida",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T23:29:48+00:00",
+     "ts": 1793575788000,
+     "count": 1
+    },
+    {
+     "title": "Why governors’ races are important in the 2026 US midterms",
+     "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T23:24:56+00:00",
+     "ts": 1793575496000,
+     "count": 1
+    },
+    {
+     "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+     "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T23:19:51+00:00",
+     "ts": 1793575191000,
+     "count": 1
+    },
+    {
+     "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3468fb281bb71900d7f19ac825f84190e284cb06/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2dd4b3a5f80e63abcf5263351e91c002",
+     "published": "2026-11-01T23:05:05+00:00",
+     "ts": 1793574305000,
+     "count": 1
+    },
+    {
+     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+     "published": "2026-11-01T22:38:24+00:00",
+     "ts": 1793572704000,
+     "count": 1
+    },
+    {
+     "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/5f29a23b4906eca2c892cf36972781c592c782ad/378_0_4649_3720/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=d29f49a82db3c227b60c6c1f1166b827",
+     "published": "2026-11-01T22:37:36+00:00",
+     "ts": 1793572656000,
+     "count": 1
+    },
+    {
+     "title": "High-ranking US Democratic senator suffers stroke",
+     "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T22:32:54+00:00",
+     "ts": 1793572374000,
+     "count": 1
+    },
+    {
+     "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+     "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/223fc946a9add0d85761c121fd3c2a08504026a8/935_87_6394_5115/master/6394.jpg?width=140&quality=85&auto=format&fit=max&s=39795ee7bc05b59b05d2c09e63b91738",
+     "published": "2026-11-01T22:26:11+00:00",
+     "ts": 1793571971000,
+     "count": 1
+    },
+    {
+     "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+     "source": "NPR Topics: News",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F33%2F05a3ab594f34b831e3232c2b7a2f%2Fap26064767491306.jpg",
+     "published": "2026-11-01T22:22:12+00:00",
+     "ts": 1793571732000,
+     "count": 1
+    },
+    {
+     "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+     "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T22:15:14+00:00",
+     "ts": 1793571314000,
+     "count": 1
+    },
+    {
      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
-     "published": "2026-11-01T21:01:58+00:00",
-     "ts": 1793566918000,
+     "published": "2026-11-01T21:55:01+00:00",
+     "ts": 1793570101000,
+     "count": 1
+    },
+    {
+     "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T21:29:43+00:00",
+     "ts": 1793568583000,
+     "count": 1
+    },
+    {
+     "title": "Thousands displaced from Hebron as Israel carries on siege",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T21:28:47+00:00",
+     "ts": 1793568527000,
+     "count": 1
+    },
+    {
+     "title": "All nine people aboard business jet that crashed in Florida have died",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/6b98eb6ba8db5d985571296e8bcfa0fd6065e89d/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7feadce8816993de0f8c0d7715fb5274",
+     "published": "2026-11-01T21:13:23+00:00",
+     "ts": 1793567603000,
      "count": 1
     },
     {
@@ -825,7 +1014,7 @@
      "count": 1
     },
     {
-     "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+     "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -841,195 +1030,6 @@
      "published": "2026-11-01T20:34:00+00:00",
      "ts": 1793565240000,
      "count": 1
-    },
-    {
-     "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b74ef59dc193fbb01caa37d843c2625eeb29b433/111_0_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=cbf9e604b50c2516b75ee1714194ef1f",
-     "published": "2026-11-01T20:31:30+00:00",
-     "ts": 1793565090000,
-     "count": 1
-    },
-    {
-     "title": "Police clash with housing crisis protesters in Portugal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T20:31:17+00:00",
-     "ts": 1793565077000,
-     "count": 1
-    },
-    {
-     "title": "Al Jazeera celebrates 30th anniversary",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T20:21:05+00:00",
-     "ts": 1793564465000,
-     "count": 1
-    },
-    {
-     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-     "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
-     "published": "2026-11-01T20:11:26+00:00",
-     "ts": 1793563886000,
-     "count": 1
-    },
-    {
-     "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/905c40bae467f184fb98410952a04dd275140865/379_0_4588_3668/master/4588.jpg?width=140&quality=85&auto=format&fit=max&s=327bac43580197f74378599e38df2001",
-     "published": "2026-11-01T20:10:27+00:00",
-     "ts": 1793563827000,
-     "count": 2
-    },
-    {
-     "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/5af2175986fa47f1b85895400bafbb5cd19c208c/217_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=01c67ba829cb52b823fe1740118585e8",
-     "published": "2026-11-01T20:02:57+00:00",
-     "ts": 1793563377000,
-     "count": 1
-    },
-    {
-     "title": "Video captures house collapsing due to Ecuador floods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T19:56:47+00:00",
-     "ts": 1793563007000,
-     "count": 1
-    },
-    {
-     "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-     "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&quality=85&auto=format&fit=max&s=15987da48c5c1fcf175bb20b07717adc",
-     "published": "2026-11-01T19:50:39+00:00",
-     "ts": 1793562639000,
-     "count": 1
-    },
-    {
-     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2614x1741+0+0/resize/2614x1741!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F9b%2F8dd4ff984429b0392a7b2129803a%2Fap26305624303454.jpg",
-     "published": "2026-11-01T19:49:15+00:00",
-     "ts": 1793562555000,
-     "count": 1
-    },
-    {
-     "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
-     "link": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/f1f16c15b5e42d5c5465fdf412d325d0b806220f/311_0_3090_2472/master/3090.jpg?width=140&quality=85&auto=format&fit=max&s=4244b11cfe318e5e114489cb963950e7",
-     "published": "2026-11-01T19:47:35+00:00",
-     "ts": 1793562455000,
-     "count": 1
-    },
-    {
-     "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-     "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/768c4ba470e9915362b2e359b2c39b525b2af3bc/80_167_1665_1332/master/1665.jpg?width=140&quality=85&auto=format&fit=max&s=73d783b5d9623bcfa37bceedcd0d05a2",
-     "published": "2026-11-01T19:36:46+00:00",
-     "ts": 1793561806000,
-     "count": 1
-    },
-    {
-     "title": "Connecticut senator Chris Murphy hospitalized after stroke",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/84b89695bbd7999747e949f479240f65b4008bb0/482_0_6433_5147/master/6433.jpg?width=140&quality=85&auto=format&fit=max&s=7f60475006db6a480d97464249679d40",
-     "published": "2026-11-01T19:27:44+00:00",
-     "ts": 1793561264000,
-     "count": 2
-    },
-    {
-     "title": "Arsenal go top after narrow win at Liverpool",
-     "link": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T19:09:18+00:00",
-     "ts": 1793560158000,
-     "count": 1
-    },
-    {
-     "title": "How will the Iran war shape the outcome of the US midterm vote?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T19:00:32+00:00",
-     "ts": 1793559632000,
-     "count": 1
-    },
-    {
-     "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-     "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:58:23+00:00",
-     "ts": 1793559503000,
-     "count": 1
-    },
-    {
-     "title": "Peaceful protests in Germany spiral into violence and looting",
-     "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg",
-     "published": "2026-11-01T18:51:56+00:00",
-     "ts": 1793559116000,
-     "count": 1
-    },
-    {
-     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-     "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:51:07+00:00",
-     "ts": 1793559067000,
-     "count": 1
-    },
-    {
-     "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-     "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=e2c6966aba034a344664fd433e1e0b7f",
-     "published": "2026-11-01T18:37:42+00:00",
-     "ts": 1793558262000,
-     "count": 1
-    },
-    {
-     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-     "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:37:37+00:00",
-     "ts": 1793558257000,
-     "count": 1
-    },
-    {
-     "title": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
-     "link": "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/810f2b51b5736da77edcc1b28fa7f71115b19373/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=bc420048e285f1f36acf2b3ea9d301e4",
-     "published": "2026-11-01T18:31:22+00:00",
-     "ts": 1793557882000,
-     "count": 1
-    },
-    {
-     "title": "How to think about the midterms — and the political moment the country is in",
-     "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3163x2109+0+0/resize/3163x2109!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fb0%2F265f398745ec942787493ef6b29a%2Fgettyimages-2302457320.jpg",
-     "published": "2026-11-01T18:27:06+00:00",
-     "ts": 1793557626000,
-     "count": 1
     }
    ]
   },
@@ -1038,12 +1038,210 @@
    "name": "Panamá · LatAm",
    "items": [
     {
-     "title": "Hamilton pone lustre a la coronación de Antonelli en el GP de México",
-     "link": "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html",
+     "title": "Saint-Malo despide a los aventureros de la Ruta del Ron rumbo al Caribe",
+     "link": "https://www.france24.com/es/video/20261102-saint-malo-despide-a-los-aventureros-de-la-ruta-del-ron-rumbo-al-caribe",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/434bea56-d64d-11f1-826d-bf1914cabd52/w:1024/p:16x9/ES-20261101-161209-161421-CS.jpg",
+     "published": "2026-11-02T00:38:14+00:00",
+     "ts": 1793579894000,
+     "count": 1
+    },
+    {
+     "title": "Haley Stevens rompe con los demócratas y respalda al republicano Mike Rogers en Michigan",
+     "link": "https://www.france24.com/es/video/20261102-haley-stevens-rompe-con-los-dem%C3%B3cratas-y-respalda-al-republicano-mike-rogers-en-michigan",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/ffada44e-d654-11f1-b124-1beafce15fea/w:1024/p:16x9/AP26305662504302.jpg",
+     "published": "2026-11-02T00:36:58+00:00",
+     "ts": 1793579818000,
+     "count": 1
+    },
+    {
+     "title": "¿Hasta cuándo lloverá en Colombia? Max Henríquez explica qué pasará con el clima durante noviembre: 'Va a cambiar poco a poco'",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/hasta-cuando-llovera-en-colombia-max-henriquez-explica-que-pasara-con-el-clima-durante-noviembre-va-a-cambiar-poco-a-poco-3597834",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7855116211.r_d.1101-152-0.png",
+     "published": "2026-11-02T00:33:43+00:00",
+     "ts": 1793579623000,
+     "count": 1
+    },
+    {
+     "title": "La batalla por Texas: Talarico cuestiona los millones de Musk para Paxton en las midterms",
+     "link": "https://www.france24.com/es/video/20261102-la-batalla-por-texas-talarico-cuestiona-los-millones-de-musk-para-paxton-en-las-midterms",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8ae5a80a-d654-11f1-af99-a575454bc579/w:1024/p:16x9/AP26304831444175.jpg",
+     "published": "2026-11-02T00:31:51+00:00",
+     "ts": 1793579511000,
+     "count": 1
+    },
+    {
+     "title": "Midterms: una democracia bajo lupa",
+     "link": "https://www.france24.com/es/midterms-una-democracia-bajo-lupa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/290f3208-d650-11f1-b1b0-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-3-1.png",
+     "published": "2026-11-02T00:27:58+00:00",
+     "ts": 1793579278000,
+     "count": 1
+    },
+    {
+     "title": "La huida de Flávio Bolsonaro",
+     "link": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261102-la-huida-de-fl%C3%A1vio-bolsonaro",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/8d35f5a4-d64c-11f1-87ac-695cb59fade5/w:1024/p:16x9/HUIDA-BOLSONARITO.png",
+     "published": "2026-11-02T00:24:26+00:00",
+     "ts": 1793579066000,
+     "count": 1
+    },
+    {
+     "title": "Midterms 2026: tormenta en la campaña de Michigan; ¿peligran las opciones de El-Sayed?",
+     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-tormenta-en-la-campa%C3%B1a-de-michigan-peligran-las-opciones-de-el-sayed",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "",
+     "published": "2026-11-02T00:19:51+00:00",
+     "ts": 1793578791000,
+     "count": 1
+    },
+    {
+     "title": "Atención: el músico vallenato 'Kbeto' Zuleta despertó tras el accidente y fue extubado",
+     "link": "https://www.eltiempo.com/colombia/otras-ciudades/el-musico-vallenato-kbeto-zuleta-desperto-tras-el-accidente-y-fue-extubado-3597859",
+     "source": "EL TIEMPO.COM -Colombia",
+     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/27/6ae103fa22678.jpeg",
+     "published": "2026-11-02T00:01:50+00:00",
+     "ts": 1793577710000,
+     "count": 1
+    },
+    {
+     "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+     "link": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03e5/live/df9393e0-d64e-11f1-93e1-3b657b665bcf.jpg",
+     "published": "2026-11-02T00:01:15+00:00",
+     "ts": 1793577675000,
+     "count": 1
+    },
+    {
+     "title": "Las ‘midterms’ 2026, en vivo | Trump, sobre la ruptura demócrata en Míchigan: “Esto es algo GRANDE”",
+     "link": "https://elpais.com/us/2026-11-01/las-midterms-2026-en-vivo.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/FPJNS7F2OBCGTPEPAX36J2J2NQ.jpg?auth=0361b9df242ab08e92afb12fb0b78a2d9fd6b4f5a03f308502bbe45997987382",
-     "published": "2026-11-01T21:11:25+00:00",
-     "ts": 1793567485000,
+     "image": "https://imagenes.elpais.com/resizer/v2/SZQXO3HSXNOWXD2IOAIBADOTRM.jpg?auth=488d252d2450275529abbe612100288c0c26f5c18e1c2e2d22928031339e874a",
+     "published": "2026-11-02T00:00:40+00:00",
+     "ts": 1793577640000,
+     "count": 1
+    },
+    {
+     "title": "El regreso de María Corina Machado acelera el ritmo de la transición en Venezuela",
+     "link": "https://elpais.com/america/2026-11-01/el-regreso-de-maria-corina-machado-acelera-el-ritmo-de-la-transicion-en-venezuela.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/ZTYKN526ZNMS7HPNRGBLEGUBUA.jpg?auth=bf7efaef2f9caa690c0233ea7d944402778080689d5b6d03017acc6eb1738748",
+     "published": "2026-11-01T23:35:40+00:00",
+     "ts": 1793576140000,
+     "count": 1
+    },
+    {
+     "title": "Antonelli, nuevo campeón de la Fórmula Uno tras terminar tercero en México, donde ganó Verstappen",
+     "link": "https://www.prensa.com/deportes/antonelli-nuevo-campeon-de-la-formula-uno-tras-terminar-tercero-en-mexico-donde-gano-verstappen/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/PSHO6QEFKZCNXP7FHGFQM6JHFM.jpg?auth=282cfdf009a13de2a1b082cbdeb226b4dd33d27088c41114c5ab2a430f0a653c&smart=true&width=1920&height=1280",
+     "published": "2026-11-01T23:30:54+00:00",
+     "ts": 1793575854000,
+     "count": 1
+    },
+    {
+     "title": "Muere Antonio Navarro Wolff, uno de los padres de la Constitución colombiana",
+     "link": "https://elpais.com/america-colombia/2026-11-01/muere-antonio-navarro-wolff-uno-de-los-padres-de-la-constitucion-colombiana.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/WVYJOVNXXFHOPKS3H2NBWDN6NU.jpg?auth=98218fd63bb421857b17e2a96cb19f25a7e70d90785c202dfb885c66871f43a8",
+     "published": "2026-11-01T22:57:16+00:00",
+     "ts": 1793573836000,
+     "count": 1
+    },
+    {
+     "title": "La oposición desafía a Modi con multitudinarias protestas en India",
+     "link": "https://www.france24.com/es/video/20261101-la-oposici%C3%B3n-desaf%C3%ADa-a-modi-con-multitudinarias-protestas-en-india",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/c6ffb4f6-d63c-11f1-9a9e-a575454bc579/w:1024/p:16x9/ES-20261101-121245-121444-CS.jpg",
+     "published": "2026-11-01T22:55:54+00:00",
+     "ts": 1793573754000,
+     "count": 1
+    },
+    {
+     "title": "¿A qué se debe el récord de participación en el voto anticipado en las midterms?",
+     "link": "https://www.france24.com/es/video/20261101-a-qu%C3%A9-se-debe-el-r%C3%A9cord-de-participaci%C3%B3n-en-el-voto-anticipado-en-las-midterms",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/7b92b390-d63e-11f1-a8b7-a575454bc579/w:1024/p:16x9/ES-20261101-150615-150936-CS.jpg",
+     "published": "2026-11-01T22:50:19+00:00",
+     "ts": 1793573419000,
+     "count": 1
+    },
+    {
+     "title": "ICE, deportaciones y migración: dos años de Trump y lo que está en juego en las midterms",
+     "link": "https://www.france24.com/es/video/20261101-ice-deportaciones-y-migraci%C3%B3n-dos-a%C3%B1os-de-trump-y-lo-que-est%C3%A1-en-juego-en-las-midterms",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/634f585e-d63b-11f1-a5bb-a575454bc579/w:1024/p:16x9/ES-20261101-120553-120807-CS.jpg",
+     "published": "2026-11-01T22:49:11+00:00",
+     "ts": 1793573351000,
+     "count": 1
+    },
+    {
+     "title": "Gaza: ataques israelíes en Khan Younis dejan muertos y heridos cerca de campamentos de desplazados",
+     "link": "https://www.france24.com/es/video/20261101-gaza-ataques-israel%C3%ADes-en-khan-younis-dejan-muertos-y-heridos-cerca-de-campamentos-de-desplazados",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/969704fa-d645-11f1-b318-d18c5759e759/w:1024/p:16x9/2026-11-01T131353Z-1263403001-RC21FOAVUNDS-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+     "published": "2026-11-01T22:45:11+00:00",
+     "ts": 1793573111000,
+     "count": 1
+    },
+    {
+     "title": "Fracasa el intento de Trump de impedir la certificación de una derrota republicana en Alaska",
+     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-fracasa-intento-de-trump-de-impedir-la-certificaci%C3%B3n-de-una-derrota-republicana-en-alaska",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/f883627e-d642-11f1-bf43-bf1914cabd52/w:1024/p:16x9/2026-10-31T033022Z-272937822-RC2SDOAFQW00-RTRMADP-3-USA-ELECTION-ALASKA.jpg",
+     "published": "2026-11-01T22:27:29+00:00",
+     "ts": 1793572049000,
+     "count": 1
+    },
+    {
+     "title": "Nueve muertos al estrellarse un avión privado en Florida",
+     "link": "https://www.prensa.com/mundo/nueve-personas-mueren-al-estrellarse-el-avion-privado-en-el-que-viajaban-en-florida/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/SJ5ABNZRIRGQRNYKU7VBMP5EAA.png?auth=9a414a03a49ceb1b3bc0a6be17f8910f6da0f574ded06660c5d785b0ce031731&smart=true&width=938&height=501",
+     "published": "2026-11-01T22:22:04+00:00",
+     "ts": 1793571724000,
+     "count": 1
+    },
+    {
+     "title": "Venezolanos vuelven a las playas de La Guaira, cuatro meses después del doble terremoto",
+     "link": "https://www.prensa.com/mundo/venezolanos-vuelven-a-las-playas-de-la-guaira-cuatro-meses-despues-del-doble-terremoto/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/HQEB6HLJKNDV7F5D2RPRYP6YCE.jpg?auth=f076855cd3b610445d4c2e923244b5c54e27269da267071c5262792f9b299e06&smart=true&width=1920&height=1280",
+     "published": "2026-11-01T22:07:28+00:00",
+     "ts": 1793570848000,
+     "count": 1
+    },
+    {
+     "title": "Autoridad electoral de Israel ante las denuncias de injerencia extranjera: “la voluntad de los votantes será respetada”",
+     "link": "https://www.france24.com/es/medio-oriente/20261101-autoridad-electoral-de-israel-ante-las-denuncias-de-injerencia-extranjera-la-voluntad-de-los-votantes-ser%C3%A1-respetada",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/715b3ad6-d63f-11f1-8add-a575454bc579/w:1024/p:16x9/ce1ca6359c0ceeffc8aeeb19c9c11f81d6bf8128w.jpg",
+     "published": "2026-11-01T22:02:47+00:00",
+     "ts": 1793570567000,
+     "count": 1
+    },
+    {
+     "title": "Encapuchados someten a tres hombres en San Francisco",
+     "link": "https://www.prensa.com/judiciales/encapuchados-someten-a-tres-hombres-en-san-francisco/",
+     "source": "La Prensa",
+     "image": "https://www.prensa.com/resizer/v2/E3DJUXRQOBBLJIVG6AM4QFD62I.png?auth=9dbf3b835cd623b9f71c2cd6a06fe1f7368e97dbe05c2a01eb8dbb747eb6ccaa&smart=true&width=1198&height=1313",
+     "published": "2026-11-01T21:49:18+00:00",
+     "ts": 1793569758000,
+     "count": 1
+    },
+    {
+     "title": "Boca Juniors gana el superclásico argentino al River Plate",
+     "link": "https://www.dw.com/es/boca-juniors-gana-el-superclásico-argentino-al-river-plate/a-79824836?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "published": "2026-11-01T21:24:00+00:00",
+     "ts": 1793568240000,
      "count": 1
     },
     {
@@ -1056,7 +1254,7 @@
      "count": 2
     },
     {
-     "title": "Nueve personas mueren al estrellarse un jet privado en Florida",
+     "title": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
      "link": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
      "source": "EL PAÍS Edición América: el periódico global",
      "image": "https://imagenes.elpais.com/resizer/v2/PHZB7QDUQZHSTME3YNIL3CYHFM.jpeg?auth=106e9ccc99b08c8b55e22c2097ef96124ebd6805677d82448bd627d2797f8930",
@@ -1090,204 +1288,6 @@
      "published": "2026-11-01T20:17:42+00:00",
      "ts": 1793564262000,
      "count": 2
-    },
-    {
-     "title": "Más de 300.000 desplazados por los combates en el oeste de Yemen, según la ONU",
-     "link": "https://www.dw.com/es/más-de-300-000-desplazados-por-los-combates-en-el-oeste-de-yemen-según-la-onu/a-79824761?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-11-01T19:59:00+00:00",
-     "ts": 1793563140000,
-     "count": 1
-    },
-    {
-     "title": "Fiscalía archiva denuncia penal contra el CIAM por el caso Puerto Barú",
-     "link": "https://www.prensa.com/politica/fiscalia-archiva-denuncia-penal-contra-el-ciam-por-el-caso-puerto-baru/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/G52FU6CTUFBLPHKBRX5PMDU3CU.JPG?auth=9b94d8cab2e401068ab68873bf3d6842b3cec970296dcafef3a2143d98eb0064&smart=true&width=4000&height=2250",
-     "published": "2026-11-01T19:33:57+00:00",
-     "ts": 1793561637000,
-     "count": 1
-    },
-    {
-     "title": "El apoyo de una demócrata de Míchigan al rival republicano de El-Sayed provoca una ruptura en el partido",
-     "link": "https://elpais.com/us/2026-11-01/el-apoyo-de-una-democrata-de-michigan-al-rival-republicano-de-el-sayed-provoca-una-ruptura-en-el-partido.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/33XU5ERDKFLOPNUVGYIEJPFCZM.jpg?auth=90dfb5307a34528793d787c055568e0154c56750081a007f9954ecec0c3500a8",
-     "published": "2026-11-01T19:27:25+00:00",
-     "ts": 1793561245000,
-     "count": 1
-    },
-    {
-     "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
-     "link": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/IFA6EQI25LYLN4EIV3YZBV6Z4U.jpg?auth=1d88525f673633f985c9055095f86f356f92642e4e64eb89f0cf9dbac32a8053",
-     "published": "2026-11-01T19:07:52+00:00",
-     "ts": 1793560072000,
-     "count": 1
-    },
-    {
-     "title": "El sueco Andreas Almgren se impone en el maratón de Nueva York el día en el que Martín Fiz dice adiós a la distancia",
-     "link": "https://elpais.com/deportes/2026-11-01/el-sueco-andreas-almgren-se-impone-en-el-maraton-de-nueva-york-el-dia-en-el-que-martin-fiz-dice-adios-a-la-distancia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/SFWA6Z5RQBFBZHZ7ZCAJK2K7BQ.jpeg?auth=4cf362a97ecf48e97ffe4dd8ca4d089626d81b3eb9e48d0b9ffbb0bebbeee235",
-     "published": "2026-11-01T18:59:42+00:00",
-     "ts": 1793559582000,
-     "count": 1
-    },
-    {
-     "title": "¿Hasta cuándo lloverá en Colombia? Max Henríquez explica qué pasará con el clima durante noviembre: 'Va a cambiar poco a poco'",
-     "link": "https://www.eltiempo.com/colombia/otras-ciudades/hasta-cuando-llovera-en-colombia-max-henriquez-explica-que-pasara-con-el-clima-durante-noviembre-va-a-cambiar-poco-a-poco-3597834",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7855116211.r_d.1101-152-0.png",
-     "published": "2026-11-01T18:47:55+00:00",
-     "ts": 1793558875000,
-     "count": 1
-    },
-    {
-     "title": "Fin de la misión de la ONU en el Sahara Occidental: una meta incumplida y un futuro incierto",
-     "link": "https://www.france24.com/es/%C3%A1frica/20261101-fin-de-la-misi%C3%B3n-de-la-onu-en-el-sahara-occidental-una-meta-incumplida-y-un-futuro-incierto",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/5ac72ffa-2e2a-11f0-bedd-005056a90284/w:1024/p:16x9/000_Nic6216684-1.jpg",
-     "published": "2026-11-01T18:43:03+00:00",
-     "ts": 1793558583000,
-     "count": 1
-    },
-    {
-     "title": "El Madrid no falla y termina con la condición de invicto del Racing",
-     "link": "https://www.prensa.com/deportes/el-madrid-no-falla-y-termina-con-la-condicion-de-invicto-del-racing/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/C2FOCRS5DNGKNODNYMHKU2S7GE.jpg?auth=be1e5444c00bc5873976d3015e0e75672e9127b6027b30dea9102173d414d7c8&smart=true&width=4230&height=2820",
-     "published": "2026-11-01T18:31:39+00:00",
-     "ts": 1793557899000,
-     "count": 1
-    },
-    {
-     "title": "Giro de Rigo en Valle del Cauca cambia su ruta: Secretaría de Movilidad de Cali explica lo sucedido en Dagua que obligó a desviar a miles de ciclistas",
-     "link": "https://www.eltiempo.com/colombia/cali/atencion-giro-de-rigo-cambia-su-ruta-derrumbe-en-dagua-obliga-a-desviar-a-miles-de-ciclistas-en-cali-3597832",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7824cc36b8.r_d.351-170-0.jpeg",
-     "published": "2026-11-01T18:29:02+00:00",
-     "ts": 1793557742000,
-     "count": 1
-    },
-    {
-     "title": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
-     "link": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/HVFTPO2EDFHKBLQWWFRE6RCBAE.JPG?auth=8c9484716df392c8e76805f963b38d16ade9a3fb4ad80aa430063c1042fd79bd",
-     "published": "2026-11-01T18:19:28+00:00",
-     "ts": 1793557168000,
-     "count": 1
-    },
-    {
-     "title": "Tragedia en Santo Domingo, Antioquia: un muerto y dos heridos al caer un árbol en el parque principal",
-     "link": "https://www.eltiempo.com/colombia/medellin/tragedia-en-santo-domingo-antioquia-un-muerto-y-dos-heridos-al-caer-un-arbol-en-el-parque-principal-3597829",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/01/6ae77d8994f04.jpeg",
-     "published": "2026-11-01T18:04:45+00:00",
-     "ts": 1793556285000,
-     "count": 1
-    },
-    {
-     "title": "El Madrid vuela sobre el Racing",
-     "link": "https://elpais.com/deportes/futbol/2026-11-01/el-madrid-vuela-sobre-el-racing.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/245OXIRA7JA5RJ53VFPXLFKIBU.jpg?auth=512650896de3c47af1ab429f5b2c2db4a5b046be5d49799bdecae2f14a0e2daf",
-     "published": "2026-11-01T17:47:57+00:00",
-     "ts": 1793555277000,
-     "count": 1
-    },
-    {
-     "title": "La Izquierda en Berlín está cada vez más cerca de tomar el control del gobierno",
-     "link": "https://www.dw.com/es/la-izquierda-en-berlín-está-cada-vez-más-cerca-de-tomar-el-control-del-gobierno/a-79821376?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-11-01T17:19:00+00:00",
-     "ts": 1793553540000,
-     "count": 1
-    },
-    {
-     "title": "Panamá conquista la primera Copa de Naciones de Futsal 2026",
-     "link": "https://www.prensa.com/deportes/panama-conquista-la-primera-copa-de-naciones-de-futsal-2026/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/GDAVBE2GA5CH3KXBN6A4ARZSW4.jpg?auth=34c2b77fd5d50e787903efcf236987a6fd351c51d6f82023fa51bacdf74dd031&smart=true&width=2048&height=1464",
-     "published": "2026-11-01T17:13:27+00:00",
-     "ts": 1793553207000,
-     "count": 1
-    },
-    {
-     "title": "¿Apunta Trump a gobernar sin el Congreso si los demócratas ganan las Midterms?: así se prepara",
-     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-apunta-trump-a-gobernar-sin-el-congreso-si-los-dem%C3%B3cratas-ganan-las-midterms-as%C3%AD-se-prepara",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/821eb70e-cfb8-11f1-8b37-5b4a75578ebb/w:1024/p:16x9/000-D37V4QR.jpg",
-     "published": "2026-11-01T17:13:22+00:00",
-     "ts": 1793553202000,
-     "count": 1
-    },
-    {
-     "title": "Misión de la ONU en el Sahara queda en el limbo por vetos cruzados de EE. UU. y Rusia",
-     "link": "https://www.france24.com/es/video/20261101-misi%C3%B3n-de-la-onu-en-el-sahara-queda-en-el-limbo-por-vetos-cruzados-de-ee-uu-y-rusia",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/f18aedde-d615-11f1-8710-1beafce15fea/w:1024/p:16x9/ES-20261101-113821-114010-CS.jpg",
-     "published": "2026-11-01T17:10:50+00:00",
-     "ts": 1793553050000,
-     "count": 1
-    },
-    {
-     "title": "Isabel Burgos y la historia detrás de Meme Baila, ganadora del Ricardo Miró",
-     "link": "https://www.prensa.com/vivir/isabel-burgos-y-la-historia-detras-de-meme-baila-ganadora-del-ricardo-miro/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/42HVBBP63JELJF65OK4TAPR3CE.jpg?auth=88b1f1fffeb6407b50a1f983dcf8a0b12e09468e5b125e41ba070be961415883&smart=true&width=854&height=734",
-     "published": "2026-11-01T17:00:00+00:00",
-     "ts": 1793552400000,
-     "count": 1
-    },
-    {
-     "title": "Más de 100 agentes de policía resultan heridos en violentos disturbios en Fráncfort",
-     "link": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "published": "2026-11-01T16:22:00+00:00",
-     "ts": 1793550120000,
-     "count": 1
-    },
-    {
-     "title": "Ordenan nueva paralización del proyecto Naturabocas por incumplimiento en Bocas del Toro",
-     "link": "https://www.prensa.com/sociedad/ordenan-nueva-paralizacion-del-proyecto-naturabocas-por-incumplimiento-en-bocas-del-toro/",
-     "source": "La Prensa",
-     "image": "https://www.prensa.com/resizer/v2/ZPQQY6EIGFALZLQPKY3YHGTG3I.jpg?auth=53631f27b71cfe4dfcdb7f1d181910df4cd76e14904df6b9f58bc0b8634c34cc&smart=true&width=821&height=562",
-     "published": "2026-11-01T15:49:24+00:00",
-     "ts": 1793548164000,
-     "count": 1
-    },
-    {
-     "title": "Más de 3.000 comparendos y 350 vehículos inmovilizados deja el balance de Halloween en Cali tras masivas caravanas",
-     "link": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-comparendos-y-350-vehiculos-inmovilizados-deja-el-balance-de-halloween-en-cali-tras-masivas-caravanas-3597816",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae75b5f5874d.r_d.900-962-0.jpeg",
-     "published": "2026-11-01T15:37:39+00:00",
-     "ts": 1793547459000,
-     "count": 1
-    },
-    {
-     "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
-     "link": "https://elpais.com/deportes/tenis/2026-11-01/alcaraz-un-trofeo-en-viena-y-algo-mas-volver-a-disfrutar.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/W3FXZYJGTZLPPJGA4QUYSDWXSA.jpg?auth=688a2622767c27d0de72f047aba2b624cbb0b3a33a7c65b996a3d45d621d4b65",
-     "published": "2026-11-01T15:35:32+00:00",
-     "ts": 1793547332000,
-     "count": 1
-    },
-    {
-     "title": "Video | Conductora en aparente estado de embriaguez arrolló a policías en Bucaramanga al evadir un retén durante Halloween: estas multas enfrentaría",
-     "link": "https://www.eltiempo.com/colombia/santander/video-conductora-en-aparente-estado-de-embriaguez-arrollo-a-policias-en-bucaramanga-al-evadir-un-reten-durante-halloween-estas-multas-enfrentaria-3597810",
-     "source": "EL TIEMPO.COM -Colombia",
-     "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae74db61912b.r_d.235-290-0.png",
-     "published": "2026-11-01T15:23:58+00:00",
-     "ts": 1793546638000,
-     "count": 1
     }
    ]
   },
@@ -1300,35 +1300,53 @@
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460697",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-11-01T20:56:24.879000+00:00",
-     "ts": 1793566584879,
+     "published": "2026-11-02T00:51:02.674000+00:00",
+     "ts": 1793580662674,
      "count": 1
     },
     {
-     "title": "Green forest fire notification in Mali",
-     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033316",
+     "title": "Green forest fire notification in Brazil",
+     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033387",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-11-01T20:53:16+00:00",
-     "ts": 1793566396000,
-     "count": 163
+     "published": "2026-11-02T00:38:11+00:00",
+     "ts": 1793579891000,
+     "count": 139
+    },
+    {
+     "title": "Green forest fire notification in South Sudan",
+     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033357",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-11-02T00:32:57+00:00",
+     "ts": 1793579577000,
+     "count": 28
+    },
+    {
+     "title": "Green forest fire notification in Central African Republic, Sudan",
+     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033409",
+     "source": "GDACS RSS information",
+     "image": "",
+     "published": "2026-11-02T00:28:01+00:00",
+     "ts": 1793579281000,
+     "count": 5
     },
     {
      "title": "Green forest fire notification in Botswana, Namibia",
      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033408",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-11-01T20:13:24+00:00",
-     "ts": 1793564004000,
-     "count": 5
+     "published": "2026-11-02T00:11:57+00:00",
+     "ts": 1793578317000,
+     "count": 4
     },
     {
      "title": "Green forest fire notification in Burkina Faso",
      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033407",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-11-01T20:13:05+00:00",
-     "ts": 1793563985000,
+     "published": "2026-11-02T00:11:33+00:00",
+     "ts": 1793578293000,
      "count": 8
     },
     {
@@ -1336,18 +1354,90 @@
      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033405",
      "source": "GDACS RSS information",
      "image": "",
-     "published": "2026-11-01T20:10:27+00:00",
-     "ts": 1793563827000,
+     "published": "2026-11-02T00:08:23+00:00",
+     "ts": 1793578103000,
      "count": 6
     },
     {
-     "title": "Green forest fire notification in South Sudan, Ethiopia",
-     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033404",
-     "source": "GDACS RSS information",
+     "title": "M 4.3 - 24 km SE of Kasilof, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqjriv",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg",
+     "published": "2026-11-01T23:57:42.689000+00:00",
+     "ts": 1793577462689,
+     "count": 1
+    },
+    {
+     "title": "M 4.5 - 86 km WNW of Abra Pampa, Argentina",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
-     "published": "2026-11-01T20:08:17+00:00",
-     "ts": 1793563697000,
-     "count": 28
+     "published": "2026-11-01T23:45:30.040000+00:00",
+     "ts": 1793576730040,
+     "count": 1
+    },
+    {
+     "title": "M 4.6 - Mid-Indian Ridge",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T23:42:25.040000+00:00",
+     "ts": 1793576545040,
+     "count": 4
+    },
+    {
+     "title": "M 2.5 - 22 km N of Pilot Point, Alaska",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrgqaq",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T23:03:02.133000+00:00",
+     "ts": 1793574182133,
+     "count": 1
+    },
+    {
+     "title": "M 4.1 - 117 km NNE of Barishal, Pakistan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqq",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T22:51:32.040000+00:00",
+     "ts": 1793573492040,
+     "count": 1
+    },
+    {
+     "title": "M 4.8 - 33 km SE of Jiufen, Taiwan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T22:50:14.253000+00:00",
+     "ts": 1793573414253,
+     "count": 1
+    },
+    {
+     "title": "M 6.0 - 165 km NW of Port-Olry, Vanuatu",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T21:59:02.040000+00:00",
+     "ts": 1793570342040,
+     "count": 6
+    },
+    {
+     "title": "M 4.7 - Kermadec Islands region",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turj",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T21:58:58.040000+00:00",
+     "ts": 1793570338040,
+     "count": 1
+    },
+    {
+     "title": "M 3.7 - 17 km SSW of Weston, Colorado",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunh",
+     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
+     "image": "",
+     "published": "2026-11-01T21:46:46.040000+00:00",
+     "ts": 1793569606040,
+     "count": 1
     },
     {
      "title": "M 2.7 - 7 km E of Ridgeway, Alaska",
@@ -1359,48 +1449,12 @@
      "count": 1
     },
     {
-     "title": "M 6.0 - 58 km SSE of Shima, Japan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T19:46:04.895000+00:00",
-     "ts": 1793562364895,
-     "count": 1
-    },
-    {
      "title": "M 4.6 - 101 km SW of Basco, Philippines",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqy",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
      "image": "",
      "published": "2026-11-01T19:42:00.040000+00:00",
      "ts": 1793562120040,
-     "count": 1
-    },
-    {
-     "title": "M 3.7 - 17 km SSW of Weston, Colorado",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunh",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T19:33:44.380000+00:00",
-     "ts": 1793561624380,
-     "count": 1
-    },
-    {
-     "title": "M 4.8 - Mid-Indian Ridge",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T19:12:41.040000+00:00",
-     "ts": 1793560361040,
-     "count": 3
-    },
-    {
-     "title": "M 4.3 - 24 km SE of Kasilof, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqjriv",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg",
-     "published": "2026-11-01T18:42:37.040000+00:00",
-     "ts": 1793558557040,
      "count": 1
     },
     {
@@ -1419,15 +1473,6 @@
      "image": "",
      "published": "2026-11-01T17:30:32.040000+00:00",
      "ts": 1793554232040,
-     "count": 1
-    },
-    {
-     "title": "M 4.8 - 33 km SE of Jiufen, Taiwan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T17:18:53.345000+00:00",
-     "ts": 1793553533345,
      "count": 1
     },
     {
@@ -1458,15 +1503,6 @@
      "count": 1
     },
     {
-     "title": "M 6.0 - 165 km NW of Port-Olry, Vanuatu",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T13:53:55.673000+00:00",
-     "ts": 1793541235673,
-     "count": 8
-    },
-    {
      "title": "M 3.2 - 77 km N of Charlotte Amalie, U.S. Virgin Islands",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538243",
      "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
@@ -1491,7 +1527,7 @@
      "image": "",
      "published": "2026-11-01T12:57:20.357000+00:00",
      "ts": 1793537840357,
-     "count": 2
+     "count": 1
     },
     {
      "title": "M 4.3 - 15 km NNE of Semboku, Japan",
@@ -1509,43 +1545,7 @@
      "image": "https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1744061_1.png",
      "published": "2026-11-01T12:02:33+00:00",
      "ts": 1793534553000,
-     "count": 8
-    },
-    {
-     "title": "M 3.2 - 29 km WNW of Nikiski, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpymex",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T11:58:31.867000+00:00",
-     "ts": 1793534311867,
-     "count": 1
-    },
-    {
-     "title": "M 2.5 - 4 km SW of Pāhala, Hawaii",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067206",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T11:54:43.040000+00:00",
-     "ts": 1793534083040,
-     "count": 1
-    },
-    {
-     "title": "M 4.2 - 147 km WSW of Adak, Alaska",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupa",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T11:32:08.040000+00:00",
-     "ts": 1793532728040,
-     "count": 1
-    },
-    {
-     "title": "M 4.3 - 37 km SSE of Farkhār, Afghanistan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupb",
-     "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
-     "image": "",
-     "published": "2026-11-01T11:31:05.040000+00:00",
-     "ts": 1793532665040,
-     "count": 1
+     "count": 4
     }
    ]
   },
@@ -1554,12 +1554,111 @@
    "name": "Medio Oriente",
    "items": [
     {
-     "title": "FAA: Plane carrying nine passengers crashes in Palm Beach, Florida after rapid dive",
+     "title": "Haredi groom arrested days after wedding for evading draft, sentenced to 20 days in military prison",
+     "link": "https://www.jpost.com/israel-news/article-913518",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/730733",
+     "published": "2026-11-02T00:31:48+00:00",
+     "ts": 1793579508000,
+     "count": 1
+    },
+    {
+     "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+     "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-02T00:29:16+00:00",
+     "ts": 1793579356000,
+     "count": 1
+    },
+    {
+     "title": "Iran warns renewed war with US could outlast previous conflict",
+     "link": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+     "source": "Latest news from the Middle East, daily international news reports - France 24",
+     "image": "https://s.france24.com/media/display/66662f02-d557-11f1-8301-1beafce15fea/w:1024/p:16x9/FOTO-PORTADA-IRAN-MOJTABA-JAMENEI.jpg",
+     "published": "2026-11-02T00:23:23+00:00",
+     "ts": 1793579003000,
+     "count": 1
+    },
+    {
+     "title": "Pro-Israel Democrat Haley Stevens endorses Republican Rogers in Michigan US Senate race",
+     "link": "https://www.jpost.com/american-politics/article-913517",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1440,w_2160/744500",
+     "published": "2026-11-02T00:14:58+00:00",
+     "ts": 1793578498000,
+     "count": 1
+    },
+    {
+     "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-02T00:14:22+00:00",
+     "ts": 1793578462000,
+     "count": 1
+    },
+    {
+     "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-02T00:00:00+00:00",
+     "ts": 1793577600000,
+     "count": 1
+    },
+    {
+     "title": "Police disperse protesters after demonstration turns violent in Jerusalem",
+     "link": "https://www.jpost.com/israel-news/article-913516",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2918,w_4375/744507",
+     "published": "2026-11-01T23:47:11+00:00",
+     "ts": 1793576831000,
+     "count": 1
+    },
+    {
+     "title": "Nine people dead after Learjet crashes in Florida",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T23:29:48+00:00",
+     "ts": 1793575788000,
+     "count": 1
+    },
+    {
+     "title": "Why governors’ races are important in the 2026 US midterms",
+     "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T23:24:56+00:00",
+     "ts": 1793575496000,
+     "count": 1
+    },
+    {
+     "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+     "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T23:19:51+00:00",
+     "ts": 1793575191000,
+     "count": 1
+    },
+    {
+     "title": "FAA: Plane crashes in Palm Beach, Florida after rapid dive, killing nine passengers",
      "link": "https://www.jpost.com/international/article-913515",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/744499",
      "published": "2026-11-01T22:57:00+00:00",
      "ts": 1793573820000,
+     "count": 1
+    },
+    {
+     "title": "Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-913514",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3095,w_5500/742073",
+     "published": "2026-11-01T22:42:47+00:00",
+     "ts": 1793572967000,
      "count": 1
     },
     {
@@ -1572,48 +1671,48 @@
      "count": 1
     },
     {
-     "title": "Hapoel Tel Aviv captures Toto Cup, continues remarkable resurgence",
-     "link": "https://www.jpost.com/israel-news/sports/article-913513",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_853,w_1280/744495",
-     "published": "2026-11-01T22:13:06+00:00",
-     "ts": 1793571186000,
+     "title": "High-ranking US Democratic senator suffers stroke",
+     "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T22:32:54+00:00",
+     "ts": 1793572374000,
      "count": 1
     },
     {
-     "title": "Zini clashes with Shin Bet officials over need to expand tools used in elections interference case",
-     "link": "https://www.jpost.com/israel-news/article-913512",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_496,w_881/740069",
-     "published": "2026-11-01T22:07:00+00:00",
-     "ts": 1793570820000,
+     "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+     "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T22:15:14+00:00",
+     "ts": 1793571314000,
      "count": 1
     },
     {
      "title": "From Milwaukee to Israel: A lifetime of Brewers fandom peaks with World Series title",
      "link": "https://www.jpost.com/israel-news/sports/article-913511",
      "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1790,w_2690/744493",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744493",
      "published": "2026-11-01T22:02:35+00:00",
      "ts": 1793570555000,
      "count": 1
     },
     {
-     "title": "WATCH: IDF uncovers Hezbollah posters in child’s bedroom, weapons in southern Lebanon civilian home",
-     "link": "https://www.jpost.com/middle-east/article-913498",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_797,w_1417/744487",
-     "published": "2026-11-01T21:44:44+00:00",
-     "ts": 1793569484000,
+     "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T21:29:43+00:00",
+     "ts": 1793568583000,
      "count": 1
     },
     {
-     "title": "Facing the Middle East with Felice Friedson: Hope and Heroes",
-     "link": "https://www.jpost.com/middle-east/article-913509",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_382,w_624/732207",
-     "published": "2026-11-01T21:43:55+00:00",
-     "ts": 1793569435000,
+     "title": "Thousands displaced from Hebron as Israel carries on siege",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "published": "2026-11-01T21:28:47+00:00",
+     "ts": 1793568527000,
      "count": 1
     },
     {
@@ -1653,7 +1752,7 @@
      "count": 1
     },
     {
-     "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+     "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
@@ -1705,105 +1804,6 @@
      "published": "2026-11-01T20:08:45+00:00",
      "ts": 1793563725000,
      "count": 1
-    },
-    {
-     "title": "Why Israel must prepare for an independent, open-ended war against Iran and its proxies - opinion",
-     "link": "https://www.jpost.com/opinion/article-913468",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4112,w_6400/569660",
-     "published": "2026-11-01T20:00:00+00:00",
-     "ts": 1793563200000,
-     "count": 1
-    },
-    {
-     "title": "Video captures house collapsing due to Ecuador floods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T19:56:47+00:00",
-     "ts": 1793563007000,
-     "count": 1
-    },
-    {
-     "title": "'Some optimism' in US-Iran negotiations despite major disagreements, sources tell 'Post'",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-913501",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_800,w_1200/726960",
-     "published": "2026-11-01T19:27:11+00:00",
-     "ts": 1793561231000,
-     "count": 1
-    },
-    {
-     "title": "Arsenal go top after narrow win at Liverpool",
-     "link": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T19:09:18+00:00",
-     "ts": 1793560158000,
-     "count": 1
-    },
-    {
-     "title": "How will the Iran war shape the outcome of the US midterm vote?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T19:00:32+00:00",
-     "ts": 1793559632000,
-     "count": 1
-    },
-    {
-     "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-     "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:58:23+00:00",
-     "ts": 1793559503000,
-     "count": 1
-    },
-    {
-     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-     "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:51:07+00:00",
-     "ts": 1793559067000,
-     "count": 1
-    },
-    {
-     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-     "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:37:37+00:00",
-     "ts": 1793558257000,
-     "count": 1
-    },
-    {
-     "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-     "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "published": "2026-11-01T18:23:57+00:00",
-     "ts": 1793557437000,
-     "count": 1
-    },
-    {
-     "title": "Israel, US have plan ready for third Iran war, Tehran's hidden weapons pose challenges - analysis",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-913493",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2854,w_3937/732069",
-     "published": "2026-11-01T18:00:08+00:00",
-     "ts": 1793556008000,
-     "count": 1
-    },
-    {
-     "title": "IDF avoiding killing certain Hamas officials in Gaza over fear of civil order collapse",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-913484",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3551,w_5307/717489",
-     "published": "2026-11-01T17:51:29+00:00",
-     "ts": 1793555489000,
-     "count": 1
     }
    ]
   },
@@ -1811,6 +1811,60 @@
    "id": "china",
    "name": "China",
    "items": [
+    {
+     "title": "Drug maker Rohto plans clinical trials in Hong Kong as OASES’ first Japan partner",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372885/drug-maker-rohto-plans-clinical-trials-hong-kong-oases-first-japan-partner",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/9f7bfc25-7022-45b7-985d-f8b28f5132ba_382d1348.jpg?itok=cTpomGHf&v=1793527949",
+     "published": "2026-11-02T00:30:11+00:00",
+     "ts": 1793579411000,
+     "count": 1
+    },
+    {
+     "title": "Will losing US midterms see Trump double down or signal beginning of the end?",
+     "link": "https://www.scmp.com/news/us/us-elections/article/3372795/will-losing-us-midterms-see-trump-double-down-or-signal-beginning-end",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/34b7902e-d90f-48e9-b836-f054e4fbe1e7_57a4a6ff.jpg?itok=8Su0yolb&v=1793387648",
+     "published": "2026-11-02T00:00:25+00:00",
+     "ts": 1793577625000,
+     "count": 1
+    },
+    {
+     "title": "Humans vs AI art: why game studios hire Southeast Asian talent",
+     "link": "https://www.scmp.com/week-asia/economics/article/3372761/humans-vs-ai-art-why-game-studios-hire-southeast-asian-talent",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/30/98f7fa55-276a-4dfc-9ce5-3b4ccd13ba50_4c601c46.jpg?itok=FKMjRVxN&v=1793358763",
+     "published": "2026-11-02T00:00:16+00:00",
+     "ts": 1793577616000,
+     "count": 1
+    },
+    {
+     "title": "Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility",
+     "link": "https://www.scmp.com/business/banking-finance/article/3372873/hong-kong-summit-test-wall-street-sentiment-amid-geopolitical-strains-tech-volatility",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/00b467a6-9f27-4b3c-ae2c-929c7aa8a26b_f7332bf7.jpg?itok=RXiFiPk2&v=1793516937",
+     "published": "2026-11-01T23:30:16+00:00",
+     "ts": 1793575816000,
+     "count": 1
+    },
+    {
+     "title": "Joshua Cooper Ramo on whether the US can handle the stress test of China’s rise",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3372879/joshua-cooper-ramo-whether-us-can-handle-stress-test-chinas-rise",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/d70f3c4d-d68f-44f1-8822-185b27da7f8d_589e8ac3.jpg?itok=c-2i_d7N&v=1793522656",
+     "published": "2026-11-01T22:00:18+00:00",
+     "ts": 1793570418000,
+     "count": 1
+    },
+    {
+     "title": "9 dead as private jet crashes in fireball near Trump’s Florida estate",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3372912/private-jet-carrying-9-crashes-florida-roadside-erupting-massive-fireball",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/02/72d298a5-d79e-4215-bb89-ad293fd5b885_763bbacb.jpg?itok=-mMPvcm7&v=1793568592",
+     "published": "2026-11-01T21:31:36+00:00",
+     "ts": 1793568696000,
+     "count": 1
+    },
     {
      "title": "Democratic divisions shake up pivotal Michigan Senate race as congresswoman breaks ranks",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3372911/democratic-divisions-shake-pivotal-michigan-senate-race-congresswoman-breaks-ranks",
@@ -1839,7 +1893,7 @@
      "count": 1
     },
     {
-     "title": "Longest truce of Ukraine war, in Kherson region, set to end",
+     "title": "Longest truce of Ukraine war ends in Kherson region",
      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/02/2830099f-81c3-42eb-a831-dde157ba045c_60d93f42.jpg?itok=D3oAMQ4t&v=1793557422",
@@ -1857,10 +1911,10 @@
      "count": 1
     },
     {
-     "title": "6 dead, dozens injured in Halloween weekend gun violence across US",
+     "title": "Wave of US Halloween weekend shootings leaves 6 dead, dozens wounded",
      "link": "https://www.scmp.com/news/world/united-states-canada/article/3372906/4-dead-15-injured-3-separate-shootings-dallas-texas-halloween-night-police-say",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/02/95dece95-7fb5-4911-a35c-141751c0ea32_ac74ae9a.jpg?itok=HPHknn-H&v=1793552316",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/02/ba9aa9fe-ec5d-4e95-a074-20dd753da844_53f3a746.jpg?itok=Fe1qKP1v&v=1793580478",
      "published": "2026-11-01T17:02:08+00:00",
      "ts": 1793552528000,
      "count": 1
@@ -2007,60 +2061,6 @@
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/af4e6b38-34e2-4b4b-a84c-acc3c78db242_876c3a4c.jpg?itok=AZSRPn7X&v=1793509482",
      "published": "2026-11-01T11:00:10+00:00",
      "ts": 1793530810000,
-     "count": 1
-    },
-    {
-     "title": "Indian opposition unites to demand Modi electoral chief’s resignation",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3372886/indian-opposition-unites-demand-modi-electoral-chiefs-resignation",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/84858078-8b23-475f-b1d8-7638e7012cfb_2ab7e6d9.jpg?itok=9xBSGsr_&v=1793527984",
-     "published": "2026-11-01T10:13:07+00:00",
-     "ts": 1793527987000,
-     "count": 1
-    },
-    {
-     "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-     "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/9f8d3847-2889-48e7-99b6-b4e3f12bb9f3_7543b29f.jpg?itok=fUVPuK19&v=1793527221",
-     "published": "2026-11-01T10:00:26+00:00",
-     "ts": 1793527226000,
-     "count": 1
-    },
-    {
-     "title": "At 97, China’s first female conductor still performs in public, wowing audiences",
-     "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3372882/97-chinas-first-female-conductor-still-performs-public-wowing-audiences",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/568cfa6e-0fdc-418a-93c3-9b96096d8a65_7d0fad89.jpg?itok=Q5Ais7Qe&v=1793525304",
-     "published": "2026-11-01T10:00:17+00:00",
-     "ts": 1793527217000,
-     "count": 1
-    },
-    {
-     "title": "From rifles to radar: China upgrades its African arms trade as Russia and the West retreat",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3372870/rifles-radar-china-upgrades-its-african-arms-trade-russia-and-west-retreat",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/e3b2784a-3ab1-4de1-aa31-592945321a46_6aaf9cd8.jpg?itok=0zunrE03&v=1793514593",
-     "published": "2026-11-01T10:00:11+00:00",
-     "ts": 1793527211000,
-     "count": 1
-    },
-    {
-     "title": "Japan’s Economic Diplomacy: A Compass in a Divided World",
-     "link": "https://thediplomat.com/2026/11/japans-economic-diplomacy-a-compass-in-a-divided-world/",
-     "source": "East Asia – The Diplomat",
-     "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-24-214727.jpg",
-     "published": "2026-11-01T09:52:00+00:00",
-     "ts": 1793526720000,
-     "count": 1
-    },
-    {
-     "title": "Turkey moves Kurdish militant leader as part of peace process",
-     "link": "https://www.scmp.com/news/world/europe/article/3372883/turkey-moves-kurdish-militant-leader-part-peace-process",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/3b9ec653-9ca7-4591-95fb-90f48b3eb129_e8426485.jpg?itok=CU3WVMqu&v=1793526301",
-     "published": "2026-11-01T09:45:06+00:00",
-     "ts": 1793526306000,
      "count": 1
     }
    ]
