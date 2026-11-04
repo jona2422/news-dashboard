@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T15:30:37.842458+00:00",
- "sources_ok": 37,
+ "updated": "2026-11-04T21:56:54.453488+00:00",
+ "sources_ok": 38,
  "sources_total": 40,
  "beats": [
   {
@@ -62,14 +62,6 @@
    "error": "sin items"
   },
   {
-   "beat": "panama_latam",
-   "url": "https://www.france24.com/es/rss",
-   "source": "france24.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "source": "BBC News",
@@ -106,7 +98,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 124,
+   "count": 125,
    "error": ""
   },
   {
@@ -298,7 +290,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 115,
+   "count": 113,
    "error": ""
   },
   {
@@ -321,6 +313,14 @@
    "beat": "panama_latam",
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
+   "ok": true,
+   "count": 24,
+   "error": ""
+  },
+  {
+   "beat": "panama_latam",
+   "url": "https://www.france24.com/es/rss",
+   "source": "France 24 - Noticias y actualidad internacional en vivo",
    "ok": true,
    "count": 24,
    "error": ""
