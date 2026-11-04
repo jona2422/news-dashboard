@@ -1,24 +1,40 @@
 {
- "updated": "2026-11-03T23:28:41.374327+00:00",
+ "updated": "2026-11-04T06:37:37.775337+00:00",
  "terms": [
   {
    "term": "trump",
-   "count": 15
+   "count": 21
   },
   {
-   "term": "israel",
-   "count": 9
+   "term": "democrats",
+   "count": 17
+  },
+  {
+   "term": "senate",
+   "count": 17
   },
   {
    "term": "midterm",
+   "count": 11
+  },
+  {
+   "term": "alaska",
+   "count": 11
+  },
+  {
+   "term": "midterms",
+   "count": 10
+  },
+  {
+   "term": "governor",
+   "count": 10
+  },
+  {
+   "term": "house",
    "count": 8
   },
   {
-   "term": "election",
-   "count": 8
-  },
-  {
-   "term": "china",
+   "term": "control",
    "count": 8
   },
   {
@@ -26,11 +42,19 @@
    "count": 7
   },
   {
-   "term": "alaska",
+   "term": "democrat",
    "count": 7
   },
   {
-   "term": "race",
+   "term": "demócrata",
+   "count": 7
+  },
+  {
+   "term": "republican",
+   "count": 6
+  },
+  {
+   "term": "black",
    "count": 6
   },
   {
@@ -38,7 +62,23 @@
    "count": 6
   },
   {
-   "term": "iran",
+   "term": "results",
+   "count": 6
+  },
+  {
+   "term": "wins",
+   "count": 6
+  },
+  {
+   "term": "seat",
+   "count": 6
+  },
+  {
+   "term": "senado",
+   "count": 6
+  },
+  {
+   "term": "china",
    "count": 6
   },
   {
@@ -46,23 +86,15 @@
    "count": 5
   },
   {
-   "term": "train",
+   "term": "republicans",
    "count": 5
   },
   {
-   "term": "ukraine",
+   "term": "democratic",
    "count": 5
   },
   {
-   "term": "states",
-   "count": 5
-  },
-  {
-   "term": "vote",
-   "count": 5
-  },
-  {
-   "term": "senate",
+   "term": "ohio",
    "count": 5
   },
   {
@@ -70,69 +102,45 @@
    "count": 5
   },
   {
+   "term": "texas",
+   "count": 5
+  },
+  {
+   "term": "need",
+   "count": 4
+  },
+  {
+   "term": "train",
+   "count": 4
+  },
+  {
    "term": "crash",
    "count": 4
   },
   {
-   "term": "home",
+   "term": "data",
    "count": 4
-  },
-  {
-   "term": "house",
-   "count": 4
-  },
-  {
-   "term": "open",
-   "count": 4
-  },
-  {
-   "term": "russian",
-   "count": 4
-  },
-  {
-   "term": "results",
-   "count": 4
-  },
-  {
-   "term": "netanyahu",
-   "count": 4
-  },
-  {
-   "term": "palestinian",
-   "count": 4
-  },
-  {
-   "term": "midterms",
-   "count": 4
-  },
-  {
-   "term": "informe",
-   "count": 4
-  },
-  {
-   "term": "jews",
-   "count": 4
-  },
-  {
-   "term": "time",
-   "count": 3
-  },
-  {
-   "term": "getting",
-   "count": 3
   }
  ],
  "entities": [
   {
    "name": "Trump",
-   "count": 14
+   "count": 21
   },
   {
-   "name": "Israel",
-   "count": 8
+   "name": "Democrats",
+   "count": 17
   },
   {
    "name": "Alaska",
+   "count": 11
+  },
+  {
+   "name": "Senate",
+   "count": 10
+  },
+  {
+   "name": "Senado",
    "count": 6
   },
   {
@@ -140,59 +148,63 @@
    "count": 6
   },
   {
-   "name": "Ukraine",
-   "count": 5
-  },
-  {
-   "name": "Iran",
-   "count": 5
-  },
-  {
-   "name": "Russian",
+   "name": "House",
    "count": 4
   },
   {
-   "name": "Netanyahu",
+   "name": "Congress",
    "count": 4
   },
   {
-   "name": "Informe",
+   "name": "Texas",
    "count": 4
-  },
-  {
-   "name": "Barcelona",
-   "count": 3
   },
   {
    "name": "Binance",
    "count": 3
   },
   {
-   "name": "Congress",
+   "name": "Here",
    "count": 3
   },
   {
-   "name": "Japan",
+   "name": "Republicans",
    "count": 3
   },
   {
-   "name": "Raphinha",
+   "name": "Ohio",
    "count": 3
   },
   {
-   "name": "Canada",
+   "name": "Republican",
    "count": 3
   },
   {
-   "name": "Senate",
+   "name": "James Talarico",
    "count": 3
   },
   {
-   "name": "Jews",
+   "name": "Keisha Lance Bottoms",
+   "count": 3
+  },
+  {
+   "name": "Georgia",
+   "count": 3
+  },
+  {
+   "name": "Israel",
+   "count": 3
+  },
+  {
+   "name": "Chinese",
    "count": 3
   },
   {
    "name": "Limited Time",
+   "count": 2
+  },
+  {
+   "name": "Asia",
    "count": 2
   },
   {
@@ -205,18 +217,6 @@
   },
   {
    "name": "Spain",
-   "count": 2
-  },
-  {
-   "name": "House",
-   "count": 2
-  },
-  {
-   "name": "Spanish",
-   "count": 2
-  },
-  {
-   "name": "Polls",
    "count": 2
   }
  ]
