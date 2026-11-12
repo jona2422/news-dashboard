@@ -1,8 +1,17 @@
 {
- "updated": "2026-11-12T03:52:20.842750+00:00",
- "count": 203,
- "max": 5.1,
+ "updated": "2026-11-12T12:51:42.177251+00:00",
+ "count": 193,
+ "max": 5.4,
  "items": [
+  {
+   "mag": 5.4,
+   "place": "South Sandwich Islands region",
+   "time": 1794455156644,
+   "lon": -26.0288,
+   "lat": -59.0326,
+   "depth": 121.557,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr"
+  },
   {
    "mag": 5.1,
    "place": "80 km W of Panguna, Papua New Guinea",
@@ -22,33 +31,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg"
   },
   {
-   "mag": 5.1,
-   "place": "27 km WSW of Calama, Chile",
-   "time": 1794397011281,
-   "lon": -69.1693,
-   "lat": -22.5427,
-   "depth": 91.309,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
-  },
-  {
-   "mag": 5.1,
-   "place": "Pulau Pulau Tanimbar, Indonesia",
-   "time": 1794396744685,
-   "lon": 130.2513,
-   "lat": -7.9445,
-   "depth": 14.704,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txir"
-  },
-  {
-   "mag": 5.1,
-   "place": "Balleny Islands region",
-   "time": 1794378105383,
-   "lon": 155.0206,
-   "lat": -62.4284,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi"
-  },
-  {
    "mag": 5,
    "place": "48 km NW of Ancud, Chile",
    "time": 1794424877374,
@@ -56,15 +38,6 @@
    "lat": -41.5234,
    "depth": 34.893,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
-  },
-  {
-   "mag": 5,
-   "place": "152 km SE of Kuril’sk, Russia",
-   "time": 1794374788222,
-   "lon": 149.4063,
-   "lat": 44.3915,
-   "depth": 30.338,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv"
   },
   {
    "mag": 4.9,
@@ -77,21 +50,21 @@
   },
   {
    "mag": 4.8,
+   "place": "155 km E of Noda, Japan",
+   "time": 1794456452379,
+   "lon": 143.6115,
+   "lat": 40.3593,
+   "depth": 33.039,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx"
+  },
+  {
+   "mag": 4.8,
    "place": "43 km SE of Severo-Kuril’sk, Russia",
    "time": 1794446324576,
    "lon": 156.6137,
    "lat": 50.4399,
    "depth": 74.47,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa"
-  },
-  {
-   "mag": 4.7,
-   "place": "152 km WSW of Merizo Village, Guam",
-   "time": 1794386235449,
-   "lon": 143.3322,
-   "lat": 12.8418,
-   "depth": 137.374,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0"
   },
   {
    "mag": 4.6,
@@ -103,31 +76,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk"
   },
   {
-   "mag": 4.6,
-   "place": "64 km NW of Port-Vila, Vanuatu",
-   "time": 1794394657101,
-   "lon": 167.9671,
-   "lat": -17.2615,
-   "depth": 42.696,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txil"
-  },
-  {
-   "mag": 4.6,
-   "place": "54 km WNW of Malfa, Italy",
-   "time": 1794373928509,
-   "lon": 14.2589,
-   "lat": 38.7563,
+   "mag": 4.5,
+   "place": "off the coast of Oregon",
+   "time": 1794471448440,
+   "lon": -129.6205,
+   "lat": 44.4539,
    "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgq"
-  },
-  {
-   "mag": 4.6,
-   "place": "130 km ENE of Hasaki, Japan",
-   "time": 1794369412372,
-   "lon": 142.185,
-   "lat": 36.1492,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk"
   },
   {
    "mag": 4.5,
@@ -146,15 +101,6 @@
    "lat": -23.5023,
    "depth": 527.582,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmx"
-  },
-  {
-   "mag": 4.5,
-   "place": "62 km NNE of Port-Olry, Vanuatu",
-   "time": 1794401106171,
-   "lon": 167.2586,
-   "lat": -14.5029,
-   "depth": 149.444,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txiz"
   },
   {
    "mag": 4.4,
@@ -184,49 +130,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txnf"
   },
   {
-   "mag": 4.4,
-   "place": "western Xizang",
-   "time": 1794386872006,
-   "lon": 86.5462,
-   "lat": 34.149,
-   "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi2"
-  },
-  {
-   "mag": 4.3,
-   "place": "9 km W of La Humedad, Mexico",
-   "time": 1794384337278,
-   "lon": -97.7508,
-   "lat": 16.5979,
-   "depth": 35,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhv"
-  },
-  {
-   "mag": 4.3,
-   "place": "70 km SW of Nikolski, Alaska",
-   "time": 1794370859883,
-   "lon": -169.6878,
-   "lat": 52.5525,
-   "depth": 42.206,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgi"
-  },
-  {
-   "mag": 4.2,
-   "place": "64 km WSW of Valparaíso, Chile",
-   "time": 1794380249738,
-   "lon": -72.2667,
-   "lat": -33.2527,
-   "depth": 26.346,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhn"
-  },
-  {
    "mag": 4.1,
-   "place": "23 km WSW of Eilat, Israel",
-   "time": 1794389092651,
-   "lon": 34.7217,
-   "lat": 29.4748,
+   "place": "215 km WSW of Port McNeill, Canada",
+   "time": 1794472000140,
+   "lon": -130.0656,
+   "lat": 50.2206,
    "depth": 10,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi6"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrm"
   },
   {
    "mag": 3.9,
@@ -247,22 +157,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmi"
   },
   {
-   "mag": 3.7,
-   "place": "53 km SW of Port Alexander, Alaska",
-   "time": 1794386923021,
-   "lon": -135.225,
-   "lat": 55.895,
-   "depth": 3.4,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiqmvw"
-  },
-  {
-   "mag": 3.7,
-   "place": "116 km SE of Port Graham, Alaska",
-   "time": 1794382725752,
-   "lon": -150.562,
-   "lat": 58.534,
-   "depth": 40.2,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wioent"
+   "mag": 3.6,
+   "place": "102 km SSW of Kaktovik, Alaska",
+   "time": 1794462508468,
+   "lon": -144.98,
+   "lat": 69.343,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkgnee"
   },
   {
    "mag": 3.3,
@@ -274,12 +175,21 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjnswr"
   },
   {
+   "mag": 3.2,
+   "place": "14 km E of Pearsall, Texas",
+   "time": 1794475218720,
+   "lon": -98.943,
+   "lat": 28.877,
+   "depth": 7.8676,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wgyidv"
+  },
+  {
    "mag": 3.1,
-   "place": "9 km SSE of Kasilof, Alaska",
-   "time": 1794455031711,
-   "lon": -151.213,
-   "lat": 60.261,
-   "depth": 59.6,
+   "place": "11 km SSE of Kasilof, Alaska",
+   "time": 1794455031447,
+   "lon": -151.171,
+   "lat": 60.246,
+   "depth": 61.2,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkcjcz"
   },
   {
@@ -292,15 +202,6 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjlejc"
   },
   {
-   "mag": 3.0,
-   "place": "43 km N of Charlotte Amalie, U.S. Virgin Islands",
-   "time": 1794396910000,
-   "lon": -64.9921666666667,
-   "lat": 18.7298333333333,
-   "depth": 35.89,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539058"
-  },
-  {
    "mag": 2.9,
    "place": "22 km SE of Emajagua, Puerto Rico",
    "time": 1794432018460,
@@ -310,13 +211,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539098"
   },
   {
-   "mag": 2.9,
-   "place": "20 km WNW of Charlotte Amalie, U.S. Virgin Islands",
-   "time": 1794394266090,
-   "lon": -65.1045,
-   "lat": 18.4223333333333,
-   "depth": 15.98,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539048"
+   "mag": 2.8,
+   "place": "95 km SSW of Kaktovik, Alaska",
+   "time": 1794463496755,
+   "lon": -144.736,
+   "lat": 69.363,
+   "depth": 7.5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkhblk"
   },
   {
    "mag": 2.8,
@@ -328,13 +229,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjamms"
   },
   {
-   "mag": 2.8,
-   "place": "9 km NNW of Garrochales, Puerto Rico",
-   "time": 1794391968570,
-   "lon": -66.5931666666667,
-   "lat": 18.5388333333333,
-   "depth": 87.1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539033"
+   "mag": 2.7,
+   "place": "119 km ESE of Cordova, Alaska",
+   "time": 1794478651050,
+   "lon": -143.639,
+   "lat": 60.328,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkpmlh"
   },
   {
    "mag": 2.6,
@@ -353,6 +254,33 @@
    "lat": 28.87,
    "depth": 8.4451,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wfribb"
+  },
+  {
+   "mag": 2.5,
+   "place": "60 km NW of Ninilchik, Alaska",
+   "time": 1794464076292,
+   "lon": -152.493,
+   "lat": 60.404,
+   "depth": 103.4,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkhjxi"
+  },
+  {
+   "mag": 2.5,
+   "place": "21 km NNE of Sterling, Alaska",
+   "time": 1794463895248,
+   "lon": -150.599,
+   "lat": 60.714,
+   "depth": 0.2,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkhhbr"
+  },
+  {
+   "mag": 2.5,
+   "place": "51 km W of Akhiok, Alaska",
+   "time": 1794456527361,
+   "lon": -155.024,
+   "lat": 56.952,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkdeju"
   },
   {
    "mag": 2.5,
@@ -383,6 +311,15 @@
   },
   {
    "mag": 2.4,
+   "place": "7 km NNW of Sterling, Alaska",
+   "time": 1794457224441,
+   "lon": -150.793,
+   "lat": 60.604,
+   "depth": 46,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkdouu"
+  },
+  {
+   "mag": 2.4,
    "place": "4 km SSW of Guánica, Puerto Rico",
    "time": 1794426232940,
    "lon": -66.925,
@@ -409,13 +346,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wfnqns"
   },
   {
-   "mag": 2.4,
-   "place": "51 km S of Whites City, New Mexico",
-   "time": 1794372865703,
-   "lon": -104.281,
-   "lat": 31.721,
-   "depth": 6.4075,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wetrvj"
+   "mag": 2.3,
+   "place": "57 km W of Anchor Point, Alaska",
+   "time": 1794456378392,
+   "lon": -152.849,
+   "lat": 59.824,
+   "depth": 101.8,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkdcos"
   },
   {
    "mag": 2.3,
@@ -427,22 +364,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjhxjv"
   },
   {
-   "mag": 2.3,
-   "place": "39 km WNW of Skwentna, Alaska",
-   "time": 1794391172161,
-   "lon": -152.064,
-   "lat": 62.158,
-   "depth": 108.8,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiswhk"
-  },
-  {
-   "mag": 2.3,
-   "place": "72 km ESE of Denali National Park, Alaska",
-   "time": 1794383752122,
-   "lon": -150.503,
-   "lat": 63.191,
-   "depth": 122.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiotbn"
+   "mag": 2.2,
+   "place": "108 km WNW of Yakutat, Alaska",
+   "time": 1794474948606,
+   "lon": -141.463,
+   "lat": 59.967,
+   "depth": 0.5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wknkyr"
   },
   {
    "mag": 2.2,
@@ -499,22 +427,40 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjbzzm"
   },
   {
-   "mag": 2.2,
-   "place": "22 km SW of Anchor Point, Alaska",
-   "time": 1794374739009,
-   "lon": -152.159,
-   "lat": 59.663,
-   "depth": 69.8,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wijsuy"
+   "mag": 2.1,
+   "place": "22 km S of Denali National Park, Alaska",
+   "time": 1794484736000,
+   "lon": -151.693,
+   "lat": 63.342,
+   "depth": 15.4,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wksvww"
   },
   {
-   "mag": 2.2,
-   "place": "33 km ENE of Chase, Alaska",
-   "time": 1794371388823,
-   "lon": -149.505,
-   "lat": 62.578,
-   "depth": 57.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wihwil"
+   "mag": 2.1,
+   "place": "17 km SE of Silver Springs, Nevada",
+   "time": 1794475546139,
+   "lon": -119.0733,
+   "lat": 39.3047,
+   "depth": 8.6667,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926912"
+  },
+  {
+   "mag": 2.1,
+   "place": "3 km WNW of Pāhala, Hawaii",
+   "time": 1794473059420,
+   "lon": -155.504333496094,
+   "lat": 19.2164993286133,
+   "depth": 28.8099994659424,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069577"
+  },
+  {
+   "mag": 2.1,
+   "place": "16 km WNW of Lopez Point, CA",
+   "time": 1794464819460,
+   "lon": -121.713996887207,
+   "lat": 36.0924987792969,
+   "depth": 7.42999982833862,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465622"
   },
   {
    "mag": 2.1,
@@ -580,40 +526,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wizsbz"
   },
   {
-   "mag": 2.1,
-   "place": "61 km WNW of Nanwalek, Alaska",
-   "time": 1794394370547,
-   "lon": -152.914,
-   "lat": 59.567,
-   "depth": 99.1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiuqmy"
+   "mag": 2,
+   "place": "60 km ENE of Nikolai, Alaska",
+   "time": 1794484561019,
+   "lon": -153.293,
+   "lat": 63.25,
+   "depth": 0.9,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkstmu"
   },
   {
-   "mag": 2.1,
-   "place": "26 km SW of Gustine, CA",
-   "time": 1794391491980,
-   "lon": -121.175834655762,
-   "lat": 37.076000213623,
-   "depth": 0.280000001192093,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465197"
-  },
-  {
-   "mag": 2.1,
-   "place": "1 km WSW of Pāhala, Hawaii",
-   "time": 1794381787090,
-   "lon": -155.490325927734,
-   "lat": 19.1975002288818,
-   "depth": 27.2700004577637,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069307"
-  },
-  {
-   "mag": 2.1,
-   "place": "22 km WNW of Tyonek, Alaska",
-   "time": 1794379687985,
-   "lon": -151.514,
-   "lat": 61.163,
-   "depth": 73.1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wimmif"
+   "mag": 2,
+   "place": "58 km W of Nanwalek, Alaska",
+   "time": 1794470292497,
+   "lon": -152.946,
+   "lat": 59.413,
+   "depth": 82.8,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkkvqy"
   },
   {
    "mag": 2.0,
@@ -670,67 +598,49 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360967"
   },
   {
-   "mag": 2,
-   "place": "91 km NNW of Aleneva, Alaska",
-   "time": 1794400372058,
-   "lon": -153.691,
-   "lat": 58.768,
+   "mag": 1.9,
+   "place": "32 km E of Halibut Cove, Alaska",
+   "time": 1794487456762,
+   "lon": -150.656,
+   "lat": 59.582,
+   "depth": 42.9,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkujsl"
+  },
+  {
+   "mag": 1.9,
+   "place": "50 km SE of Campo, CA",
+   "time": 1794485048590,
+   "lon": -116.1365,
+   "lat": 32.25383,
+   "depth": 14.85,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361319"
+  },
+  {
+   "mag": 1.9,
+   "place": "29 km NW of Susitna, Alaska",
+   "time": 1794459578197,
+   "lon": -150.966,
+   "lat": 61.69,
+   "depth": 68.3,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkewvb"
+  },
+  {
+   "mag": 1.9,
+   "place": "58 km N of Larsen Bay, Alaska",
+   "time": 1794459254642,
+   "lon": -154.056,
+   "lat": 58.064,
    "depth": 5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wixzfw"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkesbj"
   },
   {
-   "mag": 2,
-   "place": "56 km S of Whites City, New Mexico",
-   "time": 1794395636305,
-   "lon": -104.368,
-   "lat": 31.67,
-   "depth": 6.0999,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wfginh"
-  },
-  {
-   "mag": 2.0,
-   "place": "4 km SSW of San Juan Bautista, CA",
-   "time": 1794391892820,
-   "lon": -121.557334899902,
-   "lat": 36.8158340454102,
-   "depth": 6.32000017166138,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465207"
-  },
-  {
-   "mag": 2.0,
-   "place": "12 km SSE of Pāhala, Hawaii",
-   "time": 1794387836760,
-   "lon": -155.443161010742,
-   "lat": 19.0968341827393,
-   "depth": 23.9799995422363,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069317"
-  },
-  {
-   "mag": 2,
-   "place": "54 km NW of Toyah, Texas",
-   "time": 1794378675408,
-   "lon": -104.217,
-   "lat": 31.641,
-   "depth": 4.6643,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wewznd"
-  },
-  {
-   "mag": 2,
-   "place": "19 km SSE of Skwentna, Alaska",
-   "time": 1794375456999,
-   "lon": -151.214,
-   "lat": 61.839,
-   "depth": 72.6,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wikbig"
-  },
-  {
-   "mag": 2,
-   "place": "51 km S of Whites City, New Mexico",
-   "time": 1794373054761,
-   "lon": -104.287,
-   "lat": 31.722,
-   "depth": 6.7151,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wetwto"
+   "mag": 1.9,
+   "place": "36 km N of Ivanof Bay, Alaska",
+   "time": 1794458910798,
+   "lon": -159.51,
+   "lat": 56.225,
+   "depth": 15.5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkenfd"
   },
   {
    "mag": 1.9,
@@ -758,6 +668,15 @@
    "lat": 59.702,
    "depth": 114,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiyxub"
+  },
+  {
+   "mag": 1.8,
+   "place": "67 km W of Ferry, Alaska",
+   "time": 1794487646130,
+   "lon": -150.484,
+   "lat": 63.938,
+   "depth": 5.9,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkumlg"
   },
   {
    "mag": 1.8,
@@ -805,40 +724,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360959"
   },
   {
-   "mag": 1.8,
-   "place": "59 km W of Rachel, Nevada",
-   "time": 1794383823735,
-   "lon": -116.4136,
-   "lat": 37.6937,
-   "depth": 2.902,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926897"
+   "mag": 1.7,
+   "place": "24 km S of Eureka Roadhouse, Alaska",
+   "time": 1794460421509,
+   "lon": -147.192,
+   "lat": 61.723,
+   "depth": 26.7,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkfjao"
   },
   {
-   "mag": 1.8,
-   "place": "91 km SE of Kingston, Nevada",
-   "time": 1794382169891,
-   "lon": -116.3133,
-   "lat": 38.6409,
-   "depth": 11.1886,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926895"
-  },
-  {
-   "mag": 1.8,
-   "place": "36 km WNW of Nikiski, Alaska",
-   "time": 1794379423116,
-   "lon": -151.918,
-   "lat": 60.793,
-   "depth": 86.2,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiminq"
-  },
-  {
-   "mag": 1.8,
-   "place": "9 km N of Redwood Valley, CA",
-   "time": 1794378226870,
-   "lon": -123.198165893555,
-   "lat": 39.3448333740234,
-   "depth": 8.23999977111816,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465177"
+   "mag": 1.7,
+   "place": "7 km SSW of Pāhala, Hawaii",
+   "time": 1794457845400,
+   "lon": -155.503662109375,
+   "lat": 19.1404991149902,
+   "depth": 30.7399997711182,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069532"
   },
   {
    "mag": 1.7,
@@ -886,40 +787,40 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjbrfk"
   },
   {
-   "mag": 1.7,
-   "place": "13 km ESE of Pāhala, Hawaii",
-   "time": 1794390661510,
-   "lon": -155.352172851562,
-   "lat": 19.1718330383301,
-   "depth": 26.5300006866455,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069327"
+   "mag": 1.6,
+   "place": "16 km SW of Lamont, CA",
+   "time": 1794483065180,
+   "lon": -119.0385,
+   "lat": 35.16067,
+   "depth": 15.34,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361303"
   },
   {
-   "mag": 1.7,
-   "place": "21 km SSE of Honaunau-Napoopoo, Hawaii",
-   "time": 1794385988370,
-   "lon": -155.802505493164,
-   "lat": 19.2711658477783,
-   "depth": -0.310000002384186,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069312"
+   "mag": 1.6,
+   "place": "35 km WNW of Clam Gulch, Alaska",
+   "time": 1794481658381,
+   "lon": -152.009,
+   "lat": 60.332,
+   "depth": 76.4,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkrdxr"
   },
   {
-   "mag": 1.7,
-   "place": "70 km WNW of Petersville, Alaska",
-   "time": 1794384683312,
-   "lon": -152.082,
-   "lat": 62.668,
-   "depth": 8.4,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wipgnh"
+   "mag": 1.6,
+   "place": "9 km E of Gilroy, CA",
+   "time": 1794475378520,
+   "lon": -121.472503662109,
+   "lat": 37.0185012817383,
+   "depth": 6.07000017166138,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465662"
   },
   {
-   "mag": 1.7,
-   "place": "27 km W of Anchor Point, Alaska",
-   "time": 1794373322203,
-   "lon": -152.328,
-   "lat": 59.778,
-   "depth": 73.8,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiiyje"
+   "mag": 1.6,
+   "place": "10 km SW of Tres Pinos, CA",
+   "time": 1794468940200,
+   "lon": -121.384162902832,
+   "lat": 36.7174987792969,
+   "depth": 0.239999994635582,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465642"
   },
   {
    "mag": 1.6,
@@ -940,40 +841,49 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164156"
   },
   {
-   "mag": 1.6,
-   "place": "14 km SW of Searles Valley, CA",
-   "time": 1794392731800,
-   "lon": -117.527333333333,
-   "lat": 35.6931666666667,
-   "depth": 6.45,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360935"
+   "mag": 1.5,
+   "place": "7 km E of Ridgecrest, CA",
+   "time": 1794484495830,
+   "lon": -117.597,
+   "lat": 35.6175,
+   "depth": 7.73,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361311"
   },
   {
-   "mag": 1.6,
-   "place": "15 km NE of Milford, Utah",
-   "time": 1794382916310,
-   "lon": -112.913833333333,
-   "lat": 38.5103333333333,
-   "depth": 2.91,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164106"
+   "mag": 1.5,
+   "place": "3 km NE of Talmage, CA",
+   "time": 1794482771930,
+   "lon": -123.14616394043,
+   "lat": 39.151668548584,
+   "depth": 5.46999979019165,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465702"
   },
   {
-   "mag": 1.6,
-   "place": "48 km NNE of Chickaloon, Alaska",
-   "time": 1794374526507,
-   "lon": -148.251,
-   "lat": 62.217,
-   "depth": 51.4,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wijpsu"
+   "mag": 1.5,
+   "place": "14 km N of Warner Springs, CA",
+   "time": 1794468740190,
+   "lon": -116.64983,
+   "lat": 33.40767,
+   "depth": 5.79,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361279"
   },
   {
-   "mag": 1.6,
-   "place": "63 km S of Glacier View, Alaska",
-   "time": 1794372939157,
-   "lon": -147.704,
-   "lat": 61.24,
-   "depth": 18.4,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiisur"
+   "mag": 1.5,
+   "place": "24 km NW of Tatitlek, Alaska",
+   "time": 1794466490412,
+   "lon": -147.01,
+   "lat": 61.011,
+   "depth": 24.2,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkissx"
+  },
+  {
+   "mag": 1.5,
+   "place": "28 km W of Happy Valley, Alaska",
+   "time": 1794465479584,
+   "lon": -152.245,
+   "lat": 59.975,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkiecq"
   },
   {
    "mag": 1.5,
@@ -1012,13 +922,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wizlyt"
   },
   {
-   "mag": 1.5,
-   "place": "12 km NNE of Ocotillo Wells, CA",
-   "time": 1794390468980,
-   "lon": -116.082333333333,
-   "lat": 33.2398333333333,
-   "depth": 5.5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360919"
+   "mag": 1.4,
+   "place": "64 km WNW of Karluk, Alaska",
+   "time": 1794475278401,
+   "lon": -155.402,
+   "lat": 57.849,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wknplp"
+  },
+  {
+   "mag": 1.4,
+   "place": "57 km ESE of McCarthy, Alaska",
+   "time": 1794470038494,
+   "lon": -141.868,
+   "lat": 61.33,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkkryl"
   },
   {
    "mag": 1.4,
@@ -1075,22 +994,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465257"
   },
   {
-   "mag": 1.4,
-   "place": "15 km N of Morgan Hill, CA",
-   "time": 1794399141170,
-   "lon": -121.636833190918,
-   "lat": 37.2631683349609,
-   "depth": 5.23000001907349,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465242"
-  },
-  {
-   "mag": 1.4,
-   "place": "85 km WNW of Karluk, Alaska",
-   "time": 1794386410061,
-   "lon": -155.773,
-   "lat": 57.87,
-   "depth": 19.1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiqfmk"
+   "mag": 1.3,
+   "place": "16 km NNW of Mojave, CA",
+   "time": 1794456076780,
+   "lon": -118.21117,
+   "lat": 35.18983,
+   "depth": 1.76,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361191"
   },
   {
    "mag": 1.3,
@@ -1147,13 +1057,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wizarx"
   },
   {
-   "mag": 1.3,
-   "place": "15 km S of Tres Pinos, CA",
-   "time": 1794373122720,
-   "lon": -121.295333862305,
-   "lat": 36.6534996032715,
-   "depth": 5.82999992370605,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465162"
+   "mag": 1.2,
+   "place": "12 km SE of Livermore, CA",
+   "time": 1794484142850,
+   "lon": -121.675834655762,
+   "lat": 37.6004981994629,
+   "depth": 0.0700000002980232,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465707"
+  },
+  {
+   "mag": 1.2,
+   "place": "8 km NW of The Geysers, CA",
+   "time": 1794467596210,
+   "lon": -122.819664001465,
+   "lat": 38.8306655883789,
+   "depth": 1.77999997138977,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465627"
   },
   {
    "mag": 1.2,
@@ -1201,31 +1120,31 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465262"
   },
   {
-   "mag": 1.2,
-   "place": "15 km NNE of Milford, Utah",
-   "time": 1794398393810,
-   "lon": -112.92,
-   "lat": 38.5136666666667,
-   "depth": 3.42,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164141"
+   "mag": 1.1,
+   "place": "1 km SSE of Yorba Linda, CA",
+   "time": 1794474394140,
+   "lon": -117.80617,
+   "lat": 33.8765,
+   "depth": 15.37,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361295"
   },
   {
-   "mag": 1.2,
-   "place": "78 km W of Salamatof, Alaska",
-   "time": 1794381571284,
-   "lon": -152.741,
-   "lat": 60.54,
-   "depth": 4.3,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026winnnz"
+   "mag": 1.1,
+   "place": "7 km W of Cobb, CA",
+   "time": 1794460209420,
+   "lon": -122.808670043945,
+   "lat": 38.832332611084,
+   "depth": 2.21000003814697,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465597"
   },
   {
-   "mag": 1.2,
-   "place": "5 km W of Grapevine, CA",
-   "time": 1794371017450,
-   "lon": -118.9895,
-   "lat": 34.936,
-   "depth": 13.65,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360879"
+   "mag": 1.1,
+   "place": "6 km SSE of Lytle Creek, CA",
+   "time": 1794458139700,
+   "lon": -117.46483,
+   "lat": 34.216,
+   "depth": 10.36,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361207"
   },
   {
    "mag": 1.1,
@@ -1264,49 +1183,22 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjjawr"
   },
   {
-   "mag": 1.1,
-   "place": "9 km WNW of The Geysers, CA",
-   "time": 1794400850730,
-   "lon": -122.84349822998,
-   "lat": 38.8219985961914,
-   "depth": 2.45000004768372,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465252"
+   "mag": 1,
+   "place": "8 km WNW of Cobb, CA",
+   "time": 1794480250150,
+   "lon": -122.807167053223,
+   "lat": 38.8385009765625,
+   "depth": 2.07999992370605,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465687"
   },
   {
-   "mag": 1.1,
-   "place": "15 km NNE of Milford, Utah",
-   "time": 1794391471050,
-   "lon": -112.9175,
-   "lat": 38.5153333333333,
-   "depth": 3.27,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164131"
-  },
-  {
-   "mag": 1.1,
-   "place": "12 km ESE of Bountiful, Utah",
-   "time": 1794384504240,
-   "lon": -111.745333333333,
-   "lat": 40.851,
-   "depth": 3.24,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164111"
-  },
-  {
-   "mag": 1.1,
-   "place": "15 km NNE of Milford, Utah",
-   "time": 1794375444200,
-   "lon": -112.920333333333,
-   "lat": 38.5151666666667,
-   "depth": 3.41,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164101"
-  },
-  {
-   "mag": 1.1,
-   "place": "3 km SSW of Anderson Springs, CA",
-   "time": 1794370032670,
-   "lon": -122.706665039062,
-   "lat": 38.75,
-   "depth": 1.94000005722046,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465152"
+   "mag": 1.0,
+   "place": "10 km NW of Pine Valley, CA",
+   "time": 1794465283580,
+   "lon": -116.60083,
+   "lat": 32.893,
+   "depth": 8.61,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361263"
   },
   {
    "mag": 1.0,
@@ -1345,22 +1237,40 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360951"
   },
   {
-   "mag": 1,
-   "place": "6 km NNW of The Geysers, CA",
-   "time": 1794391879030,
-   "lon": -122.796333312988,
-   "lat": 38.8241653442383,
-   "depth": 2.49000000953674,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465202"
+   "mag": 0.9,
+   "place": "4 km SW of Anza, CA",
+   "time": 1794487066890,
+   "lon": -116.70567,
+   "lat": 33.53633,
+   "depth": 6.29,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361327"
   },
   {
-   "mag": 1.0,
-   "place": "15 km NNE of Milford, Utah",
-   "time": 1794373945370,
-   "lon": -112.9195,
-   "lat": 38.5185,
-   "depth": 4.08,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164091"
+   "mag": 0.9,
+   "place": "86 km NW of Karluk, Alaska",
+   "time": 1794469517859,
+   "lon": -155.413,
+   "lat": 58.153,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkkklx"
+  },
+  {
+   "mag": 0.9,
+   "place": "94 km NNW of Karluk, Alaska",
+   "time": 1794462816620,
+   "lon": -154.787,
+   "lat": 58.395,
+   "depth": 2.8,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkgrqa"
+  },
+  {
+   "mag": 0.9,
+   "place": "7 km NE of Beaumont, CA",
+   "time": 1794458388170,
+   "lon": -116.92483,
+   "lat": 33.971,
+   "depth": 17,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361215"
   },
   {
    "mag": 0.9,
@@ -1435,22 +1345,31 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164151"
   },
   {
-   "mag": 0.9,
-   "place": "9 km WNW of The Geysers, CA",
-   "time": 1794400824190,
-   "lon": -122.842163085938,
-   "lat": 38.821834564209,
-   "depth": 2.35999989509583,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465247"
+   "mag": 0.8,
+   "place": "4 km NW of The Geysers, CA",
+   "time": 1794469234660,
+   "lon": -122.779998779297,
+   "lat": 38.8040008544922,
+   "depth": 1.45000004768372,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465647"
   },
   {
-   "mag": 0.9,
-   "place": "8 km NW of The Geysers, CA",
-   "time": 1794375893190,
-   "lon": -122.823997497559,
-   "lat": 38.8201675415039,
-   "depth": 2.04999995231628,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465172"
+   "mag": 0.8,
+   "place": "8 km WNW of Cobb, CA",
+   "time": 1794467936050,
+   "lon": -122.807830810547,
+   "lat": 38.8383331298828,
+   "depth": 2.23000001907349,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465637"
+  },
+  {
+   "mag": 0.8,
+   "place": "14 km WSW of Searles Valley, CA",
+   "time": 1794461740280,
+   "lon": -117.554,
+   "lat": 35.73167,
+   "depth": 1.85,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361239"
   },
   {
    "mag": 0.8,
@@ -1498,58 +1417,58 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360975"
   },
   {
-   "mag": 0.8,
-   "place": "65 km WNW of Tyonek, Alaska",
-   "time": 1794396967794,
-   "lon": -152.273,
-   "lat": 61.275,
-   "depth": 5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wiwbvd"
+   "mag": 0.7,
+   "place": "8 km W of Cobb, CA",
+   "time": 1794480477240,
+   "lon": -122.816665649414,
+   "lat": 38.8358345031738,
+   "depth": 1.72000002861023,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465697"
   },
   {
-   "mag": 0.8,
-   "place": "1 km NNW of The Geysers, CA",
-   "time": 1794392687320,
-   "lon": -122.762336730957,
-   "lat": 38.7879981994629,
-   "depth": 1.6599999666214,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465212"
+   "mag": 0.7,
+   "place": "8 km WNW of Cobb, CA",
+   "time": 1794480450340,
+   "lon": -122.815002441406,
+   "lat": 38.8381652832031,
+   "depth": 0.829999983310699,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465692"
   },
   {
-   "mag": 0.8,
-   "place": "12 km WSW of Salton City, CA",
-   "time": 1794390514480,
-   "lon": -116.071833333333,
-   "lat": 33.2455,
-   "depth": 4.5,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360927"
+   "mag": 0.7,
+   "place": "2 km NNW of The Geysers, CA",
+   "time": 1794479379900,
+   "lon": -122.767669677734,
+   "lat": 38.7908325195312,
+   "depth": 2.21000003814697,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465682"
   },
   {
-   "mag": 0.8,
-   "place": "63 km ENE of Pedro Bay, Alaska",
-   "time": 1794389067597,
-   "lon": -152.993,
-   "lat": 59.91,
-   "depth": 99.6,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wirrwp"
+   "mag": 0.7,
+   "place": "7 km NW of The Geysers, CA",
+   "time": 1794472352840,
+   "lon": -122.80883026123,
+   "lat": 38.821834564209,
+   "depth": 2.89000010490417,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465657"
   },
   {
-   "mag": 0.8,
-   "place": "39 km SSE of Mammoth, Wyoming",
-   "time": 1794387617080,
-   "lon": -110.458333333333,
-   "lat": 44.6635,
-   "depth": 3.47,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164126"
+   "mag": 0.7,
+   "place": "8 km WNW of Cobb, CA",
+   "time": 1794467818130,
+   "lon": -122.807502746582,
+   "lat": 38.8373336791992,
+   "depth": 2.33999991416931,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465632"
   },
   {
-   "mag": 0.8,
-   "place": "5 km ESE of Wofford Heights, CA",
-   "time": 1794381660720,
-   "lon": -118.4065,
-   "lat": 35.6885,
-   "depth": 4.83,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360903"
+   "mag": 0.7,
+   "place": "8 km ENE of Julian, CA",
+   "time": 1794466874400,
+   "lon": -116.5195,
+   "lat": 33.10383,
+   "depth": 12.25,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361271"
   },
   {
    "mag": 0.7,
@@ -1678,40 +1597,40 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjaogl"
   },
   {
-   "mag": 0.7,
-   "place": "76 km NW of Ninilchik, Alaska",
-   "time": 1794387954712,
-   "lon": -152.737,
-   "lat": 60.49,
-   "depth": 0.4,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wirbsf"
+   "mag": 0.6,
+   "place": "9 km NNE of Julian, CA",
+   "time": 1794469424200,
+   "lon": -116.578,
+   "lat": 33.153,
+   "depth": 16.57,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361287"
   },
   {
-   "mag": 0.7,
-   "place": "2 km SE of The Geysers, CA",
-   "time": 1794386862440,
-   "lon": -122.740997314453,
-   "lat": 38.7678337097168,
-   "depth": 1.77999997138977,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465192"
+   "mag": 0.6,
+   "place": "61 km ENE of Pedro Bay, Alaska",
+   "time": 1794465778903,
+   "lon": -153.161,
+   "lat": 60.07,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkiilc"
   },
   {
-   "mag": 0.7,
-   "place": "8 km NW of The Geysers, CA",
-   "time": 1794380464120,
-   "lon": -122.814163208008,
-   "lat": 38.8316650390625,
-   "depth": 2.04999995231628,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465182"
+   "mag": 0.6,
+   "place": "62 km ENE of Pedro Bay, Alaska",
+   "time": 1794457586941,
+   "lon": -153.116,
+   "lat": 60.055,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkdubd"
   },
   {
-   "mag": 0.7,
-   "place": "2 km ENE of The Geysers, CA",
-   "time": 1794369182520,
-   "lon": -122.737831115723,
-   "lat": 38.7854995727539,
-   "depth": 1.55999994277954,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465147"
+   "mag": 0.6,
+   "place": "7 km NW of The Geysers, CA",
+   "time": 1794456704390,
+   "lon": -122.81600189209,
+   "lat": 38.8188323974609,
+   "depth": 2.40000009536743,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465582"
   },
   {
    "mag": 0.6,
@@ -1741,13 +1660,31 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164201"
   },
   {
-   "mag": 0.6,
-   "place": "14 km ENE of Ridgecrest, CA",
-   "time": 1794397035470,
-   "lon": -117.53,
-   "lat": 35.6696666666667,
-   "depth": 8.45,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360943"
+   "mag": 0.5,
+   "place": "63 km ENE of Pedro Bay, Alaska",
+   "time": 1794483234958,
+   "lon": -153.083,
+   "lat": 60.024,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wksaru"
+  },
+  {
+   "mag": 0.5,
+   "place": "7 km NNE of Beaumont, CA",
+   "time": 1794464525600,
+   "lon": -116.93883,
+   "lat": 33.98583,
+   "depth": 11.89,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361247"
+  },
+  {
+   "mag": 0.5,
+   "place": "8 km NW of The Geysers, CA",
+   "time": 1794460086340,
+   "lon": -122.819000244141,
+   "lat": 38.8264999389648,
+   "depth": 2.92000007629395,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465592"
   },
   {
    "mag": 0.5,
@@ -1768,22 +1705,13 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465357"
   },
   {
-   "mag": 0.5,
-   "place": "8 km W of Cobb, CA",
-   "time": 1794393957090,
-   "lon": -122.815002441406,
-   "lat": 38.835334777832,
-   "depth": 1.53999996185303,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465222"
-  },
-  {
-   "mag": 0.5,
-   "place": "9 km WNW of The Geysers, CA",
-   "time": 1794385028510,
-   "lon": -122.84366607666,
-   "lat": 38.8166656494141,
-   "depth": 2.26999998092651,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465187"
+   "mag": 0.4,
+   "place": "5 km SSW of Warner Springs, CA",
+   "time": 1794464548560,
+   "lon": -116.65567,
+   "lat": 33.24,
+   "depth": 11.53,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361255"
   },
   {
    "mag": 0.4,
@@ -1796,21 +1724,12 @@
   },
   {
    "mag": 0.3,
-   "place": "4 km SW of Anza, CA",
-   "time": 1794387457870,
-   "lon": -116.7065,
-   "lat": 33.5356666666667,
-   "depth": 6.16,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360911"
-  },
-  {
-   "mag": 0.3,
-   "place": "10 km WSW of Anza, CA",
-   "time": 1794375416870,
-   "lon": -116.7635,
-   "lat": 33.5063333333333,
-   "depth": 5.33,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360895"
+   "place": "63 km ENE of Pedro Bay, Alaska",
+   "time": 1794474843268,
+   "lon": -153.114,
+   "lat": 60.064,
+   "depth": 5,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wknjku"
   },
   {
    "mag": 0.2,
@@ -1820,15 +1739,6 @@
    "lat": 33.53617,
    "depth": 6.28,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361039"
-  },
-  {
-   "mag": 0.2,
-   "place": "7 km NE of Magna, Utah",
-   "time": 1794375338410,
-   "lon": -112.0375,
-   "lat": 40.7543333333333,
-   "depth": 6.85,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164096"
   }
  ]
 }
