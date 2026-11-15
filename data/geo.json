@@ -1,19 +1,46 @@
 {
- "updated": "2026-11-14T23:06:38.869330+00:00",
- "total": 98,
+ "updated": "2026-11-15T02:45:57.775492+00:00",
+ "total": 99,
  "countries": [
   {
    "name": "United States",
    "es": "Estados Unidos",
    "lat": 39.8,
    "lon": -98.6,
-   "count": 25,
+   "count": 14,
    "items": [
+    {
+     "title": "Caos aéreo en EE. UU.: persisten retrasos y cancelaciones tras fallo en comunicaciones.",
+     "link": "https://www.france24.com/es/video/20261115-caos-a%C3%A9reo-en-ee-uu-persisten-retrasos-y-cancelaciones-tras-fallo-en-comunicaciones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/f9ac05e0-e09a-11f1-a7cd-3f371022a770/w:1024/p:16x9/ES-20261114-190512-190643-CS.jpg",
+     "ts": 1794710294000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "US Democrat who defeated embattled Republican Max Miller faces harassment probe - report",
+     "link": "https://www.jpost.com/american-politics/article-914879",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4674,w_6932/746302",
+     "ts": 1794705498000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "How telecoms upgrade work sparked US flight chaos",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+     "ts": 1794697887000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
     {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
      "ts": 1794695845000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
@@ -51,26 +78,8 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1794692179000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US flights resume after ageing technology blamed for outage",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794692179000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794690626000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
     },
     {
      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
@@ -82,22 +91,112 @@
      "beatName": "Medio Oriente"
     },
     {
-     "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
-     "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
+     "title": "Informe desde Washington: vuelos vuelven a la normalidad tras horas de retrasos y cancelaciones",
+     "link": "https://www.france24.com/es/video/20261114-informe-desde-washington-vuelos-vuelven-a-la-normalidad-tras-horas-de-retrasos-y-cancelaciones",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/9242f31e-e054-11f1-9a7c-29048b396e03/w:1024/p:16x9/ES-20261114-120152-120319-CS-01.jpg",
+     "ts": 1794683864000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Israel",
+   "es": "Israel",
+   "lat": 31.0,
+   "lon": 34.9,
+   "count": 13,
+   "items": [
+    {
+     "title": "El ejército de Israel afirma que atacó a un líder militar de Hamás",
+     "link": "https://www.dw.com/es/el-ejército-de-israel-afirma-que-atacó-a-un-líder-militar-de-hamás/a-79950562?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1794688380000,
+     "ts": 1794709020000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Netanyahu sends plea to Eisenkot for unity government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794706391000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "How telecoms upgrade work sparked US flight chaos",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-     "ts": 1794686628000,
+     "title": "Netanyahu sends plea to Eisenkot for unity government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794706391000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "On the Swiss beat: Boston-born, Zurich-based saxophonist brings his heart to Tel Aviv - interview",
+     "link": "https://www.jpost.com/israel-news/culture/article-914685",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2361,w_3543/746068",
+     "ts": 1794700972000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794700808000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794700808000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "'Israel has always killed children': Albanese's claim echoes history of blood libels - opinion",
+     "link": "https://www.jpost.com/opinion/article-914423",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/708677",
+     "ts": 1794699528000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+     "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794697290000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+     "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794697290000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Eisenkot: así rebusca el opositor de Netanhayu la opción 'menos mala' para formar gobierno en Israel",
+     "link": "https://www.france24.com/es/medio-oriente/20261114-eisenkot-as%C3%AD-rebusca-el-opositor-de-netanhayu-la-opci%C3%B3n-menos-mala-para-formar-gobierno-en-israel",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/e1c7d5ec-d4b2-11f1-a665-d18c5759e759/w:1024/p:16x9/AFP-20261020-D3UD2UE-v3-HighRes-TopshotIsraelPoliticsElection.jpg",
+     "ts": 1794695041000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -108,6 +207,33 @@
    "lon": 104.2,
    "count": 12,
    "items": [
+    {
+     "title": "AI ‘blue aliens’ rising as health experts on China social media spark pseudoscience backlash",
+     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3374466/ai-blue-aliens-rising-health-experts-china-social-media-spark-pseudoscience-backlash",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/df2ea886-c883-4936-8222-c378e8fa1e90_3c2cb72f.jpg?itok=rwI-CrL4&v=1794705333",
+     "ts": 1794708030000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374452/hong-kong-sending-whos-who-delegation-business-leaders-apec-ceo-summit",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/6e67fe78-298e-446d-8ec4-b7920a7a37d0_342d8c31.jpg?itok=G_nd7hTm&v=1794677098",
+     "ts": 1794708018000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Have you done this before? Hong Kong firefighter recalls mid-air rescue chat",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3374451/have-you-done-hong-kong-firefighter-recalls-mid-air-rescue-chat",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/2f0021cd-2a4d-4370-882f-e5bd170cb683_ae08cfad.jpg?itok=ms7LjLTE&v=1794669937",
+     "ts": 1794704414000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Zero capital, 116 projects: AI spots the devils in the details of China corruption case",
      "link": "https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case",
@@ -170,33 +296,141 @@
      "ts": 1794647486000,
      "beat": "china",
      "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Palestine",
+   "es": "Palestina",
+   "lat": 31.9,
+   "lon": 35.2,
+   "count": 8,
+   "items": [
+    {
+     "title": "Violence flares in West Bank as Palestinians stone Israeli car, masked rioters attack olive harvest",
+     "link": "https://www.jpost.com/israel-news/defense-news/article-914891",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746319",
+     "ts": 1794711534000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Hong Kong to test electronic proxy voting platform to curb bid-rigging at estates",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3374434/hong-kong-trial-electronic-proxy-voting-platform-curb-bid-rigging-estates",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/0e8db176-508e-4e41-8cd2-054f44d34a66_7e46747a.jpg?itok=YIjPjRhV&v=1794646185",
-     "ts": 1794647330000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "El ejército de Israel afirma que atacó a un líder militar de Hamás",
+     "link": "https://www.dw.com/es/el-ejército-de-israel-afirma-que-atacó-a-un-líder-militar-de-hamás/a-79950562?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794709020000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "China should share its renewable energy expertise",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/df6d815c-2c49-4c3c-a1ec-fc16fcada194_f1c91762.jpg?itok=4WkcfYUw&v=1794539844",
-     "ts": 1794645005000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Israeli air strike kills senior Hamas commander in Gaza",
+     "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794704442000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Hong Kong travellers face 2 days of delays as US ground stop hits 16 city flights",
-     "link": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/107f12a5-b487-4fd1-af27-43cd270f7138_5a41ae3e.jpg?itok=AMCHF39M&v=1794652978",
-     "ts": 1794631800000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Israeli air strike kills senior Hamas commander in Gaza",
+     "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794704442000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Gaza: países árabes y la Unión Europea condenan ataques israelíes al hospital Nasser",
+     "link": "https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/00dc7a72-e08a-11f1-b9aa-3f371022a770/w:1024/p:16x9/ES-20261114-130852-131041-CS-01.jpg",
+     "ts": 1794702862000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Senior Hamas terrorist targeted in IDF, Shin Bet strike",
+     "link": "https://www.jpost.com/israel-news/defense-news/article-914887",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3150,w_4725/746317",
+     "ts": 1794702630000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794700808000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794700808000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Iran",
+   "es": "Irán",
+   "lat": 32.4,
+   "lon": 53.7,
+   "count": 5,
+   "items": [
+    {
+     "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+     "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794707695000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+     "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794707695000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794700808000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794700808000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-914880",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1661,w_2490/715464",
+     "ts": 1794693628000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
@@ -205,13 +439,31 @@
    "es": "Ucrania",
    "lat": 48.4,
    "lon": 31.2,
-   "count": 6,
+   "count": 5,
    "items": [
+    {
+     "title": "Macron critica a “quienes quieren racionar” la ayuda a Ucrania y “obligarla a una paz injusta”",
+     "link": "https://www.france24.com/es/francia/20261115-macron-critica-a-quienes-quieren-racionar-la-ayuda-a-ucrania-y-obligarla-a-una-paz-injusta",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4580541c-cedf-11f1-b571-bba4eee3dc72/w:1024/p:16x9/17b9ffbe0a88ae51d1fe61d5d000f2e4fffff8bc.jpg",
+     "ts": 1794710283000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "¿Zelenski estaría considerando ceder territorio a cambio de entrar a la OTAN?",
+     "link": "https://www.france24.com/es/video/20261115-zelenski-estar%C3%ADa-considerando-ceder-territorio-a-cambio-de-entrar-a-la-otan",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/3e5aa830-e08d-11f1-96ed-f71d22e7fea9/w:1024/p:16x9/ES-20261114-150203-150735-CS-01.jpg",
+     "ts": 1794708212000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
     {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
      "ts": 1794695845000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
@@ -222,24 +474,6 @@
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
      "ts": 1794690626000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794690626000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794675219000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
@@ -251,76 +485,49 @@
      "ts": 1794669240000,
      "beat": "china",
      "beatName": "China"
-    },
-    {
-     "title": "Musk ordered to preserve records on Ukraine’s Starlink access by Democratic US senators",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/c6545ba5-92e5-4880-a8d4-70d7a8580239_e6cc6b08.jpg?itok=6n9XpdsI&v=1794634306",
-     "ts": 1794634318000,
-     "beat": "china",
-     "beatName": "China"
     }
    ]
   },
   {
-   "name": "Israel",
-   "es": "Israel",
-   "lat": 31.0,
-   "lon": 34.9,
-   "count": 6,
+   "name": "Iraq",
+   "es": "Irak",
+   "lat": 33.2,
+   "lon": 43.7,
+   "count": 4,
    "items": [
     {
-     "title": "'Israel has always killed children': Albanese's claim echoes history of blood libels - opinion",
-     "link": "https://www.jpost.com/opinion/article-914423",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/708677",
-     "ts": 1794699528000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Eisenkot: así rebusca el opositor de Netanhayu la opción 'menos mala' para formar gobierno en Israel",
-     "link": "https://www.france24.com/es/medio-oriente/20261114-eisenkot-as%C3%AD-rebusca-el-opositor-de-netanhayu-la-opci%C3%B3n-menos-mala-para-formar-gobierno-en-israel",
-     "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/e1c7d5ec-d4b2-11f1-a665-d18c5759e759/w:1024/p:16x9/AFP-20261020-D3UD2UE-v3-HighRes-TopshotIsraelPoliticsElection.jpg",
-     "ts": 1794695041000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-914880",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1661,w_2490/715464",
-     "ts": 1794693628000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Eisenkot: llamado de Netanyahu a negociar “sin condiciones” es “fanfarronada”",
-     "link": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
+     "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+     "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794689940000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "ts": 1794707695000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
-     "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/e9d87c1e-e06a-11f1-b45a-f71d22e7fea9/w:1024/p:16x9/eb428c66bf6978a929203d6ac1afd3964fb560b1.jpg",
-     "ts": 1794688522000,
+     "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+     "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794707695000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Netanyahu buys time as haredi parties weigh Eisenkot coalition, but lacks alternative - analysis",
-     "link": "https://www.jpost.com/israel-election-2026/article-914868",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/745768",
-     "ts": 1794679104000,
+     "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794699277000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794699277000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -331,239 +538,77 @@
    "es": "Portugal",
    "lat": 39.4,
    "lon": -8.2,
-   "count": 5,
+   "count": 4,
    "items": [
     {
-     "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+     "title": "Portugal immortalises Ronaldo with a new number 7",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794693645000,
+     "ts": 1794700518000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+     "title": "Portugal immortalises Ronaldo with a new number 7",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794693645000,
+     "ts": 1794700518000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Tens of thousands march in latest Portugal housing protests",
-     "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794684475000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Tens of thousands march in latest Portugal housing protests",
-     "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794684475000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794674700000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Denmark",
-   "es": "Dinamarca",
-   "lat": 56.3,
-   "lon": 9.5,
-   "count": 5,
-   "items": [
-    {
-     "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794693645000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794693645000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794685969000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794685969000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794674700000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 5,
-   "items": [
-    {
-     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794690626000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794690626000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Trump, Xi y Putin: ¿por qué es una cumbre que pone a prueba el orden mundial?",
-     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261114-trump-xi-y-putin-una-cumbre-que-pone-a-prueba-el-orden-mundial-y-reabre-el-temor-a-un-nuevo-reparto-de-poder",
+     "title": "Portugal ensombrece su homenaje a Ronaldo con una debacle ante Dinamarca",
+     "link": "https://www.france24.com/es/deportes/20261114-portugal-ensombrece-su-homenaje-a-ronaldo-con-una-debacle-ante-dinamarca",
      "source": "France 24 - Noticias y actualidad internacional en vivo",
-     "image": "https://s.france24.com/media/display/8a535c32-e051-11f1-9998-29048b396e03/w:1024/p:16x9/TRUMP-XI-PUTIN-OK.jpg",
-     "ts": 1794677755000,
+     "image": "https://s.france24.com/media/display/7e573ec8-e077-11f1-a3e2-f71d22e7fea9/w:1024/p:16x9/d7e25edc4bc141a8ebe98416fba9445d6290ae5e.jpg",
+     "ts": 1794693926000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+     "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794675219000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
-     "link": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
-     "source": "China | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/313e49f004e036f03234b3463d1a7fff49365024/536_0_5148_4119/master/5148.jpg?width=140&quality=85&auto=format&fit=max&s=aa8808f830d7f0fabe15cc8689a8e5de",
-     "ts": 1794639640000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 4,
-   "items": [
-    {
-     "title": "Explosion near Syria’s capital kills father and child",
-     "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794696192000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Explosion near Syria’s capital kills father and child",
-     "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794696192000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Deadly car bomb blast kills two near Syria’s capital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794685596000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Deadly car bomb blast kills two near Syria’s capital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794685596000,
+     "ts": 1794693645000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "India",
-   "es": "India",
-   "lat": 20.6,
-   "lon": 79.0,
+   "name": "Thailand",
+   "es": "Tailandia",
+   "lat": 15.9,
+   "lon": 100.9,
    "count": 3,
    "items": [
     {
-     "title": "India’s Assam state demolishes homes of 132 Muslim families",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+     "title": "Thailand’s elderly kept in cages",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794687250000,
+     "ts": 1794706328000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "India’s Assam state demolishes homes of 132 Muslim families",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+     "title": "Thailand’s elderly kept in cages",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794687250000,
+     "ts": 1794706328000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "India’s Bollywood boosts security as fears of criminal gangs rise",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3374430/indias-bollywood-boosts-security-fears-criminal-gangs-rise",
+     "title": "Philippines’ Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374455/philippines-carmelle-storms-victory-eurovision-asia-debut-bangkok",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/45e5481e-9165-4279-b38c-d05f005309b4_6234ceb3.jpg?itok=_czGYE33&v=1794637846",
-     "ts": 1794637859000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/ea8b569d-e0f0-48d5-b1bb-1baeaa9c3625_b5817f46.jpg?itok=uJdhJe4l&v=1794679121",
+     "ts": 1794679137000,
      "beat": "china",
      "beatName": "China"
     }
@@ -577,22 +622,22 @@
    "count": 3,
    "items": [
     {
-     "title": "More than 100,000 rally across France in new Yellow Vest protests",
-     "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794685584000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Macron critica a “quienes quieren racionar” la ayuda a Ucrania y “obligarla a una paz injusta”",
+     "link": "https://www.france24.com/es/francia/20261115-macron-critica-a-quienes-quieren-racionar-la-ayuda-a-ucrania-y-obligarla-a-una-paz-injusta",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/4580541c-cedf-11f1-b571-bba4eee3dc72/w:1024/p:16x9/17b9ffbe0a88ae51d1fe61d5d000f2e4fffff8bc.jpg",
+     "ts": 1794710283000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "More than 100,000 rally across France in new Yellow Vest protests",
-     "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Tens of thousands continue to protest across France",
+     "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf",
+     "source": "Deutsche Welle",
      "image": "",
-     "ts": 1794685584000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "ts": 1794704100000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
      "title": "Nuevas protestas en Francia por el costo de la vida y los servicios públicos",
@@ -606,36 +651,36 @@
    ]
   },
   {
-   "name": "Peru",
-   "es": "Perú",
-   "lat": -9.2,
-   "lon": -75.0,
+   "name": "Switzerland",
+   "es": "Suiza",
+   "lat": 46.8,
+   "lon": 8.2,
    "count": 3,
    "items": [
     {
-     "title": "La historia de expolio de tierras que los comuneros de Catacaos quieren que escuche el Papa en Perú",
-     "link": "https://elpais.com/america/2026-11-14/la-historia-de-expolio-de-tierras-que-los-comuneros-de-catacaos-quieren-que-escuche-el-papa-en-peru.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/M2XTPLFVIBEJPGSWXJMJ25AMPE.JPG?auth=a473230172d2626f827c3a33c92a86f60f8074cef53a7029eac89194d21602b1",
-     "ts": 1794695595000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-     "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+     "title": "Hundreds of men march in Switzerland to protest violence against women",
+     "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794684011000,
+     "ts": 1794702434000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-     "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+     "title": "Hundreds of men march in Switzerland to protest violence against women",
+     "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794684011000,
+     "ts": 1794702434000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "On the Swiss beat: Boston-born, Zurich-based saxophonist brings his heart to Tel Aviv - interview",
+     "link": "https://www.jpost.com/israel-news/culture/article-914685",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2361,w_3543/746068",
+     "ts": 1794700972000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
@@ -646,8 +691,17 @@
    "es": "Filipinas",
    "lat": 12.9,
    "lon": 121.8,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Asean’s neutrality set to be tested as Philippines welcomes world leaders",
+     "link": "https://www.scmp.com/week-asia/politics/article/3374395/aseans-neutrality-set-be-tested-philippines-welcomes-world-leaders",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/9950bafc-40b0-49ea-87d4-d661cd4ed76e_6ef9f49c.jpg?itok=3T6lkT8-&v=1794577054",
+     "ts": 1794704410000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
      "title": "Philippines wins first Eurovision Song Contest Asia",
      "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf",
@@ -669,29 +723,110 @@
    ]
   },
   {
-   "name": "Germany",
-   "es": "Alemania",
-   "lat": 51.2,
-   "lon": 10.5,
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
    "count": 2,
    "items": [
     {
-     "title": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
-     "link": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
+     "title": "Explosion near Syria’s capital kills father and child",
+     "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794690540000,
+     "ts": 1794696192000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Jews 'don't feel safe' three years after October 7, Germany’s new antisemitism czar tells 'Post'",
-     "link": "https://www.jpost.com/diaspora/antisemitism/article-914763",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1280,w_1969/746171",
-     "ts": 1794680061000,
+     "title": "Explosion near Syria’s capital kills father and child",
+     "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794696192000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Peru",
+   "es": "Perú",
+   "lat": -9.2,
+   "lon": -75.0,
+   "count": 2,
+   "items": [
+    {
+     "title": "El Papa denuncia la discriminación de los afrodescendientes en Perú",
+     "link": "https://elpais.com/america/2026-11-15/el-papa-denuncia-la-discriminacion-de-los-afrodescendientes-en-peru.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/VHCQ3UOT6NMHVAGG4RCXMFSD5Q.jpg?auth=3ad83637c33ae393c3439177175562abe81395541a42236c7748d82c7592c50c",
+     "ts": 1794710110000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "La historia de expolio de tierras que los comuneros de Catacaos quieren que escuche el Papa en Perú",
+     "link": "https://elpais.com/america/2026-11-14/la-historia-de-expolio-de-tierras-que-los-comuneros-de-catacaos-quieren-que-escuche-el-papa-en-peru.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/M2XTPLFVIBEJPGSWXJMJ25AMPE.JPG?auth=a473230172d2626f827c3a33c92a86f60f8074cef53a7029eac89194d21602b1",
+     "ts": 1794695595000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Denmark",
+   "es": "Dinamarca",
+   "lat": 56.3,
+   "lon": 9.5,
+   "count": 2,
+   "items": [
+    {
+     "title": "Portugal ensombrece su homenaje a Ronaldo con una debacle ante Dinamarca",
+     "link": "https://www.france24.com/es/deportes/20261114-portugal-ensombrece-su-homenaje-a-ronaldo-con-una-debacle-ante-dinamarca",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/7e573ec8-e077-11f1-a3e2-f71d22e7fea9/w:1024/p:16x9/d7e25edc4bc141a8ebe98416fba9445d6290ae5e.jpg",
+     "ts": 1794693926000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794693645000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 2,
+   "items": [
+    {
+     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794690626000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+     "link": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/313e49f004e036f03234b3463d1a7fff49365024/536_0_5148_4119/master/5148.jpg?width=140&quality=85&auto=format&fit=max&s=aa8808f830d7f0fabe15cc8689a8e5de",
+     "ts": 1794639640000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -714,54 +849,18 @@
    ]
   },
   {
-   "name": "Nigeria",
-   "es": "Nigeria",
-   "lat": 9.1,
-   "lon": 8.7,
+   "name": "United Kingdom",
+   "es": "Reino Unido",
+   "lat": 55.4,
+   "lon": -3.4,
    "count": 1,
    "items": [
     {
-     "title": "Nigeria's upcoming election marred by rising AI disinformation",
-     "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1794690300000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "Sudan",
-   "es": "Sudán",
-   "lat": 12.9,
-   "lon": 30.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "South Sudan pushes back elections amid violent flare-ups",
-     "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1794689580000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    }
-   ]
-  },
-  {
-   "name": "S. Sudan",
-   "es": "Sudán del Sur",
-   "lat": 6.9,
-   "lon": 31.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "South Sudan pushes back elections amid violent flare-ups",
-     "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
-     "source": "Deutsche Welle",
-     "image": "",
-     "ts": 1794689580000,
+     "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+     "link": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404",
+     "ts": 1794701834000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     }
@@ -840,24 +939,6 @@
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Atacado en Panamá un periodista que investiga casos de corrupción",
-     "link": "https://elpais.com/america/2026-11-14/atacado-en-panama-un-periodista-que-investiga-casos-de-corrupcion.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/UPAZB5WNDBD7FEZRMZIG6FCQZQ.jpg?auth=b5dcccf2d7efedc2c4cb5e81c93b7b05328c4201b3b0b8dae1bcbb1aa1d922b9",
-     "ts": 1794680391000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
    "name": "Netherlands",
    "es": "Países Bajos",
    "lat": 52.1,
@@ -876,38 +957,56 @@
    ]
   },
   {
-   "name": "Palestine",
-   "es": "Palestina",
-   "lat": 31.9,
-   "lon": 35.2,
+   "name": "India",
+   "es": "India",
+   "lat": 20.6,
+   "lon": 79.0,
    "count": 1,
    "items": [
     {
-     "title": "Several muslim countries condemn IDF's strike on Gaza hospital, call for lifting aid restrictions",
-     "link": "https://www.jpost.com/israel-news/article-914881",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4147,w_6000/746305",
-     "ts": 1794693902000,
+     "title": "India’s Assam state demolishes homes of 132 Muslim families",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794687250000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Iran",
-   "es": "Irán",
-   "lat": 32.4,
-   "lon": 53.7,
+   "name": "Japan",
+   "es": "Japón",
+   "lat": 36.2,
+   "lon": 138.3,
    "count": 1,
    "items": [
     {
-     "title": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-914880",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1661,w_2490/715464",
-     "ts": 1794693628000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Japan’s FamilyMart pulls up striped socks to survive convenience store rivalry",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3374465/japans-familymart-pulls-striped-socks-survive-convenience-store-rivalry",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/6beba270-0101-4bd7-8c41-4e07af8c0e7e_128bf47b.jpg?itok=FbJPva6b&v=1794704761",
+     "ts": 1794708027000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "es": "Malasia",
+   "lat": 4.2,
+   "lon": 102.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "Malaysia’s Melaka poll shows ethnic lines firming. Can Anwar turn Malay nationalist tide?",
+     "link": "https://www.scmp.com/week-asia/politics/article/3374453/malaysias-melaka-poll-shows-ethnic-lines-firming-can-anwar-turn-malay-nationalist-tide",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/58e0427b-1017-4e83-9ca8-be322ee54ad6_d47e9b6d.jpg?itok=v1TNP5yo&v=1794677363",
+     "ts": 1794700816000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -924,24 +1023,6 @@
      "source": "News - South China Morning Post",
      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/0d6786fb-a817-4286-9b6d-38ae14e28e3f_d6a285bb.jpg?itok=4mTAYIQr&v=1794538978",
      "ts": 1794691811000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Thailand",
-   "es": "Tailandia",
-   "lat": 15.9,
-   "lon": 100.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Philippines’ Carmelle storms to victory in Eurovision Asia debut in Bangkok",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374455/philippines-carmelle-storms-victory-eurovision-asia-debut-bangkok",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/ea8b569d-e0f0-48d5-b1bb-1baeaa9c3625_b5817f46.jpg?itok=uJdhJe4l&v=1794679121",
-     "ts": 1794679137000,
      "beat": "china",
      "beatName": "China"
     }
