@@ -1,101 +1,290 @@
 {
- "updated": "2026-11-16T11:37:44.772120+00:00",
- "total": 95,
+ "updated": "2026-11-16T22:15:18.142445+00:00",
+ "total": 113,
  "countries": [
+  {
+   "name": "United States",
+   "es": "Estados Unidos",
+   "lat": 39.8,
+   "lon": -98.6,
+   "count": 23,
+   "items": [
+    {
+     "title": "Customers report difficulty accessing online services at major US banks",
+     "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=90bdf53e095252ef6b02eadb04ea1242",
+     "ts": 1794866500000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Iran faces worsening gas shortages as US war strains economy, fuels unrest fears",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-915095",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2415,w_3500/667942",
+     "ts": 1794866326000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Squeezed in the US, China’s CATL bets on Argentina’s battery storage boom",
+     "link": "https://www.scmp.com/news/china/article/3374653/squeezed-us-chinas-catl-bets-argentinas-battery-storage-boom",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/43f52936-be4c-4e4b-8a99-972e6d3da279_97e09e49.jpg?itok=_Y4eTAGV&v=1794865657",
+     "ts": 1794865123000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Interpol Announce Biggest US Headline Show to Date",
+     "link": "https://consequence.net/2026/11/interpol-bmo-stadium-biggest-show/",
+     "source": "Consequence",
+     "image": "https://consequence.net/wp-content/uploads/2026/11/Interpol-2027-US-LA.jpg?quality=80",
+     "ts": 1794864149000,
+     "beat": "musica",
+     "beatName": "Música & Industria"
+    },
+    {
+     "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+     "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db",
+     "ts": 1794863582000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+     "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+     "source": "Middle East and north Africa | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db",
+     "ts": 1794863582000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Downdetector shows widespread connection issues at major US banks, including JPMorgan Chase",
+     "link": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-915091",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3754,w_5631/742427",
+     "ts": 1794862344000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Hyperscale data centers use 2% of US electricity",
+     "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+     "source": "Ars Technica",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
+     "ts": 1794862330000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "US data centers now burn more electricity than a midsized country",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+     "source": "The Verge",
+     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+     "ts": 1794860878000,
+     "beat": "tech",
+     "beatName": "Tecnología & IA"
+    },
+    {
+     "title": "Customers at major US banks report difficulty with some online services",
+     "link": "https://www.scmp.com/business/banking-finance/article/3374651/customers-major-us-banks-report-difficulty-some-online-services",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/9db2e850-bb6a-4301-bc4d-cbea412f4233_1457f685.jpg?itok=TnbevHb5&v=1794860537",
+     "ts": 1794860591000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
   {
    "name": "China",
    "es": "China",
    "lat": 35.9,
    "lon": 104.2,
-   "count": 10,
+   "count": 13,
    "items": [
     {
-     "title": "For Trump in Shenzhen or Zhuhai air show? PLA’s J-10C aerobatic team seen in South China",
-     "link": "https://www.scmp.com/news/china/military/article/3374613/trump-shenzhen-or-zhuhai-air-show-plas-j-10c-aerobatic-team-seen-south-china",
+     "title": "Why China is betting on ‘home-court diplomacy’ at the Shenzhen Apec gathering",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374575/why-china-betting-home-court-diplomacy-shenzhen-apec-gathering",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/1c0f0ea9-2769-4a10-9c6f-0c5e8f063ea5_66402f2e.jpg?itok=Fzlr5Wk0&v=1794827313",
-     "ts": 1794828333000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/3c4610cd-c9e8-4d3b-80d0-c0bbe3bbbff1_c715287a.jpg?itok=Q3IQN8jV&v=1794815809",
+     "ts": 1794866406000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
-     "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-     "source": "The Verge",
-     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-     "ts": 1794826372000,
-     "beat": "tech",
-     "beatName": "Tecnología & IA"
+     "title": "Squeezed in the US, China’s CATL bets on Argentina’s battery storage boom",
+     "link": "https://www.scmp.com/news/china/article/3374653/squeezed-us-chinas-catl-bets-argentinas-battery-storage-boom",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/43f52936-be4c-4e4b-8a99-972e6d3da279_97e09e49.jpg?itok=_Y4eTAGV&v=1794865657",
+     "ts": 1794865123000,
+     "beat": "china",
+     "beatName": "China"
     },
     {
-     "title": "Los vecinos de la ‘megaembajada’ de China en Londres no consiguen vender sus pisos por su nuevo casero: “La reina Isabel era mejor”",
-     "link": "https://elpais.com/economia/2026-11-16/los-vecinos-de-la-megaembajada-de-china-en-londres-no-consiguen-vender-sus-pisos-por-su-nuevo-casero-la-reina-isabel-era-mejor.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JXR6PUJXPFAPBCMXPLBMTCOA2E.jpg?auth=cb1cc1694138e827ff93ed304c506ac19eccf8effcdc876688c635817421138e",
-     "ts": 1794823793000,
+     "title": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/92295766-146d-43df-ab27-0d6f0f5b8f7a_f2ef31a7.jpg?itok=zEyWVgVc&v=1794865037",
+     "ts": 1794864896000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Una foto incómoda para Pekín: Xi, Trump y Putin en una cumbre tripartita",
+     "link": "https://www.dw.com/es/una-foto-incómoda-para-pekín-xi-trump-y-putin-en-una-cumbre-tripartita/a-79961431?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794862140000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Hong Kong housewife loses HK$1.3 million in online hotel booking job scam",
-     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374587/hong-kong-housewife-loses-hk13-million-online-hotel-booking-job-scam",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/5259c286-ddf0-44d9-8626-60cfaf8fe78f_a73f27f8.jpg?itok=IKWrGgWf&v=1794818031",
-     "ts": 1794819461000,
+     "title": "Tanto Donald Trump como Vladimir Putin abren la puerta a reunirse con Kim Jong-un en China",
+     "link": "https://www.dw.com/es/tanto-donald-trump-como-vladimir-putin-abren-la-puerta-a-reunirse-con-kim-jong-un-en-china/a-79963821?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794862080000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+     "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/396fda908dd29d4d244c2d89ce981e6578af985f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fca98a7ebd0d69c31ed3267641cff1b7",
+     "ts": 1794853382000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "How Hong Kong can attract and keep the best and brightest PhD students",
-     "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3374370/how-hong-kong-can-attract-and-keep-best-and-brightest-phd-students",
+     "title": "Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374513/nvidia-scandal-ai-anger-beijings-mockery-7-us-china-relations-reads",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/cbe76dca-f182-4d70-8668-182762e92f13_3cde969b.jpg?itok=cP1uUKyP&v=1794802642",
-     "ts": 1794817807000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/f9cae249-f0ad-4561-ac83-62f4c524fa51_6e6836b6.jpg?itok=z0M6ayGo&v=1794761154",
+     "ts": 1794851251000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Why Xi and Takaichi will not repeat the 2014 Apec summit’s China-Japan diplomatic thaw",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3374582/why-xi-and-takaichi-will-not-repeat-2014-apec-summits-china-japan-diplomatic-thaw",
+     "title": "Trump floats Kim meeting in China, says he’ll discuss Ukraine with Xi and Putin",
+     "link": "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/620bd674-2535-4eee-bc80-f8340baeb622_b50fca85.jpg?itok=XzFe3fTX&v=1794817344",
-     "ts": 1794817429000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/322b07bc-4cd8-4eff-80f1-9e9e512866bd_72ad87db.jpg?itok=Qc7Y6pS-&v=1794845275",
+     "ts": 1794845289000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries",
-     "link": "https://www.scmp.com/tech/article/3374568/chinas-moonshot-ai-puts-kimi-models-race-science-discoveries",
+     "title": "Hong Kong man arrested at Singapore’s Changi Airport over alleged shop theft",
+     "link": "https://www.scmp.com/week-asia/people/article/3374637/hong-kong-man-arrested-singapores-changi-airport-over-alleged-shop-theft",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/c7bd524c-ab8c-4da0-b352-beadaaf01145_897fba61.jpg?itok=q59SL2Ae&v=1794813073",
-     "ts": 1794814208000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/f8b7d0c1-92a7-43d7-861b-ab9a416d014c_9de35c07.jpg?itok=rrsZBTKU&v=1794846008",
+     "ts": 1794842102000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Japan’s fighter jet scrambles near 5-year high as China ramps up Pacific patrols",
-     "link": "https://www.scmp.com/news/china/military/article/3374567/japan-faces-near-5-year-high-fighter-jet-scrambles-china-ramps-pacific-patrols",
+     "title": "Hong Kong scholar says Musk’s claim that city ‘will be gone soon’ doesn’t add up",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3374635/hong-kong-scholar-says-musks-claim-city-will-be-gone-soon-doesnt-add",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/07ef14f1-36f6-4608-b50e-e8a5d38a8680_c158ff34.jpg?itok=_VNNFJ1a&v=1794812908",
-     "ts": 1794812966000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/c7a3bffc-d2aa-4b4f-8743-eb0dcc946a01_d666ecf6.jpg?itok=PBZIigff&v=1794840799",
+     "ts": 1794840814000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "es": "Rusia",
+   "lat": 61.5,
+   "lon": 105.3,
+   "count": 9,
+   "items": [
+    {
+     "title": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/92295766-146d-43df-ab27-0d6f0f5b8f7a_f2ef31a7.jpg?itok=zEyWVgVc&v=1794865037",
+     "ts": 1794864896000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Hong Kong’s John Lee pledges stronger regional ties ahead of Apec summit trip",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3374558/hong-kongs-john-lee-pledges-stronger-regional-ties-ahead-apec-summit-trip",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/d493ff4d-119a-4e8a-b732-93e01ecd889f_7033c2e0.jpg?itok=dwyW6wmF&v=1794808708",
-     "ts": 1794808874000,
+     "title": "Encuentro Trump-Xi-Putin: la errónea comparación con la conferencia de Yalta",
+     "link": "https://www.france24.com/es/video/20261116-encuentro-trump-xi-putin-la-err%C3%B3nea-comparaci%C3%B3n-con-la-conferencia-de-yalta",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a5a21744-e1f5-11f1-bb74-29048b396e03/w:1024/p:16x9/ES-20261116-113831-114017-CS.jpg",
+     "ts": 1794862583000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Putin reclama una OTAN como la de 1997: estas son sus exigencias a Europa",
+     "link": "https://www.dw.com/es/putin-reclama-una-otan-como-la-de-1997-estas-son-sus-exigencias-a-europa/a-79963685?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794862140000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Una foto incómoda para Pekín: Xi, Trump y Putin en una cumbre tripartita",
+     "link": "https://www.dw.com/es/una-foto-incómoda-para-pekín-xi-trump-y-putin-en-una-cumbre-tripartita/a-79961431?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794862140000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Tanto Donald Trump como Vladimir Putin abren la puerta a reunirse con Kim Jong-un en China",
+     "link": "https://www.dw.com/es/tanto-donald-trump-como-vladimir-putin-abren-la-puerta-a-reunirse-con-kim-jong-un-en-china/a-79963821?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794862080000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Rusia rechaza la presencia de negociadores europeos en las conversaciones sobre la seguridad de Europa",
+     "link": "https://elpais.com/internacional/2026-11-16/rusia-rechaza-la-presencia-de-negociadores-europeos-en-las-conversaciones-sobre-la-seguridad-de-europa.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/LQTGKMSCCROLFBQCJ7QA56TEGQ.jpg?auth=6d25f20f237459b82d6011fd6e6eace7373f97f7c1fda6d9977ac2cfca0a6922",
+     "ts": 1794857438000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+     "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+     "source": "China | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/396fda908dd29d4d244c2d89ce981e6578af985f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fca98a7ebd0d69c31ed3267641cff1b7",
+     "ts": 1794853382000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "Beijing’s ambassador to Washington calls on Hong Kong to foster China-US cooperation",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3374554/chinas-envoy-us-calls-hong-kong-foster-cooperation-between-2-superpowers",
+     "title": "Trump floats Kim meeting in China, says he’ll discuss Ukraine with Xi and Putin",
+     "link": "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/15d9df69-13ac-4c33-a006-2bcd2561370e_7ad13087.jpg?itok=7O0LJN9G&v=1794806506",
-     "ts": 1794806516000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/322b07bc-4cd8-4eff-80f1-9e9e512866bd_72ad87db.jpg?itok=Qc7Y6pS-&v=1794845275",
+     "ts": 1794845289000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Groundbreaking but no Yalta 2.0: what to expect when Xi, Putin and Trump meet",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374622/groundbreaking-no-yalta-20-what-expect-when-xi-putin-and-trump-meet",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/0820fbd8-e625-4a7b-8274-a23d46a48371_dc57c808.jpg?itok=dp46Iq8A&v=1794857232",
+     "ts": 1794837606000,
      "beat": "china",
      "beatName": "China"
     }
@@ -106,151 +295,70 @@
    "es": "Israel",
    "lat": 31.0,
    "lon": 34.9,
-   "count": 8,
-   "items": [
-    {
-     "title": "Netanyahu secretly met with informant prior to election to launch voter fraud campaign - report",
-     "link": "https://www.jpost.com/israel-election-2026/article-915048",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2365,w_3547/743875",
-     "ts": 1794834126000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Israel builds prosecution team for October 7 terrorists ahead of military trials",
-     "link": "https://www.jpost.com/israel-news/article-915037",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5016,w_7520/685893",
-     "ts": 1794828521000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Northern Command expands southern Lebanon sweeps as Hezbollah tests Israel's border readiness",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-915023",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3072,w_4608/746482",
-     "ts": 1794828245000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-     "link": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224",
-     "ts": 1794826856000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-     "link": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-     "source": "Middle East and north Africa | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224",
-     "ts": 1794826856000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-     "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TVPBDDCDW5GAPBQSLNWG72JRCE.jpg?auth=506325c1050b0c181cee6521ae0bb929bc63e57802ae1661023ec3205003db9d",
-     "ts": 1794820200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
-     "ts": 1794819364000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
-     "link": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794818707000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "United States",
-   "es": "Estados Unidos",
-   "lat": 39.8,
-   "lon": -98.6,
    "count": 7,
    "items": [
     {
-     "title": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
-     "ts": 1794828734000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-     "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794824067000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-     "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794824067000,
+     "title": "Does Israel as we know it still exist? Prominent sociologist urges Israelis to leave - review",
+     "link": "https://www.jpost.com/israel-news/article-915096",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746592",
+     "ts": 1794866965000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794821496000,
+     "title": "'Europe is a target': Netanyahu warns of Iranian threat during Czech PM's Israel visit",
+     "link": "https://www.jpost.com/israel-news/article-915094",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2667,w_4000/746589",
+     "ts": 1794865190000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Ha-Joon Chang: “México tiene que rediseñar su relación con Estados Unidos o se hundirá con él”",
-     "link": "https://elpais.com/mexico/economia/2026-11-16/ha-joon-chang-mexico-tiene-que-redisenar-su-relacion-con-estados-unidos-o-se-hundira-con-el.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ZKHSHDA3O5HFPGS4AJWSN64T5M.jpg?auth=228149cda3ffc6b9b086aa222b4d38ad489c56ee16321dd85f38d201ffac6b62",
-     "ts": 1794821400000,
+     "title": "Three aircraft carriers, 53,000 troops in Middle East as US, Israel prepare for possible Iran war",
+     "link": "https://www.jpost.com/middle-east/article-915088",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4135,w_6233/746580",
+     "ts": 1794859492000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+     "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794859207000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+     "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794859207000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Israel already committed to buying over $31b. in weapons from US, FM representative tells committee",
+     "link": "https://www.jpost.com/israel-news/defense-news/article-915081",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3735,w_5602/746575",
+     "ts": 1794856907000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
+     "link": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a583ae08-e1eb-11f1-995b-695cb59fade5/w:1024/p:16x9/FOTO-PORTADA-GAZA-CUERPOS-ESCOMBROS-15-NOV.jpg",
+     "ts": 1794855283000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Beijing’s ambassador to Washington calls on Hong Kong to foster China-US cooperation",
-     "link": "https://www.scmp.com/news/hong-kong/politics/article/3374554/chinas-envoy-us-calls-hong-kong-foster-cooperation-between-2-superpowers",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/15d9df69-13ac-4c33-a006-2bcd2561370e_7ad13087.jpg?itok=7O0LJN9G&v=1794806506",
-     "ts": 1794806516000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "45% of US Independent Arts Publications Face Existential Crisis, Report Finds",
-     "link": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
-     "source": "Hyperallergic",
-     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Untitled-1-3.jpg",
-     "ts": 1794604636000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
     }
    ]
   },
@@ -262,202 +370,58 @@
    "count": 6,
    "items": [
     {
-     "title": "Burnham sets three tests for EU deal, saying it should make Brexit ‘closer to what people thought they were voting for’ – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=a1d0431197dfc3244a7a8c256f04c8c7",
-     "ts": 1794828608000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Boots to begin prescribing medical cannabis in UK",
-     "link": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9c8a3683118899ee2ef66489a73d271dc81ed836/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=00550d5b4215ab12d80d7f3bb5175039",
-     "ts": 1794825170000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Los vecinos de la ‘megaembajada’ de China en Londres no consiguen vender sus pisos por su nuevo casero: “La reina Isabel era mejor”",
-     "link": "https://elpais.com/economia/2026-11-16/los-vecinos-de-la-megaembajada-de-china-en-londres-no-consiguen-vender-sus-pisos-por-su-nuevo-casero-la-reina-isabel-era-mejor.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/JXR6PUJXPFAPBCMXPLBMTCOA2E.jpg?auth=cb1cc1694138e827ff93ed304c506ac19eccf8effcdc876688c635817421138e",
-     "ts": 1794823793000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-     "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TVPBDDCDW5GAPBQSLNWG72JRCE.jpg?auth=506325c1050b0c181cee6521ae0bb929bc63e57802ae1661023ec3205003db9d",
-     "ts": 1794820200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "UK PM Burnham says Britain lost more than it gained from Brexit, seeks EU reset",
-     "link": "https://www.jpost.com/international/article-915021",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5288,w_7785/741638",
-     "ts": 1794819387000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
-     "ts": 1794819364000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Russia",
-   "es": "Rusia",
-   "lat": 61.5,
-   "lon": 105.3,
-   "count": 5,
-   "items": [
-    {
-     "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-     "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794823391000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-     "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794823391000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-     "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-     "source": "NPR Topics: News",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/3000x1903!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
-     "ts": 1794823200000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
-    },
-    {
-     "title": "Ukraine strikes bridge linking Russia to Crimea in 1,336-drone barrage",
-     "link": "https://www.scmp.com/week-asia/politics/article/3374595/ukraine-strikes-bridge-linking-russia-crimea-1336-drone-barrage",
+     "title": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
+     "link": "https://www.scmp.com/news/world/europe/article/3374654/uk-pm-andy-burnham-says-brexit-has-not-worked-ahead-reset-summit-eu",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/f23b7043-2de4-4725-8f4c-d3d8b931200f_c9ffc4cd.jpg?itok=ZIGFUJCA&v=1794820545",
-     "ts": 1794820547000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/02d73f28-0406-4815-a4a4-92f27fc7e0eb_d8cd0dc9.jpg?itok=CB0hJfpw&v=1794866854",
+     "ts": 1794866928000,
      "beat": "china",
      "beatName": "China"
     },
     {
-     "title": "La reunión con Putin y Xi, el plato fuerte del viaje de Trump a Asia",
-     "link": "https://elpais.com/internacional/2026-11-16/la-reunion-con-putin-y-xi-el-plato-fuerte-del-viaje-de-trump-a-asia.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/W4DW6MG5VFIILLLTT7LNWTDLUM.jpg?auth=cd7496c9e9c015505e3111c59a709a3785edad2473ca00e506d0760504e014f4",
-     "ts": 1794803401000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Lebanon",
-   "es": "Líbano",
-   "lat": 33.9,
-   "lon": 35.9,
-   "count": 4,
-   "items": [
-    {
-     "title": "IDF strikes Hezbollah weapons shipment crossing from Syria into Lebanon overnight",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-915038",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_632,w_948/596954",
-     "ts": 1794829865000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Northern Command expands southern Lebanon sweeps as Hezbollah tests Israel's border readiness",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-915023",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3072,w_4608/746482",
-     "ts": 1794828245000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    },
-    {
-     "title": "Lebanon’s second airport could provide economic and political benefits",
-     "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+     "title": "London Palestine Film Festival returns for 27th year",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794824902000,
+     "ts": 1794861385000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Lebanon’s second airport could provide economic and political benefits",
-     "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+     "title": "London Palestine Film Festival returns for 27th year",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794824902000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Iran",
-   "es": "Irán",
-   "lat": 32.4,
-   "lon": 53.7,
-   "count": 4,
-   "items": [
-    {
-     "title": "FAA shutdown, European cyberattacks expose infrastructure risks as Iran tensions rise - analysis",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-915033",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2667,w_4000/746493",
-     "ts": 1794826519000,
+     "ts": 1794861385000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-     "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794824067000,
+     "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/26d456813260a71cc5a24d0234d78199c8f8c003/535_59_1388_1110/master/1388.jpg?width=140&quality=85&auto=format&fit=max&s=98423e86938b67c44d1cf1a9a902b3c6",
+     "ts": 1794859584000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-     "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794824067000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+     "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+     "source": "World news | The Guardian",
+     "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+     "ts": 1794859171000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
     },
     {
-     "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794821496000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "UK media regulator tightens curbs on online child abuse material",
+     "link": "https://www.scmp.com/news/world/europe/article/3374638/uk-media-regulator-tightens-curbs-online-child-abuse-material",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/9a7c5ffa-af1e-4d4f-8fbc-da7f7de36fb0_86cf4d30.jpg?itok=8aSVS4zQ&v=1794843531",
+     "ts": 1794843543000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -466,70 +430,151 @@
    "es": "Yemen",
    "lat": 15.6,
    "lon": 48.0,
-   "count": 3,
+   "count": 5,
    "items": [
     {
-     "title": "Yemeni forces retreat to defend port city from Houthis",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+     "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-     "ts": 1794827378000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
+     "ts": 1794865207000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Yemeni forces retreat to defend port city from Houthis",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+     "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-     "ts": 1794827378000,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
+     "ts": 1794865207000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Las fuerzas del Gobierno de Yemen frenan su ofensiva contra los hutíes y se repliegan de un estrecho clave en el mar Rojo",
-     "link": "https://elpais.com/internacional/2026-11-16/las-fuerzas-del-gobierno-de-yemen-frenan-su-ofensiva-contra-los-huties-y-se-repliegan-de-un-estrecho-clave-en-el-mar-rojo.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/J2WOIBHBXFP7TEDQOHMC5EWVKI.jpg?auth=f66830f3631d30277685c3f4f5165ae02856973647356daf375ed57c938acf89",
-     "ts": 1794826317000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+     "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794856761000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+     "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794856761000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Today's top news: Yemen, Occupied Palestinian Territory, Syria",
+     "link": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-syria",
+     "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+     "image": "https://www.unocha.org/sites/default/files/styles/medium/public/2026-11/Picture%201%20%281%29.jpg",
+     "ts": 1794851770000,
+     "beat": "desastres",
+     "beatName": "Desastres Naturales"
     }
    ]
   },
   {
-   "name": "South Africa",
-   "es": "Sudáfrica",
-   "lat": -30.6,
-   "lon": 22.9,
-   "count": 3,
+   "name": "Rwanda",
+   "es": "Ruanda",
+   "lat": -1.9,
+   "lon": 29.9,
+   "count": 5,
    "items": [
     {
-     "title": "Two mass shootings in South Africa leave 17 dead",
-     "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
-     "ts": 1794826668000,
+     "title": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
+     "link": "https://www.bbc.com/mundo/articles/cmlywv925gzlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+     "ts": 1794864910000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "El polémico plan de Alemania para deportar migrantes a Ruanda",
+     "link": "https://www.dw.com/es/el-polémico-plan-de-alemania-para-deportar-migrantes-a-ruanda/a-79963725?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794861780000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+     "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794857200000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "South Africa: 17 killed in separate mass shooting incidents",
-     "link": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf",
+     "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+     "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794857200000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Five EU countries unveil plans for Rwanda deportation hub",
+     "link": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/6654ec50-a8fa-4cf5-92ac-d519b6b51a2c_e850273f.jpg?itok=mucPkIKI&v=1794857553",
+     "ts": 1794853731000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "es": "Francia",
+   "lat": 46.2,
+   "lon": 2.2,
+   "count": 4,
+   "items": [
+    {
+     "title": "Sotheby’s Hospices de Beaune Charity Wine Sale Nets $15.8 M. in France, with One Barrel Selling for Record $1.1 M.",
+     "link": "https://www.artnews.com/art-news/market/sothebys-hospices-de-beaune-charity-wine-sale-results-1234806240/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1794864995000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    },
+    {
+     "title": "France to send troops to Lebanon for joint patrols with armed forces in independent initiative",
+     "link": "https://www.jpost.com/middle-east/article-915093",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/746586",
+     "ts": 1794863631000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "France's Philippe Diallo to challenge Infantino for FIFA presidency",
+     "link": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf",
      "source": "Deutsche Welle",
      "image": "",
-     "ts": 1794826620000,
+     "ts": 1794860640000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-     "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-     "source": "World news | The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2d86a054583a1a5d541606f7e702b5f03c426653/770_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=3225fd899e48e3305f15e48965e30afe",
-     "ts": 1794824348000,
-     "beat": "actualidad",
-     "beatName": "Actualidad Global"
+     "title": "Directo París y la falta de acuerdo sobre un nuevo presidente en la Cumbre de la Francofonía",
+     "link": "https://www.france24.com/es/video/20261116-directo-par%C3%ADs-y-la-falta-de-acuerdo-sobre-un-nuevo-presidente-en-la-cumbre-de-la-francofon%C3%ADa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/dff925ac-e1e8-11f1-a708-3f371022a770/w:1024/p:16x9/ES-20261116-072513-072924-CS.jpg",
+     "ts": 1794853635000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -538,32 +583,41 @@
    "es": "Ucrania",
    "lat": 48.4,
    "lon": 31.2,
-   "count": 3,
+   "count": 4,
    "items": [
     {
-     "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-     "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+     "title": "What will Europe do next in Ukraine?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794823391000,
+     "ts": 1794859941000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
     },
     {
-     "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-     "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+     "title": "What will Europe do next in Ukraine?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794823391000,
+     "ts": 1794859941000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "Ukraine strikes bridge linking Russia to Crimea in 1,336-drone barrage",
-     "link": "https://www.scmp.com/week-asia/politics/article/3374595/ukraine-strikes-bridge-linking-russia-crimea-1336-drone-barrage",
+     "title": "Ukraine held new talks with US, European officials on peace prospects, Zelensky says",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374650/ukraine-held-new-talks-us-european-officials-peace-prospects-zelensky-says",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/f23b7043-2de4-4725-8f4c-d3d8b931200f_c9ffc4cd.jpg?itok=ZIGFUJCA&v=1794820545",
-     "ts": 1794820547000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/100e67f6-9c06-42a9-81cf-2d7a0d711654_67393fd6.jpg?itok=gj4dyi2t&v=1794860965",
+     "ts": 1794859381000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Trump floats Kim meeting in China, says he’ll discuss Ukraine with Xi and Putin",
+     "link": "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/322b07bc-4cd8-4eff-80f1-9e9e512866bd_72ad87db.jpg?itok=Qc7Y6pS-&v=1794845275",
+     "ts": 1794845289000,
      "beat": "china",
      "beatName": "China"
     }
@@ -577,299 +631,182 @@
    "count": 3,
    "items": [
     {
-     "title": "IDF blocks road in West Bank's Area A, restricting access to new Jewish outpost near Jericho",
-     "link": "https://www.jpost.com/israel-news/article-915020",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5279,w_7915/746472",
-     "ts": 1794822292000,
+     "title": "London Palestine Film Festival returns for 27th year",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794861385000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "London Palestine Film Festival returns for 27th year",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794861385000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     },
     {
-     "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-     "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TVPBDDCDW5GAPBQSLNWG72JRCE.jpg?auth=506325c1050b0c181cee6521ae0bb929bc63e57802ae1661023ec3205003db9d",
-     "ts": 1794820200000,
+     "title": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
+     "link": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/a583ae08-e1eb-11f1-995b-695cb59fade5/w:1024/p:16x9/FOTO-PORTADA-GAZA-CUERPOS-ESCOMBROS-15-NOV.jpg",
+     "ts": 1794855283000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
-     "ts": 1794819364000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Thailand",
-   "es": "Tailandia",
-   "lat": 15.9,
-   "lon": 100.9,
+   "name": "Germany",
+   "es": "Alemania",
+   "lat": 51.2,
+   "lon": 10.5,
    "count": 3,
    "items": [
     {
-     "title": "‘Zombie fish’ found in Thailand raise fears of heavy  metals in Mekong River",
-     "link": "https://www.scmp.com/week-asia/health-environment/article/3374563/zombie-fish-found-thailand-raise-fears-heavy-metals-mekong-river",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/6830af6a-26d4-4aac-87b9-1a41e354085b_30a87794.jpg?itok=_gpyCO8J&v=1794811884",
-     "ts": 1794812897000,
-     "beat": "china",
-     "beatName": "China"
+     "title": "Alemania despierta ante Países Bajos para liderar su grupo y endosar la primera goleada a Xavi",
+     "link": "https://elpais.com/deportes/futbol/2026-11-16/alemania-despierta-ante-paises-bajos-para-liderar-su-grupo-y-endosar-la-primera-goleada-a-xavi.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/WNRZT4C7WVJZ7PRPNCW5MGKDPU.jpg?auth=d754f3584e90994d246d7dd7ca5bbbf4cfa0a1c2b04c080fdeee4c90354065af",
+     "ts": 1794866665000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Thailand and Cambodia vie for global backing as Trump arrives for Asean summit",
-     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374562/thailand-and-cambodia-vie-global-backing-trump-arrives-asean-summit",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/42467b2c-eab2-422b-bb32-77a79ac94c8d_6a7d28e2.jpg?itok=CQ2BojE6&v=1794811847",
-     "ts": 1794811853000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Once muertos en un incendio en isla turística en Tailandia",
-     "link": "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-rdf",
+     "title": "El polémico plan de Alemania para deportar migrantes a Ruanda",
+     "link": "https://www.dw.com/es/el-polémico-plan-de-alemania-para-deportar-migrantes-a-ruanda/a-79963725?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1794807960000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Mexico",
-   "es": "México",
-   "lat": 23.6,
-   "lon": -102.6,
-   "count": 2,
-   "items": [
-    {
-     "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
-     "link": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b257/live/318cac10-e197-11f1-9e84-492a244b27cc.jpg",
-     "ts": 1794827397000,
+     "ts": 1794861780000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     },
     {
-     "title": "Ha-Joon Chang: “México tiene que rediseñar su relación con Estados Unidos o se hundirá con él”",
-     "link": "https://elpais.com/mexico/economia/2026-11-16/ha-joon-chang-mexico-tiene-que-redisenar-su-relacion-con-estados-unidos-o-se-hundira-con-el.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ZKHSHDA3O5HFPGS4AJWSN64T5M.jpg?auth=228149cda3ffc6b9b086aa222b4d38ad489c56ee16321dd85f38d201ffac6b62",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Argentina",
-   "es": "Argentina",
-   "lat": -38.4,
-   "lon": -63.6,
-   "count": 2,
-   "items": [
-    {
-     "title": "El Gobierno de Milei busca eliminar las elecciones primarias para llegar con ventaja a las presidenciales de 2027",
-     "link": "https://elpais.com/argentina/2026-11-16/el-gobierno-de-milei-busca-eliminar-las-elecciones-primarias-para-llegar-con-ventaja-a-las-presidenciales-de-2027.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/LQQZRIYWXJPJ7HNPI4RHNSMJ74.jpg?auth=97490d34a300e6ae0cac5cd8878b6cde3eea8898d054accfcc94667caafe5e9d",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "“En este proceso nadie sobra”: la lectura feminista y diversa del paso del Papa por Argentina",
-     "link": "https://elpais.com/actualidad/newsletter-americanas/2026-11-16/en-este-proceso-nadie-sobra-la-lectura-feminista-y-diversa-del-paso-del-papa-por-argentina.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/ULUUFZKVMNOLXLZ3JEN4HLBDVU.jpg?auth=50342dcfa97a9ccfba8c38fb78e20387ba419244271df3e6fba1adaa13ddb332",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Australia",
-   "es": "Australia",
-   "lat": -25.3,
-   "lon": 133.8,
-   "count": 2,
-   "items": [
-    {
-     "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-     "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TVPBDDCDW5GAPBQSLNWG72JRCE.jpg?auth=506325c1050b0c181cee6521ae0bb929bc63e57802ae1661023ec3205003db9d",
-     "ts": 1794820200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    },
-    {
-     "title": "Australia: diputada que perdió sus piernas en ataque sale del hospital",
-     "link": "https://www.dw.com/es/australia-diputada-que-perdió-sus-piernas-en-ataque-sale-del-hospital/a-79954367?maca=spa-rss-sp-all-1122-rdf",
+     "title": "Crisis de lectura en Alemania: las editoriales apuestan a la imaginación para atraer al público más joven",
+     "link": "https://www.dw.com/es/crisis-de-lectura-en-alemania-las-editoriales-apuestan-a-la-imaginación-para-atraer-al-público-más-joven/a-79962875?maca=spa-rss-sp-all-1122-rdf",
      "source": "Deutsche Welle: DW.COM Spanish",
      "image": "",
-     "ts": 1794805980000,
+     "ts": 1794852960000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Italy",
-   "es": "Italia",
-   "lat": 41.9,
-   "lon": 12.6,
-   "count": 2,
+   "name": "Iran",
+   "es": "Irán",
+   "lat": 32.4,
+   "lon": 53.7,
+   "count": 3,
    "items": [
     {
-     "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-     "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TVPBDDCDW5GAPBQSLNWG72JRCE.jpg?auth=506325c1050b0c181cee6521ae0bb929bc63e57802ae1661023ec3205003db9d",
-     "ts": 1794820200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
+     "title": "Iran faces worsening gas shortages as US war strains economy, fuels unrest fears",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-915095",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2415,w_3500/667942",
+     "ts": 1794866326000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     },
     {
-     "title": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794819298000,
+     "title": "Three aircraft carriers, 53,000 troops in Middle East as US, Israel prepare for possible Iran war",
+     "link": "https://www.jpost.com/middle-east/article-915088",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4135,w_6233/746580",
+     "ts": 1794859492000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    },
+    {
+     "title": "Iran activates Isfahan's air defenses, home of uninspected enrichment facility, local media reports",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-915087",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1777,w_2659/736805",
+     "ts": 1794859364000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Malaysia",
-   "es": "Malasia",
-   "lat": 4.2,
-   "lon": 102.0,
+   "name": "Sudan",
+   "es": "Sudán",
+   "lat": 12.9,
+   "lon": 30.2,
    "count": 2,
    "items": [
     {
-     "title": "France wants rare earths from Malaysia. What will it take to get them?",
-     "link": "https://www.scmp.com/week-asia/economics/article/3374606/france-wants-rare-earths-malaysia-what-will-it-take-get-them",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/d596daf7-b719-47ea-8b9b-5f0f96844860_e056131f.jpg?itok=HaIKc9Ur&v=1794824866",
-     "ts": 1794824878000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Bid to marry off pregnant girl, 12, in Malaysia leads to man’s arrest",
-     "link": "https://www.scmp.com/week-asia/health-environment/article/3374551/bid-marry-pregnant-girl-12-malaysia-leads-mans-arrest",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/ef41f94b-0ef3-4cfb-815e-f5d5e46f29cf_888736d1.jpg?itok=LRuvMDtX&v=1794805163",
-     "ts": 1794805638000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Japan",
-   "es": "Japón",
-   "lat": 36.2,
-   "lon": 138.3,
-   "count": 2,
-   "items": [
-    {
-     "title": "Why Xi and Takaichi will not repeat the 2014 Apec summit’s China-Japan diplomatic thaw",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3374582/why-xi-and-takaichi-will-not-repeat-2014-apec-summits-china-japan-diplomatic-thaw",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/620bd674-2535-4eee-bc80-f8340baeb622_b50fca85.jpg?itok=XzFe3fTX&v=1794817344",
-     "ts": 1794817429000,
-     "beat": "china",
-     "beatName": "China"
-    },
-    {
-     "title": "Japan’s fighter jet scrambles near 5-year high as China ramps up Pacific patrols",
-     "link": "https://www.scmp.com/news/china/military/article/3374567/japan-faces-near-5-year-high-fighter-jet-scrambles-china-ramps-pacific-patrols",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/07ef14f1-36f6-4608-b50e-e8a5d38a8680_c158ff34.jpg?itok=_VNNFJ1a&v=1794812908",
-     "ts": 1794812966000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Austria",
-   "es": "Austria",
-   "lat": 47.5,
-   "lon": 14.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "Dorotheum Brings Together Modernist Masters and Postwar Heavyweights in Vienna",
-     "link": "https://news.artnet.com/art-world/dorotheum-modern-art-contemporary-art-2834913",
-     "source": "Artnet News",
+     "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+     "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
      "image": "",
-     "ts": 1794604847000,
-     "beat": "arte",
-     "beatName": "Arte · Cultura · Educación"
-    }
-   ]
-  },
-  {
-   "name": "Rwanda",
-   "es": "Ruanda",
-   "lat": -1.9,
-   "lon": 29.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-     "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
-     "ts": 1794827854000,
+     "ts": 1794863179000,
      "beat": "actualidad",
      "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+     "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794863179000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Colombia",
-   "es": "Colombia",
-   "lat": 4.6,
-   "lon": -74.3,
-   "count": 1,
+   "name": "Saudi Arabia",
+   "es": "Arabia Saudita",
+   "lat": 23.9,
+   "lon": 45.1,
+   "count": 2,
    "items": [
     {
-     "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
-     "link": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b257/live/318cac10-e197-11f1-9e84-492a244b27cc.jpg",
-     "ts": 1794827397000,
+     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+     "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794856761000,
+     "beat": "actualidad",
+     "beatName": "Actualidad Global"
+    },
+    {
+     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+     "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "image": "",
+     "ts": 1794856761000,
+     "beat": "medio_oriente",
+     "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "es": "El Salvador",
+   "lat": 13.8,
+   "lon": -88.9,
+   "count": 2,
+   "items": [
+    {
+     "title": "Tropas de Bukele llegan a Haití: ya son cinco fuerzas contra las pandillas",
+     "link": "https://www.france24.com/es/programas/en-contexto/20261116-tropas-de-bukele-llegan-a-hait%C3%AD-ya-son-cinco-fuerzas-contra-las-pandillas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+     "ts": 1794862297000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Belgium",
-   "es": "Bélgica",
-   "lat": 50.5,
-   "lon": 4.5,
-   "count": 1,
-   "items": [
+    },
     {
-     "title": "Romelu Lukaku se retira de la selección de Bélgica",
-     "link": "https://www.dw.com/es/romelu-lukaku-se-retira-de-la-selección-de-bélgica/a-79958139?maca=spa-rss-sp-all-1122-rdf",
-     "source": "Deutsche Welle: DW.COM Spanish",
-     "image": "",
-     "ts": 1794825720000,
+     "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
+     "link": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4abe/live/14b32e40-e1ea-11f1-99a1-253766e7ad8b.jpg",
+     "ts": 1794856447000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -880,14 +817,50 @@
    "es": "Haití",
    "lat": 19.0,
    "lon": -72.3,
-   "count": 1,
+   "count": 2,
    "items": [
     {
-     "title": "El caos entre las cinco fuerzas armadas que operan en Haití eleva el riesgo para la población civil: “Es una orquesta sin director”",
-     "link": "https://elpais.com/america/2026-11-16/el-caos-entre-las-cinco-fuerzas-armadas-que-operan-en-haiti-eleva-el-riesgo-para-la-poblacion-civil-es-una-orquesta-sin-director.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/EE2X5CIOYBPPRFHELXGDQNA5RI.jpg?auth=9300ea9f66a4d5baf2e6d557b3417a327efa273b725ce4f2dd82aca31aa2562a",
-     "ts": 1794821400000,
+     "title": "Tropas de Bukele llegan a Haití: ya son cinco fuerzas contra las pandillas",
+     "link": "https://www.france24.com/es/programas/en-contexto/20261116-tropas-de-bukele-llegan-a-hait%C3%AD-ya-son-cinco-fuerzas-contra-las-pandillas",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+     "ts": 1794862297000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
+     "link": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4abe/live/14b32e40-e1ea-11f1-99a1-253766e7ad8b.jpg",
+     "ts": 1794856447000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Dem. Rep. Korea",
+   "es": "Corea del Norte",
+   "lat": 40.3,
+   "lon": 127.5,
+   "count": 2,
+   "items": [
+    {
+     "title": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/92295766-146d-43df-ab27-0d6f0f5b8f7a_f2ef31a7.jpg?itok=zEyWVgVc&v=1794865037",
+     "ts": 1794864896000,
+     "beat": "china",
+     "beatName": "China"
+    },
+    {
+     "title": "Tanto Donald Trump como Vladimir Putin abren la puerta a reunirse con Kim Jong-un en China",
+     "link": "https://www.dw.com/es/tanto-donald-trump-como-vladimir-putin-abren-la-puerta-a-reunirse-con-kim-jong-un-en-china/a-79963821?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794862080000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
@@ -898,160 +871,52 @@
    "es": "Brasil",
    "lat": -14.2,
    "lon": -51.9,
-   "count": 1,
+   "count": 2,
    "items": [
     {
-     "title": "Harvard devuelve a Brasil los cráneos de dos africanos esclavizados que guardó en un museo casi dos siglos",
-     "link": "https://elpais.com/america/2026-11-16/harvard-devuelve-a-brasil-los-craneos-de-dos-africanos-esclavizados-que-guardo-en-un-museo-casi-dos-siglos.html",
+     "title": "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
+     "link": "https://www.france24.com/es/europa/20261116-elecciones-en-espa%C3%B1a-lula-defiende-que-s%C3%A1nchez-es-la-persona-indicada-para-defender-la-democracia-en-europa",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/e7be65c2-e1f7-11f1-ad79-29048b396e03/w:1024/p:16x9/2026-11-16T101949Z-9506079-RC2YOOA1PYBX-RTRMADP-3-SPAIN-BRAZIL.jpg",
+     "ts": 1794859848000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    },
+    {
+     "title": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
+     "link": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
      "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/WDRXGDCTCRBU7NUUM5Q6DCP27U.jpg?auth=d63ef768b4e2abb2c6bd4881ade7ebd6640b5e8963b10d2c5100c795decf2add",
-     "ts": 1794821400000,
+     "image": "https://imagenes.elpais.com/resizer/v2/3YMQY436VNGHFKKDF4GLW2NEZQ.jpg?auth=f36824b09a6ea37563240456e533c01871f0cdbb8f5f4111f06d8a49ef5330e6",
+     "ts": 1794855688000,
      "beat": "panama_latam",
      "beatName": "Panamá · LatAm"
     }
    ]
   },
   {
-   "name": "Panama",
-   "es": "Panamá",
-   "lat": 8.5,
-   "lon": -80.8,
-   "count": 1,
+   "name": "Singapore",
+   "es": "Singapur",
+   "lat": 1.35,
+   "lon": 103.8,
+   "count": 2,
    "items": [
     {
-     "title": "Iverco, Carretero y Etesa: viejos negocios, nuevos contratos en Panamá",
-     "link": "https://elpais.com/america/2026-11-16/iverco-carretero-y-etesa-viejos-negocios-nuevos-contratos-en-panama.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/MUCGVROMFRCSFCXQIJA55NX3JY.jpg?auth=2d48c19313e03520f23b8f8d79328e8395581de0b605f646be4e4fe8bb7807cd",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Ecuador",
-   "es": "Ecuador",
-   "lat": -1.8,
-   "lon": -78.2,
-   "count": 1,
-   "items": [
+     "title": "Hong Kong man arrested at Singapore’s Changi Airport over alleged shop theft",
+     "link": "https://www.scmp.com/week-asia/people/article/3374637/hong-kong-man-arrested-singapores-changi-airport-over-alleged-shop-theft",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/f8b7d0c1-92a7-43d7-861b-ab9a416d014c_9de35c07.jpg?itok=rrsZBTKU&v=1794846008",
+     "ts": 1794842102000,
+     "beat": "china",
+     "beatName": "China"
+    },
     {
-     "title": "El presidente Daniel Noboa se juega el poder territorial de Ecuador",
-     "link": "https://elpais.com/america/2026-11-16/el-presidente-daniel-noboa-se-juega-el-poder-territorial-de-ecuador.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/BUKBL2QU6BOHNFHMQI5C7PEBWE.jpg?auth=3f39138f37b21eac128a6b872c627bf37c1eac85c2313fbab8fe192a3a106457",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Venezuela",
-   "es": "Venezuela",
-   "lat": 6.4,
-   "lon": -66.6,
-   "count": 1,
-   "items": [
-    {
-     "title": "Venezuela no puede esperar a que Rubio sea presidente",
-     "link": "https://elpais.com/us/2026-11-16/venezuela-no-puede-esperar-a-que-rubio-sea-presidente.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/R5G7HKXYUVKA5AMNFNEDQBNEWU.jpg?auth=9a4a8211ee0a948c684d6b4888bf038bbba54e0f56e3ea0b052f382f9692a66f",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Costa Rica",
-   "es": "Costa Rica",
-   "lat": 9.7,
-   "lon": -83.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Dos de cada diez vehículos en Costa Rica son eléctricos: la rápida expansión de las matrículas verdes",
-     "link": "https://elpais.com/america-futura/2026-11-16/dos-de-cada-diez-vehiculos-en-costa-rica-son-electricos-la-rapida-expansion-de-las-matriculas-verdes.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/QY7QJE25YRAK7BDHSM4DM6PAS4.jpg?auth=cdeda23c6196f8444154bd9589e8d710f76bacd3a7ae215d05031aab92f9f665",
-     "ts": 1794821400000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Canada",
-   "es": "Canadá",
-   "lat": 56.1,
-   "lon": -106.3,
-   "count": 1,
-   "items": [
-    {
-     "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-     "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-     "source": "EL PAÍS Edición América: el periódico global",
-     "image": "https://imagenes.elpais.com/resizer/v2/TVPBDDCDW5GAPBQSLNWG72JRCE.jpg?auth=506325c1050b0c181cee6521ae0bb929bc63e57802ae1661023ec3205003db9d",
-     "ts": 1794820200000,
-     "beat": "panama_latam",
-     "beatName": "Panamá · LatAm"
-    }
-   ]
-  },
-  {
-   "name": "Ireland",
-   "es": "Irlanda",
-   "lat": 53.4,
-   "lon": -8.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ireland uses Israeli anti-drone systems to protect EU leaders despite government boycott pledge",
-     "link": "https://www.jpost.com/defense-and-tech/article-915043",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4233,w_6170/746522",
-     "ts": 1794833482000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Syria",
-   "es": "Siria",
-   "lat": 34.8,
-   "lon": 39.0,
-   "count": 1,
-   "items": [
-    {
-     "title": "IDF strikes Hezbollah weapons shipment crossing from Syria into Lebanon overnight",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-915038",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_632,w_948/596954",
-     "ts": 1794829865000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Poland",
-   "es": "Polonia",
-   "lat": 51.9,
-   "lon": 19.1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Poland detains three teenagers suspected of planning terrorist attack",
-     "link": "https://www.jpost.com/international/islamic-terrorism/article-915039",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/740901",
-     "ts": 1794829721000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "title": "Singapore agrees to continue discussions with US on Megaspeed case",
+     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374629/singapore-agrees-continue-discussions-us-megaspeed-case",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/de0309b1-d726-42ad-acb9-496166cc0606_34634fcc.jpg?itok=l9dJ2vwu&v=1794836600",
+     "ts": 1794836614000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -1063,49 +928,103 @@
    "count": 1,
    "items": [
     {
-     "title": "Breaking taboos: Egypt's sexual revolution takes to social media",
-     "link": "https://www.france24.com/en/tv-shows/focus/20261116-breaking-taboos-egypt-s-sexual-revolution-takes-to-social-media",
-     "source": "Latest news from the Middle East, daily international news reports - France 24",
-     "image": "https://s.france24.com/media/display/a1e52f70-df7e-11f1-ba40-f71d22e7fea9/w:1024/p:16x9/EN-NW-PKG-F24-FOCUS-EGYPT-SEXUALITY-NO-MIX-Video-Mixdown-4-FF.jpg",
-     "ts": 1794822645000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Norway",
-   "es": "Noruega",
-   "lat": 60.5,
-   "lon": 8.5,
-   "count": 1,
-   "items": [
-    {
-     "title": "Far-right MKs back new Jericho settlement in an effort to repeal Oslo Accords",
-     "link": "https://www.jpost.com/israel-news/article-915016",
-     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
-     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5070,w_7602/746471",
-     "ts": 1794821546000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
-    }
-   ]
-  },
-  {
-   "name": "Myanmar",
-   "es": "Birmania",
-   "lat": 21.9,
-   "lon": 95.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+     "title": "Vienna Museum’s Mummified Remains Reveal Cats Lived and Died Brutally in Ancient Egypt",
+     "link": "https://www.artnews.com/art-news/news/mummified-cat-remains-vienna-1234806201/",
+     "source": "ARTnews.com",
      "image": "",
-     "ts": 1794818991000,
-     "beat": "medio_oriente",
-     "beatName": "Medio Oriente"
+     "ts": 1794859224000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Austria",
+   "es": "Austria",
+   "lat": 47.5,
+   "lon": 14.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "Vienna Museum’s Mummified Remains Reveal Cats Lived and Died Brutally in Ancient Egypt",
+     "link": "https://www.artnews.com/art-news/news/mummified-cat-remains-vienna-1234806201/",
+     "source": "ARTnews.com",
+     "image": "",
+     "ts": 1794859224000,
+     "beat": "arte",
+     "beatName": "Arte · Cultura · Educación"
+    }
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "es": "Países Bajos",
+   "lat": 52.1,
+   "lon": 5.3,
+   "count": 1,
+   "items": [
+    {
+     "title": "Alemania despierta ante Países Bajos para liderar su grupo y endosar la primera goleada a Xavi",
+     "link": "https://elpais.com/deportes/futbol/2026-11-16/alemania-despierta-ante-paises-bajos-para-liderar-su-grupo-y-endosar-la-primera-goleada-a-xavi.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/WNRZT4C7WVJZ7PRPNCW5MGKDPU.jpg?auth=d754f3584e90994d246d7dd7ca5bbbf4cfa0a1c2b04c080fdeee4c90354065af",
+     "ts": 1794866665000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Korea",
+   "es": "Corea del Sur",
+   "lat": 35.9,
+   "lon": 127.8,
+   "count": 1,
+   "items": [
+    {
+     "title": "Corea del Sur toma medidas para evitar fraudes en examen de ingreso a la universidad",
+     "link": "https://www.france24.com/es/video/20261116-corea-del-sur-toma-medidas-para-evitar-fraudes-en-examen-de-ingreso-a-la-universidad",
+     "source": "France 24 - Noticias y actualidad internacional en vivo",
+     "image": "https://s.france24.com/media/display/824b14de-e1fb-11f1-a9fe-695cb59fade5/w:1024/p:16x9/ES-20261116-114043-114240-CS.jpg",
+     "ts": 1794863399000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Poland",
+   "es": "Polonia",
+   "lat": 51.9,
+   "lon": 19.1,
+   "count": 1,
+   "items": [
+    {
+     "title": "Un dispensador de píldoras abortivas desafía las leyes de Polonia",
+     "link": "https://www.dw.com/es/un-dispensador-de-píldoras-abortivas-desafía-las-leyes-de-polonia/a-79963388?maca=spa-rss-sp-all-1122-rdf",
+     "source": "Deutsche Welle: DW.COM Spanish",
+     "image": "",
+     "ts": 1794856380000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Peru",
+   "es": "Perú",
+   "lat": -9.2,
+   "lon": -75.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "León XIV se despide de la gira por Sudamérica en un Perú volcado con ‘su’ Papa: “Os llevaré siempre conmigo”",
+     "link": "https://elpais.com/america/2026-11-16/leon-xiv-se-despide-de-la-gira-por-sudamerica-en-un-peru-volcado-con-su-papa-os-llevare-siempre-conmigo.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/526VQLZWAJJKRISYZM4PBWT7NY.jpg?auth=bbe892bc41b6ecd2784a7e37931eec9e3edb420528d4fca8494a929d944a2ce1",
+     "ts": 1794855750000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
     }
    ]
   },
@@ -1117,31 +1036,121 @@
    "count": 1,
    "items": [
     {
-     "title": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794817399000,
+     "title": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
+     "link": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+     "source": "EL PAÍS Edición América: el periódico global",
+     "image": "https://imagenes.elpais.com/resizer/v2/3YMQY436VNGHFKKDF4GLW2NEZQ.jpg?auth=f36824b09a6ea37563240456e533c01871f0cdbb8f5f4111f06d8a49ef5330e6",
+     "ts": 1794855688000,
+     "beat": "panama_latam",
+     "beatName": "Panamá · LatAm"
+    }
+   ]
+  },
+  {
+   "name": "Syria",
+   "es": "Siria",
+   "lat": 34.8,
+   "lon": 39.0,
+   "count": 1,
+   "items": [
+    {
+     "title": "Today's top news: Yemen, Occupied Palestinian Territory, Syria",
+     "link": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-syria",
+     "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+     "image": "https://www.unocha.org/sites/default/files/styles/medium/public/2026-11/Picture%201%20%281%29.jpg",
+     "ts": 1794851770000,
+     "beat": "desastres",
+     "beatName": "Desastres Naturales"
+    }
+   ]
+  },
+  {
+   "name": "Czech Rep.",
+   "es": "Chequia",
+   "lat": 49.8,
+   "lon": 15.5,
+   "count": 1,
+   "items": [
+    {
+     "title": "'Europe is a target': Netanyahu warns of Iranian threat during Czech PM's Israel visit",
+     "link": "https://www.jpost.com/israel-news/article-915094",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2667,w_4000/746589",
+     "ts": 1794865190000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
     }
    ]
   },
   {
-   "name": "Senegal",
-   "es": "Senegal",
-   "lat": 14.5,
-   "lon": -14.5,
+   "name": "Lebanon",
+   "es": "Líbano",
+   "lat": 33.9,
+   "lon": 35.9,
    "count": 1,
    "items": [
     {
-     "title": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
-     "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-     "image": "",
-     "ts": 1794817399000,
+     "title": "France to send troops to Lebanon for joint patrols with armed forces in independent initiative",
+     "link": "https://www.jpost.com/middle-east/article-915093",
+     "source": "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World",
+     "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/746586",
+     "ts": 1794863631000,
      "beat": "medio_oriente",
      "beatName": "Medio Oriente"
+    }
+   ]
+  },
+  {
+   "name": "Argentina",
+   "es": "Argentina",
+   "lat": -38.4,
+   "lon": -63.6,
+   "count": 1,
+   "items": [
+    {
+     "title": "Squeezed in the US, China’s CATL bets on Argentina’s battery storage boom",
+     "link": "https://www.scmp.com/news/china/article/3374653/squeezed-us-chinas-catl-bets-argentinas-battery-storage-boom",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/43f52936-be4c-4e4b-8a99-972e6d3da279_97e09e49.jpg?itok=_Y4eTAGV&v=1794865657",
+     "ts": 1794865123000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "es": "Pakistán",
+   "lat": 30.4,
+   "lon": 69.3,
+   "count": 1,
+   "items": [
+    {
+     "title": "Pakistan’s jailed ex-leader Imran Khan appeals for urgent medical care",
+     "link": "https://www.scmp.com/news/asia/south-asia/article/3374647/pakistans-jailed-ex-leader-imran-khan-appeals-urgent-medical-care",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/a4b055aa-d6a8-49f4-9233-5638452c3726_cd86fac9.jpg?itok=HndeeHFG&v=1794851174",
+     "ts": 1794851413000,
+     "beat": "china",
+     "beatName": "China"
+    }
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "es": "Birmania",
+   "lat": 21.9,
+   "lon": 95.9,
+   "count": 1,
+   "items": [
+    {
+     "title": "Will Myanmar call ‘Asean’s bluff’ over plan for its calibrated normalisation?",
+     "link": "https://www.scmp.com/week-asia/politics/article/3374630/will-myanmar-call-aseans-bluff-over-plan-its-calibrated-normalisation",
+     "source": "News - South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/4d86f93e-1f6a-425f-ab42-25e0e3e54ace_d9c42fd7.jpg?itok=sNvhb1Ee&v=1794837015",
+     "ts": 1794837026000,
+     "beat": "china",
+     "beatName": "China"
     }
    ]
   },
@@ -1153,83 +1162,11 @@
    "count": 1,
    "items": [
     {
-     "title": "Why Philippines-based Asean Maritime Centre may be more ‘aspirational’ than practical",
-     "link": "https://www.scmp.com/week-asia/politics/article/3374611/why-philippines-based-asean-maritime-centre-may-be-more-aspirational-practical",
+     "title": "Li Qiang pledges deeper AI and trade cooperation with Asean at Manila summit",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374628/li-qiang-pledges-deeper-ai-and-trade-cooperation-asean-manila-summit",
      "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/c4806296-6298-4c23-8fd6-1301562bd5d7_3a1b8592.jpg?itok=eC1skbRH&v=1794826766",
-     "ts": 1794826774000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Bangladesh",
-   "es": "Bangladés",
-   "lat": 23.7,
-   "lon": 90.4,
-   "count": 1,
-   "items": [
-    {
-     "title": "Ex-PM Hasina plans December return to Bangladesh despite ‘threat of death’",
-     "link": "https://www.scmp.com/news/asia/south-asia/article/3374610/ex-pm-hasina-plans-december-return-bangladesh-despite-threat-death",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/543518f8-5e56-4c8a-90a0-d5a6fd1a7f15_e261d4c8.jpg?itok=QVwzRq7T&v=1794826341",
-     "ts": 1794826354000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "France",
-   "es": "Francia",
-   "lat": 46.2,
-   "lon": 2.2,
-   "count": 1,
-   "items": [
-    {
-     "title": "France wants rare earths from Malaysia. What will it take to get them?",
-     "link": "https://www.scmp.com/week-asia/economics/article/3374606/france-wants-rare-earths-malaysia-what-will-it-take-get-them",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/d596daf7-b719-47ea-8b9b-5f0f96844860_e056131f.jpg?itok=HaIKc9Ur&v=1794824866",
-     "ts": 1794824878000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Indonesia",
-   "es": "Indonesia",
-   "lat": -0.8,
-   "lon": 113.9,
-   "count": 1,
-   "items": [
-    {
-     "title": "Prabowo’s haze apology leaves doubts over Indonesia’s Asean commitment",
-     "link": "https://www.scmp.com/week-asia/politics/article/3374593/prabowos-haze-apology-leaves-doubts-over-indonesias-asean-commitment",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/ea65a7e2-2757-466a-b1f5-a703567910dc_de548635.jpg?itok=DyEaa1Hw&v=1794819893",
-     "ts": 1794821407000,
-     "beat": "china",
-     "beatName": "China"
-    }
-   ]
-  },
-  {
-   "name": "Singapore",
-   "es": "Singapur",
-   "lat": 1.35,
-   "lon": 103.8,
-   "count": 1,
-   "items": [
-    {
-     "title": "Why Singapore’s wave of data breaches signals ‘new era’ of cyber threats",
-     "link": "https://www.scmp.com/week-asia/economics/article/3374584/why-singapores-wave-data-breaches-signals-new-era-cyber-threats",
-     "source": "News - South China Morning Post",
-     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/2422fe3a-9d24-4ff3-83dd-eecb992bbb02_e0f682a6.jpg?itok=EC4PuC2s&v=1794817662",
-     "ts": 1794817673000,
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/16/882e2cac-7676-4669-9502-e860092e5a2e_a9a4f034.jpg?itok=BBB0-zBq&v=1794835923",
+     "ts": 1794835930000,
      "beat": "china",
      "beatName": "China"
     }
