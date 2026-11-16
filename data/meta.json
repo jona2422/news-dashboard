@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:55:42.370202+00:00",
- "sources_ok": 37,
+ "updated": "2026-11-16T02:48:53.895255+00:00",
+ "sources_ok": 35,
  "sources_total": 40,
  "beats": [
   {
@@ -55,11 +55,27 @@
   },
   {
    "beat": "desastres",
+   "url": "https://www.unocha.org/rss.xml",
+   "source": "unocha.org",
+   "ok": false,
+   "count": 0,
+   "error": "sin items"
+  },
+  {
+   "beat": "desastres",
    "url": "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss",
    "source": "earthobservatory.nasa.gov",
    "ok": false,
    "count": 0,
    "error": "sin items"
+  },
+  {
+   "beat": "musica",
+   "url": "https://www.brooklynvegan.com/feed/",
+   "source": "brooklynvegan.com",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 415: Unsupported Media Type"
   },
   {
    "beat": "panama_latam",
@@ -106,7 +122,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 128,
+   "count": 127,
    "error": ""
   },
   {
@@ -198,14 +214,6 @@
    "error": ""
   },
   {
-   "beat": "desastres",
-   "url": "https://www.unocha.org/rss.xml",
-   "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
-   "ok": true,
-   "count": 10,
-   "error": ""
-  },
-  {
    "beat": "medio_oriente",
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "source": "BBC News",
@@ -263,14 +271,6 @@
   },
   {
    "beat": "musica",
-   "url": "https://www.brooklynvegan.com/feed/",
-   "source": "BrooklynVegan",
-   "ok": true,
-   "count": 15,
-   "error": ""
-  },
-  {
-   "beat": "musica",
    "url": "https://consequence.net/feed/",
    "source": "Consequence",
    "ok": true,
@@ -290,7 +290,7 @@
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 108,
+   "count": 109,
    "error": ""
   },
   {
@@ -314,7 +314,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 21,
+   "count": 15,
    "error": ""
   },
   {
