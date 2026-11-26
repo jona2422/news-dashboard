@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T17:08:14.468301+00:00",
- "sources_ok": 40,
+ "updated": "2026-11-26T17:41:02.885848+00:00",
+ "sources_ok": 41,
  "sources_total": 41,
  "beats": [
   {
@@ -45,14 +45,6 @@
   }
  ],
  "feeds": [
-  {
-   "beat": "desastres",
-   "url": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?pagesize=50",
-   "source": "gdacs.org",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 400: Bad Request"
-  },
   {
    "beat": "actualidad",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -167,6 +159,14 @@
   },
   {
    "beat": "desastres",
+   "url": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?pagesize=50",
+   "source": "GDACS",
+   "ok": true,
+   "count": 25,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
    "url": "https://www.theguardian.com/world/natural-disasters/rss",
    "source": "Natural disasters and extreme weather | The Guardian",
    "ok": true,
@@ -178,7 +178,7 @@
    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": ""
   },
   {

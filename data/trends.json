@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-26T17:08:14.468301+00:00",
+ "updated": "2026-11-26T17:41:02.885848+00:00",
  "terms": [
+  {
+   "term": "black",
+   "count": 11
+  },
+  {
+   "term": "china",
+   "count": 10
+  },
   {
    "term": "thanksgiving",
    "count": 9
   },
   {
-   "term": "black",
-   "count": 9
-  },
-  {
-   "term": "gaza",
-   "count": 9
-  },
-  {
-   "term": "china",
+   "term": "trump",
    "count": 9
   },
   {
@@ -22,27 +22,15 @@
    "count": 8
   },
   {
-   "term": "trump",
-   "count": 8
-  },
-  {
-   "term": "alaska",
+   "term": "friday",
    "count": 7
   },
   {
-   "term": "show",
-   "count": 6
-  },
-  {
-   "term": "friday",
-   "count": 6
+   "term": "gaza",
+   "count": 7
   },
   {
    "term": "world",
-   "count": 6
-  },
-  {
-   "term": "calls",
    "count": 6
   },
   {
@@ -50,11 +38,27 @@
    "count": 6
   },
   {
+   "term": "alaska",
+   "count": 6
+  },
+  {
+   "term": "show",
+   "count": 5
+  },
+  {
    "term": "taylor",
    "count": 5
   },
   {
    "term": "dead",
+   "count": 5
+  },
+  {
+   "term": "calls",
+   "count": 5
+  },
+  {
+   "term": "fears",
    "count": 5
   },
   {
@@ -66,8 +70,16 @@
    "count": 5
   },
   {
-   "term": "halftime",
-   "count": 4
+   "term": "israeli",
+   "count": 5
+  },
+  {
+   "term": "orange",
+   "count": 5
+  },
+  {
+   "term": "alert",
+   "count": 5
   },
   {
    "term": "deal",
@@ -79,6 +91,10 @@
   },
   {
    "term": "india",
+   "count": 4
+  },
+  {
+   "term": "strike",
    "count": 4
   },
   {
@@ -94,49 +110,29 @@
    "count": 4
   },
   {
-   "term": "fears",
+   "term": "right",
    "count": 4
   },
   {
-   "term": "iranian",
+   "term": "colombia",
    "count": 4
   },
   {
-   "term": "ibiza",
-   "count": 4
-  },
-  {
-   "term": "israeli",
-   "count": 4
-  },
-  {
-   "term": "fire",
-   "count": 4
-  },
-  {
-   "term": "court",
-   "count": 4
-  },
-  {
-   "term": "éxito",
+   "term": "central",
    "count": 4
   }
  ],
  "entities": [
   {
    "name": "China",
-   "count": 9
-  },
-  {
-   "name": "Gaza",
-   "count": 8
-  },
-  {
-   "name": "Alaska",
-   "count": 7
+   "count": 10
   },
   {
    "name": "Trump",
+   "count": 7
+  },
+  {
+   "name": "Black Friday",
    "count": 6
   },
   {
@@ -144,15 +140,31 @@
    "count": 6
   },
   {
-   "name": "Black Friday",
+   "name": "Gaza",
+   "count": 6
+  },
+  {
+   "name": "Alaska",
+   "count": 6
+  },
+  {
+   "name": "Orange",
    "count": 5
+  },
+  {
+   "name": "Colombia",
+   "count": 4
   },
   {
    "name": "Ibiza",
    "count": 4
   },
   {
-   "name": "Iran",
+   "name": "Israeli",
+   "count": 4
+  },
+  {
+   "name": "Drought",
    "count": 4
   },
   {
@@ -160,7 +172,11 @@
    "count": 3
   },
   {
-   "name": "Colombia",
+   "name": "Putin",
+   "count": 3
+  },
+  {
+   "name": "Italy",
    "count": 3
   },
   {
@@ -168,19 +184,27 @@
    "count": 3
   },
   {
+   "name": "European Central Bank",
+   "count": 3
+  },
+  {
+   "name": "France",
+   "count": 3
+  },
+  {
    "name": "India",
    "count": 3
   },
   {
-   "name": "Israeli",
+   "name": "Palestinian",
    "count": 3
   },
   {
-   "name": "Cartagena",
+   "name": "Spain",
    "count": 3
   },
   {
-   "name": "Puerto Rico",
+   "name": "Ukraine",
    "count": 3
   },
   {
@@ -188,35 +212,11 @@
    "count": 3
   },
   {
+   "name": "Gracias",
+   "count": 2
+  },
+  {
    "name": "Extraordinary",
-   "count": 2
-  },
-  {
-   "name": "Michael Giles",
-   "count": 2
-  },
-  {
-   "name": "King Crimson",
-   "count": 2
-  },
-  {
-   "name": "Dolly Parton",
-   "count": 2
-  },
-  {
-   "name": "Andy Taylor",
-   "count": 2
-  },
-  {
-   "name": "Dead",
-   "count": 2
-  },
-  {
-   "name": "Tell HN",
-   "count": 2
-  },
-  {
-   "name": "Putin",
    "count": 2
   }
  ]
