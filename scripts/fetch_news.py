@@ -9,6 +9,7 @@ import os
 import re
 import ssl
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter
@@ -36,17 +37,33 @@ class _Redirect(urllib.request.HTTPRedirectHandler):
 _OPENER = urllib.request.build_opener(_Redirect)
 
 
+def _leer(r, limite):
+    """Lee la respuesta con un tope de tiempo TOTAL (el timeout de urllib es por
+    lectura: un servidor que gotea bytes, como GDACS, puede colgar minutos)."""
+    fin = time.monotonic() + limite
+    partes = []
+    while True:
+        trozo = r.read(65536)
+        if not trozo:
+            return b"".join(partes)
+        partes.append(trozo)
+        if time.monotonic() > fin:
+            raise TimeoutError("descarga demasiado lenta (>%ds)" % limite)
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
-        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        # La API de GDACS devuelve 400 desde el runner si no se pide JSON.
+        "Accept": ("application/json" if "gdacsapi" in url else
+                   "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"),
         "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
     })
     ctx = ssl.create_default_context()
     # La API de GDACS tarda a veces mas de un minuto en responder.
     t = 90 if "gdacsapi" in url else TIMEOUT
     with _OPENER.open(req, timeout=t) as r:
-        return r.read()
+        return _leer(r, t)
 
 
 def localname(tag):
