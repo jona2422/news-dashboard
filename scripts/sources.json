@@ -15,7 +15,7 @@
       "id": "arte",
       "name": "Arte · Cultura · Educación",
       "feeds": [
-        "https://hyperallergic.com/feed/",
+        "https://hyperallergic.com/latest/rss/",
         "https://news.artnet.com/feed",
         "https://www.thisiscolossal.com/feed/",
         "https://www.artnews.com/feed/",
@@ -48,7 +48,8 @@
       "id": "panama_latam",
       "name": "Panamá · LatAm",
       "feeds": [
-        "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
+        "https://www.panamaamerica.com.pa/rss.xml",
+        "https://www.ensegundos.com.pa/feed/",
         "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
         "https://www.bbc.com/mundo/index.xml",
         "https://www.eltiempo.com/rss/colombia.xml",
@@ -60,7 +61,7 @@
       "id": "desastres",
       "name": "Desastres Naturales",
       "feeds": [
-        "https://www.gdacs.org/xml/rss.xml",
+        "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?pagesize=50",
         "https://www.theguardian.com/world/natural-disasters/rss",
         "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom",
         "https://www.unocha.org/rss.xml",

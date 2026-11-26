@@ -43,7 +43,9 @@ def fetch(url):
         "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
     })
     ctx = ssl.create_default_context()
-    with _OPENER.open(req, timeout=TIMEOUT) as r:
+    # La API de GDACS tarda a veces mas de un minuto en responder.
+    t = 90 if "gdacsapi" in url else TIMEOUT
+    with _OPENER.open(req, timeout=t) as r:
         return r.read()
 
 
@@ -134,6 +136,25 @@ def parse_date(s):
 DATE_TAGS = {"pubdate", "published", "updated", "date"}
 
 
+def parse_gdacs(raw):
+    """API JSON de GDACS (el RSS quedo detras de un anti-bot F5)."""
+    items = []
+    for f in json.loads(raw).get("features", []):
+        p = f.get("properties", {})
+        url = p.get("url") or {}
+        link = url.get("report") if isinstance(url, dict) else ""
+        name = (p.get("name") or "").replace(", ,", ",").strip()
+        if not (name and link):
+            continue
+        nivel = p.get("alertlevel") or ""
+        items.append({"title": ("%s alert: %s" % (nivel, name)) if nivel else name,
+                      "link": link,
+                      "dt": parse_date((p.get("datemodified") or "")[:19] + "Z"),
+                      "image": ""})
+    items.sort(key=lambda x: x["dt"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+    return "GDACS", items[:25]
+
+
 def parse_feed(raw):
     """Devuelve (nombre_fuente, [{title, link, dt, image}, ...]).
 
@@ -141,10 +162,16 @@ def parse_feed(raw):
     """
     items = []
     source = ""
+    if raw.lstrip()[:1] == b"{":
+        return parse_gdacs(raw)
     try:
         root = ET.fromstring(raw)
     except ET.ParseError:
-        return source, items
+        # Algunos feeds (NASA) traen atributos pegados: ...apod/"xmlns:media=...
+        try:
+            root = ET.fromstring(re.sub(rb'"(?=xmlns[:=])', b'" ', raw))
+        except ET.ParseError:
+            return source, items
 
     # Titulo de la fuente: preferir el de <channel>/<feed>.
     for el in root.iter():

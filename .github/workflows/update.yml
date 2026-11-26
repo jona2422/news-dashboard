@@ -45,12 +45,27 @@ jobs:
             git push
           fi
 
+      # Un solo issue vivo: se abre la primera vez, luego se comenta, y se
+      # cierra solo cuando todas las fuentes vuelven.
       - name: Avisar si hay fuentes caidas
         if: steps.salud.outputs.alert == '1'
         env:
           GH_TOKEN: ${{ github.token }}
           CUERPO: ${{ steps.salud.outputs.body }}
         run: |
-          gh issue create \
-            --title "NEWSDESK: fuentes caidas ($(date -u +%F))" \
-            --body "$CUERPO" || echo "No se pudo abrir el issue (no bloquea la corrida)."
+          N=$(gh issue list --state open --search "NEWSDESK: fuentes caidas in:title" --json number -q '.[0].number')
+          if [ -n "$N" ]; then
+            gh issue comment "$N" --body "$CUERPO" || true
+          else
+            gh issue create --title "NEWSDESK: fuentes caidas" --body "$CUERPO" \
+              || echo "No se pudo abrir el issue (no bloquea la corrida)."
+          fi
+
+      - name: Cerrar el aviso si todo volvio
+        if: steps.salud.outputs.sano == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for N in $(gh issue list --state open --search "NEWSDESK: fuentes caidas in:title" --json number -q '.[].number'); do
+            gh issue close "$N" --comment "Todas las fuentes responden otra vez. Cerrado por el robot." || true
+          done

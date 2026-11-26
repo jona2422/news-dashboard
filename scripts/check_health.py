@@ -97,7 +97,15 @@ def main():
     print("Salud: %s/%s fuentes ok, %d aviso(s) nuevo(s)." % (ok, total, len(nuevos)))
 
     out = os.environ.get("GITHUB_OUTPUT")
-    if not (nuevos and out):
+    if not out:
+        return
+    # "sano" = ningun feed en racha larga y ninguna seccion vacia -> el workflow
+    # cierra el issue abierto, si lo hay.
+    sano = not any(v >= FALLOS_PARA_AVISAR for v in streaks.values())
+    if sano:
+        with open(out, "a", encoding="utf-8") as f:
+            f.write("sano=1\n")
+    if not nuevos:
         return
 
     cuerpo = (
