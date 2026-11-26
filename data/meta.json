@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-26T11:00:38.615278+00:00",
- "sources_ok": 35,
- "sources_total": 40,
+ "updated": "2026-11-26T17:08:14.468301+00:00",
+ "sources_ok": 40,
+ "sources_total": 41,
  "beats": [
   {
    "id": "musica",
@@ -46,44 +46,12 @@
  ],
  "feeds": [
   {
-   "beat": "arte",
-   "url": "https://hyperallergic.com/feed/",
-   "source": "hyperallergic.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 404: Not Found"
-  },
-  {
    "beat": "desastres",
-   "url": "https://www.gdacs.org/xml/rss.xml",
+   "url": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?pagesize=50",
    "source": "gdacs.org",
    "ok": false,
    "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "desastres",
-   "url": "https://www.unocha.org/rss.xml",
-   "source": "unocha.org",
-   "ok": false,
-   "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "desastres",
-   "url": "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss",
-   "source": "earthobservatory.nasa.gov",
-   "ok": false,
-   "count": 0,
-   "error": "sin items"
-  },
-  {
-   "beat": "panama_latam",
-   "url": "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
-   "source": "prensa.com",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "error": "HTTP Error 400: Bad Request"
   },
   {
    "beat": "actualidad",
@@ -123,6 +91,14 @@
    "source": "Deutsche Welle",
    "ok": true,
    "count": 144,
+   "error": ""
+  },
+  {
+   "beat": "arte",
+   "url": "https://hyperallergic.com/latest/rss/",
+   "source": "Hyperallergic",
+   "ok": true,
+   "count": 15,
    "error": ""
   },
   {
@@ -203,6 +179,22 @@
    "source": "USGS Magnitude 2.5+ Earthquakes, Past Day",
    "ok": true,
    "count": 39,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
+   "url": "https://www.unocha.org/rss.xml",
+   "source": "OCHA - United Nations Office for the Coordination of Humanitarian Affairs",
+   "ok": true,
+   "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "desastres",
+   "url": "https://earthobservatory.nasa.gov/feeds/natural-hazards.rss",
+   "source": "NASA Science",
+   "ok": true,
+   "count": 10,
    "error": ""
   },
   {
@@ -287,10 +279,26 @@
   },
   {
    "beat": "panama_latam",
+   "url": "https://www.panamaamerica.com.pa/rss.xml",
+   "source": "Panamá América - Noticias de Panamá y el mundo",
+   "ok": true,
+   "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "panama_latam",
+   "url": "https://www.ensegundos.com.pa/feed/",
+   "source": "En Segundos Panama",
+   "ok": true,
+   "count": 10,
+   "error": ""
+  },
+  {
+   "beat": "panama_latam",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
    "source": "EL PAÍS Edición América: el periódico global",
    "ok": true,
-   "count": 103,
+   "count": 117,
    "error": ""
   },
   {
@@ -314,7 +322,7 @@
    "url": "https://rss.dw.com/rdf/rss-sp-all",
    "source": "Deutsche Welle: DW.COM Spanish",
    "ok": true,
-   "count": 24,
+   "count": 28,
    "error": ""
   },
   {
